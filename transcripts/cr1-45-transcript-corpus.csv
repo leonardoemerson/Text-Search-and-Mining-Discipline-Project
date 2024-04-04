@@ -1,0 +1,1922 @@
+;Player_Name;Transcription_Text
+0;MATT;Hello, everyone, and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and play Dungeons & Dragons. Hate you, Liam.|(laughter)
+1;TRAVIS;That was good! Really nice. Some good flavor on it.
+2;MATT;You'll never know. So anyway! Welcome new folks. People who aren't new folks, welcome back.|We have some announcements to get to real fast, then we'll jump into the actual story proper here.|But, yeah! So, first and foremost, I wanted to give a big thanks and shout-out to Syrinscape, I mentioned them in last week's game, I put together my gaming playlists on their platform, and I'm going to be trying them out tonight to make sure everything works out cool, but their setup is fantastic and I'm really excited about being able to overlap audio, and things fade in and out. If you haven't checked it out, and you want to really amp up your tabletop gaming, it's phenomenal. But they're not paying for this, I'm really excited about it. So that's that, Syrinscape's awesome. Marisha, you want to talk about Signal Boost?
+3;MARISHA;Yeah! The first epil-- episode.
+4;LAURA;Epilsode!
+5;MARISHA;The first epil, of--
+6;TALIESIN;Epilay!
+7;MARISHA;Epil, epilay, epilogue. The first episode of Signal Boost went live on Tuesday. Go check it out on GeekandSundry.com. Go watch it, it's good fun. And you should go watch it so we don't get cancelled, and we'll keep making more episodes.
+8;LIAM;Is that how it works?
+9;MARISHA;Apparently!
+10;MATT;Yeah, it's the weirdest thing.
+11;MARISHA;It's crazy.
+12;LAURA;They care about that?
+13;MARISHA;Yeah. And I talk about Rat Queens, in it, and--
+14;LAURA;Yes! I saw! It's so good, Marisha. It's really funny.
+15;TALIESIN;It's like ten minutes of your-- you have more minutes than two minutes, spend a couple of minutes.
+16;MARISHA;And I tell you about cool things that I like. That I picked out myself. My favorite things. Done.
+17;MATT;Watch it. It's good. All right. Next thing I wanted to announce for you guys, tonight's donations, and all donations for the week, are going to be going, as opposed to 826 overall, are going to go to 826Seattle specifically, to Fearless Ideas, is what it's called there, their section up there, you can go to FearlessIdeas.org.|This past week there was a terrible gas explosion in Seattle, you may have seen on the news, and it did a lot of damage to that vicinity, including Fearless Ideas, and they've had to cancel a bunch of their stuff, and they're trying to get things repaired and going. So all of our donations this evening will be going towards them and helping them get that effort taken care of. So think good thoughts and help out if you can. Let's see.
+18;TRAVIS, MARISHA;Love you, Seattle!
+19;MATT;826. We've, next Friday, in Anaheim, at WonderCon, Friday night, we'll be doing a Critical Role panel, from 7:00 to 8:00pm, in Room 515A.
+20;LAURA;Wait, are we supposed to be at that?
+21;MATT;Next Friday. Next Friday. But most of us will be there for that panel. We'll be doing a Q&A, answering questions, talking about the show, for all the folks that are local or coming to that convention in the Anaheim area of southern California. So, look forward to seeing you there, next Friday.
+22;LAURA;Yes, that's when we-- I can't say. I'll talk to you guys afterwards.
+23;MATT;(laughs) Okay. We'll go over that. Mystery-- secret, I like it.
+24;LAURA;Secret, secret.
+25;MATT;Wanted to give another shout-out to Dwarven Forge again, I mentioned them last week. You got to get a glimpse of some of the map stuff they gave us here at Critical Role to help improve our battle mats and scenarios on occasion. Their new Castle Builder Kickstarter is phenomenal, and if you're looking to do big structures and cool castle-based ramparts and parapets and everything, go check it out, it might be right up your alley.
+26;TRAVIS;So pretty.
+27;MATT;So pretty. It's so pretty. Also, Laura, if you want to announce, we have some new merch up in the store!
+28;LAURA;Go check GeekandSundry.com, go to their store, right now, because they're up, and it's so awesome, and I can't wait for you guys to see, we have a Gilmore's Glorious Goods t-shirt.|(cheering)|And I've been so excited about this shirt coming out, I can't wait to wear it, why aren't we wearing it right now?
+29;MATT;"(Gilmore voice) ""Don't worry. Trust me, it's a fabulous shirt. Some would even say it's quite glorious."""
+30;TRAVIS;Oh my god, oh my god.
+31;LAURA;As well as the Gilmore's Glorious Goods t-shirts, we also have exclusive Critical Role d20 rings, spinny rings. Those are limited, so if you get them, then snag them fast, because they're going to be gone.
+32;TRAVIS;We get one of those before they disappear, right?
+33;LAURA;I think they said they were going to set us aside some, they'd better.
+34;TRAVIS;They are. They're bitchin'. You spin it, the 20 is the Critical Role logo.
+35;LAURA;Why don't we have them right now?! At intermission, maybe we can grab them at intermission.
+36;TRAVIS;They're sick.
+37;MATT;For those who don't know what those are, the d20 spin rings, or spin rings in general, they're actually two separate moving pieces with ball bearings on the inside, and you have all numbers one through 20 on the actual ring, and you can spin it with your finger, and it acts like a die roll!
+38;LAURA;And the d20, when you crit succeed, it's a Critical Role logo. Just putting that out there.
+39;TRAVIS;You can do all your life decisions based off a ring.
+40;MATT;What could possibly go wrong?
+41;LIAM;You still can die from them, though, just to be clear.
+42;TALIESIN;Roll a one.
+43;MARISHA;And we are not held responsible if that happens.
+44;TRAVIS;You go straight to Craven Edge.
+45;LIAM;"It's appropriately called a ""die."""
+46;LAURA;Whatever.
+47;MATT;Liam!
+48;LIAM;Yeah?
+49;MATT;You wanted to--
+50;LIAM;Sure, I could talk about a couple of things.|Hey, a quick shout-out for our neighbor, Ivan van Norman's Kickstarter, The ABCs of RPGs, has three days left. I backed it immediately, because I like D&D and I have kids, and you put those two things together and good things happen. So that's good, three days left. Also, hey, if you like to put your dice in boxes, I tell you what. Wyrmwood Gaming make beautiful boxes, and if you go over to their site and you use the code critrole.
+51;ALL;Crit. Role.
+52;LIAM;There it is. You get free shipping, they're beautiful, they have all different kinds of woods to put your dice inside. Is there anything else? Oh, yeah! Oh, okay. Yeah, hey, some of us, not all of us, are going to be going up to San Fran later this month to make appearances on GameSpot's show The Lobby for a couple of segments, and then, also then hopping over to hang with the guys at Kinda Funny to play D&D.
+53;LAURA;Those guys are stupid.
+54;MATT;Which, a few of us will be running a quick little one-shot game I'll be running with the aid of one of their local gentlemen. And it should be a ridiculously ridiculous time! And it'll be a lot of fun.
+55;LIAM;And I'm curious to see, because there's going to be two DMs, in sort of a Batman and Robin-type relationship kind of thing?
+56;MATT;Oh yeah. We got plans. I've co-DM'd before, it can be very interesting. And very chaotic. I'm excited.
+57;TRAVIS;Going to kill everybody.
+58;MATT;Probably.
+59;LAURA;This has nothing to do with announcements, but I want to only roll green dice tonight. For Saint Patrick's Day.
+60;MARISHA;That's a good idea, I've got a set of green dice. I'll get them out. Sure.
+61;TRAVIS;That's stupid. I have gray-ass dice and a blue one.
+62;MARISHA;Got to get them all out.
+63;MATT;This is technically light green, guys, by the way, just so you're aware. Cool. Just making sure we're all cool on that.
+64;TRAVIS;Plus the underwear you're wearing.
+65;MATT;Shh, that's just for you.
+66;LIAM;Travis and I are wearing green snake shirts, because (Irish accent) Saint Patrick drove the snakes out of Ireland, into Burbank.
+67;MATT;Drove the Slytherin from Ireland. He got rid of them all.
+68;TRAVIS;Yeah. I took the Floo network.
+69;MARISHA;And I got this in Ireland, so it counts.
+70;LAURA;It kind of counts, Marisha.
+71;MARISHA;It counts.
+72;LIAM;(Irish accent) It's fucking Irish wool!
+73;MARISHA;And this is green.
+74;TRAVIS;Yeah, made from real Irish cats.
+75;MATT;They are the best, aren't they? Last but not least, unless anyone else has any other announcements to make, anything else?
+76;TALIESIN;Oh! I got a quick one, Book of Murder came out today, so you can hear me do a very weird accent, it's great. So. Yes. Very weird accent.
+77;MATT;And last, next week, we'll have a special guest joining us for an episode, a new guest, the intrepid Nerdist himself, Chris Hardwick, will be coming in for a game next week.|(cheering)|Oh, I'm excited! We made his character this past Monday, and it should be a lot of fun. He's actually fun to game with. We've played D&D a couple times, and he'll be a good addition to the team for his brief stop by. So next week, come check him out on our show!
+78;TRAVIS;Uh-oh, what does that mean?
+79;MATT;So thanks for coming, Chris. I don't know, it'll be fun.
+80;TALIESIN;Cleric, is what it means.
+81;MATT;Hoping every guest is a cleric. Just in case.
+82;TRAVIS;Save us! From ourselves.
+83;MATT;All right, then. Without further ado, unless you guys have anything else, we'll go ahead and hop into a quick synopsis of where we are in Critical Role.
+84;LIAM;Shit. Help. Help. Help. Help.
+85;MATT;Sam will be here shortly, guys, don't freak out. He's dealing with children and traffic.
+86;TALIESIN;Not at the same time.
+87;MARISHA;Damn it, you beat me to it. I was going to say those two aren't mutually exclusive.|Children and traffic.
+88;MATT;So. Where we left off. The party of Vox Machina, having to deal with the current terrible danger of the Chroma Conclave, a collection of very dangerous dragons that have torn through the entire Tal'Dorei countryside, have then gone on this quest to collect allies, and find these items called the Vestiges of Divergence, these artifacts of ancient wars that carry great power and seem to be the best way you could prepare yourselves for going up against these terrifyingly powerful entities. In searching for this, you went and made your way to Vasselheim, where you reacquired and reestablished friendships with Zahra and Kashaw, two allies from previous instalments of our wondrous adventure, as well as getting Lady Kima on loan from the Platinum Sanctuary of Bahamut, and you all went to seek the first bit of information you discovered about one of these vestiges, not too far from Vasselheim. The champion of the Raven Queen's armor that had been entombed within this temple that had sunken beneath a lake. After traveling to this lake, finding your way through this subterranean, watery location, you found the location of the tomb, upon which, a series of fish creatures, called kuo-toa, had seemingly been worshiping another denizen of this temple, a rather strange slime-covered beholder, that then surprised the party. The battle hard-fought, you came out victorious, and upon going to retrieve your spoils, a trap was set off in the tomb, dodged by one, survived by a bear, and claimed the life of our beloved Vex'ahlia. After a resurrection ritual attempted by Kashaw, the party helping, they were successful in bringing her soul back from the other side, restoring her to life, and the party then, figuring out what their next step in their journey was, took their new allies, via Keyleth's Teleportation via Plants spell, back to Whitestone, which seems to be building as this defensive bastion, this currently not on the radar of the Conclave location that needs defenses, and a good place to keep your allies at the time. And that was where we left off, as you guys had just stepped back into Whitestone.
+89;LAURA;We haven't actually slept yet, then.
+90;MATT;Nope!
+91;LAURA;It's late.
+92;MARISHA;What time is it here?
+93;MATT;I'd say through the evening's travels-- Well, you guys slept all night the night before you went to the temple, the temple's probably been--
+94;MARISHA;That's true, we did sleep, actually, we camped out.
+95;LAURA;We did?
+96;MARISHA;Remember? You talked to Zahra, and I talked to Kash? Then we slept.
+97;MATT;Yeah, you guys did camp out.
+98;LAURA;Oh. I didn't know if we camped, I thought we talked.
+99;MATT;You talked.
+100;MARISHA;We at least chilled. I don't know.
+101;MATT;Regardless.|You found your way to Whitestone.|We'll say for the sake of the current setting, you've come in in a rather overcast mid-afternoon in Whitestone, you may have spent some time there gathering yourselves as your allies scope out their new surroundings, the people of Whitestone accepting you as you arrive, you can always see people walking by and catching a glance at the group of heroes known as Vox Machina that helped liberate them from the oppressive Briarwoods not long ago.
+102;TALIESIN;Keep crawling out of trees.
+103;MARISHA;It's always weird. Not crawling out of trees, that people like us.
+104;TRAVIS;Should we inspect our spoils?
+105;TALIESIN;I was going to say, we should take the armor and the necklace to the castle and have it inspected.
+106;LAURA;Is Lady Allura here?
+107;MATT;"Kima, who is with you, is like, ""Is she?"""
+108;LAURA;No. Well, she was on her way to Westruun, and we haven't heard from her yet.
+109;TALIESIN;No.
+110;MATT;"""Haven't heard from her since-- You say Westruun was under attack as well?"""
+111;LAURA;Yes, but she knew it. She was going in secret.
+112;MATT;"""That prideful woman."" She slings her hammer off her shoulder and slams it to the ground and says, ""Well. If she doesn't arrive in the next few hours, I'm going to gather a party and we're going to go to Westruun and find her."""
+113;TRAVIS;Yeah!
+114;MARISHA;Kima-- Wait, what? Why?
+115;LAURA;Wait, there's a dragon there, Kima, a very large one, and she was being very, very stealthy--
+116;MATT;"Her hammer slams into her metallic armor, and she goes, ""I've a much bigger dragon backing me up."" And she looks up to the sky for a second and grins."
+117;TRAVIS;Lady Kima don't give a fuck.
+118;LAURA;We'll wait, Kima.
+119;MATT;(frustrated sigh)
+120;LAURA;Going in loud will only cause more trouble.
+121;MATT;"""I'll wait a few days."""
+122;LAURA;She should be here by then.
+123;MARISHA;I can always attempt to scry, and see if I can check in on her.
+124;MATT;"""Okay. Not a bad idea."""
+125;MARISHA;Okay.
+126;MATT;"""Okay. I need a drink."""
+127;MARISHA;Let's get somewhere safe.
+128;MATT;She charges off, looking for the nearest tavern.
+129;MARISHA;"Here, I guess. I don't know. I forget it's not overrun by vampires, I'm sorry. Sorry, I forgot; it's all right now."
+130;LAURA;Maybe somewhere safe, like right here--
+131;MARISHA;Like right here, sorry, there's a lot going on.
+132;MATT;"Zahra and Kashaw looking around expectantly as you continue this conversation. Kash crosses his arms, goes, ""Great place. There's a lot of white."" Of which Zahra comes and steps over and is like, ""Don't worry, darling. (laughter) So, sleeping arrangements, I hope?"""
+133;LAURA;Yes, the castle.
+134;TALIESIN;We'll be putting you up in the castle.
+135;MATT;"""That's what I like to hear. All right. To the castle, Kash?"" ""Sure. It's better than, well, it's better than anything.|Let's go for the castle."" And they both make their way towards Whitestone Castle, to find a comfortable place to get themselves situated in their new surroundings."
+136;LAURA;So we're healed up, we are healed, we are not running the risk of dying at any moment, because we've been healed.
+137;MATT;What is that? What is that blur of green?
+138;TRAVIS;It's a fucking leprechaun, get it!
+139;SAM;Sorry, sorry, sorry.
+140;LIAM;You should be.
+141;MARISHA;Your shirt, is that new? Because I love it so much.
+142;SAM;Thanks! But I'm also wearing a tie because it's a special night.
+143;LAURA;Right. It's a special occasion.
+144;SAM;(sighs) So, is Allura dead? (laughter)
+145;TRAVIS;Kima just left, so--
+146;LAURA;She's on her way to a tavern. Kima's drinking it up. Grog! Kima's drinking it up.
+147;MARISHA;Are we heading to a tavern?
+148;TALIESIN;We're heading to the castle. We're going to talk to friends, we're going to take a look at--
+149;TRAVIS;Corpse armor, hello.
+150;MARISHA;Oh, corpse armor.
+151;TRAVIS;Yeah. You know, the thing that almost killed our friend over here?
+152;LAURA;It did kill me. According to you.
+153;TALIESIN;It-- yes.
+154;TRAVIS;Yeah, but, I mean, you're here, so you didn't die. But you did. But you didn't. But you did. And then you didn't.
+155;LAURA;Thanks, Grog.
+156;TRAVIS;Yep.
+157;MATT;All right, so. You guys all heading to the castle?
+158;TALIESIN;Yes.
+159;MATT;"You head to the castle. Cassandra isn't there at the moment, but Keeper Yennen is currently there with a few other members of the makeshift council you guys put together towards the end. One of the heads of the entire farming establishment here in Whitestone is with them, and they're having a conversation. As Zahra and Kashaw burst in first, he's like, ""I'm sorry, we're not currently taking visitors, could you-- Oh. Friends of yours, I presume?"""
+160;TALIESIN;Good friends.
+161;LAURA;Helpers, actually. They're going to be here for a while. Hopefully.
+162;MATT;"""Gracious. Oh, I see you yourself carry the vestments of a man of the cloth. Who brings your power this day?"" Kashaw gives him a look and goes, ""You don't even want to know, buddy."" Walks past him."
+163;TALIESIN;That was a really good Kashaw.
+164;MATT;"""Very well! I assume they're staying here as well."""
+165;TALIESIN;Yes. We appreciate it greatly.
+166;MATT;"""They'll be taken care of, Percival."""
+167;TALIESIN;They will be well worth your time. We also have something that needs a bit of study. We found something. We found two objects of power that we think may help us turn the table against the dragons.
+168;LAURA;Two objects?
+169;MATT;"""This is good news."""
+170;TALIESIN;Two objects.
+171;LAURA;What was the second?
+172;TALIESIN;There was a necklace.
+173;LAURA;There was?
+174;TALIESIN;There was.
+175;SAM;You were dead.
+176;LAURA;Oh. I must have missed it because I was dead. That's right.
+177;MATT;"""Dead?!"""
+178;TALIESIN;It's been a very long day.
+179;SAM;Mostly dead.
+180;MARISHA;Be very careful when handling this armor, is what we're trying to say.
+181;TRAVIS;Or don't handle it, and we'll take care of it.
+182;MATT;"""So, the armor is what killed you?"""
+183;LAURA;No, actually, a trap that Percival set off is what killed me.
+184;TALIESIN;Yes, the--
+185;LIAM;What?
+186;TALIESIN;-- trap was a bit-- it was a bit, ah-- there was a trap. And it was well-protected.
+187;LIAM;What?
+188;LAURA;What, what, what? What?
+189;TALIESIN;Yes, what.
+190;LAURA;What?
+191;TRAVIS;(mutters) He didn't know that.
+192;LAURA;What? So these Vestiges.
+193;MATT;"""Vestiges."""
+194;LAURA;These leathers, these things.
+195;MATT;"""Um--"" And he puts a couple of small, armored, like, studded-leather gloves on and has to carefully reach out for the vestments as you hand them. And he grabs them. ""Give me a bit of time with them, perhaps, I need to clarify what this enchantment may be. Do you mind staying around, just in case?"""
+196;TALIESIN;Not at all.
+197;MATT;"""Don't feel strange that I don't trust this, but, based on your history with it, I would like a little backup."" So, he carries you off down the far hallway, you didn't get this far into Whitestone when you initially came through, but towards the back there was a small study area converted into a research establishment largely set up for the ziggurat beneath the city. He clears off an area of the table and sets this down. And he takes some time working with the vestments before he eventually, and it's this awkward quiet of hearing him mutter to himself and bring out a symbol and bring over a minor enchantment to reveal information, that tearing into the divinity, the divine magic that is granted to him, before he says, ""This carries the mark of the Raven Queen, a very strong mark. I've not seen power like this in but an object."""
+198;LAURA;It was worn by one of her champions. The great Purvan.
+199;MATT;"""That's a strange name."""
+200;LAURA;Yeah.
+201;MATT;"""Regardless, it appears that this armor does help fortify one's defenses from any sort of physical damage, as well as give you a chance of surviving even the most dangerous of near-death experiences. It also grants a fluid resistance to the elements. Here."" And he hands it over, and-- who would like to take this? Item card to--"
+202;TRAVIS;Well, you died for it, you--
+203;LAURA;I think I like it, but I'll just look at it.
+204;MARISHA;It's leather?
+205;LAURA;It's leather.
+206;MATT;So, to give you the specifics on it, it's plus two to AC. Magical on top of the studded leather armor. Plus two enchantment, beyond just the studded leather armor. It does give you advantage on death saving throws.
+207;SAM;You'll need that.
+208;MATT;As it is called the Deathwalker's Ward, and once per short rest, you can set it to be resistant to one of the five types of damage.
+209;LAURA;You choose which one.
+210;MATT;You choose. You can change it. You can leave it all on one, but if you want to change it during a short rest, you can shift it from fire or cold, or lightning--
+211;TRAVIS;Acid, or necrotic.
+212;SAM;You're, like, indestructible now!
+213;MARISHA;Do you have fancy leather armor right now? What does your armor do right now? Anything?
+214;LIAM;It's acid-resistant.
+215;LAURA;My armor's acid-resistant, I sort of stole it from my brother. Do you want your acid-resistant armor back, then?
+216;LIAM;Whatever you want, Vex'ahlia.
+217;LAURA;He's in such a sour mood lately.
+218;TRAVIS;Well, yeah. Well, what about the necklace?
+219;MATT;"""The necklace as well?"""
+220;TALIESIN;I hand it over.
+221;MATT;"He takes it, and he goes, ""Well, the chain on this necklace is not actually part of the enchantment, it's merely to hold the crystal itself. The crystal is the item of particular interest here, this-- oh, wait a minute."" He takes it and he scans over the table and pulls up a jeweler's eyepiece and inspects it closely.|""There's something inside this gem."""
+222;TRAVIS;Uh-oh.
+223;MARISHA;(groans) Not again.
+224;LAURA;What is it?
+225;MARISHA;Why do things like living in gems? It can't be comfortable.
+226;TRAVIS;It might be a worm.
+227;LAURA;It's like tequila.
+228;MATT;"""I can't actually ascertain the nature of whatever being is encased within this, but--"""
+229;LAURA;There's a being, it's a being?
+230;MARISHA;Encased.
+231;LAURA;Is it a soul gem?
+232;MARISHA;Like something put it in there.
+233;MATT;"He takes a moment and concentrates on his holy symbol of Pelor, and you can see as he puts aside the eyepiece, his eyes glaze over with a grayish, frosted white color, at which point he inspects the gem very closely, and there's this slight vibration in the air around him. As soon as it fades about a minute later, he pulls back and goes, ""This is referred to as the Raven's Slumber.|It's actually a small gateway to a tiny pocket-plane."""
+234;SAM;A pocket-plane?
+235;MARISHA;Ooh.
+236;MATT;"""It can contain one creature. You have to contact whatever it was, and it can't be too big, but it can essentially contain something indefinitely within this."""
+237;LAURA;But something's already in there?
+238;MATT;"""Something is already in this."""
+239;TRAVIS;Awesome.
+240;SAM;Something that we can summon?
+241;MARISHA;Any way we can find out what it possibly is before we summon it?
+242;MATT;"""Unfortunately, I do not have that capability."""
+243;LAURA;It was buried with--
+244;SAM;I'll take that.
+245;LAURA;Oh, that's really smart to give to Scanlan.
+246;TRAVIS;"Well, like, you said ""not too big"" though, right?"
+247;MATT;"""The confines of the space, at least, as part of the enchantment, seem rather small. A bit larger than you, maybe, but not much more than that."""
+248;TRAVIS;Right, right, okay.
+249;MATT;"""Here."""
+250;TRAVIS;Please.
+251;MARISHA;Well, does it change size?
+252;LAURA;This is maybe the worst thing that Scanlan's ever held outside of that gun that you had, Percy.
+253;TRAVIS;What are you talking about? Can we take it in the woods, open it up, and if it sucks we kill it, and if not, we've got a new pet.
+254;MARISHA;We don't even know how to open it up! Do we know how to open it up?
+255;TRAVIS;Oh, we will find a way.
+256;LAURA;It was buried with the Raven Queen's champion, I mean, it could be incredibly dangerous. Or it could be incredibly good, and he trapped it, and they're bad, right?
+257;LIAM;The same could be said about your new pajamas.
+258;LAURA;They are so beautiful. I do like feathers.
+259;TRAVIS;What do they smell like?
+260;LAURA;(sniffs) Like (sniffs) must and mold. And birds, really.
+261;TRAVIS;(laughing) And birds? Eesh.
+262;MATT;"""So, is that all you require of me?"""
+263;TRAVIS;I require Percy to tell us what the fuck's up with the necklace he's reading about.
+264;TALIESIN;Just what he said.
+265;LAURA;Yeah, he already told us about it.
+266;SAM;Once we release whatever is inside of it, we can use this necklace as a weapon, to--
+267;TALIESIN;It's a cage.
+268;SAM;To trap people.
+269;MARISHA;Hang on, okay. Let's think about this.|What do we remember from the great Purvan's story?
+270;LAURA;Well, let me look at my book?
+271;MARISHA;What did he fight?
+272;SAM;I just remember that Purvan's story touched me. Touched me in inappropriate ways.
+273;TRAVIS;(laughing) No, no, no.
+274;LAURA;You know what I like about this particular piece of paper is that you made it on cardstock so it's extra special instead of the regular paper.
+275;MATT;It's legendary.
+276;TALIESIN;Legendary cardstock.
+277;MARISHA;Can we get purple cardstock up in here?
+278;LAURA;I'm talking to Matt, bitches. Okay. I forgot what I was going to say-- Oh, my book! My 30-gold book! Does it say anything about what Purvan fought?
+279;MATT;"All right! You read through. There were many, many things throughout the war that were fought: entities from the Nine Hells, there was a faction of the Abyss that came in as a third bit of evil in this whole conflict; and while not in alliance against the other forces of chaos, there were many forces of chaos lashing out at what was nearby. So the Champion's-- there was no specific entity that was his chosen, or at least, what you can ascertain to be a specific being of hatred, although it does speak of Purvan, the Champion of the Raven Queen, keeping with him an ally."
+280;LAURA;Like Trinket.
+281;MATT;It doesn't say the nature of the ally, it just says the dangerous and respected Galdric.
+282;LAURA;(gasps) Galdric.
+283;TALIESIN;Well, there are some options here.
+284;LAURA;What?
+285;TALIESIN;No, that won't work, damn it.
+286;TRAVIS;Well, say it, come on.
+287;TALIESIN;Well, I was thinking we could find a safe place, surround it, let it out, and if it's dangerous, take care of it. We could even take it down into the pits beneath the castle so that if it's a magical creature, it would be harmless.|Except I don't know if we could actually release it down there. I don't know--
+288;LAURA;Yeah, what if it touches the thing, and it--
+289;SAM;There's also magic resistance down there.
+290;TALIESIN;Yeah, which means it wouldn't work in the first place.
+291;MARISHA;What if he's friendly? I mean, he talks about being an ally.
+292;TALIESIN;It might be an ally.
+293;MARISHA;Well then, wouldn't we want to save it?
+294;LAURA;An ally of Purvan! An ally of Purvan's!
+295;TALIESIN;Yes.
+296;LAURA;Is Purvan a good guy?
+297;TALIESIN;Yes.
+298;LAURA;I thought the Raven Queen was not good!
+299;TALIESIN;No, the Raven Queen--
+300;MARISHA;She's like-- neutral.
+301;TALIESIN;Can I make a roll for this?
+302;MATT;Make a religion check.
+303;TALIESIN;Okay, thank you. Nope, nope, it's St.|Patty's Day.
+304;TRAVIS;Don't kill anybody.
+305;LAURA;Yeah, with these green dice.
+306;TALIESIN;Religion or history?
+307;MATT, TRAVIS;Religion.
+308;TALIESIN;11.
+309;MATT;11. The general essence of the Raven Queen: she is both loved and feared in equal parts. She does not lord over the afterlife, the underworld, whatever you may call it-- she lords over the moment and the transition of death, which is largely considered neither a good nor evil, just a natural force. It could be accepted either way.|Many men fear it, and fear her for that reason, and there are those that instead embrace it as the inevitable. As to the true nature of her intent, no one really knows. It's part of her mystique.
+310;TRAVIS;So, like, even if we let out the glorious Ball-lick or whatever his name is, like, if he's bad, we can't really put him back in, right?
+311;TALIESIN;No, we actually can. Actually, we can put him back in.
+312;TRAVIS;What, we touch him with it and he goes back in?
+313;SAM;Correct.
+314;MATT;After a saving throw.
+315;MARISHA;Maybe we should save him and release him when he'll be valuable to us?
+316;TALIESIN;So would a trap. We could also trap other creatures--
+317;LAURA;It's like a Poké Ball! Right? It's like a Pokémon?
+318;TALIESIN;Yes, it's exactly like a Poké Ball.
+319;MARISHA;Who knows if he'll go back in willingly?
+320;TALIESIN;You don't have to go in willingly, that's sort of the point.
+321;MATT;I guess you could technically use it that way, yeah.
+322;MARISHA;But wouldn't we rather be friendly with him than him be angry at us the next time we release him?
+323;TALIESIN;I'm more excited about the idea of carrying around an empty trap.
+324;MARISHA;But we could win both. But we could have a trap and a friend.
+325;LIAM;I think Percy is right that we should let it out now because it's a question mark, no matter what. Whatever, it's all theories. We don't know what we're getting into, and better that it pop out now, on its own, and not while we're facing a fucking beholder.
+326;LAURA;I think we should do it in the forest outside of Vasselheim.
+327;TALIESIN;Or the forest outside of Whitestone.
+328;SAM;Vasselheim? We're here.
+329;MARISHA;Why don't we try and do a little bit more research on Galdric first?
+330;SAM;That would be too careful.
+331;TRAVIS;Yeah, come on. Come on.
+332;SAM;Vex! Just open it!
+333;LIAM;Percival. Are there any libraries here?
+334;TALIESIN;Not really, anymore.
+335;LIAM;What about a personal collection in your family?
+336;TALIESIN;Didn't they ravage most of our collection?
+337;MATT;"Elements have been ravaged. Elements of family history have been destroyed so that there couldn't be large connections, or the end of the bloodline itself being too prominently displayed within the castle itself. There is still a library there, though from your knowledge-- and you've read through most of those books growing up-- a lot of them are loose history books; a lot of them are more encyclopedia-like, general knowledge--"
+338;TALIESIN;She wasn't a revered deity in this part of the world, we don't have a lot--
+339;LAURA;All right, yeah, let's do it. Woods!
+340;TRAVIS;Woods! Woods! Woods!
+341;TALIESIN;Woods, or Vasselheim, that's actually not a bad idea to get far away from Whitestone.
+342;TRAVIS;No, because then somebody else'll come along and kill it.
+343;SAM;Plus they don't like magic.
+344;TALIESIN;This is sort of our secret, and we should perhaps keep this--
+345;LAURA;Okay.
+346;TALIESIN;Well, we were going to go take a look at--
+347;MARISHA;(muffled) What if--
+348;TRAVIS;You got shit in your mouth.
+349;MARISHA;We g-- mm, sorry. Little bit of saliva.
+350;LIAM;Goodberries?
+351;MARISHA;Snacks. We go to those goliath caves, right outside of Whitestone, that were abandoned.
+352;TRAVIS;Stone giant caves?
+353;MARISHA;Those!
+354;TRAVIS;Shit. Made me feel like I had to poop for a second, there. Goliath caves, fuck.
+355;MARISHA;Sorry! I just remembered you recognized them. They were empty, and abandoned, we could go there.
+356;TRAVIS;Yeah!
+357;LAURA;Is that close to your family?
+358;TRAVIS;Nope.
+359;MARISHA;No, we saw it on the way into Whitestone.
+360;TALIESIN;It's just a couple hours away, correct?
+361;LAURA;Oh.
+362;MATT;It's, I'd say roughly three, three and a half hours northwest of here.
+363;LAURA;Let's do it!
+364;MATT;Yeah, it's where the forest of the Alabaster Sierras ends and the actual Alabaster Sierra mountain range begins, is where that transitions.
+365;TALIESIN;We can take a day and do this.
+366;LAURA;All right, sure. Let's do it. All right.|What do you think? Good idea? Good idea?
+367;LIAM;Sure, yes, yes, yes, Keyleth had a good idea, yes.
+368;MATT;All right. So.
+369;LAURA;We're healed, yes?
+370;TALIESIN;Yes.
+371;MARISHA;We're healed, right? Did we sleep? Do we need to sleep?
+372;LIAM;I thought we rested before we went down under the water, though--
+373;LAURA;No, we did, we didn't rest since then.
+374;LIAM;I don't remember resting afterwards. And I was there.
+375;TRAVIS;I don't either. I remember I peed on a lake, and then we went under it.
+376;MATT;Yeah, I think you guys decided instead of resting to come to rest here in Whitestone.
+377;LAURA;Yeah, we need to sleep, y'all!
+378;TALIESIN;Let's take a sleep, and we'll do it in the morning.
+379;TRAVIS;What time is it, about?
+380;MATT;I'd say by now, with as much time as you spent in the temple, from waking up in the morning, it's getting four in the afternoon, five in the afternoon. The sun's starting to come down, so.
+381;LAURA;I'm going to cast Cure Wounds on myself.
+382;SAM;Aren't we going to sleep?
+383;LAURA;But it's four in the afternoon! There's other things to do today.
+384;MARISHA;Like drink?
+385;LAURA;Like find out how Gilmore's doing and see Pike.
+386;MARISHA;And I should probably scry and check in on Allura, right?
+387;TALIESIN;I've got some work to do.
+388;MATT;It's up to you guys. Yeah, and you're starting to push towards the bottom of your ammunition stack anyway, Percy.
+389;TALIESIN;I need to, yeah, to do a little-- and I've got a little thing I want to work on.
+390;MATT;Cool. All right, so, who's doing what first?
+391;TALIESIN;I'm going to take Vax aside very quickly.
+392;TRAVIS;Let's do that first!
+393;TALIESIN;I had a careless moment, and I apologize. And you're the first apology I'm putting forward. I don't know if I would have done anything different, but I hope you know that I would've never forgiven myself.
+394;LIAM;What're you talking about?
+395;TALIESIN;I rushed in and triggered the trap that almost killed your sister.
+396;LIAM;That killed my sister.
+397;TALIESIN;I can't say that.
+398;LIAM;What do you mean?
+399;TALIESIN;I was careless.
+400;LIAM;Well, what happened, Percival?
+401;TALIESIN;I felt the danger had passed, and I moved too quickly, and opened the casket without thinking. That's all. I just didn't think.
+402;LIAM;You just opened it? Just like that?
+403;TALIESIN;I was tired, wasn't thinking. Sometimes we move too quickly. But I want you to know that it would've-- I'm very glad that she's alive, because I don't think I could have lived with myself.
+404;LIAM;All right. Could you do me a favor?
+405;TALIESIN;Yes.
+406;LIAM;In the future-- If there is anything that your little heart desires inside of a box-- In the future, could you check with my sister or myself first?
+407;TALIESIN;That's the hope, yes. That was more of a lesson than I was hoping for. Thankfully not too much of one.
+408;LIAM;Well--
+409;TALIESIN;And none of us are beyond mistakes, but... that is a mistake that I am going to be thinking about for a very long time. We are going into dangerous territory, and we all have to think a little bit more. And she especially, I-- I couldn't--
+410;LIAM;Well listen, Percy. We are not playing a game.
+411;TALIESIN;No.
+412;LIAM;And we will all make mistakes, and I wager I will make my fair share. I've little doubt. And Percival, I want to apologize. I'm sorry. But-- And I punch him in his know-it-all fucking mouth.
+413;MATT;Do you attempt to move out of the way, or take it?
+414;TALIESIN;Yeah, let's take it.
+415;MATT;All right. (impact sound) Decks you square in the-- for as hefty as a punch it was? Doesn't hurt quite as much as you expected. But it's not the physical pain that hurts, more than the action and the knowledge that there are more repercussions to your rash decision than even you initially anticipated.
+416;LIAM;Goodnight, Percival.
+417;TALIESIN;Goodnight, Vax.
+418;SAM;It's four in the afternoon! (laughter)
+419;TALIESIN;I'm going to work. I'm going into my studio.
+420;MATT;All right, who else wants to do something?
+421;MARISHA;Where'd Kima go?
+422;MATT;Kima is actually-- she's begun day-drinking into the night! So yeah, she's currently by herself in one of the few functional taverns in Whitestone. It's fairly empty at the moment, especially at this hour as the sun slowly sets.|She's not heavy drinking but she's definitely nursing a tankard and quietly contemplating as she sits at the edge of the bar with her hands around the tankard. She's staring at her reflection as she spins it slowly on the wood. You can hear it (scuffing) on the woodgrain.
+423;MARISHA;Anyone else want to go to the--
+424;LAURA;I'm going with you, yeah.
+425;MATT;There's like a few other random patrons, but no one catches your eye. No one specifically.
+426;SAM;I'll come, too. Well, actually, wait. Grog, what're you doing?
+427;TRAVIS;Nothing yet.
+428;SAM;I'm with Grog.
+429;MATT;Okay. So the two of you, into the tavern-- she doesn't notice you guys.
+430;MARISHA;I go up and put my hand on her shoulder.
+431;MATT;"""Keyleth!"""
+432;MARISHA;Hey! How's it going?
+433;MATT;"""Better."""
+434;MARISHA;Yeah.
+435;LAURA;I lean up against the bar, next to you guys.
+436;MARISHA;Want to check in on Allura?
+437;MATT;"""Let's do it."""
+438;MARISHA;Is there an empty room around here?
+439;MATT;"She looks over to the barkeep. You all stare over and the barkeep is currently there like wiping down the bar section. ""For how long?"""
+440;LAURA;For a couple hours.
+441;MARISHA;Doesn't need to be that long.
+442;MATT;"""Two silver?"""
+443;LAURA;We saved your life? And the entire town.
+444;MATT;"""You are fine to use it as you please for the remainder of the afternoon. Just don't mess it up, please."""
+445;MARISHA;Sure. We'll try really hard to find better things to do with our time. Okay.
+446;MATT;All right, you make your way up and the place is fairly vacant, there are a couple of rooms that are currently partially-- the doors are ajar and you hear voices in there, and you recognize it's a couple of the refugees that you guys brought over from your keep, currently holed up in this tavern. An inn floor on the second floor. But there are a number of open rooms right now that you could go ahead and step into for use.
+447;MARISHA;Just pick one.
+448;MATT;Okay. So. Do you want to go ahead and attempt a Scry ritual?
+449;MARISHA;Yes!
+450;MATT;Focusing on...?
+451;MARISHA;The flower that I gave her before we left.
+452;LAURA;Ooh, good call.
+453;MATT;All right, so. As you all sit down, Kima sitting across from you, arms closed. She looks at you intensely with this really direct glare, waiting for some sort of sign of an answer or information. As you complete the ritual preparation of the scrying, your vision transcends your form, jettisoned through the ceiling and into the clouds. Clouds rush past, you can feel the wind pushing across your face, your hair, and as the clouds part you see, below, you see Westruun.|And from Westruun you can see most of the city, as you recall, and a large portion of it currently looks toppled-over and pushed into ruin. There are no longer burning black clouds, but white smoke, long after a fire or some sort of an impact, lazily drifting off some of those ruins. It focuses even closer, and you see very little populace in the streets. Most everyone's either indoors or not visible at the moment. Your vision clicks in once again, and you can see currently some sort of dark room hidden in Westruun. You see, for a brief instant, a flicker of light, and you see Drake Thunderbrand and Allura both gathering a few small books under their arms, silently waiting, quietly. You hear (impact sounds) some heavy footfalls above. They both just stay quiet, stay quiet. Allura stays still for a moment. She looks over at Drake. They both take hands and then (whoosh) convert into that same energy form you saw that jettisoned out of Greyskull Keep, that echoes down a long hallway that you previously didn't see was attached to this room. It leads to a stone spiral staircase that goes upward before these two dual sparks travel through the small crack between where the edge of a trap door and a wooden floor is as the sparks course upward into the now-setting sun. You can see amongst the sparks the mostly collapsed rubble of the Cobalt Reserve, the large library in the center of Westruun. You can see dozens of corpses that have been largely dissolved. You can see what remnants of their bodies have been eaten away by some sort of caustic material, their arms and fingers tightened up as the muscles pull into this horrible, gnarled visage of what once were the living residents of Westruun. You do see, as the spark comes to a stop for a second in its movement, and you hear briefly overhead (wingbeats) and you see rush overhead, wings fully spread, the black dragon that you had briefly encountered in Emon streak upward, roaring loudly, towards Gatshadow, the tall, dark spire mountain just north of Westruun. (whoosh) And as it heads up there, the sparks (electric sound) continue their trek through the streets, and at that point the ritual fades, its vision unable to maintain its focus. Your vision is pulled back up into the clouds and then thrust back into your current position and with a shock you find yourself back in the tavern.
+454;LAURA;What did you see? Is she all right?
+455;MARISHA;She's alive, her and Drake both are alive.
+456;MATT;"""Good. Where are they going?"""
+457;MARISHA;They're at the Cobalt Reserve, which is in ruins, as well as the rest of Westruun.
+458;LAURA;Did you see the dragon?
+459;MARISHA;Yes, the black dragon is there. Looks like he's taken up residence in the black spire-- tower. What was it called?
+460;LAURA;Gatshadow?
+461;MARISHA;That one.|Gatshadow. Allura--
+462;LAURA;Could you communicate with her when you scry? I don't know how it works.
+463;MARISHA;No, I can just look in and see.
+464;LAURA;All right.
+465;MARISHA;She was grabbing the last few important tomes, remnants left from the Cobalt Library, I mean, Reserve.
+466;MATT;"""They staying in Westruun?"""
+467;MARISHA;It didn't look like it.
+468;MATT;"""Where are they going?"""
+469;MARISHA;I don't know, I didn't see.
+470;MATT;"""Did you talk about where you--"""
+471;LAURA;We left word. And told her we were coming here.
+472;MATT;"""Here to Whitestone?"""
+473;LAURA;Yes. If you wait, she'll be here.
+474;MATT;"""Who else is coming?"""
+475;LAURA;Drake.
+476;MATT;"""Drake. Anybody else on the Council coming?"""
+477;SAM;We brought some Council members, right? Were any among our--
+478;MATT;You're not there, you're with Grog.
+479;SAM;Oh, that's right, I'm sorry, oh, I'm not there! (laughter)|So, Grog! Want to play some bocce ball? (laughter)
+480;MARISHA;I don't know who all's coming.
+481;LAURA;Uriel.
+482;MATT;"""Dead? Well, that's great. That's fantastic.|What about the rest?"""
+483;MARISHA;His wife and children are here.
+484;MATT;"""Here, okay."""
+485;MARISHA;As well as Gilmore.
+486;LAURA;Gilmore's Glorious Goods.
+487;MATT;"""Right, right."""
+488;LAURA;Wonderful place to buy all sorts of products, if it were still... standing.
+489;MATT;"""Huh. I've only heard things, I've not met this 'Gilmore'."""
+490;MARISHA;You haven't met Gilmore!? Man, I just assume everyone knows each other.
+491;MATT;"""Anybody else? Tofor?"""
+492;LAURA;Yes, maybe...? Yes, Tofor...?
+493;MARISHA;He might have... been... slain...?
+494;LAURA;Which one is Tofor?
+495;MARISHA;She's the dragonborn--
+496;LAURA;Yes, Tofor-- they did, I think Tofor is-- definitely maybe here.
+497;MATT;Last you heard, two Council members that were confirmed still alive by Gilmore when you found him-- or, confirmed by Uriel's wife and family-- thank you, sorry, were Tofor and Asum.
+498;LAURA;Yes.
+499;MATT;So both were two of the ones that were saved by Gilmore, and then once he was too wounded to continue, they left to seek for survivors in Emon.|That was the last you heard of them.
+500;LAURA;Oh. They're not actually here, then. Yes.|They're looking for other survivors, Tofor and Asum.
+501;MATT;"""In the place where this-- and what's this dragon you keep talking about?"""
+502;LAURA;Oh, shit, you don't know anything. Thordak! Big. Terrible. Red.
+503;MATT;As you say the name again, you can see her eyes resonate with a clarity, and where once was this very intense expression and air of demanding information suddenly recedes into this look of sudden fear, and she's briefly lost in thought.
+504;LAURA;Yes, you defeated him once. He escaped the Fire Realm.
+505;MARISHA;Not only did he escape, he tore a giant tear in the rifts between the Fire Realm and ours.
+506;MATT;"(sighs deeply) ""Thordak."" And you can see, she's starting to hyperventilate suddenly, like, for all of her strong exterior, this is the first time, aside from the brief hit of the beholder's ray earlier, you see fear in her eyes, and she starts standing up. (pants) ""I need to get some air."""
+507;MARISHA;Kima, Kima, it'll be--
+508;MATT;"""I need to--"""
+509;MARISHA;Sit here, you want to sit down?
+510;MATT;"""I need to get s-- I need to get some air."" And she storms out of the room."
+511;MARISHA;Let's go outside.
+512;LAURA;Actually, Keyleth--
+513;MARISHA;What?
+514;LAURA;I shut the door behind Kima.
+515;MARISHA;Okay.
+516;LAURA;I want to talk to you.
+517;MARISHA;Yeah.
+518;LAURA;I would ask my brother, but, knowing him, he would walk away. What happened?
+519;MARISHA;Keyleth has a hard time looking her in the eye.
+520;LAURA;Look at me, Keyleth! Be strong! You're royalty. Tell me what happened.
+521;MARISHA;Vex, I don't want to ever see you like that again. I don't want to ever see anybody like that again.
+522;LAURA;I grab both sides of her face and force her to look at me. I'm all right. I'm still here.|Okay? I need you to tell me what happened. Because between us? Vax is off. Something's wrong. And I need to know what it is.
+523;MARISHA;We all watched you die.
+524;LAURA;Yes.
+525;MARISHA;It's like--
+526;LAURA;How did I get back? Who brought me back? Kashaw, Zahra, my brother. Anyone else?
+527;MARISHA;I guess... you could say, probably an unseen entity, an unseen force. Oh, I'm lightheaded.
+528;LAURA;Sit down.
+529;MARISHA;Okay.
+530;LAURA;There's a bed. Sit down.
+531;MARISHA;Percy--
+532;LAURA;Percy helped.
+533;MARISHA;Let's skip that. When we brought you back, Kashaw performed a resurrection ritual.
+534;LAURA;Like we did with Pike.
+535;MARISHA;Yes. And he called upon a deity and at first he was afraid that it was Vesh. Which he was quite terrified about.
+536;LAURA;His wife.
+537;MARISHA;Yes. That, I don't believe, is the presence that answered his call.
+538;LAURA;Okay. Fluttery words here, darling. Get to the point.
+539;MARISHA;I thought I was going to lose you both. I thought I was going to lose you and Vax.
+540;LAURA;Why Vax? Did he get hurt as well? No. What did he do?
+541;MARISHA;He-- I don't know. I don't know what he did. He said to take him instead, is what he told the entity. He offered his life for yours. And my biggest fear was that neither of you were going to come back. He offered his life for you. And for all we know, that offer was accepted.
+542;LAURA;Right.
+543;MARISHA;If I had to guess, it was probably the Raven Queen herself.
+544;LAURA;Well. It's rather suiting, isn't it?
+545;MARISHA;He seems to do that quite a lot.
+546;LAURA;Yes. Keyleth? Thank you, dear. And I leave.
+547;MATT;Okay.
+548;MARISHA;I stay behind and burst into tears.
+549;MATT;Okay. Grog and Scanlan! What're you guys doing? (relieved laughter)
+550;LIAM;(Grog voice) Go fish.
+551;TRAVIS;So-- what do you want to do?
+552;SAM;I don't know. I hadn't really thought about it. Do you have any games with you?
+553;TRAVIS;No.
+554;SAM;Anything in the Bag of Holding?
+555;TRAVIS;I think there's some orc parts in there that've been in for a couple months.
+556;SAM;Doesn't sound very fun.
+557;TRAVIS;Right. I got all nervous when they mentioned a goliath's cave, so I need to go boom-boom.
+558;SAM;Should I play a song so no one can hear it?
+559;TRAVIS;Might help. Like, stand guard outside the door.
+560;SAM;Yeah, yeah. A little muzak.
+561;TRAVIS;Would you mind?
+562;SAM;It's what I'm here for.
+563;TRAVIS;Can I go drop some ordnance?
+564;MATT;And as you find one of the few local ramshackle outhouses-- none are quite goliath-sized, and it's an uncomfortable experience, but thank God you brought a bard along or you would have woken up half the populace just going to bed, as Scanlan, I--
+565;SAM;Nothing to see here, everybody! (plays random chords on the harmonica) Nothing to see here!
+566;TRAVIS;(coughs, then farts) Oh!
+567;LAURA;Okay, okay, okay, okay.|(laughter)
+568;TRAVIS;Now, the music's playing, right?
+569;MATT;Yeah.
+570;TRAVIS;It's just a stall, just me?
+571;MATT;Yeah, yeah.
+572;TRAVIS;All right, can I take out Craven Edge?
+573;MATT;Yeah.
+574;TRAVIS;All right.
+575;MARISHA;In the outhouse? Sorry, keep going!
+576;TRAVIS;It's the palace, this is where all the best thoughts and conversations happen! I don't know how it is at your house.
+577;LIAM;Keep in mind how confined it is, okay?
+578;TRAVIS;Yeah!
+579;LIAM;And go.|(laughter)
+580;MATT;Yes. (grunting)
+581;SAM;Sounds like a rough one in there, buddy!
+582;MATT;As you (chuckles) as you see one of the wood boards splinter out the side for a second--
+583;SAM;Ah, yup, that's tacos!
+584;TRAVIS;You might want to play a bit louder and maybe take a few steps away, it's about to get violent.
+585;SAM;No problem!
+586;TRAVIS;Yep.
+587;MATT;"At that moment you focus, and as you can feel the blade itself grow cold in your fingertips, you can see what little bit of light that filters through the bright orangish-red color that's coming from the sunset, you can see a reflection in the obsidian blade as a voice comes to your ear and says, ""You fed me well."""
+588;TRAVIS;Yeah, I did, right? I mean, we are really doing well. Question: so, when we were fighting that big Earthbreaker Groot-looking guy, he called you a 'dark weapon'. Does that-- do you have feelings, and did that hurt them?
+589;MATT;There's a brief pause before you hear this long, drawn-out, (heavy sigh).
+590;TRAVIS;Right, hold on! No, no, listen. And I take my thumb and I run it against the blade real quick.
+591;MATT;Okay. As you do, all of a sudden the voice goes, (gasp, contented exhale).
+592;TRAVIS;Right, yep, sorry, listen. So, my question is, as much as I love opening up people to feed you, I want to know, like-- what's in it for you?
+593;SAM;Grog, are you talking to your shit?
+594;TRAVIS;Yeah, no, you got to let it know who's boss!
+595;SAM;Okay.
+596;MATT;"The voice creeps in again, this time. ""There is no feeling more terrifying than hunger. And I hunger forever. You help satiate that hunger. That is our arrangement. I give you the strength of those you cut down, and I feed upon them. If this is unsatisfactory, I can and have found others who are more willing to be part of this arrangement--"""
+597;TRAVIS;No, no, no, I'm a big fan, really, I mean, I am yoked out when I'm using you, it's fucking amazing. I mean, people are flying apart, it's like a dream. But listen, can you ever be... full?
+598;MATT;"""I have never been full before. Perhaps you're the one to find out."""
+599;TRAVIS;I'll bet I am, actually, you're really lucky you found me and not these other blokes, not even half the man I am. But listen, so, there's no, like, endgame, just to be clear, you just want to drink and drink, 'cause I've seen the blood, right? And usually I wipe it off, but you, like, suck it in, and that's a little unsettling, not going to lie.
+600;MATT;"""My hunger grows, but the air tarnishes my blade. Perhaps we can continue this conversation elsewhere."""
+601;TRAVIS;(farts) Right, yeah, right. Not even a problem. Well, look, I like the way you cut people open, so we'll continue this another time.|And I sheathe him.
+602;MATT;"All right. As you sheathe, the last thing he says is, ""Don't forget: I hunger always."""
+603;TRAVIS;I kick the door open, and I'm like, if you're within 200 feet, back up!
+604;SAM;No one's out here, Grog.
+605;TRAVIS;Oh.
+606;SAM;Just me. Are you all right?
+607;TRAVIS;Yeah.
+608;SAM;I heard you say something about blood.
+609;TRAVIS;Yeah, no, am I sweating? It was a real workout, that one.
+610;SAM;"At some point you said, ""Are you full?"" Are you talking about-- did you fill it all the way up?"
+611;TRAVIS;Yeah, the privy, you know, it was starting to give my bum a tickle.
+612;SAM;Wow!
+613;TRAVIS;Yeah.
+614;SAM;You topped it off!
+615;TRAVIS;Yeah. Because, you know, you don't want to, like, dip in the muck, it's, you know--
+616;LAURA;Foul.
+617;SAM;Not at all.
+618;TRAVIS;Did you want to--
+619;SAM;I think I'm good.
+620;TRAVIS;Are you sure? I warmed it up for you, it's, like, ready to go.
+621;SAM;I love a good deuce, but not today, I think.
+622;TRAVIS;All right. Fair enough. But I'm feeling so, like, vacated--
+623;SAM;We should go get a bite.
+624;TRAVIS;I think you're right!
+625;SAM;(laughs) All right, let's go.
+626;TRAVIS;(laughing) Okay.
+627;MATT;Okay. You guys are getting a bite. Percival, if you want to go ahead and make a tinkering check with dexterity modifier to create more ammunition.
+628;TALIESIN;Tinkering check with dexterity modifier?
+629;MATT;Yes.
+630;TALIESIN;Okay.
+631;MATT;Should be plus 11.
+632;TALIESIN;16.
+633;MATT;16, okay. We'll say, in the time that you've had here, with the materials you purchased, and Whitestone's pretty open to supplying you--
+634;TALIESIN;I've got a thing.
+635;MATT;Yeah, I'd say you're able to create roughly 40 or so simple bullets in the time that you have.
+636;TALIESIN;Do I have time to poke at a modification to the explosive arrow? I want to try and build a rock breaker. I'm curious to try and build an arrow for taking down walls or taking down doors.
+637;MATT;Like a siege arrow?
+638;TALIESIN;A light form of siege arrow. Basically, I want to have a tip that actually manages to breach stone and then an explosion that goes outwards, so it's a shattering arrow.
+639;MATT;All right, this'll take the remainder of your evening. You're not going to be able to do much else after this.
+640;TALIESIN;I have nothing else to do.
+641;MATT;All right. Go ahead and make a tinkering check with your intelligence modifier.
+642;TALIESIN;Okay. So... That's 23.
+643;MATT;23, okay. At the cost of roughly 150 gold pieces, as you have to go through a few different attempts to finally get the design right, and the metalworking you have here is not perfected.|You're not at your workshop back at the keep, unfortunately, so you have to work with whatever you have here, and nothing here is designed for the--
+644;TALIESIN;No, I've got an okay workshop here.
+645;MATT;Yeah. The one that you used before, previously, but that's from mostly discarded and-- in the time that you've been gone, it's been cannibalized for a lot of different uses. But it's makeshift. You manage to complete what you think could function. You're not entirely certain as to what the final effect will be, but it all seems to be in place.
+646;TALIESIN;All right.
+647;MATT;So you can write down 'Explosive Siege Arrow'.
+648;TALIESIN;Siege arrow.
+649;MATT;And we shall find out in time what it does.
+650;MARISHA;Siege arrow. That's fun.
+651;TALIESIN;A few things I've been working on, and that's one of them.
+652;MATT;So. Are you guys resting for the evening? Anything else you wish to accomplish?
+653;LAURA;That would probably be smart. I'm pretty tired after dying, so I'm going to go to sleep.
+654;MATT;Okay. Vax, anything you want to accomplish before you--
+655;TALIESIN;God, the guilt. Okay. Yeah.
+656;SAM;Can I buy a torch somewhere? Just a torch?
+657;MATT;Sure! Yeah, torches are relatively easy to find. You want to try one?
+658;SAM;Three.
+659;MATT;Three torches. That's three copper.
+660;LAURA;I bring Trinket into the castle with me, just so you know.
+661;MATT;After all this has happened, Trinket has been, like, almost locked to you. Even you going upstairs into the tavern, Trinket was like, (plaintive bear noises) stayed out front, 'cause Trinket's learned at this point, you can't really go into all the taverns.
+662;LAURA;It's hard, it's hard.
+663;MATT;It's rough, being a bear.
+664;SAM;And wherever we're eating, does it happen to be near Jameson the painter's workshop?
+665;MATT;No, but it's about a 20-minute walk, if you wanted to go find him.
+666;SAM;Be nice to check in with him. Grog, do you mind walking with me?
+667;TRAVIS;Absolutely not.
+668;SAM;All right, so we'll truck on over to Jameson's.
+669;MATT;"Okay. You head up to it, and this gentleman is a painter as well as a stablehand, so you find your way to the facility, knock on it, and immediately as the door opens, the smell of fresh manure hits your nose and Jameson steps out. ""Can I-- you!"""
+670;SAM;Yes! Hi!
+671;MATT;"""Hi!"""
+672;SAM;I've come back.
+673;MATT;"""I meant to deliver, but they told me not to, because apparently it's not there anymore?"""
+674;SAM;The town, you mean.
+675;MATT;"""Town, yeah, where I was supposed to deliver it to you."""
+676;SAM;It was wise of you to keep this precious artifact here, because it would've surely been destroyed en route or when it arrived--
+677;MATT;"""It's just the canvas, I don't have a-- It's a bit too large for my specifications of framing, but--"""
+678;SAM;I'm sure it's huge. Did you finish it?
+679;MATT;"""Yes, yes! Come, come!"""
+680;SAM;Can I look?
+681;TRAVIS;Oh please, oh please!
+682;SAM;(laughing) Okay, let's go look!
+683;MATT;He takes one of the hooded lanterns and turns up the oil wick on it, and as he turns away he brings you into the back stable area where it's been sectioned off, and you can see there's paints that have been dropped all across the ground and the hay, it's this multicolored spattering, this rainbow vomit across this section of hay floor, and there in all of its glory, stretched across and nailed at the corners to this far, far wall, you see a fantastical landscape of rolling hills and treelines rising up at the edges. You can see a mountainscape in the distance. The lighting he uses is magnificent. You can see why many people in the city specifically requested that you go to this gentleman. There atop this fantastic green hilltop, you see on this fine white and grey steed as it raises up, hooves in the air, is yourself, shirt open, chest slightly fuzzy and muscular. As you look off, your hair blowing in the breeze--
+684;SAM;How's the face? How's the face?
+685;MATT;The face is pretty damn spot-on.
+686;SAM;Yes! (laughter)
+687;MATT;The best likeness you can find for somebody who only had a brief reference, as he sketched you quickly before he left, and there behind, clutching you, from the side you can see Pike wearing these long greyish-silver and blue robes that are also flowing behind, a long train-- longer than it needs to be, stylistically it was a choice in the artistics point of this-- it is everything you hoped it would be. You paid good money for this piece.
+688;SAM;I'm going to request-- Grog, I need a minute here.
+689;TRAVIS;Oh, yeah. I understand, take--
+690;SAM;Just to weep.
+691;TRAVIS;Take all the time you need.
+692;SAM;So I regard it for a few minutes, taking in the beauty and the wonder of all I've accomplished--
+693;MARISHA;I have a question. Would Keyleth and Scanlan be crying in rooms at the same time?
+694;MATT;Right now? Yes. For different reasons entirely.
+695;SAM, TALIESIN;(singing) Somewhere out there...
+696;TRAVIS;Look at the air, look at the air high-five. There it is.
+697;SAM, TALIESIN, MARISHA;(singing) Beneath the pale moonlight
+698;TRAVIS;So white. That was the whitest of white high fives ever.
+699;TALIESIN;I'm imagining this as a canvas of Lisa Frank majesty, by the way. Like, the greatest Lisa Frank Trapper Keeper cover in all the land.
+700;MATT;Oh, man.|(laughter)
+701;SAM;After I weep for a few minutes, I thank Jameson again and how much did I pay him for this thing? You've gone above and beyond, Jameson, and I know that you're a humble man and you don't want me to spread word of your accomplishments, but please allow me to write you an epic poem or a song and tell of your artistic gifts and talents, please.
+702;MATT;"""That would be a fine tip, sir. Please, yes, do so."""
+703;SAM;I'll get right on it.
+704;MATT;"""Send them back to Whitestone, please, ask for Jameson. The more I work this, hopefully I can make my way out of this dunghole."""
+705;SAM;Don't worry, you'll have lots of commissions after this, I promise you.
+706;MATT;"""Great."""
+707;SAM;And I'm going to give him an extra 50 gold.
+708;MATT;"""I, um--"""
+709;LIAM;That's more than the price of a book.
+710;MATT;"""Sir, I-- thank you. Thank you, thank you."""
+711;SAM;For art supplies to get your shop up and running.
+712;MATT;"""Of course."" He looks down and he's gotten a little bit of paint on the coins, he's like, (muttering and stammering). He puts it aside somewhere. ""Thank you--"" Wipes his hands off on a nearby rag. ""Thank you."" And takes your hand and shakes it vigorously."
+713;SAM;So, can it be--
+714;MATT;Yeah, he goes in and he takes his little claw hammer down, starts pulling the nails out from the sides and gingerly rolls up the canvas.|It takes a good, like, three minutes to roll the thing up, and it's quite heavy as he hands it over to you-- (heavy grunt) In your hand, yeah, it almost takes you off your feet.
+715;SAM;Grog! Grog!
+716;TRAVIS;What?
+717;SAM;Can you hold this for me?
+718;TRAVIS;No, it's you, I mean, you're so magnificent in it--
+719;SAM;No, I can't do it.
+720;TRAVIS;I don't know it-- I really--
+721;SAM;Grog! I watched you shit for an hour!
+722;TRAVIS;Hey, all right, I'll pick it up.
+723;MATT;"All right. You guys find your way out. At this point night has taken; you can hear the crickets starting to spread throughout the city.|As the rest of the blue night sky takes on-- Evening is ready, do you guys have anything else to accomplish before the evening comes to a close?"
+724;LIAM;Wait 'til it's quiet. And I leave the room that I've been given at Whitestone. And I find my sister's door. And I stand outside it, and I stare at it for a minute--
+725;LAURA;Vax? Is that you?
+726;LIAM;And I stealth away.
+727;LAURA;I open the door.
+728;MATT;Roll a stealth check, roll a perception check.
+729;LAURA;Shit.
+730;LIAM;25.
+731;LAURA;22. Damn it.
+732;MATT;Nothing to be seen. Must have been your imagination, Vex.
+733;TRAVIS;He's good.
+734;LIAM;And I wait for the door to close. And then I walk to Keyleth's door. And I knock.
+735;MATT;You hear a knock at your door.
+736;LAURA;And horses.
+737;MATT;The clomping of horse hooves in the distance, apparently.
+738;MARISHA;I open it. Hey. Hi. You okay?
+739;LIAM;I don't know.
+740;MARISHA;Come in. Sit down.
+741;LIAM;I go in.
+742;MATT;Okay.
+743;MARISHA;How do you feel?
+744;LIAM;I don't know. All I know is... that I felt her. I don't know magic, I don't know anything. I open doors, and only when the wind is blowing in the right direction, sometimes, I think. I don't know what happened, but I felt her.
+745;MARISHA;Do you still feel her?
+746;MATT;Make a perception check, Vax.
+747;LIAM;22.
+748;MATT;As you're sitting there, looking down at the ground, as she asks this question, you notice the symbol of Sarenrae that you have stitched into the back of your glove, what was once a very vibrant, goldish-brass color has actually very heavily tarnished, and the metal itself seems to have cracked in three places. It was not this way a day before.
+749;LIAM;Yeah. I don't know if I did anything in there, and I wouldn't take it back if I did, but I don't know what I'm doing.
+750;MARISHA;I don't know if it was very noble or very stupid, to be honest. Probably a little bit of both. I can attempt a Greater Restoration spell, and see if I can sense anything.
+751;LIAM;I don't know anything about any of that.|I'll let you.
+752;MARISHA;Can I?
+753;MATT;Yeah. So as you prepare your mindset for the cleansing ritual that is the Greater Restoration--
+754;MARISHA;Just lay back.
+755;MATT;As soon as the dull green energy begins to course across your fingertips, and as you touch the edge of his shoulder to impart his body with the cleansing energy, it courses through his shoulders, the spell completes. You sense no difference in your current physicality, mindset, and there's this pause, this silence, of no realization, that is suddenly shattered by the sound of a (caws). You look over and at the stone edge of the window you guys are staying in, you see stepping there a single dark raven, (clicks, rapid flapping) and it takes off and flies into the night.
+756;MARISHA;I think this goes beyond any natural realm that I have any bearing over. And I hug him.|I thought I was going to lose you. And I'm terrified I'm still going to.
+757;LIAM;Keyleth, I love you.
+758;MARISHA;And I think I love you. I just don't know if I can allow myself to. I'm terrified to allow myself to. You do realize that, if by some crazy chance, we all somehow make it through this domination alive, with the Chroma Conclave, and I complete my Aramente, I'll still watch all of you die.|Everything could go phenomenally well. And by becoming Headmaster, we enter a bit of a realm of immortality where I could live for a very, very long time. I'm afraid every time I look at one of your faces that it's going to be the last, and I feel like deep down I know that day is coming. So because of that I'm afraid to let myself feel anything deeper than I already do.
+759;LIAM;I quickly leave her room.
+760;MATT;The door closes behind Vax.
+761;MARISHA;And for the second time today Keyleth bursts into tears. Why do people keep leaving me in rooms alone?
+762;MATT;All right.
+763;TALIESIN;Stop it, you're wasting water.
+764;MARISHA;We're in a drought, god damn it!
+765;LAURA;When was the last time you showered, Keyleth?
+766;MARISHA;It's been a while.
+767;TALIESIN;Makeup's runny.
+768;LIAM;Go water elemental.
+769;MATT;It's the only way. All right, as you all find yourself coming to rest for the evening, some of you easier than others, eventually you get your full rest. Those who heal up to, say, full hit points for a good night's rest here, get your hit dice back, so not a whole lot were spent.
+770;TRAVIS;I lose my strength bonuses.
+771;MATT;Morning comes to you all, and-- yes?
+772;LIAM;Sorry, just one detail. From there, I went and fell asleep in this idiot's doorway.
+773;MATT;Okay. All right. We will go ahead and take a quick break, we will see you guys back here shortly to see what is in store for Vox Machina.|So we'll be back here in a minute.|[break]
+774;LIAM;Matt, shit on my face.
+775;MATT;Welcome back, everybody!
+776;SAM;It's too close!
+777;LAURA;They caught it, that one caught it.
+778;MATT;That was pretty close.
+779;LIAM;"All they heard was ""ace."""
+780;MATT;It's all good. Welcome back, guys. We're going to go ahead and jump back in. So as you all, after that, for some, emotional evening, whether that be conversational emotion or, you know, having to go drop an emotional deuce. You know, that's important. You find yourselves waking up to a fresh morning in Whitestone, hints of blue sky breaking through the cloud coverage, and that's rare for this area because it's the northern portion of the continent, you know that, especially being so close to the ocean, a lot of the cloud, heavy precipitation makes its way in the direction of your town, so it's nice to have a little break in that. Nonetheless, as you guys come to consciousness and gather yourselves, your things, and your plans for the day, what do you wish to do?
+781;TALIESIN;We are a city of seasonal affectation disorder, so.
+782;LAURA;Well, I open my door and find my brother falling through it.
+783;LIAM;I'm awake.
+784;LAURA;Oh, good morning.
+785;LIAM;Hi.
+786;LAURA;Comfortable bed, I see.
+787;LIAM;Yeah. Sorry, I couldn't find my room.
+788;LAURA;Yeah, it's confusing, all these, all these doors.
+789;LIAM;What time's it?
+790;LAURA;I have no idea. My nature check tells me it's roughly, I dunno, eight? Nine? Something like that. Seven? Maybe seven.
+791;LIAM;Come here, you shithead. Don't fucking do that again.
+792;LAURA;It's not like I did it on--
+793;LIAM;Don't fucking do that again, all right? Just don't fucking do it again.
+794;LAURA;All right.
+795;LIAM;Fuck.
+796;LAURA;I can't breathe. You're about to kill me again.
+797;LIAM;You'll live, you'll live. Jesus. Whoever that is.
+798;LAURA;So-- (laughs) I heard a rumor that you sort of saved my life in a really creepy sort of way. I talk to people. I talk to so many people. I find out things. Secrets aren't safe when Vex is around.
+799;LIAM;Is there any coffee in this fucking castle?
+800;LAURA;Wait, wait, wait, I have a present for you, because I feel like you're going to really like it. Would you like it?
+801;LIAM;That's random. All right.
+802;LAURA;I have this armor that I think would be really great on you. Do you want it? It's really expensive. If you don't take it quickly, I might change my mi--
+803;LIAM;I don't want it.
+804;LAURA;Oh, that was expensive cardstock.|(laughter)
+805;LIAM;I'll give you the leather armor after I have a chance to change.
+806;LAURA;All right. I love you.
+807;LIAM;(softly) I know. I know.
+808;LAURA;Let's get breakfast.
+809;LIAM;Yeah.
+810;MATT;From that point, the smell of coffee begins to fill the air from the inside of the Whitestone castle halls. The servants have prepared breakfast, and a meal is ready for you. Grog jumping to attention as the scent reaches your nose. The rest of you all slowly find your way back down. You eat--
+811;MARISHA;Do we come out and see Vax in the armor?
+812;MATT;Are you putting on the armor?
+813;LIAM;I'm just looking at it in the hallway.
+814;MARISHA;So I guess I step out and see him looking at it in the hallway.
+815;LIAM;Still pretty tired, to be honest. Didn't sleep a lot in the doorway.
+816;MATT;Yeah. Some of you guys step out, and you see Vax standing in the hallway, clutching in his hands, looking over all the various, like, pushed-in, engraved runes across the leatherwork, the raven feathers that adorn the bottom of the mantle.
+817;LAURA;Careful, it smells a lot like must and mold and birds.
+818;MARISHA;I walk by and... briefly lock eyes and keep going without saying anything.
+819;MATT;Okay.
+820;TRAVIS;Oh shit, you got the armor now?
+821;LAURA;He stole it, what can I say? He is a really sneaky, stealthy kind of guy.
+822;TRAVIS;Nice.
+823;LAURA;Yeah. Fair and square.
+824;LIAM;I just took it for fashion purposes, I suppose.
+825;TRAVIS;Oh, you need all the help you can get.
+826;LIAM;Yeah.
+827;SAM;Should we go out in the woods and unleash an undead beast that will kill us all?
+828;TRAVIS;Yes! Christmas morning! Who has that, by the way?
+829;SAM;I do.
+830;TRAVIS;Oh! Yeah!
+831;SAM;Don't worry, it's safe.
+832;TRAVIS;Where d'you keep it?
+833;SAM;Oh! Hold on-- Got a pouch or some-- you know what? It's back in my room.
+834;MATT;All right. You go retrieve it.
+835;SAM;Got it!
+836;TRAVIS;Where's Percy?
+837;LAURA;Where's Pike? We should bring her with us.|Can we bring Pike with us? I know she's taking care of Gilmore, but.
+838;SAM;Mm, that's possibly more important. I think this thing'll be fine!
+839;LAURA;We need some sort of somebody that can heal, I think we've learned this for ourselves.
+840;SAM;I can heal!
+841;TRAVIS;Yeah, we got potions, we're fine. It's probably, like, a big Saint Bernard. What's the big deal?
+842;LAURA;(sighs) Okay. We learn nothing, carry on.
+843;TRAVIS;Where's Percy?
+844;TALIESIN;I'm right here.
+845;TRAVIS;Oh! Shit, you were quiet. Hello.
+846;TALIESIN;(coughs) Hello. Good morning.
+847;TRAVIS;Need any coffee? An enema?
+848;TALIESIN;What?
+849;MARISHA;A coffee enema?
+850;TALIESIN;What!? No. I'm fine. Good morning.
+851;LIAM;I'm going to walk off with this shit.
+852;MATT;Okay.
+853;TRAVIS;And we go outside with the necklace.
+854;SAM;Yeah, where're we headed?
+855;TRAVIS;The woods!
+856;LAURA;No. The caves. I thought we were going to the--
+857;MARISHA;Going to the caves on the edge of the woods.
+858;MATT;Yeah. It's the caves that are--
+859;MARISHA;Going to go through the woods.
+860;LIAM;(sings) Into the woods!
+861;MATT;"So. You all gather together and make your way northwest of Whitestone, towards where you found the stone giant fortress and the series of caves that are in the mountain behind it. You get there; it's still seemingly abandoned. You case the area for a while. No noticeable movement other than a few woodland entities that exist in that vicinity."
+862;LAURA;Primeval Awareness! (radar sounds)
+863;MATT;Okay. That is now the sound it makes every time you do it.
+864;LAURA;I like it.
+865;MATT;Yeah, so hold onto that one. I'll make that a new ringtone sound for you guys. What are you looking for?
+866;LAURA;Oh, there's so many things I could sense!
+867;MATT;Yeah.
+868;TRAVIS;What about sirens?
+869;LAURA;Sirens?
+870;TRAVIS;Wait, what are those things called? The things that took our horses the last time we were here?
+871;MATT;Harpies?
+872;TRAVIS;Yeah, yeah, whatever.
+873;LAURA;Sure! Harpies.
+874;MATT;For how many miles is it?
+875;LAURA;Six miles!
+876;MATT;Six miles? Yeah, there's a few blips on the far, far western side of here. You get the essence way off in the mountains, there's maybe a small nest. Nothing that's immediately dangerous.
+877;LAURA;What about if I sit for one more minute and I think if I can sense any giants.
+878;MATT;You do, to the far, far north. You get the sense that there is some sort of giant-based lifeform maybe two, three miles north of you.
+879;LAURA;Okay.
+880;TRAVIS;How's it look?
+881;LAURA;Well, I mean, clear of the things I checked for. No giants.
+882;TRAVIS;Sweet! Let's go! Up to the cave!
+883;MATT;All right. So the fortress or the caves behind it?
+884;TRAVIS;Fortress or cave?
+885;LAURA;Were they both empty? I don't remember.
+886;TALIESIN;Everything was empty, if I recall.
+887;TRAVIS;Yeah. Small space.
+888;TALIESIN;Let's do the caves.
+889;LAURA;All right, sure. Cave.
+890;TRAVIS;Yeah. Cave.
+891;MATT;All right.
+892;LAURA;Oh, if we stick to the woods, it's my favored terrain. If we go into a cave, not as much.
+893;SAM;The caves would contain it. It can't fly away or anything.
+894;TRAVIS;So is it like, cave-fortress, are they same level? I can't remember.
+895;MATT;It's a pathway that leads up into a small ravine in the mountain pass where you guys originally walked down into Whitestone. Up against the north side of where the mountain meets that ravine, there's a big stone fortress that is built into the side of the mountain, and then around that are a series of smaller caves.
+896;LIAM;(singing) Anything can happen in the woods.
+897;TRAVIS;Yeah, let's go to this fortress, then we got more room to move in case it does suck.
+898;SAM;All right, fine, fortress.
+899;MATT;You guys find your way inside, the cold morning air still has encompassed the stone floor itself, you can see there are still the scattered and slowly decomposing bits of meat and flesh in the far corner, you still see the splatters of blood that have turned black and cracked as it dried. No corpses here, as the corpses were retooled by the Briarwoods while they were in control. The fortress other than that is still empty, and seemingly untouched since you last left it.
+900;SAM;All right, well, I'm just going to do it then!
+901;LAURA, MARISHA;Wait wait wait!
+902;MARISHA;Wait, there's doors open to the cave, right?
+903;SAM, TALIESIN;We're in a fortress.
+904;MARISHA;Fortress. Whatever.
+905;MATT;(laughs) Coffee's just starting to kick in for you guys.
+906;LAURA;Just barely! Do we have any buff spells or some shit that we should cast, to make us cooler?
+907;MARISHA;Should I throw a wall up?
+908;SAM;A wall for what?
+909;MARISHA;Do I need to bar the entrance? Or are there doors?
+910;TALIESIN;Vex, by the way--
+911;MATT;There are doors, but they're partially ajar where you left them.
+912;LAURA;Aww, put it on, it's useful!
+913;LIAM;No. We're not having this conversation.
+914;TALIESIN;Vex, by the way, I've got something for you.
+915;LAURA;What? Yes, dear?
+916;TALIESIN;And I pull out the arrow.
+917;LAURA;What is this?
+918;TALIESIN;This is an evening of unbridled guilt.|Come here, let me show you. In theory, this is a siege arrow.
+919;LAURA;Okay.
+920;TALIESIN;Shattering stone, shattering doors, breaking things that should not be broken.
+921;LAURA;Breaking hearts left and right?
+922;TALIESIN;If that is what you're after. It should work! Never forget you're my favorite, and I'm so sorry.
+923;LAURA;I kiss him on the cheek. Thank you, Percy.
+924;TALIESIN;That was much nicer than your brother.
+925;LAURA;Is that a black eye?
+926;TALIESIN;(stammering) I didn't sleep.
+927;LAURA;Huh. This is lovely, I can't wait to use it.
+928;TALIESIN;There'll be more.
+929;SAM;All right, in three, two--
+930;TRAVIS;Wait hold on, hold on hold on!
+931;TALIESIN;In a circle! Aim it into the center of the circle.
+932;LIAM;And is it three-two-one, three-two-one-do it, or three-two-one and go,
+933;SAM;On the one. On one.
+934;TALIESIN;It's Jenga, one one-thousand two one-thousand three one-thousand four one-thousand.
+935;SAM;Should one of us leave the room in case it comes out and paralyzes all of us? Just going to throw that out there.
+936;TRAVIS;Oh yeah, we should, what do you call it, spread out?
+937;LAURA;Yeah, definitely, let's all surround it and make sure we're not all clumped up.
+938;TALIESIN;If only someone had armor that could make them immune to paralysis.
+939;LIAM;That's not a bad idea, you get controlled by things. Maybe you could wait just a little bit further back?
+940;LAURA;This was somebody's pet, all right? It's probably not smart enough to take control of our minds.
+941;LIAM;That's a big if.
+942;TRAVIS;I don't mind stepping out, but I would like to be able to see.
+943;LAURA;Yeah yeah yeah!
+944;LIAM;Yeah! We won't shut the door, I just want you outside of any potential blast radius.
+945;TALIESIN;"Let's spread out in a circle; we'll let it loose in the center, that way it can't even see all of us."
+946;LAURA;All right, I like it. It only gets to see Scanlan.
+947;SAM;It can see me.
+948;LAURA;I'm going to stealth.
+949;SAM;Well, when a thing is born, it latches on to the first thing it sees, like its mama.
+950;LIAM;Yes, we're going to hide.
+951;MATT;All right, stealth check from both of you guys?
+952;MARISHA;So we're going to try and talk to it?
+953;LAURA;Yeah, Scanlan's going to talk to it.
+954;MARISHA;Scanlan? You prepared?
+955;LAURA;Natural 20!
+956;TALIESIN;You just teleport, there's like a phase effect.
+957;MATT;The two of you back off and find the nearby shaded corners, where some of the haphazardly tossed hides and furs are in the corner, you vanish behind the alcoves keeping a watch.
+958;LAURA;Trinket, don't stand next to me, it gives it away. Go stand next to Keyleth!
+959;TRAVIS;Is there a doorway in the fortress?
+960;MATT;Yeah, there's the main doorway you guys entered, which is two--
+961;TRAVIS;Can I stand in that, then?
+962;MATT;Sure, you stand there, in the entranceway that's pushed open, which is wide enough for a giant to push through. You got a little bit of room to each side, but you're there.
+963;TRAVIS;Vax, is this g-- Vax?
+964;TALIESIN;It's fine, you're fine.
+965;SAM;Here we go, guys.
+966;MARISHA;So, those two are stealthed-- I'm at Scanlan's left shoulder, back a bit.
+967;LAURA;And Trinket's next to you!
+968;MARISHA;And Trinket's next to me. I'm rolling with Trinket.
+969;TALIESIN;I've got a little bit of distance, yes, that's good.
+970;MATT;All righty, and there's Percy here, and Travis is off this way. Good to know.
+971;SAM;I don't know how to use this thing.
+972;MARISHA;Yeah, we don't know how to use it.
+973;SAM;By the power of Raven's Slumber, I command thee: (yells) awaken! Beast! Cruel or otherwise! Face your new master, and know his name is Scanlan! (laughter)
+974;TRAVIS;(laughing) Oh, holy shit! Never could've been better.
+975;MATT;As you spend your bonus action to release the gate hold on the crystal, you guys see as he thrusts his hands forward, there's a burst of shadow energy that, almost like someone throwing a big pot of water, this blackness goes out of it, and then as it hits the ground, it spills into smoke on the ground, and as that dark form stops, it is in the form of an about waist-to-lower-torso-height creature. As the form coalesces into its normal self, you can see before you, shaking its head, a rather large, dark grey and black wolf. (growls, snarls)
+976;SAM;Easy, easy.
+977;TRAVIS;Told you it was a dog.
+978;SAM;Garlic? Galdric, Galdric, easy, Galdric.|Easy. We're friends. Here.
+979;MATT;He's backing up a little bit, snarling. You see Trinket starts growling, (growls).
+980;LAURA;Trinket, be nice-- oh!
+981;MATT;As you say that (snarls) it looks over at you in the far corner.
+982;LAURA;(whispers) I'm natural 20! That still didn't see me!
+983;MARISHA;I pet Trinket, like, 'Chill, chill, be cool'.
+984;MATT;Trinket backs up a little bit, but still locking eyes. You can see this wolf now, its gums and teeth are bared, its fur is all puffed up, its tail is-- it's definitely holding its ground and trying to make itself look as intimidating as possible.
+985;SAM;Is it a small beast?
+986;MATT;This would be, technically, borderline medium. This'd be medium, technically.
+987;SAM;I can only speak with small beasts.
+988;MARISHA;Wait, use Speak with Animals?
+989;LIAM;(laughs) She swatted me and said, 'Put your armor on,' so I'm doing it.
+990;MATT;Okay. That'll take you about 15 minutes.
+991;LAURA;Aw.
+992;LIAM;15 minutes! Well, guess I'm doing it.
+993;MATT;All right. You don't just slip on leather armor. (chuckles)
+994;LIAM;No, I get that, I get that, I would've guessed two minutes.
+995;TRAVIS;Can somebody check to see if it's actually a wolf or just looks like one? Like, check it?
+996;LAURA;Can I use my perception?
+997;MATT;You're a bit far away from it right now. You can try to get closer if you want.
+998;LAURA;Can I sneak?
+999;MATT;Yeah, make another stealth check.
+1000;LAURA;I do get advantage, because of my cloak.|Sweet.
+1001;LIAM;You should yell out, 'I'm stealthing'.
+1002;LAURA;I'm stealthing! Damn it. 19?
+1003;MATT;Okay. As you begin making your way forward, it doesn't seem to notice you.
+1004;LAURA;Hey, it doesn't?
+1005;MATT;No.
+1006;LAURA;Can I see it better now to perceive it?
+1007;MATT;Looking right at it, and from your experience in the wild as well, and Keyleth, you're getting it, this does not appear to be anything beyond a large wolf.
+1008;TALIESIN;I'm going to get on my knees and put out my hand and call it.|Galdric, Galdric.
+1009;MATT;Go ahead and make an animal handling check.
+1010;SAM;Animal handling! We've never done that before!
+1011;LAURA;If I help my brother get on the armor, will it happen faster?
+1012;MATT;Probably.
+1013;LAURA;I help him put on the armor.
+1014;MATT;Okay.
+1015;LIAM;(whispering) Ow ow ow! That's too tight!
+1016;LAURA;Well, you're not the same size as the other guy!
+1017;TALIESIN;Yeah, it's a little bit better. Ten.
+1018;MATT;"Ten. As you put out your hand, Galdric snarls, and as you say, ""Here, boy."" (growls and snaps) It lashes out at your hand.|That is going to be-- That's a 21 to hit?"
+1019;TALIESIN;I'll take it.
+1020;TRAVIS;Keyleth, can't you talk to, like, plants and shit?
+1021;MATT;You take six points of piercing damage as its jaws clench down on your hand, and you tear your hand away. You can feel the warmth flowing under the glove.
+1022;TALIESIN;Gently, I'm gentle with it.
+1023;MARISHA;I cast Speak with Animals.
+1024;LIAM;I click my Boots of Haste!
+1025;MATT;You do?
+1026;SAM;Aren't you getting dressed?
+1027;LAURA;He can dress faster!
+1028;TRAVIS;Speed change.
+1029;MATT;All right.
+1030;TRAVIS;Quick change.
+1031;SAM;Seven-and-a-half minutes! (laughter)
+1032;MATT;You guys all become immediately aware of the creaking of leather in the distance as the two siblings are in the process of fast-changing one of the other.
+1033;LAURA;The rustle of feathers.
+1034;MARISHA;Okay, I cast Speak with Animals. And I crouch down to the ground. And bow down a little bit, and I say: are you the one they call Galdric?
+1035;MATT;Looks over at you for a second. The growl stops, and its posture changes a little bit. It raises its nose. (sniffs)
+1036;MARISHA;Was Purvan your master?
+1037;MATT;Looking at you as you guys hear Keyleth making this series of growling sounds.
+1038;LAURA;Trinket totally understands you, no?
+1039;MATT;Strangely enough, Trinket does, Trinket's like, (confused bear noise).
+1040;TALIESIN;Trinket is Scooby-Doo, apparently.
+1041;TRAVIS;Shitballs! Taint! You going that way?
+1042;MARISHA;Oh my god, I get a secret!
+1043;SAM;There are several items that are sold out at the store! If you'd like to go on and see what items have already sold out, check it out.|(laughs)
+1044;LAURA;We need to get more t-shirts in stock.
+1045;SAM;Yeah, we know that. We know that, guys. We know.
+1046;LAURA;That needs to happen. But there is still the Critical Role logo t-shirt available. What is happening? What is he--
+1047;SAM;Is there a ring or something?
+1048;LAURA;Is the ring still available?
+1049;SAM;I don't know.
+1050;LAURA;If the ring is still available, check out our ring!
+1051;MARISHA;I can respond back, right? Your master died a great champion for the Raven Queen. He has been paid a great honor, and now the Raven Queen has chosen a new master.
+1052;LAURA;I push Vax forward.
+1053;MATT;You've gotten maybe part of the tunic on.|(laughter)
+1054;SAM;Is he Donald-Duck-ing it right now?
+1055;MATT;Practically. There are undergarments, but not much. It's, like, bare legs and knees, part of an arm. Yeah, he got thrust out of the changing room about 20 seconds into it.
+1056;SAM;Nice.
+1057;LIAM;I still walk toward the wolf.
+1058;TALIESIN;Waddle.
+1059;LIAM;No no no, I did the top, I did the top, c'mon!
+1060;MATT;The wolf turns his head a little bit curiously.
+1061;MARISHA;I continue to speak to the wolf.
+1062;LIAM;And I kneel. And bow my head.
+1063;MARISHA;A great darkness has fallen upon our lands. Upon Othanzia. We could use all of the assistance that we can achieve. Would you be willing to find a new purpose? Join Vax'ildan--
+1064;LIAM;Keyleth?
+1065;MARISHA;Yes?
+1066;LIAM;Tell him to come forward and look into my eyes.
+1067;LAURA;(whispers) That's a bad idea for dogs.
+1068;LIAM;Tell him.
+1069;LAURA;(whispers) It's gonna bite your face off.
+1070;MARISHA;Galdric. Please. Approach your new master and look into his eyes.
+1071;LAURA;Give him some chocolate, man!
+1072;MATT;The wolf looks towards you, looks towards the loosely half-dressed half-elf.
+1073;MARISHA;Look into his eyes. I said look into his eyes. And see the touch of the Raven Queen inside of him.
+1074;MATT;Wolf slowly stalks towards you across the stone floor. You can hear the claws of the wolf clattering against the stonework. As you can see it's partially, like, digging into the stonework with each step. It has purpose with each stride.
+1075;LIAM;As it's coming, I'm taking daggers out and throwing 'em on the ground.
+1076;MATT;The wolf stops and looks up at you. Turns around and walks towards the doorway where you are.
+1077;SAM;Where who is?
+1078;MATT;Where Grog is. Grog, who's now at the door, at the exit.
+1079;LAURA;(whispers) What's his name?
+1080;TALIESIN, MARISHA;Galdric.
+1081;MARISHA;Galdric!
+1082;MATT;Keeps walking.
+1083;LAURA;Galdric!
+1084;SAM;Going to stop him, Grog?
+1085;TRAVIS;Well, I'm in the doorway.
+1086;MARISHA;Grog, don't move. Don't move. Look at the dog. Don't move, and don't hurt the dog. Please just look at the dog.
+1087;LAURA;I pull out one of my treats I have for Trinket.
+1088;MATT;Okay. Trinket starts lumbering up towards you (thudding).
+1089;LAURA;Wait, wait, Trinket-- This is for your buddy Galdric. Galdric!
+1090;MATT;Just keeps walking, doesn't even look at you in the face, walks--
+1091;LAURA;I throw the treat and say, hey!
+1092;MATT;It scatters across the stone. Walks between your legs and exits out.
+1093;TRAVIS;I pivot on my back foot. I take out Craven Edge--
+1094;TALIESIN;No!
+1095;TRAVIS;No, I do, I take out Craven Edge and I sink it into the earth right beside his head. And I say, (shouts) heel!
+1096;MATT;Make an animal handling check.
+1097;LAURA;Whoa, is it good, is it good?
+1098;TRAVIS;20.
+1099;MATT;As the sword (crack) into the rock outside of this fortress, it probably embeds itself a good foot and a half into the mountain. You guys all hear Grog's shout echo through the inside of the fortress itself, causing little bits of dust and small pebbles to dislodge from the roof, slowly fall down. The wolf has stopped and spun in its place and reached out and lashed the blade with its jaws and (cling) as it releases it.
+1100;TRAVIS;Stay.
+1101;MATT;He sits.
+1102;TRAVIS;That went well! (laughter)
+1103;SAM;Dog whisperer!
+1104;TRAVIS;Good pup.
+1105;SAM;Are you its master now?
+1106;TRAVIS;No, no, I don't think it has a master.|This is a very powerful beast. But it needs a firm hand. And I think it needs a job. So. What do we plan to do with Galdric? Said his name right?
+1107;SAM;Yeah.
+1108;LAURA;We plan on having him help us kill some dragons?
+1109;TALIESIN;I think he's a wolf. I think perhaps something a little less ambitious.
+1110;LAURA;Trinket hides very well when dragons are around.
+1111;TALIESIN;I think, perhaps, joining the Whitestone conclave might be a-- Having him guard Whitestone, perhaps.
+1112;LAURA;Good, yeah! I like it!
+1113;TRAVIS;I reach into the Bag of Holding and I pull out one thing of dry food rations, and a probably pretty rotten chunk of dark elf brain.
+1114;LIAM;Where did we get that?
+1115;TRAVIS;Oh, there's a veritable Walmart of shit in this bag.|(laughter)|And I, like a hamburger patty, smash it all together.
+1116;MATT;The only reason you even know this was at one point dark elf brain matter is because that's what you willed to reach in and find. It does not at all visually match your memory of its--
+1117;TRAVIS;Does it have a little bit of a viscous-y ooze, mostly?
+1118;MATT;Oh yeah, no, it's--
+1119;TRAVIS;It'll soften up the dry food.
+1120;LIAM;Gray Chicken McNuggets.
+1121;MATT;It'll soften up a lot of things. It's pretty terrifying.
+1122;LAURA;It'll make the wolf vomit.
+1123;TRAVIS;So I throw that on the ground, and I pour a little ale on top of it.|(laughter)
+1124;SAM;Wolves love getting drunk.
+1125;MATT;Very good. It leans forward and smells it.
+1126;TRAVIS;Yeah, no, it wasn't the best, I can do better. Okay.
+1127;LAURA;Trinket goes up and starts eating it.
+1128;TRAVIS;He's going to barf that all over the carpet later.
+1129;LIAM;Forget the chocolate.
+1130;TRAVIS;I need to carry beef in this bitch.
+1131;TALIESIN;It goes bad.
+1132;LIAM;We have Dork! We've got nothing of Dork left?
+1133;LAURA;Oh, you know what I have, by the way? I still have, like, a cooler Bag of Holding. That we got from the Slayer's Take.
+1134;TRAVIS;Oh! That's really good to know.|I pour into a little chalice some ale.
+1135;LAURA;Like, it keeps things cold. Yeah, it's like a little bitty one, but it keeps parts from going bad.
+1136;MATT;It's nowhere near as large as a Bag of Holding, but it has a slow stasis for organic goods.
+1137;SAM;We should keep some food on hand next time!
+1138;LAURA;Totally!
+1139;TRAVIS;I offer him some ale, just to see if he even likes it. Some dogs like beer, some others don't.
+1140;MATT;Mm. Wolf doesn't seem to be interested.
+1141;TRAVIS;Yeah, all right. Then I chug it.
+1142;SAM;So are we telling this wolf something or commanding it to come with us as we return to town?
+1143;TALIESIN;I think he would be helpful to guard the town, at this point.
+1144;LAURA;Well, he'll follow Grog, I suppose.
+1145;SAM;Let's go back to town and bring him with us.
+1146;TRAVIS;All right.
+1147;MATT;You guys return to Whitestone. It's another, like, three-hour trek to find your way back down to the city. Stalks up next to you. Definitely seems to be attentive to your commands. Doesn't appear to be a bond per se, but of everyone that it's encountered so far, you're the only one that really gathered its respect.
+1148;LAURA;I threw a treat at it. I don't understand.
+1149;TRAVIS;That's a great thing to throw at a giant 400-pound bull mastiff.
+1150;MARISHA;I spoke words at it. Apparently that's not good enough. Communicating.
+1151;TRAVIS;Right, so we're walking back to town.|We've got a giant fuck-off wolf with us.|Vax looks like Edward Scissorhands.
+1152;LIAM;I'm peeling that off as we walk.
+1153;LAURA, TRAVIS;What?
+1154;TRAVIS;No!
+1155;LAURA;Leave it the fuck on!
+1156;LIAM;I'm peeling it off.
+1157;LAURA;It's really expensive. What, do you want to damage it?
+1158;LIAM;I'm peeling it off.
+1159;LAURA;(quietly) Fuck, he doesn't appreciate presents.
+1160;MATT;All right, so you take what little bit of the armor you had on, off, and are you putting your other armor back on?
+1161;LAURA;He doesn't have any other armor. I took his armor.
+1162;LIAM;I have regular fucking armor that I grew up in with you, you fucking shit.
+1163;SAM;Do you want to trade with me, Vax? I've got some armor you could take.
+1164;TRAVIS;Yeah.
+1165;LIAM;You're a funny man.
+1166;MATT;All right, so you're back in town and you have a wolf.
+1167;TRAVIS;Do we find a holding pen for the wolf?
+1168;TALIESIN;I don't think we need to. I think we can communicate to him--
+1169;LAURA;No. Tell him not to attack villagers.
+1170;TALIESIN;Ask him if he'll be willing to keep the town safe.
+1171;LAURA;Do it in a really aggressive way, though, Keyleth. Stern.
+1172;MARISHA;Very aggressive? Okay. Okay.
+1173;SAM;We should find some food for the thing, too.
+1174;MARISHA;If I turned into a dog. If I turned into a wolf, do you think he'd respect me more?
+1175;LAURA;No, he'll probably attack you.
+1176;TRAVIS;He'll mount you.
+1177;LAURA;Or he'll bone you.
+1178;TALIESIN;I'm not ready for that game.
+1179;SAM;Do it.
+1180;TRAVIS;Let's be clear.|(laughter)
+1181;LAURA;"Matt's like, ""mm-mm."""
+1182;LIAM;Oh, you soured the DM.|(laughter)
+1183;TALIESIN;To be fair, that's happened before.
+1184;LAURA;Yeah, I remember.
+1185;TALIESIN;With the troll.
+1186;TRAVIS;With the troll. It was so good. That was you, wasn't it?
+1187;TALIESIN;No, it wasn't me. Was it you?
+1188;SAM;I don't know.
+1189;TRAVIS;Who was getting humped on?
+1190;TALIESIN;I don't remember.
+1191;SAM;Finalize this wolf so we can go kill something.
+1192;MARISHA;I take my staff and I say, Galdric! I'm being assertive.
+1193;LIAM;Yes.
+1194;SAM;She's the alpha.
+1195;LAURA;(whispering) Grog, go stand behind her.
+1196;MARISHA;You want a task? I'll give you one.
+1197;MATT;All right. How long does Speak With--
+1198;MARISHA;I don't know.
+1199;MATT;It lasts for ten minutes, so you can cast it again. It's first level.
+1200;MARISHA;Oh, has it not been ten minutes?
+1201;MATT;It has been more than ten minutes. It took you three hours to return.
+1202;MARISHA;Okay, we walked back? Okay, I'll cast it again.
+1203;MATT;All righty.
+1204;MARISHA;Can I cast Speak With Animals on other people? I can't, right? No.
+1205;MATT;All right, so as you shout, go ahead and make an animal handling check, with advantage because of your ability to speak.
+1206;MARISHA;With advantage?
+1207;MATT;Yes.
+1208;MARISHA;I'll take the-- what is that, 16? Plus a six, so 22.
+1209;MATT;"Okay. Galdric turns to you and essentially leans towards you and you get the essence, the idea of a message across, and to keep me from having to walk behind now, at this point, as you guys have managed to make seeming amends at the moment, employs the idea of, ""I'll listen if you give me a task."""
+1210;MARISHA;He talked back.
+1211;LAURA;Have him guard the village.
+1212;MARISHA;Okay. (louder) Galdric. Only a beast of your great fortitude--
+1213;LAURA;Just fucking tell him to do it!
+1214;MARISHA;Right, okay. Sorry. Would you like to guard--
+1215;SAM;It's a command.
+1216;MARISHA;-- the town, Whitestone? (shouting) Guard this town, dog.
+1217;TRAVIS;Keyleth, repeat after me.
+1218;MARISHA;Yes.
+1219;TRAVIS;In exchange for food, protect these lands.
+1220;MARISHA;Galdric. In exchange for food, shelter, and a cozy fire every once in awhile--
+1221;TRAVIS;I didn't say that shit. I didn't say that.|He's a wolf. He doesn't need those.
+1222;MARISHA;Patrol these lands.
+1223;LAURA;Protect these lands.
+1224;MARISHA;Protect these lands.
+1225;TRAVIS;(quietly) Holy shit.
+1226;MATT;"""For how long?"""
+1227;LAURA;(laughs) He already asked that.
+1228;MARISHA;Why does he want details? Why does the dog want--
+1229;LAURA;As long as we need you to.
+1230;TRAVIS;No, no. A great danger approaches.
+1231;TALIESIN;Until the danger has passed.
+1232;TRAVIS;You'll know it when it comes.
+1233;MARISHA;(clears throat) A great danger--
+1234;LAURA;Approaches!
+1235;MARISHA;Approaches! A great danger approaches.|Your service is required until that danger--
+1236;TALIESIN;Has passed.
+1237;MARISHA;Has passed! Is no longer in effect.|You'll know. You'll know, because they're fucking dragons, man. You'll know. Protect--
+1238;TRAVIS;I walk over and put my hand over Keyleth's mouth. You stay. We feed you. Is there a tavern or a butcher shop or something nearby?
+1239;MATT;"There is a butcher. As you're having this thought, however, Galdric turns back over to you and says, ""I can feed myself."""
+1240;LAURA;Yeah, you can.
+1241;MATT;"""But I will watch until this danger has passed."""
+1242;LAURA;Awesome.
+1243;MATT;"""Then am I free to go?"""
+1244;MARISHA;Then you are free to go.
+1245;MATT;"""Very well. I grow tired of service. I wait too long."" And the wolf looks at you, gives you like an acknowledgement, and then walks off into the woods."
+1246;LAURA;Bye, buddy!
+1247;MARISHA;Thanks, Galdric. Appreciate it, man.
+1248;LAURA;Man, that's a cool-looking wolf.
+1249;MARISHA;I look at Grog. How was that? Did that sound okay?
+1250;TRAVIS;That was the dumbest thing I've ever heard.|(laughter)
+1251;TALIESIN;You did good, you did good.
+1252;SAM;I thought she did very well.
+1253;MARISHA;Thank you. It really liked you. You should learn how to talk to animals.
+1254;LAURA;What is that? What is that you have? What is that?
+1255;TALIESIN;I'm holding onto the Raven's Slumber jewel at the moment.
+1256;SAM;The thing that can capture evil.
+1257;TALIESIN;It's empty now, and do you know what I bet would fit in it very nicely?
+1258;TRAVIS;Me.
+1259;LAURA;And we can carry him around and then pop him out. Wait, okay, wait. Is it going to hurt him? Does it hurt him? Is it like, it's bad?
+1260;SAM;Not only does it not hurt him, he does not age or feel any pain.
+1261;TRAVIS;A willing creature need not make a saving throw.
+1262;TALIESIN;It's automatic, and no time passes.
+1263;LAURA;Okay, I'm going to try it, and I'm going to try it, and just to see how he likes it. If he's okay with it.
+1264;MATT;Okay.
+1265;LAURA;Hey, buddy, come here.
+1266;MATT;As you turn around and look, you see there's a small puddle on the ground where Trinket has vomited up. He's pushing dirt over it.
+1267;TRAVIS;Yeah, you got to teach him to quit rummaging, that is really foul.
+1268;LAURA;What was that? Trinket, what did you eat? Don't eat the puke. Do not eat the puke.|Come here.
+1269;MATT;Trinket's like scraping dirt over it.
+1270;TRAVIS;Got a carrot on your chin.
+1271;LAURA;Trinket. Do you want to go for a ride? You like rides? Yeah? You want to go for one? All right, sit still. This'll be fun. I don't know how to use it.
+1272;TALIESIN;Just point, yep.
+1273;LAURA;I point to him with the--
+1274;SAM;You should probably say something cool.
+1275;LAURA;By the power vested in me, I now pronounce you my Pokemon.|(laughter)
+1276;MATT;Words be damned. It takes you an action or so to activate the crystal, but as you do, Trinket gives a confused look before Trinket's shadow seems to crawl up his legs until it forms into this circle, this dark core, roughly half the size of Trinket's form, before it shoots into the crystal.
+1277;LAURA;Is he about this size, but I don't like that one, is he about this size?
+1278;MATT;A little larger than that before he goes into the crystal, but once he's in the crystal, it's small.
+1279;LAURA;Oh, it's a little crystal?
+1280;LIAM;Trinkachu, I choose you.
+1281;LAURA;(gasps) Oh my gosh. That's really fun.|Okay. How do I let him go?
+1282;MARISHA;I think you-- yeah.
+1283;LAURA;I release you.
+1284;MATT;Okay. As you do that, once again the same dark energy you saw earlier spills out and hits the ground in front of you, and from that dark shadow area Trinket's form emerges, standing there looking really confused.
+1285;LAURA;How was it? Did it hurt? Can you talk to him? You can still talk to him. Talk to him. Ask him if it hurt.
+1286;MATT;(vomiting noises) Vomits a little bit more on the ground.
+1287;LAURA;Well, that's not good.
+1288;MARISHA;You know, sometimes the teleportation makes you lose your lunch.
+1289;LAURA;Ask him how he's doing.
+1290;MARISHA;Trinket? You all right buddy? You all right, there?
+1291;MATT;"""Feeling sick."""
+1292;LAURA;Ask him how the little car ride was, ask him if he liked the ride.
+1293;MARISHA;How was the ride? Did you feel all right? How was--?
+1294;MATT;"""Yeah?"""
+1295;LAURA;Okay, would you mind, ask him if he'd mind doing that on occasion, you know, whenever I need him to.
+1296;MARISHA;What was it like in there? Was it--?
+1297;MATT;"""I don't remember."""
+1298;MARISHA;Okay, that's good, that's good. Would you mind--
+1299;LAURA;Ask him if he cares if I do it again, ask him if he cares.
+1300;MARISHA;"Would you mind doing that, you know, frequently? On occasion.|MATT ""If she wants me to, okay."""
+1301;LAURA;What did he say, what did he say? He looked really cute when he said something.
+1302;MARISHA;You have a lot of men who will do anything for you.
+1303;LAURA;Oh, buddy! I go and hug him really tight and scratch his ears.
+1304;MATT;You do, and avoid the little bit of--
+1305;LAURA;--vomit on, I don't even care! Oh my gosh, thank you! This is the best, this is the best and we can travel with him, we can climb with him, we can sneak around.
+1306;SAM;Hey, and if Trinket isn't in it, you can also use it to capture baddies.
+1307;LAURA;I know, it's great!
+1308;TALIESIN;And because of the way that the projection works, you could also in theory capture a baddie and then let them loose off a cliff and watch them drop.
+1309;LAURA;Oh my god.
+1310;MARISHA;Oh my god, you're right.
+1311;TALIESIN;It's very convenient.
+1312;LAURA;Oh my gosh. Okay.
+1313;MATT;So. You have a crystal, you've set a wolf on a path.
+1314;SAM;Where are we going next?
+1315;MATT;Where are you going now?
+1316;TALIESIN;Your home, I imagine.
+1317;LAURA;Don't we need to--oh, yeah.
+1318;SAM;What's our to-do list?
+1319;MARISHA;We don't have to worry about it. We can, it's fine.
+1320;TALIESIN;Fire Ashari it is.
+1321;SAM;Wait, wait, wait. What are the things that we need to do?
+1322;LAURA;We need to check in on Keyleth's family.
+1323;SAM;Cobalt Reserve, Ashari.
+1324;LAURA;Grog's family.
+1325;SAM;Did we already take care of Osysa's mate, Frostweald?
+1326;LAURA;No, but that's down--
+1327;TALIESIN;That's far.
+1328;MARISHA;That's the other Vestige, correct?
+1329;LAURA;Yes, that's over by Grog's family.
+1330;MATT;That's information about the Vestiges.
+1331;SAM;We need to steal an airship.
+1332;TALIESIN;I agree, that's still very important.
+1333;TRAVIS;I can't remember where, what--
+1334;LAURA;They were by Kraghammer.
+1335;TRAVIS;Thank you. I'm having terrible hiccups.
+1336;SAM;What about, we need to find Kaylie at some point. We also need to, who's gone, where's Allu-- where's Ki-- where's people?
+1337;LAURA;Allura should be here in like a day. She should be here very soon.
+1338;TRAVIS;What's close to here? (hiccups)
+1339;TALIESIN;Nothing's close, we're specifically far away from everything.
+1340;MARISHA;But we can go wherever we want as long as we've been there before.
+1341;TRAVIS;Well, we should definitely go to the Fire Ashari.
+1342;TALIESIN;Fire Ashari is the next--
+1343;LAURA;We should go to the Fire Ashari.
+1344;MARISHA;Oh god, I'm immediately nauseous.
+1345;MATT;(bear noises)
+1346;LIAM;That's two of us.
+1347;MARISHA;Oh, Trinket, buddy. What time is it?
+1348;LAURA;(laughs) Do you need some water?
+1349;MATT;It's still, with the travel to and from, it's middle afternoon, like one o'clock in the afternoon.
+1350;TALIESIN;Take it.
+1351;SAM;If we're going to go, do we need anything before we leave? We got everything we need? Potions and stuff? Want to buy some meat for your cooler?
+1352;LAURA;Yeah, let's get some meat.
+1353;MATT;It's pretty easy to go ahead and procure it, five gold of meat will fill that thing.
+1354;LAURA;Yeah!
+1355;MATT;So go ahead and mark five gold off your paper.
+1356;SAM;How much, could I buy a medical kit somewhere?
+1357;MATT;Yeah, you could find a general store and purchase a medical kit.
+1358;SAM;How much is that?
+1359;MATT;I'm going to look that up right now.
+1360;SAM;All right, whatever, I've got it.
+1361;TALIESIN;It's nifty that you have a book that tells you how much something like that costs.
+1362;MATT;Imagine that. It's like it's a handbook of some kind, it's crazy.
+1363;MARISHA;Does anyone have any fire-resistant items?
+1364;LAURA;He does.
+1365;LIAM;I do.
+1366;LAURA;Put it on.
+1367;MARISHA;I might pick up some fire resistant potions as well.
+1368;TRAVIS;I have this black iron plate that I haven't used ever. 'While wearing this heavy plate 'armor, the bearer gains resistance to any fire damage.'
+1369;MATT;Five gold for an herbalist's kit for you.
+1370;LAURA;Oh, plate armor, none of us can wear it but Pike.
+1371;MATT;An herbalist's kit, like five gold.
+1372;SAM;Can that stabilize people?
+1373;MATT;If used with a medicine check, yeah.
+1374;LAURA;Okay, I have this, which I can't wear.
+1375;TALIESIN;What is that?
+1376;LAURA;It's a purple and black robe. It was Lady Briarwood's robes.
+1377;TALIESIN;What does it do?
+1378;LAURA;Clings to nearby darkness as you walk.|While wearing this robe, you gain resistance to piercing damage. Anybody need pierce resistance that can wear robes?
+1379;TALIESIN;I'm pretty reasonable.
+1380;SAM;Do I wear robes?
+1381;MATT;Robes would be worn instead of your armor.
+1382;SAM;No thanks.
+1383;LAURA;What about Gloves of Missile Snaring? That appeal to anyone?
+1384;SAM;Missile snaring? What does that do?
+1385;LAURA;These gloves seem to almost meld into your hands when you don them, and when a ranged weapon attack hits you, you can use your reaction to reduce the damage by 1d10 plus your dexterity modifier provided that you have a free hand. If you reduce the damage to zero, you can catch the missile if it's small enough to hold in that hand.
+1386;TALIESIN;Does it require attuning?
+1387;MARISHA;They're pretty sleek.
+1388;LAURA;It requires two, no it just requires one free hand.
+1389;TALIESIN;Yes, but does it require attuning?
+1390;LAURA;Yes it does, it requires attuning.
+1391;TALIESIN;I might be attuned out at this point.
+1392;LAURA;Anybody? I feel like that could be cool for you, Scanlan.
+1393;SAM;I think I can take it?
+1394;TALIESIN;What's your dex? Your dexterity is not very-- actually, it might work out well for me, weirdly enough.
+1395;MARISHA;Are you fully attuned?
+1396;TALIESIN;I can undo something that I'm not using.
+1397;MARISHA;Percy, you have access here in Whitestone to alchemy supplies, correct?
+1398;TALIESIN;Matt, I have access to alchemy supplies here in Whitestone, correct?
+1399;MATT;(laughs) I mean, there are elements of your initial workshop I guess, that a lot of supplies have been cannibalized but a few things can be pieced together. Plus there was a lot of alchemical elements and tools that were utilized in the subterranean tunnels as part of the refinement process for the whitestone residuum, the large vats of acid that were distilled by the Briarwoods while they were here, and there are other elements of their own tinkering in the alchemical arts that remain scattered throughout the castle. So yeah, you can definitely find enough to tinker with if you want.
+1400;MARISHA;I mean, we could take the rest of the evening and I can attempt to make some fire resist potions.
+1401;SAM;Eh.
+1402;TRAVIS;All right, here's what I'm thinking, right? I mean, if we go after my herd, we're in for a fight. A big one. If we go to your Fire Ashari, we're doing recon and hopefully learning something, right?
+1403;MARISHA;Well, we're going to be in for a fight at the Fire Ashari as well because there's a giant sunder in the fire plane, and last time I checked there were fire imps and elementals pouring through there.
+1404;TRAVIS;Are those bad?
+1405;TALIESIN;Eh.
+1406;MARISHA;They're annoying
+1407;TALIESIN;As long as we're quick we can go about it.
+1408;MARISHA;Well.
+1409;SAM;What's our mission?
+1410;TRAVIS;You really want to get the rest of the testicles of--
+1411;MARISHA;I mean, we could theoretically see if there are survivors and I can attempt to close the tear in the plane. I don't know if I can do that. However, I don't know anyone else particularly more qualified to attempt it.
+1412;TRAVIS;Allura or that bearded dude.
+1413;MARISHA;We're talking about the Fire Ashari and possibly what to do there.
+1414;LAURA;Oh.
+1415;MARISHA;We can go and look for survivors--
+1416;LAURA;And bring them here.
+1417;MARISHA;And someone should probably close the tear in the fire plane.
+1418;LAURA;Should we wait for Allura then, before we go?
+1419;TRAVIS;Well, if there are survivors, they might not be that way for very long if we don't go.
+1420;LAURA;They've been there for a while already.
+1421;MARISHA;If there are survivors--
+1422;LAURA;Then they're surviving.
+1423;MARISHA;They've survived. I agree. It's not going to be pretty.
+1424;TALIESIN;I know you don't want to go.
+1425;MARISHA;I really don't.
+1426;TALIESIN;But we need to go. I say we take the rest of the day. You make your potions, we leave first thing in the morning.
+1427;LAURA;Wait for Allura, hopefully she'll be here by then.
+1428;TALIESIN;Maybe Allura will join us by tomorrow morning. If not, we teleport over.
+1429;MATT;Okay, you guys are going to rest for the evening?
+1430;TRAVIS;Wait, hold on, is there like a house of entertainment in Whitestone? I know it's just getting back on its feet but you know.
+1431;MATT;That would be a question more for Percival.
+1432;TRAVIS;Percy? I'm having a bit of a soul struggle and I'm wondering if I might bend your ear for a moment.
+1433;TALIESIN;Sure.
+1434;TRAVIS;Yeah, could I speak to you over here?
+1435;TALIESIN;Yes, of course.
+1436;TRAVIS;Right, so, like, I want to get my freak on.
+1437;TALIESIN;I don't feel that way about you.|(laughter)
+1438;TRAVIS;Yeah, no, I, I'm sorry.
+1439;TALIESIN;I mean, you're very attractive.
+1440;TRAVIS;That was very unclear. So I know this is like your home and stuff and you might not have been aware of it, but they have these houses where like....
+1441;TALIESIN;Oh, where you get your freak on!
+1442;TRAVIS;Yes.
+1443;TALIESIN;Yes. Yes, we have them.
+1444;TRAVIS;Oh good, do you think they're still in order?
+1445;TALIESIN;Oh, I imagine so.
+1446;TRAVIS;Could you point me in that direction?
+1447;TALIESIN;No, I have no idea where they are. I do know that they exist. I actually had things to do here. I didn't have time for these.
+1448;TRAVIS;Oh yeah, me too, important things. I was thinking for Scanlan in case he gets bored, you know, you've got to keep him focused.
+1449;TALIESIN;I wouldn't actually know where any of these places were, would I?
+1450;MATT;No, and those that did exist in this town have not been...
+1451;TALIESIN;I figured as much. I'm just fucking with him. Okay. No.
+1452;TRAVIS;Oh, okay, well, I'll let Scanlan know.|Just keep it between you and me 'cause he's very sensitive about these things.
+1453;TALIESIN;Your secret is safe with my indifference. That's fine.
+1454;TRAVIS;Well, my, my, indifference
+1455;TALIESIN;I know you do.
+1456;TRAVIS;Yep.
+1457;TALIESIN;You're wonderful.
+1458;MARISHA;Can I start telling that to people in real life?
+1459;TALIESIN;Yes you can. I do it all the time.
+1460;MARISHA;Yes. Your secret is safe with my indifference.
+1461;TRAVIS;Okay. I'm going to rest.
+1462;SAM;Before we set off on this, is there anything closer or more pressing? I don't actually know why we're going to her place, but I'm fine with it.
+1463;MARISHA;To look for survivors and close the giant tear in the fire plane that evil, well not evil, fiery entities are pouring through.
+1464;TALIESIN;It's a hellmouth, it's basically a hellmouth.
+1465;TRAVIS;It's either that or we go goliath hunting.
+1466;LAURA;That's next.
+1467;TALIESIN;But this is quick, this is something that we can knock off the list.
+1468;SAM;All right, let's knock it off.
+1469;TRAVIS;Yeah, right, let's just check it off.
+1470;LIAM;As we're walking through town, do I see any weaponsmiths?
+1471;MATT;Make an investigation check.
+1472;LIAM;Okay.
+1473;TALIESIN;I'll help you make the potions.
+1474;LIAM;21.
+1475;MATT;Okay, that'll help cut down on the time. 21? There are two functional smiths left in the town.|There were two more than that overall, that were more like blacksmithy, but they both unfortunately lost their lives in the insurrection. But there are two functional blacksmiths in this, yeah.
+1476;LIAM;And one's nearby, to pass through?
+1477;MATT;About a ten-minute diversion.
+1478;LIAM;I'm splitting off from the group.
+1479;MATT;Okay.
+1480;SAM;We've got to get out of here.
+1481;LIAM;One's in front of me now?
+1482;MATT;Well, you find your way to-- it's a small blacksmith, and most of it's outside. Though the day is growing late, you do see an older gentleman, long, tattered grey hair pulled into a very tight bun in the back and a beard that is actually tied off to the side. Otherwise it would be hanging down into his work. He's wearing soot-covered clothes, big leather apron, leather gloves, and he's currently in the process of (ping ping) turning over and hammering out a piece of orange glowing steel.
+1483;LIAM;Excuse me, sorry to interrupt, I have a very simple request.
+1484;MATT;He doesn't stop. He seems to, he acknowledges your presence but he's still working as he's listening. (smithing sounds)
+1485;LIAM;I have six gold burning a hole in my pocket.|I'm not looking for anything simple. Do you have a short sword? A regular old shortsword.
+1486;MATT;"(ting) He looks over at you. ""If that's what you're looking for, on that wall over there we've got two shortswords."" (ting)"
+1487;LIAM;What's the difference between the two that I can see?
+1488;MATT;(smithing sounds) That you can see? Make a perception check.
+1489;LIAM;22.
+1490;MATT;Looking over them both, from this distance, they're both made with different hilt designs and different pommel designs, the grips are a little different but other than that the blades are pretty much identical.
+1491;LIAM;I grab one off the wall. I slap down six gold, which I know is way too much and say, thank you sir. Pelor lives here. And I walk away.
+1492;MATT;"Okay, as you start walking away he goes, ""Hey."""
+1493;LIAM;Yeah?
+1494;MATT;"""You're going to pay proper for that shortsword."""
+1495;LIAM;Oh, I'm sorry. How much does it cost?
+1496;MATT;"""12 gold pieces."""
+1497;LIAM;My apologies. 12?
+1498;MATT;"""12 gold pieces, friend."""
+1499;LIAM;So I put down six. I put down another 14. I really apologize. I was just confused.
+1500;MATT;"""It's all right. No harm no foul."" Takes the gold and scoops it and puts it into his pouch.|""Have a good day."""
+1501;LIAM;I walk down the street going like-- it's big.
+1502;MATT;It's much bigger than you're used to, but it's got a fine balance to it and it's well-made.|All right, so as you guys have all--
+1503;LAURA;I've got an opal dagger you could have used.
+1504;LIAM;I don't need your dagger.
+1505;TALIESIN;We're going to make our potions?
+1506;MATT;Yes, yes. All right, so.
+1507;MARISHA;I have another question.
+1508;MATT;What is your other question?
+1509;MARISHA;Before we all go to bed tonight can we get like a fuckton of the green stone under Whitestone?
+1510;TALIESIN;There's really not a lot of it.
+1511;MARISHA;Say like $1,000 worth and maybe have like a real nice Heroes' Feast before tomorrow?
+1512;LIAM;Wise as fuck.
+1513;LAURA;Or in the morning.
+1514;LIAM;Heroes' Breakfast.
+1515;MARISHA;I've got to do it at night, because I have to Tree Stride in the morning.
+1516;MATT;You can choose either to create the potion or to mine the residuum for the evening. You cannot do both. Both are time, like, to pull that material from the-- because most of it that remains has been already embedded within the ziggurat beneath. You would actually have to physically chip it from the structure.
+1517;LAURA;I have a plan, Keyleth.
+1518;MARISHA;Yes?
+1519;LAURA;We will cover the 1,000 gold from our own party funds and have someone here mine some shit for us and give it to us later.
+1520;MARISHA;I like that plan, yeah. Sounds good to me.
+1521;SAM;How about the wolf?
+1522;TALIESIN;So potions.
+1523;LAURA;Percival, do you have people here who can mine? Looking for work, people--?
+1524;MARISHA;Yeah, sure, why not?
+1525;TALIESIN;I'll let them know that they should start trying to pull the residuum out of the wall, but it's dangerous down there.
+1526;LAURA;Yeah, it is.
+1527;TALIESIN;And tampering with it is definitely...
+1528;TRAVIS;Necessary.
+1529;TALIESIN;Should be ginger. It would, I'm trying to keep everything ginger down there.
+1530;LAURA;So maybe we should take 1,000 gold just from your family stores then, huh? That might be smarter.
+1531;TALIESIN;We currently have 1,000 gold from my family stores that are in the group treasury at the moment.
+1532;LAURA;Oh, we do. No, that's 500. That was just 500. Just so you know.
+1533;TALIESIN;I feel like it was more than that.
+1534;LAURA;No, it was just 500.
+1535;LIAM;Hey, de Rolo, do you remember what happened yesterday?
+1536;TALIESIN;He's not there.
+1537;LAURA;Isn't he, though?
+1538;TALIESIN;I was going to do such a nice thing for you, but never mind now.
+1539;LAURA;(laughs) No, no, no, do something really nice for me.
+1540;LIAM;Where did I go? Oh, I went to buy a shortsword.
+1541;TALIESIN;No, never mind. You went to buy a shortsword.
+1542;LAURA;Dear, dear, dear, I'm sorry. I'm sorry, I'm sorry. Do nice things. All right?
+1543;TALIESIN;I'm trying to be gentle with my family right now. They're taking on an awful lot.
+1544;LAURA;You're right. They're taking on so many people.
+1545;TALIESIN;And we'll see what we can do.
+1546;LIAM;I'd like to think you hear me in your mind.
+1547;TALIESIN;Always fucking hear you in my mind.
+1548;LAURA;Let's just use the damned party funds for the time being. It's fine, Keyleth. This is a really important feast.
+1549;TALIESIN;We're busy making potions.
+1550;LAURA;All right.
+1551;MATT;So you prepare a Heroes' Feast before you begin this potion-creation process? Is that what I understand or not?
+1552;LAURA;What?
+1553;MARISHA;Can I make some potions and then, like, I make dinner for us before we go to bed?
+1554;MATT;It's going to take you about the length of a day to create the potion, with his help it takes it to about half, so it'll be about 12 hours of creating. Eight to 12 hours. So.
+1555;TRAVIS;Pick one.
+1556;TALIESIN;Pick one.
+1557;MARISHA;I'll do a damn feast.
+1558;TALIESIN;No potion?
+1559;MATT;You can do the potion as well. The feast only takes a moment to cast.
+1560;MARISHA;All right, okay. Yeah.
+1561;MATT;I'm just saying, be aware that you guys will probably have, if you want to get a full rest after that potion creation process, you're going to have to wait until like this time tomorrow, like late in the day to make your journey. Which is fine, if you're willing to be patient about it.
+1562;TRAVIS;Sure.
+1563;MATT;Yes, no?
+1564;TRAVIS;Say one, just say one.
+1565;MARISHA;Yeah, let's do it, let's do it. Let's go in prepared and then we can always rest on that side.
+1566;MATT;Cool. For a fine, fine dinner.
+1567;LAURA;Just want to make sure we feast right before we leave so that it's most useful.
+1568;MATT;All right, so. You, everyone else goes to sleep while you and Percy work tirelessly through the night. If I could have you--
+1569;LIAM;Fuck!
+1570;MATT;(laughs) Just for the sake of it, I want you to go ahead and make an arcana check.
+1571;MARISHA;Aw, an arcana? Do I get advantage because of my little skill in alchemy? I'm skilled in alchemy.
+1572;MATT;Yeah. Oh, that's right you are, never mind, go ahead and do that.|Proficiency bonus, are you proficient in alchemy?
+1573;MARISHA;Yeah.
+1574;MATT;So proficiency bonus, and for this, use intellect modifier.
+1575;MARISHA;Okay. Intellect, which makes it plus seven. Do I have advan-- ooh, I rolled a natural 19.
+1576;MATT;Okay. We'll say, for the fair cost of, reduced due to the roll, 450 gold pieces, you create a potion of resistance of your choice of resistance.
+1577;MARISHA;Just one?
+1578;MATT;Just one.
+1579;MARISHA;Fire.
+1580;MATT;It takes a long time, man.
+1581;MARISHA;Fire!
+1582;MATT;Fire, all right. You create a potion of fire resistance. The materials cost you 450 gold to create, you finish it by about sunrise the next day. Everyone else begins slowly waking up after the night's rest as you guys both, bags under your eyes.
+1583;LAURA;Oh, that was a good night's sleep, I tell you what.
+1584;TRAVIS;Seriously.
+1585;SAM;Keyleth, could you--
+1586;MARISHA;What? Oh, god, you snuck up on me.
+1587;SAM;Could you make me some tea real quick?
+1588;MARISHA;Scanlan.
+1589;SAM;What?
+1590;MARISHA;Go fuck yourself.
+1591;SAM;What, you were up before me, I thought--
+1592;TALIESIN;All right. All right, this is fine.
+1593;MARISHA;This is fine.
+1594;TALIESIN;This is good.
+1595;MARISHA;This is great.
+1596;MATT;You're doing a Heroes' Feast for breakfast, then? Is that how it's working?
+1597;MARISHA;I'll take a nap. I'll cook breakfast, guys, good morning. Good morning!
+1598;LAURA;Oh hey, good morning, Keyleth!
+1599;SAM;Why don't you sleep during the day, we'll all take our feast, and then blast off at night time?
+1600;MARISHA;Because I have to teleport and cooking this feast are both 6th-level spells and I can only do one of those a day.
+1601;TRAVIS;Man, it's hard being a druid.
+1602;LAURA;Can anybody else make a feast? That's here?
+1603;MARISHA;Pike. Pike. Pike?
+1604;SAM;She's with Gilmore.
+1605;TRAVIS;She's not here.
+1606;LAURA;(sighs) I miss Pike.
+1607;LIAM;We all miss Pike.
+1608;MARISHA;I'll cook breakfast, guys.
+1609;LAURA;No, I'll cook breakfast. No, I won't cook breakfast.
+1610;LIAM;That's a good idea, for you to not cook breakfast.
+1611;MATT;What's the plan?
+1612;MARISHA;I'm cooking breakfast!
+1613;MATT;Are you cooking breakfast or are you summoning breakfast? That's my question.
+1614;LAURA;Are you summoning breakfast and then you're sleeping and then we're leaving?
+1615;MARISHA;I'm summoning-- yes, I'm summoning breakfast and then I'm sleeping.
+1616;LAURA;And then you're sleeping and then we're leaving as soon as you wake up.
+1617;MATT;Okay, that's what I was wondering. We got the answer, okay, cool. Hoo, today's been a slog.|All right, so you go ahead and you use Heroes' Feast, summoning forth a fantastical breakfast meal filled with coffee and eggs and everything you would hope for, the finest materials.
+1618;LAURA;Froot Loops!
+1619;MATT;(laughs) Sure, Froot Loops is on the menu, why not?
+1620;TALIESIN;Lucky Charms.
+1621;MATT;No Lucky Charms, sorry, those aren't available on Tal'Dorei. But yes, all you guys take an hour to finish devouring this, you finish your meal, all you guys get a 2d10 hit point maximum increase to your hit points.
+1622;LAURA;Ooh, ooh, greens, greens!
+1623;MATT;And immune to poison, frightened, and all wisdom saving throws have advantage.
+1624;TRAVIS;Damn!
+1625;SAM;Advantage on wisdom.
+1626;MATT;Yes, the usual.
+1627;TRAVIS;Almost broke.
+1628;MARISHA;And wisdom.
+1629;LAURA;And you're immune to fear, right?
+1630;MARISHA;Immune to fear, poison, and what else?
+1631;MATT;And you get advantage on wisdom saving throws.
+1632;SAM;Okay.
+1633;MATT;After which, Percy and Keyleth pretty much fall asleep at the table as it vanishes and they both collapse to the ground, eggs out of the corner of their mouth. Eventually they make themselves back up to sleep and the rest of you guys peter around for the remainder of the day while they get their full rest. It now comes to, at the end of that eight-hour period of time, I'd say about three, four in the afternoon before they finally wake up. You've restored your spells.
+1634;MARISHA;Yay!
+1635;MATT;And the rest of you are ready to go about your business.
+1636;LAURA;Let's go, let's go, let's go.
+1637;LIAM;Wait! While they're sleeping, right--
+1638;MATT;Mm-hmm?
+1639;LIAM;I take Scanlan aside.
+1640;MATT;Okay.
+1641;SAM;Oi.
+1642;LIAM;Hey, buddy.
+1643;SAM;Hey, friendo.
+1644;LIAM;Yeah.
+1645;SAM;What's up?
+1646;LIAM;We don't talk a lot.
+1647;SAM;Well, we start to and then you leave the room, usually.|(laughter)
+1648;LIAM;I don't handle personal emotional confrontation very well.
+1649;SAM;It's okay. I walk away.|(laughter)
+1650;MARISHA;Oh, shit!
+1651;SAM;Then I come back, I feel bad.
+1652;TALIESIN;No, no, that was perfect.
+1653;LIAM;Where did you go?
+1654;SAM;Just kidding, just kidding.
+1655;LIAM;Pull up a chair, sit down, I want to ask you something.
+1656;SAM;I'm already as low as I can go.
+1657;LIAM;You're right. How do you do it?
+1658;SAM;How do I do what?
+1659;LIAM;How do you do it? You're risking your life as much as anyone in this group, you're almost dying every day. You're fucking smiling all the time. How do you do it? I'm kind of asking as Liam to Sam as well, but mostly as Vax to Scanlan. How do you do it? You almost died yesterday as well.|Or two days ago, fuck. Why do you do it?
+1660;SAM;Well, Vax. I don't know, I mean, I like you people, okay? Everything before this was not as good. This is better. That's why. It's very simple. You had a shitty childhood, didn't you? You and the sister?
+1661;LIAM;Yeah.
+1662;SAM;I think Grog had some troubles. We've all had our share of shit before we all met. Now we're together, we're a family, this is better. That's how I smile. It's better than it was before.|That's it.
+1663;LIAM;We're probably going to die in the next month.
+1664;SAM;Yes, but it's fun while it lasts.
+1665;LIAM;All right. Thought I might--
+1666;SAM;Glean some wisdom?
+1667;LIAM;Yeah, but I'm just as confused as before.
+1668;SAM;Listen, I'm older than you.
+1669;LIAM;How much older?
+1670;SAM;A bit. I've seen more than you have. And it's all shitty, so it just depends on how you look at it. You can dwell on the shit, or you can just leave it behind in people's beds and keep going.
+1671;MARISHA;Oh god, that works on too many levels.
+1672;TALIESIN;Oh god, that's too deep.
+1673;MARISHA;Too deep.
+1674;LIAM;You did that. Water under the bridge.
+1675;SAM;I walk away.
+1676;LIAM;That little motherfucker shit in my bed.
+1677;MATT;"All right. As you regather your will, path chosen; Keyleth, do you wish to prepare the transportation spell?"
+1678;MARISHA;Yeah.
+1679;TALIESIN;Let's do this.
+1680;MATT;All right. All of you gather and find your way down to the Sun Tree in the center of the town. At this point, it's later afternoon, you've been growing accustomed these past few days of taking action right around dusk, and as the sky turns from a blue to a bit of an orangish hue, you all find yourselves ready to transition back over to the continent of Issylra.
+1681;MARISHA;Let's go. To the Sun Tree.
+1682;MATT;Keyleth steps forward, touches her hand to the Sun Tree, completes her mental incantation, and you watch the trunk once again tear open into the somewhat oval walkway into the tree itself. On the opposite side, what's your destination?
+1683;MARISHA;Oh, god. As close as I can get to the Fire Ashari, I guess.
+1684;MATT;Okay. You recall, passing through, there were a number of trees towards the base of the mountain that were starting to grow petrified from the proximity to the ash that constantly falls from the sky. They died a long time ago and are slowly beginning to petrify. As the portal opens up on the opposite side, you can see beyond that the dark rock that formulates that mountain range.|At the same time, you can see a dull orange glow, and you all begin to step through in rapid succession, Trinket racing up after Vex. All of you find yourself stepping out the other side, at which point you look up and you can see the pathway that you took towards the top of the mountain where the Fire Ashari called Pyrah, where they maintained their ever-vigilant watch on the tear into the fire elemental plane. What you do notice immediately is that the path that you took initially is no longer a simple walkway. Against the now very dark sky, this side of the realm itself, night is, actually, no, sorry. At this point, you've actually beaten the sun.
+1685;MARISHA;Oh, do we gain a few hours?
+1686;MATT;Yeah, you guys have gained a few hours, technically.
+1687;MARISHA;Awesome.
+1688;MATT;So it's still light in the sky from other parts in the distance, however, there is a perpetual dark cloud of smoke and actual storm cloud gathering across this mountain range. As you recall the first time you were here, that's the nature of Pyrah, it's always under this thick, heavy, soot-and-ash-filled cloud cover. The pathway that winds up the mountain, though, is instead a glowing orange mass of slowly dribbling molten rock that has filled that entire walkway, and it has come to rest at the base of the mountain where it has gathered and begun to cool.|You guys are hundreds of feet off from this point as you step out of the tree. However, where you see the molten rock has reached the base of the mountain, you-- it's cooled and formed into solid rock at its base, and you start seeing flashes of the orange turning dark, then another section turns dark from the opposite side. And then a few moments pass and you can see the orange of the next section, up in like ten-foot segments, it's going dark and hardening on its own. You get the sense that your arrival did not trigger this more than it has been happening since before you arrived.
+1689;MARISHA;Can I do a nature check to figure out what's up?
+1690;MATT;Sure. Actually, this would be a perception check to see if you can ascertain.
+1691;MARISHA;16.
+1692;MATT;16. It's difficult to make out at this distance, but you can see, along portions of the jagged mountainside, a collection of small figures that are making their way up the mountain, and their slow ascent is met with the lava flow cooling in sections.
+1693;MARISHA;Do they look like people, like humanoids?
+1694;MATT;It's hard to tell from this distance, they look human-ish, humanoid-ish.
+1695;TALIESIN;I attempt to use the optics on my gun to get a better look at them.
+1696;MATT;Sure, go ahead and make a perception check.
+1697;TALIESIN;18.
+1698;MATT;18. A little bit of a clearer look through, they do appear to be humanoid. You do see two arms, two legs. You can't gauge size comparison from this distance.
+1699;SAM;How far?
+1700;MATT;At this point, they're probably a good 800 feet up the mountain.
+1701;MARISHA;800 feet?
+1702;TALIESIN;Are they dressed like the Ashari that I've met?
+1703;MATT;From what you can make out, their color palette shifts, there are reds and browns, some stand out as an aquamarine white. The Ashari you saw were a pretty consistent color palette. This is a little more varied.
+1704;TALIESIN;I don't know who these people are.
+1705;MARISHA;They could still be Ashari. Just in their elemental forms. Are there any birds around? I look up, do I see birds in the sky?
+1706;MATT;There are no birds in the sky.|Unfortunately, because of the nature of this area, especially as the oppressive fumes and dust continue to pour off from the top of the caldera of this mountain range, it has made it not fitting for any sort of aerial life that you're used to seeing. You glance around for about a minute or two and you don't see any sort of bird life in the air.
+1707;TRAVIS;Did the ground cool where they were walking? Could we follow them up?
+1708;TALIESIN;We should.
+1709;MARISHA;Let's stay far behind. Let's go quietly.
+1710;LAURA;Let's walk. Stealth? I cast Pass Without a Trace on all of us.
+1711;MATT;Okay. Everyone make a stealth check, including Trinket.
+1712;TRAVIS;You don't want to put him in the thing?
+1713;SAM;You could.
+1714;LAURA;(gasps) Okay.
+1715;LIAM;Try it out.
+1716;LAURA;I put it on a string so I could put it around my neck because it's a necklace because it's cooler that way.
+1717;MATT;Well, it has a chain on it that it came with.
+1718;LAURA;It's got a chain on it, so it's around my neck.
+1719;MATT;All right, so you take it, you put--
+1720;SAM;It has a chain and a string now.
+1721;MATT;Chain and string.
+1722;MARISHA;The string's so you don't forget.
+1723;MATT;Exactly. You trigger the necklace, pointing it in the direction of Trinket, and once again Trinket is absorbed into the crystal, vanishing within the inside. All right.
+1724;TRAVIS;17.
+1725;MATT;17.
+1726;SAM;Pass Without a Trace is--?
+1727;TRAVIS;Plus ten. I rolled shitty.
+1728;LAURA;30.
+1729;LIAM;35.
+1730;MARISHA;32.
+1731;TALIESIN;29.
+1732;SAM;25.
+1733;MATT;Okay. You guys begin making your trek up.|How are you going up the mountain? Are you scaling the cooled flow?
+1734;MARISHA, TRAVIS;Yeah.
+1735;MATT;That's probably the safest route given the fact that most of the other side of the mountain range itself is pretty jagged, and elements of it, because of the formation of this giant volcanic caldera, there are portions of broken stone and obsidian glass that sticks out the side.
+1736;MARISHA;As we're walking up, I fall behind and I slip Vax the potion of fire protection.
+1737;MATT;All right. You guys continue in pace with this, eventually, and make another perception check?
+1738;MARISHA;Much better, that's a natural 19. 30.
+1739;MATT;30. Okay. Looking up, as this cluster of individuals makes their way towards the very top of the mountain, seemingly not taking sight of your traveling group, you're beginning to see the nature of each section of this flow cooling. And what you're seeing is the group will move up a bit, stop, and there appears to be a burst of-- sometimes it looks like very strong wind, sometimes it looks like a very localized sleet storm that is brought against the side of the mountain and is actually forcefully cooling the flow down temporarily, at least in those sections, before it begins to spill over and continue its slow molten descent, but they're doing their best to continue to force it back up the mountain and--
+1740;LAURA, MARISHA;Those are druids.
+1741;MARISHA;I cast Skywrite in the clouds above us, in the smoke.
+1742;MATT;Okay.
+1743;MARISHA;And I write--
+1744;LAURA;"""So, how are you guys doing up there?"""
+1745;TALIESIN;"""Hi."""
+1746;MARISHA;"""Hi. Hey you guys."" I write, in druidic symbols, ""Keyleth, Kaitiaki."""
+1747;SAM;What's that? Is that her?
+1748;MATT;"Okay. You notice the pace in which this group has ascended comes to a halt at the very, very top of the mountain range where it ends, and there's a slight pause before the clouds shift a second time and it says, from what you understand, ""Kaitiaki. Survivors remain, Keyleth."""
+1749;MARISHA;"And I respond with, ""Help has arrived."""
+1750;SAM;You guys are texting?
+1751;MARISHA;(laughs) Yeah.
+1752;MATT;Druid texting.
+1753;LAURA;What are you saying?
+1754;TALIESIN;Stop looking at your phone.
+1755;LAURA;What do they say?
+1756;SAM;Why don't we go over there and talk to them?
+1757;MARISHA;They're survivors.
+1758;TRAVIS;Well, let's go.
+1759;LAURA;Are they nice?
+1760;MARISHA;They're survivors. What does it matter?
+1761;TRAVIS;And we go.
+1762;MARISHA;"Let's go. And I tell them, you know, ""Arriving. Stand down. Here we come."""
+1763;TALIESIN;"""Lol."""
+1764;MARISHA;"""Lol. Winky-face."""
+1765;LIAM;As we travel, because I was too out of it to respond and she's way ahead, I take the potion that Keyleth gave to me, because she didn't have to, I've got the David Bowie armor on now.
+1766;MATT;You did don it. Okay.
+1767;LIAM;Yes, yeah. Before going to bed.
+1768;MARISHA;Oh you did, okay.
+1769;LIAM;And I press it into Vex's hand.
+1770;MATT;Okay.
+1771;LAURA;Hey, I took your, all right, I'm going to take it.
+1772;MATT;What was your choice of resistance? I assume it was fire. Okay. All right. As you guys progress up, and it is, though it is a safe route, it is still a relatively steep incline and you're all having to work together to find handholds, and it is very arduous physically getting up there. I would like everyone to go ahead and make a constitution saving throw.
+1773;SAM;Oh, shit.
+1774;LAURA;A constitution?
+1775;MATT;Yes.
+1776;LAURA;Oh, do we get advantage because of the feast?
+1777;TRAVIS;No, that's only wisdom.
+1778;LAURA;Shit.
+1779;LIAM;Come on, Colville meteorite die.
+1780;TRAVIS;17.
+1781;LIAM;I'm so weak.
+1782;LAURA;Come on, jade.
+1783;LIAM;Natural 20!
+1784;LAURA;You motherfucker!
+1785;LIAM;Thank you, Matthew Colville.
+1786;LAURA;I'm rolling my giant jade dice, because it's green.
+1787;TRAVIS;Way to announce it.
+1788;LAURA;Womp-womp. Oh, that's a six.
+1789;TRAVIS;(laughs) You're fucked.
+1790;MARISHA;20.
+1791;TALIESIN;13.
+1792;SAM;Five.
+1793;MATT;Okay. As you guys begin to get partially up the mountain, the proximity of the heat from the-- because the exterior of the rock has cooled, but it's still molten beneath and there are parts of that are still cracking open, and bits of the heat are still pouring through, plus the general physical exertion from the not-very-hardy physiques of both Vex and Scanlan, you both suffer one level of exhaustion from the ascent up the side of this mountain.
+1794;LAURA;Oh, Trinket's in his thing, he's not worried at all.
+1795;TALIESIN;I don't actually know what one level of exhaustion is.
+1796;MATT;You guys have disadvantage on ability checks. All your skill checks right now, until your next long rest, are at disadvantage.
+1797;TRAVIS;Levels of exhaustion suck.
+1798;SAM;Not saving.
+1799;MATT;However, as you guys are approaching towards the top, you can see now the humanoids that were at the top of this mountain crest have been since keeping the flow at bay and each time it begins to crest over again and continue its flow, it's blasted again from the side and cools and it's building this very, very slow gradual outcropping--
+1800;MARISHA;I use my cantrip Gust and cool areas alongside as we ascend.
+1801;MATT;Okay. You glance up and you now have a better view of this group, and what you do see ahead of you, specifically Keyleth, appears to be a cluster of about eight or so Fire Ashari-dressed individuals. You can't make out their physical details yet. Along with five other entities that are dressed in the colors and vestments of those from Zephrah.
+1802;MARISHA;Oh shit!
+1803;TRAVIS;From who? From what?
+1804;LIAM;What's the matter?
+1805;LAURA;What's up? What's happening?
+1806;MARISHA;I run up.
+1807;MATT;Keyleth goes running up.
+1808;MARISHA;You said seven or eight from Zephrah?
+1809;MATT;There are five from Zephrah.
+1810;LAURA;Are we going to, we're going to follow?
+1811;LIAM;Yeah, I'm breaking out of stealth and running.
+1812;TALIESIN;Ah. Yeah. No. We're running now.
+1813;LAURA;I walk. I'm pretty tired. You and me. Let's just walk.
+1814;SAM;Yeah. You can carry me.
+1815;TALIESIN;Cardio. God.
+1816;MATT;"Okay, it takes a while to get up there. As you guys begin to approach, a little bit behind Keyleth, and you look, you see the only two notable Fire Ashari that you see there are Nastoen, which is a human female that you saw was one of the four that first greeted you as you approached Pyrah when you got to the mountaintop.|She looks a little rough, but she's definitely in one piece. The other one that greets you, and immediately you recognize as Flamespeaker Cerkonos, who currently does not have his right arm. It is charred and is, through some semblance of flame, cauterized to where he no longer has a shoulder and part of his torso is a black mass of burnt skin, probably intentionally, but as you approach he puts his hand out and goes, ""Hail, Keyleth."""
+1817;MARISHA;Hail, Cerkonos. And I run up and give him a hug.
+1818;MATT;He pats you on the back and there's a coldness to his look, his expression. You can see in a brief instant, though there is strength and determination, there is a moment as he looks into your face that you can see the sorrow of losing most of his people.
+1819;MARISHA;And I look back at him and I say: I'm so sorry.
+1820;MATT;"""This is not your fault. We had this coming.|We are the able-bodied few you see."""
+1821;MARISHA;Are these all that have survived?
+1822;MATT;"""We are 25 living. The rest reside at the base of the mountain, to be watched, or are the watchers. But our attrition is of our own making.|We helped outsiders too long ago."""
+1823;MARISHA;What? What do you mean, like, how long ago? 12, 15 years?
+1824;MATT;"""We helped seal a drake in this rift."""
+1825;LAURA;Thordak.
+1826;MATT;"""That is the name they call him. We helped bring and bind the beast to this rift, sealing within it the heart of a primordial flame, one of the few pure essence crystals of our plane. Such a binding will not allow it to leave. It is a punishment for the most terrible of evils that the Ashari take under their order. We carved from the crystal in bind. This beast was too strong and took the entire crystal, but it seemed enough. It seemed enough."""
+1827;MARISHA;Cerkonos, it's not your fault. There are greater forces at work here, beyond us. That's something that I am desperately trying to reassure myself of every day.
+1828;MATT;"And a voice comes up from over the mountain range, raspy, older, and with a casual importance to it, and it says, ""So, are you claiming some semblance of dealing with this?"" And as it steps over, the face looks down with recognition. ""My god. Keyleth."""
+1829;MARISHA;Who are you?
+1830;MATT;"You guys look up and you see long, silver-haired half-elf in later years dressed in the blue and white robes of the Air Ashari. You see before you Korren, your father. ""You live."""
+1831;MARISHA;Dad!
+1832;MATT;He steps forward and goes in, as he steps away from Cerkonos, takes you in his arms and holds you extremely tight against him.
+1833;MARISHA;I'm sorry I didn't check in sooner. I didn't want you to be disappointed.
+1834;MATT;"""Shh."" He puts his finger up to your lips, holds you back and looks you over and with a smile on his face, you can see the hardness of his expression fade. ""Keyleth, you've grown."""
+1835;MARISHA;A lot's happened.
+1836;MATT;"""You look just like her."""
+1837;MARISHA;I haven't found Mom.
+1838;MATT;"""Her path was her own. I'm just glad that you have maintained yours."" He wipes the tear from your face and says, ""How goes the Aramente?"""
+1839;MARISHA;Well.
+1840;LAURA;She's kicking ass.
+1841;MATT;"""Good. Good."" And he places his thumb at the corner of his eye. ""We were called naught but a day ago by the surviving Pyrah. Told of the angry mountain and the terrible drake that sundered the rift. I helmed the team while the majority of our people stayed to keep Zephrah cloaked and safe from the marauding beast. We've only just made our way up the mountain. Your arrival is quite fortuitous, as we need all the help we can get."""
+1842;SAM;How can we be of assistance?
+1843;MATT;"""Come. See what remains of Pyrah."" He turns around and walks back over towards the top of the mountain."
+1844;MARISHA;Daddy.
+1845;MATT;"He stops. Looks over his shoulder towards you. ""Yes?"""
+1846;MARISHA;It's good to see you again, father.
+1847;MATT;"""It's good to see you as well, daughter. Now come. Show me what you've learned."" Goes back to walking. The rest of the Fire Ashari stand up, acknowledge and recognize those of you that stand here before, visiting once before. Cerkonos looks about. ""You show strength and honor by coming here in our time of need. This will not be forgotten.|Now come."" As you follow them up over the top of the mountain, you see once again before you the caldera of this once-volcanic mountain has been blown apart in areas. You can see sections of large black stone that are now pushed up into jagged obelisks where once was a relatively smooth blackened shale countryside. You can see there are pits of molten rock that have been punched through the floor and have gathered into these pools where the air above is slowly shifting and warped by the heat that is now released above the mountaintop.|The flow of lava that descends down the side of this mountain continues and swells and heads inward towards the Cindergrove. The Cindergrove, from what you can see from this distance, is but a fraction of what was once there, most of the trees now torn apart and scattered amongst the top of this mountain. You can see bits and pieces of the various petrified trees thrown hundreds of feet from the center. There are still standing, defiant trees amongst what once was the Cindergrove, but they are very sparse, many of them now blackened by what you can see in the very distance beyond the broken huts and homes that once held the Pyrah, you can see in the distance moving, glowing dots of various elemental energies spiraling outward from a very large central red rift that sits there pulsing and pulsing with bright, almost sunlight energy. It's like staring into the sun at the very zenith of its movement. You have to avert your eyes even staring towards this rift, now a good 30, 40 feet taller than it was when you last returned here. What was once the portal in the ground has now ruptured and is emerging, slowly piercing out of the top of this mountain.|Undaunted, your father and the other Ashari continue walking forward with no words."
+1848;LAURA;I rush forward a little bit to talk to him.|Question. Your majesty? I want to help, we all want to help as much as possible, but I don't know any magic. Most of us don't. Are we going to be able to do anything?
+1849;MATT;"""Well, I certainly hope so. If you've survived this long with my daughter, you've picked up a few tricks."""
+1850;LAURA;Well, that I have.
+1851;MARISHA;Father, I wouldn't be here if it wasn't for these people. They are the most capable that I know.
+1852;MATT;"""This is good. Because that's who we need right now."""
+1853;MARISHA;However, since we're druids, we're a little bit more, you know. Geared. Prepared to deal with the fire. I can cast Protection from Energy on a couple of these people, if you wouldn't mind maybe grabbing the other two?
+1854;MATT;"""I will do what I can."""
+1855;MARISHA;And I cast Protection from Fire on Percy, you have it, you have it, do you have it?
+1856;TRAVIS;Well, I really don't even know what I'm going to do here.
+1857;MARISHA;Well, it's going to protect you from fire.
+1858;TRAVIS;Okay.
+1859;MARISHA;Scanlan?
+1860;SAM;Hit me, babe.
+1861;MARISHA;I'll do Percy and Scanlan. Father, can you--?
+1862;MATT;It's a concentration spell, so you can only really have one person going, and that's your concentration.
+1863;MARISHA;Can only have one person going.
+1864;MATT;Yep.
+1865;TRAVIS;Well, good.
+1866;MARISHA;I could cast it at higher levels. Can I cast it at higher levels?
+1867;TRAVIS;I'll take a mulligan on this one.
+1868;MARISHA;Can't do that with this one? Fuck.
+1869;LAURA;Do Scanlan. Do Scanlan.
+1870;SAM;No, I'm fine, don't worry about me.
+1871;MARISHA;Well, I'm going to cast it on myself, for starters. Because I want it.
+1872;LAURA;All right.
+1873;MARISHA;So I'm going to cast Protection from Fire on myself.
+1874;LAURA;What does a potion of fire resistance do?
+1875;LIAM;Halves.
+1876;LAURA;The same thing?
+1877;LAURA, MARISHA;Halves all fire damage?
+1878;LAURA;Okay.
+1879;MATT;All right. As the cluster of you begin stepping deeper into the caldera, you begin to approach the outskirts of the remnants of the Pyrah tribe's homestead. You can see where most of it has been either completely burnt to a cinder or lies tattered by some great force, shattered. And you start, as you're walking through, you can see where the landscape itself, all the jagged bits of black obsidian glass are shooting up out of the ground and there's broken pieces of the dark rock and volcanic material, and it isn't until your eyes begin to focus that you realize that elements of this rock is not rock at all but the twisted and charred remains of the Pyrah that didn't escape in time, blending in with the ground and landscape surrounding. The rest of the Ashari continue pushing forward, not taking notice, focused, as before you, you can see the rift, still blinking ever-bright, in the center of the remains of the Cindergrove. You steel yourselves.
+1880;MARISHA;I turn and I look at them and nod and follow in my people's footsteps.
+1881;MATT;And that's where we'll end tonight's session.
+1882;TRAVIS, LAURA;Oh shit.
+1883;TRAVIS;Okay. We're cooking with gas now.
+1884;LAURA;As Marisha collapses in a pool of tears.
+1885;TALIESIN;Cry more, cry more!
+1886;MATT;You knew this was coming.
+1887;LAURA;Yeah, man. You're going to have a headache tomorrow, dude.
+1888;MARISHA;I'm so tired. I'm tired.
+1889;LAURA;Aw, we've got exhaustion, Sam. That's balls.
+1890;SAM;Yeah, that's not great.
+1891;LIAM;Thanks for tuning in to Therapy Thursday, everyone.
+1892;TRAVIS;Where we take shits and talk to swords.
+1893;LAURA;There you go.
+1894;MATT;Got a little bit of column A, little bit of column B, we got some drama, we got some personal issues, we got some reunions, we got some hardships, we got--
+1895;TALIESIN;Wild animals.
+1896;LAURA;Yeah, so many things!
+1897;MATT;And a travel method for Trinket.
+1898;LAURA;Oh my god, I'm so excited about it!
+1899;MATT;I wasn't sure how you guys were going to use that one, as soon as you mentioned it I was like, all right, that's what they're doing. That's a way to do it. Yeah. Well cool, guys, we'll be back next week Thursday with Chris Hardwick, who will be joining us as a guest.
+1900;LAURA;Yay!
+1901;MARISHA;How is he going to be here?
+1902;TALIESIN;As himself. He's going to be playing himself, it's going to be very exciting.
+1903;TRAVIS;Guys, I'm a human. Usually.
+1904;LIAM;I'm super busy, I'm super busy.
+1905;TALIESIN;Out of the rift suddenly comes Chris Hardwick.
+1906;MARISHA;Super busy, but I'm super successful.
+1907;LIAM;I'll help save the world, but I got like 50 things on my schedule.
+1908;MATT;Yeah, so we'll be back then. I think April 21st is going to be our 50th episode. We're going to be doing a fun little evening there.|We'll have Critmas coming up, probably end up being that night, maybe another night that week, we'll have details coming up soon, we're trying to figure out the schedule on that. This'll be our big 50th anniversary Critmas blowout, and then we're going to scale it back to like an annual-type event it looks like, both to save the people who work this channel Thursday nights and stay super later to get here, to save the length of the episodes, and to help all of us who have to then go to work sometimes very early the next morning.
+1909;LIAM;We love you, but I need to sleep. It's as simple as that. We love you, and we love Critmas, but it's a health thing.
+1910;MATT;So what we'll be doing is this will be our big blowout Critmas, we'll still do it probably for the holidays, and we really implore you guys to give to charities, send us stuff, we still read them, we'll still do Periscopes, those of us who get gifts, some of us will open them on Periscope for you, so we'll still have the interaction, we'll have to do it on our own time and not at 11, midnight.
+1911;TRAVIS;12, 12:30.
+1912;LIAM;12:37.
+1913;TALIESIN;On a 7AM call.
+1914;MATT;So this'll be our big general blowout. So if you're planning something for the next Critmas, this'll be the one to get it in for. But yeah, you can check out the guide to Critmas on Geek & Sundry, it has a list of all our supported charities if you want to give there. It's highly recommended. Thank you guys so much for those who donated to 826 tonight so we can go ahead and help out the Seattle branch.
+1915;MARISHA;826 Seattle! We love you.
+1916;MATT;And yeah. Do we have anything else?
+1917;ALL;Happy St. Patty's Day.
+1918;LAURA;You guys are hopefully sitting at home being very good.
+1919;LIAM;For fuck's sake, take an Uber.
+1920;MATT;All right, guys. Well, have a wonderful night, and is it Thursday yet? Bye!

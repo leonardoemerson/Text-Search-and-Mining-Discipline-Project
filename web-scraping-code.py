@@ -1,62 +1,61 @@
-#importing libaries
 import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+from tqdm import tqdm
 
-#url used to web scraping
-url = "https://criticalrole.fandom.com/wiki/Arrival_at_Kraghammer/Transcript"
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
+    (KHTML, like Gecko) Chrome / 86.0.4240.198Safari / 537.36"
+}
 
-#headers - key-value pairs sent between clients and servers using the HTTP protocol
-headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
-    (KHTML, like Gecko) Chrome / 86.0.4240.198Safari / 537.36"}
+print("Getting the list of episodes...")
+main_url = "https://www.kryogenix.org/crsearch/html/index.html"
+site = requests.get(main_url, headers=headers)
+soup = BeautifulSoup(site.content, "html.parser")
+episodes_list = soup.find_all("a", href=re.compile("cr1-"))
+episodes_url = [episode["href"].replace(".html", "") for episode in episodes_list][::-1]
+print(f"Found {len(episodes_url)} episodes, starting to scrape...")
 
-#getting site with requests lib
-site = requests.get(url, headers=headers)
+for episode_name in tqdm(episodes_url):
+    url = f"https://www.kryogenix.org/crsearch/html/{episode_name}.html"
 
-#parsing site content with beautifulsoup lib
-soup = BeautifulSoup(site.content, 'html.parser')
+    # getting site with requests lib
+    site = requests.get(url, headers=headers)
 
-#dictionary to stores the data needed
-dic_transcriptions = {'Transcription_Id':[], 'Player_Name':[], 'Transcription_Text':[], 'Stage_Of_The_Game':[]}
+    # parsing site content with beautifulsoup lib
+    soup = BeautifulSoup(site.content, "html.parser")
 
-#filtering the html section necessary
-main = soup.select("main", class_=re.compile('page__main'))
+    # dictionary to stores the data needed
+    dic_transcriptions = {"Player_Name": [], "Transcription_Text": []}
 
-#getting the stage of the game
-spans = []
-for tag in main:
-    spans.extend(tag.find_all('span', class_=re.compile('mw-headline')))
+    # find div with id "lines"
+    main = soup.find_all("div", id="lines")
 
-#getting the transcription messages
-transcriptions_list=[]
-for span in spans:
-    transcriptions = span.find_all_next('p')
-    transcriptions_list.append(list(transcriptions))
+    # for each tag
+    # check if dt or dd
+    # if dt, save the name of the player
+    # for every dd, save the text of the transcription
+    current_line = 0
+    for tag in main[0]:
+        if tag.name == "dt":
+            player_name = tag.get_text().strip().replace("# ", "")
+            dic_transcriptions["Player_Name"].append(player_name)
+            current_line += 1
+        elif tag.name == "dd":
+            transcript = tag.get_text().strip().replace(" →", "")
+            if len(dic_transcriptions["Transcription_Text"]) < current_line:
+                dic_transcriptions["Transcription_Text"].append(transcript)
+            else:
+                last_index = current_line - 1
+                dic_transcriptions["Transcription_Text"][last_index] += "|" + transcript
 
-#removing intersections
-for i in range(0, len(transcriptions_list)-1):
-    transcriptions_list[i] = [x for x in transcriptions_list[i] if x not in transcriptions_list[i+1]]
+    # converting dictionary to dataframe
+    df_episode = pd.DataFrame(dic_transcriptions)
 
-#getting the text from tags and constructing dictionary
-id_count = 0
-for i in range(0, len(transcriptions_list)):
-    for j in range(0, len(transcriptions_list[i])):
-        transcriptions_list[i][j]= transcriptions_list[i][j].get_text().strip()
-        dic_transcriptions['Transcription_Id'].append(id_count)
-        dic_transcriptions['Transcription_Text'].append(transcriptions_list[i][j])
-        dic_transcriptions['Stage_Of_The_Game'].append(spans[i].get_text().strip())
-        dic_transcriptions['Player_Name'].append(transcriptions_list[i][j].split(':')[0])
-        id_count+=1  
-
-#converting dictionary to dataframe
-df_arrival_at_kraghammer = pd.DataFrame(dic_transcriptions)
-
-#generating csv from dataframe
-df_arrival_at_kraghammer.to_csv('./arrival-at-kraghammer-transcript-corpus.csv', encoding='utf-8', sep=';')
-
-
-
-
-
-
+    # generating csv from dataframe
+    df_episode.to_csv(
+        f"./transcripts/{episode_name}-transcript-corpus.csv",
+        encoding="utf-8",
+        sep=";",
+    )

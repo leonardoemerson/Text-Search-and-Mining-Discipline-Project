@@ -1,0 +1,2645 @@
+;Player_Name;Transcription_Text
+0;MATT;Hello everyone, and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voi-- (gibberish) voice actors. It's been a long year, a lot of us voice actors-- Look, there's very high nerves in the studio right now 'cause tonight's going to be crazy. A bunch of us nerdy-ass voice actors sit around and play Dungeons & Dragons. Tonight's going to be an intense episode but before we get to that, let's go ahead and get through our announcements for the evening. First and foremost, we have an amazing sponsor tonight. We have Backblaze.|(cheering)
+1;LAURA;We love you, Yev!
+2;MATT;Our final episode of the year. So Sam, you have a few words on that?
+3;SAM;Yeah well, you know Backblaze is unlimited cloud backup for Macs and PCs for just $5 a month.|You can go to backblaze.com/criticalrole for a full 15-day free trial, and I was going through my library. You know I have a whole library?
+4;MATT;It's pretty impressive, actually.
+5;SAM;Yeah and I dug up an old poetry book and buried inside there was a very curious poem by a young Dr. Seuss.
+6;TRAVIS;Oh really?
+7;SAM;Yeah.
+8;MATT;That's worth a lot of money.
+9;SAM;I know, I know. I thought I would read it for you all today.
+10;TRAVIS;Doesn't even look yellowed or anything.
+11;SAM;He printed it on his laser printer.
+12;TRAVIS;Oh good.|(laughter)
+13;SAM;"But it happens to concern Backblaze. The drive did not spin. It just clacked and it clicked. I rebooted and prayed and gave it a swift kick. But my data was gone, poof, every byte and bit. And I cried, ""How I wish I had backed up my shit!"" But who should appear in a car that he revved? A zingity zangity furry red Yev. The Yev jumped through my window, he pounced on my mouse and said, ""You must have wished Backblaze to your house."" But I looked at him cross, shouting, ""What do you mean? My files are corrupt. This is one dead machine."" He just laughed and said, ""You daft binkle blot, Backblaze works whether you remember or not. Your pics of your kids and the food that they eated, all stored on the cloud. Nothing's ever deleted. Your docs, Firefox, alarm clocks, and your socks will all be restored from our miracle box."" The Yev yelled, ""Don't worry from midnight to morn, we save all your stuff, your taxes and porn. Your music and apps are safe on Backblaze."" And with that, the Yev tipped his hat, ""Good day."" So remember, go visit backblaze.com and find the red Yev sing-singing his song. Let them take care of you heart and soul and tell him you're sent there by Critical Role."
+14;TRAVIS;Damn! Man, I don't know if that was Dr.|Seuss or Lin-Manuel but that was great.
+15;LIAM;It was sweet and offensive. By the way, Sam, that's a very handsome hoodie you're wearing. I can't wait to open you up like an advent calendar later.
+16;SAM;Oh! There's nothing offensive to Matt Mercer under this shirt. It's just another shirt progression to inspire us. This one goes four deep.|(yelling)
+17;LAURA;It looks like your tiny little weenus is--
+18;TRAVIS;You're shirt-cocking your own mouth!
+19;MATT;I am so happy!
+20;SAM;It's to inspire us in our final fights. It might be the last time I'm ever on this show, so I wanted it to be five of me.
+21;MATT;For the power of five Sams. Thank you, Sam, and thank you, Backblaze, for being our awesome sponsor for our episode tonight. You guys are awesome. We have a great video for you to watch from them at the break.
+22;LAURA;Wait. Can I say, Yev, about the stuff? All the little pictures you see in the different videos, he's giving some of those away tonight? Giving some away! If you sign up for Backblaze or if you have signed up for Backblaze already, you're entered into the competition. And then you can win them, and we've signed them, and it's wonderful. Did I say it right?
+23;SAM;Yep, you did great.
+24;LAURA;Okay. Cool.
+25;MATT;"It was pretty bad. As a quick addendum, while they're not officially sponsoring the show tonight, our friends at Loot Crate, who sponsored us for a large portion of the year as well, wanted us to give you a heads up about their current Halo Legendary crate. It's filled with a bunch of exclusive Halo figures, collectibles and in-game items. If you're a Halo fan, this has some exclusive stuff that comes through Loot Crate in that specific crate. You can go to lootcrate.com/LDNHalo to check it out. You can use the code ""LDNHalo,"" all one word, for a discount to that. The cutoff for orders is tonight, so if you plan to do that, you might want to check it out in the next couple of hours. Now's your chance to do it, go. Do it, it's awesome.|Right. That's our sponsorship. Couple of other things to mention. We will be returning January 5th, will be our returning episode in 2017. The new year. We'll pick up wherever tonight leaves off."
+26;LIAM;Those characters are going to be awesome.
+27;MATT;You have so much faith in yourselves! It's very possible. No. So yeah, we'll be back January 5th. We wish you guys a very very merry holiday, in all your celebrations, and your families, and your New Year's, and all that crazy stuff. We'll have more of that at the end of the episode, but we'll see you back then. We have a merch shout-out, actually. Laura, if you want to talk about what we have up on the store for them?
+28;LAURA;That's a good question. I have no idea what's in the store tonight. I have no sheet in front of me, and I have no idea what's there. I think there's some hats left, I know there are some hats--
+29;TRAVIS;The dice got restocked.
+30;LAURA;No, they did not. No, the dice did not get restocked, the dice are coming back in, like, January, so there's a lot more coming in January, so that's good. I have no idea what else is in the store though. A hat? There's a hat.
+31;MATT;There you go.
+32;LAURA;Shit, I got nothing.
+33;SAM;You are the best.
+34;LAURA;You guys, I'm focused on spells, and I'm focused on arrows, and hit points and-- (gasps) And the patches! And our mugs!
+35;MATT;If you go to the Geek and Sundry store under Critical Role, you'll see merch! That's our announcement for the evening!
+36;LAURA;There's still patches left, you guys! That's pretty cool! Yeah, the hats are still there. There's only a few left, though! There's only a few hats left, I know that for sure.
+37;MARISHA;Only a few hats left.
+38;MARISHA, TALIESIN;And they're gone.
+39;LAURA;Sorry. I'm stressed!
+40;MARISHA;Yes, tomorrow we have a last-minute special edition Signal Boost episode that is a stocking stuffer edition. Yeah, coming out tomorrow, and it's got, like, coupons in it, so you should watch it. And also: everyone likes coupons!
+41;TALIESIN;That's true.
+42;MARISHA;End of statement. Also, there was a playlist that we put out that is a collection of all of the artists that we have boosted over the year.
+43;TALIESIN;Except one.
+44;MARISHA;Except for one because they're not on Spotify and it's not my fault. But yeah, go check it out and I also wrote a little thing giving some insight into the background of the show.
+45;MATT;It's a great write-up, I recommend you guys check it out. Even if you haven't watched Signal Boost, it's a great write-up. I recommend it.|Thank you, Marisha.
+46;MARISHA;You're welcome. I'll be here all week.|Yeah, not really, it's Christmas time.
+47;MATT;This is a pretty cool announcement. After a back and forth for the past year, we just got approval from Blizzard Entertainment to incorporate their music from their game projects into our Critical Role soundtrack.
+48;SAM;For the final fight?
+49;MATT;I've incorporated a few tracks for tonight's battle, as well as a couple of community-made tracks that have been submitted over time, so we'll have some fresh tracks for the evening. But, Blizzard, thank you so much, thank you to Woody Day, and a bunch of the guys who have helped out over there to make this happen. We're excited to include those amazing soundtracks into our atmospheric background tracks in future episodes.
+50;LIAM;I was not prepared. Oh! I'm fired, aren't I?
+51;MATT;Yeah, you are. Anything else anyone wants to mention real fast?
+52;BRIAN;(distantly) Critmas!
+53;MATT;Oh yes. (laughing) Thank you, disembodied voice of Brian Wayne Foster, ghost of Christmas Tuesday. Next Tuesday we have a special Critmas episode of Talks Machina. A bunch of us are opening your awesome Critmas presents, and we'll be showing the videos the community submitted about what Critical Role means to them, to you, and to us! So check it out next Tuesday in the usual spot. I think that's it. All right, cool! Then let us go ahead and bring the tension up as you guys wander into the flaming core of Emon to show down with Thordak, the Cinder King, on tonight's episode of Critical Role.|[dramatic music]|Welcome back. So! Last we left off, Vox Machina, after spending the better part of a number of months traversing the Prime Material Plane and planes beyond in search of ancient relics known as the Vestiges of Divergence, they finally increased their abilities, they've made allies, and they've begun their trek to tear down the collection of evil chromatic dragons known as the Chroma Conclave that destroyed your city of Emon and took over most of the continent of Tal'Dorei and beyond. You've defeated and you've slain three members of the Conclave, allied with a fourth, and you've made your way, along with an army combined with the powers of Fort Daxio and Syngorn, to the central city of Emon. Utilizing aid from the Ashari people to cover the skies as the armies began to assault the outer walls, you, along with Zahra, Kashaw, Jarett, Gilmore, the whole party, everyone's there, Kima--
+54;TRAVIS;Britney Spears, NSYNC--
+55;SAM;My other brother.
+56;MATT;"Drake's staying back with the army to help them with the assault. You guys made your way underneath through the sewer system, made a brief alliance with some wayward Clasp who led you to the center of town where the volcanic essence of Thordak's mutated draconic form has been pulling volcanic activity up beneath the city. You climbed out on top and there, at the walled gates to the central Cloudtop District, which Thordak now calls his home and his lair, you saw two fire giants guarding the entrance. Kashaw and Zahra, in a heroic display, bound the giants to place and decided to take care of them while you rushed into the fray, bursting through the door due to the strength of your Titanstone Gauntlets. You rushed into the cloud, smoke, and ember-filled Cloudtop District ruins, jumping from ruined building to wreck of rubble and stone. The air itself is dense and black with dark fume and it's hard to see anything. You all carefully, gingerly, stealthily made your way into the alcove of one ruined building, where across the way, you see a giant raised central cavern, a hole, a burrow, if you will, that is close to 40 feet across. Apparently, your approach was somewhat sensed by the red dragon himself, as you watch Thordak emerge from this burrow and climb out saying to itself, ""It appears we have visitors."" (sound of liquid pouring)"
+57;SAM;I'm really nervous.|(laughter)
+58;MATT;So, as Ashley unfortunately can not be with us, Pike's control and duty will be taken care of by the twins for the evening. You guys will be dual cleric-ing tonight.
+59;LAURA;We're Jaegering.
+60;MATT;Indeed. At this point in time, you guys are all keeping as still and as quiet as you can while figuring out your circumstances. You can hear the low growling voice of Thordak as he begins to scan the vicinity. (growling)
+61;MARISHA;Potions! Potions!
+62;SAM;Oh, good idea, good idea.
+63;LAURA;I take fire resistance.
+64;MATT;Fire resistance? Fire resistance, fire resistance--
+65;LIAM;Am I able to make a jello shot of invulnerability and haste at the same time?
+66;LAURA;But you know they only last for one minute each. Just wait for like a second. Just wait. Fire resistance lasts for a while, I passed them out, so if you've got them, take them.
+67;MATT;Okay, so we have Scanlan, Keyleth, Vex, Grog, all with fire resistance? And Percy? All right. That's pretty much everyone but you, I believe, right?
+68;LAURA;Oh, but he's got the armor--
+69;MATT;So yeah, the entire party, thank god, is set to resist fire. That may help your chances here.|As you all guys quietly begin to drink and figure out your circumstances--
+70;TRAVIS;Why are you laughing? Why'd you laugh?
+71;MATT;Because I was rolling Thordak's perception check to see if he noticed any of your presences as you were drinking the potions. I got a natural one.
+72;LAURA;Wow, just drinking a potion would make him notice us?
+73;LIAM;"""I guess I'll go back to sleep now."""
+74;MATT;"He's still scanning, and he's still like, ""We can sense you here. Where are you?"" And you hear (heavy footsteps)."
+75;SAM;Should I cause a distraction?
+76;LAURA;I cast Pass Without a Trace on all of us.
+77;MATT;Okay. What are the components of that spell? Let's take a look here.
+78;LAURA;It can't be vocal because it's Pass Without a Trace-- oh no, it's verbal.
+79;MATT;Yep!
+80;LAURA;No, I don't do that! I don't know what those things mean!
+81;TRAVIS;You better get your shit in gear.
+82;LAURA;It's a whisper. Tell me it's a one! Tell me it's a one!
+83;MATT;That was not a one.
+84;TRAVIS;I mean, let's be clear, what are we really going to hide from? Look where his fucking head is. He's like the sun. We ain't hiding from that shit.
+85;LAURA;He may have heard us, but now we've got plus ten stealth.
+86;MATT;"So, as you guys are all quietly huddled over in this broken space there, Vex'ahlia begins to do her incantation beneath her breath and as you feel the shadows cling to you, you hear in the distance, ""Ah. There you are."""
+87;TRAVIS;I just want to pee on myself and run.
+88;MATT;He has currently moved out to this area, and began to asses the scenery. I need all of you to roll initiative.|(screaming)
+89;LAURA;Already!? Take your potions!
+90;LIAM;I can't, we're into initiative, right? It's too late for potions.
+91;MATT;You took your fire resistance potions.|That's all you had time to do.
+92;MARISHA;That's not too bad, not too bad.
+93;TALIESIN;That will do.
+94;LAURA;Who's rolling for Pike?
+95;LIAM;I'll do it. I got 11, plus what?
+96;LAURA;I don't think she has anything, so--
+97;MATT;Pike has no bonus.
+98;TRAVIS;14. Oh wait, you ask them, in order.
+99;LAURA;I'm freaking out, shit, I'm sorry, I thought I was helping.
+100;MATT;Vex, what did you get?
+101;LAURA;13.
+102;MATT;13 for you? All right.
+103;LIAM;12, and Pike got 11.
+104;TALIESIN;Pretty good for Pike.
+105;LAURA, MARISHA;That is pretty good for Pike.
+106;MATT;Keyleth?
+107;MARISHA;17.
+108;LAURA;Good.
+109;MARISHA;Yeah, it's pretty good for Keyleth. Oh god.
+110;MATT;Percy?
+111;TALIESIN;25. Fast, fast.
+112;SAM;Eight. I'll be bringing up the rear. That's how I like it anyway.
+113;LIAM;"While we're cowering here, Pike says, ""Guys, I think I could really help you out if you wait a second. Okay?"""
+114;LAURA;Oh, Pike didn't even get a chance to--
+115;TRAVIS;Were we supposed to have a Heroes' Feast?
+116;LAURA;We did, we did have a Heroes' Feast.
+117;TRAVIS;I'm so glad, I was totally here last week.
+118;LAURA;We're all immune to fear and poison still, we all have advantage on wisdom.
+119;MATT;You do indeed.
+120;TALIESIN;And extra hit points.
+121;MATT;All righty. So! With that, beginning of the round, at the very top: Percival. You glance around the corner and you see sifting through the large columns of smoke that are billowing off each one of these destroyed, burning buildings, you see the gargantuan form of Thordak (heavy footsteps) and looks right over. You see all of a sudden as his eyes pass in your direction, almost like a cat caught in a light beam, as his eyes flare up with bright white light as it sees your presence.
+122;TALIESIN;Okay.
+123;TRAVIS;What do you see?
+124;TALIESIN;It's coming. Is there room, can I get even vaguely a shot in that room?
+125;MATT;From here, at his size, you could get a shot if you moved a little bit.
+126;TALIESIN;I'll move a little bit.
+127;MATT;Jump between these folks there.
+128;TALIESIN;I have Spider Climb on right now, so actually I'll climb up on the wall and then climb back down when I'm done.
+129;MATT;Okay.
+130;TALIESIN;I'm going to-- Ignore that, I've been drinking. First of all, I'm going to cast Hex on him. Because that's really going to make a difference.
+131;TRAVIS;No, it is! Stay positive!
+132;TALIESIN;What kind of checks should I-- I'm going to down him for--
+133;MARISHA;I feel like he's real good at everything.
+134;LAURA;Like, wisdom, or something.
+135;TALIESIN;I'm going to give him a disadvantage on dexterity checks. Because fuck it. All right, I'm going to take out Bad News, and I'm going to take two shots, which is my way, with Hex and Bad News, and hopefully everything's going to go just fine. I'm going to use Sharpshooter, and I'm going to use Deadeye on the first one. I'm going to drop a point on Deadeye. So, Deadeye roll-- That should have counted, damn it, I shouldn't have picked it up. Oh, thank god. That's-- sorry, I'm blanking.|26 to hit.
+136;MATT;That hits.
+137;TRAVIS;That's a good sign.
+138;TALIESIN;Yeah, let's not start saying that now.|And that's-- wow, I'm nervous!
+139;SAM;Wow!
+140;TALIESIN;That's actually really good. First shot is 21, 37 points of damage plus five points of necrotic damage.
+141;MATT;In addition to 37? That's nice.
+142;TALIESIN;That's really nice. I rolled really high, and I have Sharpshooter running.
+143;MATT;Good opening shot.
+144;TALIESIN;Next one, I'm going to shoot Sharpshooter, but no Deadshot. Is an 18 to hit?
+145;MATT;Nope.
+146;TALIESIN;Okay, second one misses. I'm going to crawl back and hide again and get a little bit of-- yeah, I got up on top, took two shots, and crawled back down to hide.
+147;MATT;All right, as you climb up to the top, you slam Bad News over the top of the stonework, and as soon as the barrel catches a little bit of the light through the smoke, you watch as Thordak's face whips over in your direction. (gunshot) The first shot smashes across the crest on the front of the dragon's face. You see sparks fly, and bits of flame, red crystal get shattered in the distance. The head spins back towards you, and immediately you start shaking, and you fire the second shot and it ricochets off of its angry, thick hide. You immediately duck back behind the wall.
+148;TALIESIN;I'm regretting so many things right now! Not you! Oh god! I shouldn't avoid my family. It leads to dragons.
+149;MATT;In all of your focus, and all of your attention into the arrival, and the crawl into this, and Thordak, none of you noticed that Larkin is not with you.
+150;LAURA;No surprise there.
+151;MATT;Keyleth, you're up.
+152;LAURA;Piece of shit.
+153;MARISHA;Piece of shit. Okay, I don't know what to do here? What are we trying to do? Do we have a plan? Should I try and burn a big spell?
+154;SAM;Do whatever you do! We've been practicing for this our whole lives.
+155;MARISHA;Okay, before I do something crazy, based off of Percy saying that, I turn to Vex and I go, by the way, I've been meaning to ask you about that, if he ever followed through, so stay alive, we can talk later! Okay! And I pop over the corner and I'm going to cast Tsunami?
+156;SAM;I've never heard you say those words.
+157;LIAM;No, it's not.
+158;MATT;So you're casting Tsunami.
+159;LIAM;She did this once and wrecked our enemies.
+160;MARISHA;That was Tidal Wave, this is like a big daddy version of that.
+161;LIAM;It's worse than that?
+162;MARISHA;This is my 8th-level spell. So I create a wall 300 feet high, 300 feet long, and 50 feet thick of water.
+163;MATT;You watch as the smoke is instantly replaced with steam in the vicinity, completely filling the area with fog, as this giant wall of water is conjured out of the broken, cracked, dry earth and begins curling over towards Thordak's front side.|All right, so, strength saving throw-- Wait, any Huge or smaller creature.
+164;LAURA;Is he bigger than Huge?
+165;MATT;He is bigger than Huge.
+166;LAURA;So it doesn't have any effect on him? Is he bigger than 300 feet?
+167;MARISHA;Yeah, he's not bigger than 300 feet, is he?
+168;MATT;It's big, but the sheer mass size-- You watch as the tidal wave smashes into Thordak and splits and falls around him, no effect. His form is too big--
+169;MARISHA;None at all?
+170;MATT;The water crashes against him, he's too big for it to actually have an impact on him.
+171;LIAM;Are there any fires left burning in the vicinity?
+172;MATT;Actually, this fire is out now, this fire goes out, and water spills down into the tunnel and you watch a bunch of steam (whoosh) rise out of it.
+173;MARISHA;Well, it's also a six-round spell, and he's supposed to get stuck in it. Nothing? No.
+174;MATT;He's too big.
+175;LAURA;He doesn't even get damaged at all, though?
+176;TRAVIS;Does he question his choices in life?
+177;MARISHA;Because I'm questioning mine.
+178;MATT;It says any Huge or smaller creature inside the wall has to make a saving throw or take damage, creature caught in the wall can move, but yeah, it only seems to have an effect on--
+179;SAM;Well, that was a valiant effort.
+180;MATT;I was with you. But, hey, 8th-level spell!
+181;SAM;You got tons of 8th-level spells, you'll be fine.
+182;MARISHA;"""But, hey, 8th-level spell?"" Did you just say that to me?"
+183;MATT;Sorry! I'm sorry! I didn't mean to.
+184;MARISHA;Holy fuck.
+185;SAM;No problem.
+186;TALIESIN;I would get back behind the wall if I were you.
+187;MATT;So Keyleth, do you want to use the rest of your movement?
+188;SAM;Don't get back behind the fucking wall, don't get back behind the wall, we're all bunched up. Go somewhere else.
+189;TRAVIS;Scatter.
+190;LAURA;I know how painful this is right now, Keyleth, but it looked really cool. Just run.
+191;LIAM;Our pores are cleared-- the steam--
+192;TALIESIN;The wall will at least take some damage at this point, most things he's going to do are going to be a giant area effect anyway that you're not going to be able to outrun, you might as well have cover--
+193;MATT;Oh, wait, hold on--
+194;SAM;Judges weighing in.
+195;MATT;Sorry, I scrolled past that part there-- Each creature has to make a saving throw, so it does affect him the first round. It does.
+196;MARISHA;Just on the first round, though?
+197;LAURA;Still, that's something!
+198;MATT;Each turn after that-- so, yeah, basically as it gets smaller it affects less and less creatures. Sorry, I scrolled past that one.
+199;MARISHA;So it just doesn't keep him restrained?
+200;MATT;That is a 21.
+201;SAM;What's your spell DC?
+202;MARISHA;20.
+203;MATT;So it takes half-- so roll 6d10 and it takes half damage.
+204;SAM;Oh, that's something!
+205;LAURA;That's better than zero!
+206;MARISHA;It's better than-- yay, 8th-level spell, to quote Matt Mercer.
+207;TALIESIN;"That will be our next t-shirt, ""Yay, 8th-level spell."""
+208;MATT;It's fine. keep digging. This is my battle against you guys.
+209;MARISHA;I'm not digging!
+210;LAURA;No, no, not at all! We're very happy with that!
+211;MARISHA;26, 35, halved.
+212;MATT;Okay, half of the 35--
+213;MARISHA;But it's not going to do anything to him on subsequent rounds?
+214;SAM;17 points, that's something!
+215;LAURA;Is there water all over the ground, though?
+216;MATT;It says here that at the start of each of your turns after the wall appears, the wall along with any creatures in it move 50 feet away from you. So it will move him 50 feet back, unless he gets out of it.
+217;MARISHA;Yeah, it says any Huge or smaller creatures must make a strength saving throw in order to move.
+218;MATT;Correct. He can move through it fine, he's too big now, he doesn't take the additional damage in following rounds.
+219;MARISHA;So he gets to move out of it no problem? Is that essentially the deal?
+220;TALIESIN;But he is picked up for 50 feet, though.
+221;MARISHA;Yeah, but is he moved back?
+222;MATT;It still has to try and make an athletics check against your spell DC to move at all, but it doesn't take any additional damage.
+223;MARISHA;All right, I'll take that.
+224;MATT;It's her first time using this spell, guys, so be patient, we're figuring this out as we go.
+225;TALIESIN;I would say also just because Pike was going to do a thing, so come back for Pike's thing that she was going to do.
+226;MARISHA;Pike's going to do a thing?
+227;LIAM;So is he.
+228;LAURA;I feel like, run, Marisha, 'cause the thing that Pike's going to do is--
+229;MARISHA;Is that an AOE thing that she's going to do?
+230;LAURA;Yeah, but just go.
+231;MARISHA;All right, here's what I'm going to do, I'm going to move in this area over here. Kind of poke into this building?
+232;MATT;That's as far as you can get with your full movement.
+233;MARISHA;No, no, I don't want to go that way, I want to go behind-- sorry, this isn't very--
+234;MATT;Over here?
+235;MARISHA;Yes, that way. Thank you.
+236;MATT;That right there is as far as you can get with your full movement.
+237;MARISHA;Yeah, sure. Yeah.
+238;SAM;It's going to be great.
+239;MARISHA;It's going to be so great, it's going to be great.
+240;MATT;"All right, that ends Keyleth's turn. Jarett is going to go ahead and rush around here. Pulling out his heavy crossbow, he's going to go ahead, as he runs past, releasing a bolt towards Thordak-- two bolts, actually, that is a-- nope, that misses. That also misses. Well, they both hit, but they both splinter across his hide. All right, Jarett's going to make the full move behind this wall and begin loading another bolt. ""It's all right, we got this!"""
+241;SAM;He's dead.
+242;MATT;It is now Gilmore's turn.
+243;SAM;Shaun Gilmore!
+244;LAURA;I'm sorry. I don't know how I just stole two pencils.
+245;LIAM;I do.
+246;MATT;"Gilmore is going to-- As he watches Jarett rush off and Keyleth rush back around the wall, watching the wall of water crash past the dragon, goes, ""All right. It's been a while since I've had to do this."" And he points his finger up towards the dragon's head, and you watch as this green spark shoots this single green beam in the direction of the dragon's face."
+247;TRAVIS;Please hit his face. Please hit his face.|Please hit his face.
+248;LAURA;Hit him, Gilmore!
+249;MATT;Let's see if it makes its dexterity saving throw. That is-- yeah, he succeeds. Against the spell DC, yeah, he succeeds with a 19. He goes and fires and you watch as Thordak sees the beam glimmer out of the fingers and he ducks down and it fires past, dodging between the side of the head and the beam goes casting out that way, no effect.
+250;TRAVIS;Shit hammer.
+251;LAURA;What level spell was that, Gilmore?
+252;MATT;"""6th."""
+253;MARISHA;I look at him and I go, yeah, 8th, I feel you, man.
+254;MATT;"""It's okay, we've got this."""
+255;MARISHA;Fucking sucks, bro, all right, let's do this.
+256;MATT;And he's going to go ahead and--
+257;LIAM;I don't understand all this arcane terminology.
+258;MATT;"""Scatter, right?"" He pushes past and goes running this way. All right, that's going to end his turn. Grog!"
+259;TRAVIS;"Yeah, I see Gilmore take off running, and being there's a giant T-Rex on the map, I'm going to go, ""Must go faster, must go faster--"" And I would like to run as fast as balls this way towards this cover as far as I can for 50 feet."
+260;MATT;Okay. You get right about there, as Thordak has the same initiative as you.
+261;TRAVIS;Oh!
+262;MATT;"Thordak, who has dodged the beam, and is seeing the ants begin to scatter in front, goes, ""Moving targets--"""
+263;TRAVIS;Glad I joined Gilmore!
+264;MATT;"""We love moving targets."" And he's going to step forward--"
+265;LAURA;No! Don't move!
+266;MATT;--and is going to rear back and (inhales) (whoosh) and unleash Flame Breath.
+267;SAM;Oh, Kiki, you're okay!
+268;LAURA;You made it!
+269;MATT;I need Vex, Percy, Vax, Pike, Scanlan, Trinket, Grog, and Gilmore to all make dexterity saving throws. Hold on to that number.
+270;TALIESIN;Does partial cover help at all?
+271;MATT;No. The flame is like napalm.
+272;TALIESIN;I'm rerolling that.
+273;MATT;Kima fails. Gilmore rolls a one! Are you serious?
+274;LAURA;Did you roll for Pike?
+275;TALIESIN;That's a little better.
+276;SAM;Can I Cutting Words to do anything?
+277;TRAVIS;The Ancient Dragon?
+278;MATT;Cutting Words actually can reduce the damage.
+279;SAM;Just the damage, not his attack?
+280;TRAVIS;We'll take the damage reduction.
+281;SAM;Will it reduce the damage for everybody?
+282;MATT;I'm double-checking that. I'm pretty sure it does.
+283;SAM;If so, I will do that.
+284;TALIESIN;I just had to use a Resolve.
+285;LAURA;What did you roll?
+286;TALIESIN;A one. So I had to burn a Resolve, which I have done.
+287;MATT;Yeah, so you can reduce the damage by a certain amount for everybody.
+288;SAM;It won't be much, but I'll do it.
+289;TALIESIN;It'll help.
+290;LAURA;And then he's got disadvantage on something next, doesn't he? After you use Cutting Words?
+291;MATT, SAM;Yes.
+292;MATT;All right, so--
+293;SAM;So as he goes, I will yell at him, oi! What sexual position makes the ugliest children? I don't know, ask your mama! (laughter)
+294;MATT;Wow. That's a thing.
+295;LIAM;I like to think of all of Vox Machina nervously laughing.
+296;MATT;She has advantage on her saving throw-- Kima does make her saving throw! All right, so! Go ahead and roll your d12 and it will reduce the damage.
+297;SAM;Guys, you can reduce that damage by five.
+298;LAURA;Sweet.
+299;SAM;So instead of 150, it's 145.
+300;MATT;No, instead of 99 points of fire damage, it is 94.
+301;SAM;94!
+302;MATT;94 points of fire damage.
+303;LAURA;9d4?
+304;MATT;It was 99, now it's 94.
+305;TALIESIN;Does the five get subtracted before we halve it, or after?
+306;MATT;It reduces the damage of the attack.
+307;LAURA;And then if we have fire resistance, then it-- But what if we rolled 28, did we make our save?
+308;MATT;Grog, what was your--?
+309;TRAVIS;17.
+310;MATT;Nope.
+311;LAURA;28?
+312;MATT;Yes.
+313;LIAM;24.
+314;MATT;24--
+315;SAM;Oh shit. He has to look?
+316;MATT;You just make it.
+317;TALIESIN;"24 is a ""just made it?"""
+318;LIAM;So I take zero, because I'm using Evasion.
+319;MATT;Yes you do.
+320;MARISHA;I didn't have to roll.
+321;TALIESIN;18.
+322;MATT;18, nope.
+323;SAM;21.
+324;MATT;21, nope.
+325;LAURA;And Trinket and Pike both fail as well.
+326;MATT;Okay. Thankfully, that's half damage. So that would be, at half of 94, 37-- I'm sorry, no, 47. 47 points of fire damage to Grog, to Percy, to Scanlan--
+327;LAURA;Pike and Trinket.
+328;MATT;Well, Trinket does not take half.
+329;SAM;Wait, I thought you said I didn't save.
+330;LAURA;Takes the full 90-- Trinket is in my necklace. Again, already.
+331;MATT;Trinket goes right into your necklace.
+332;SAM;Wait, wait, so I get 94 or 47?
+333;MATT;You didn't succeed, so you would take 94, but because you have fire resistance, you take 47.
+334;SAM;Oh, okay! That's not bad!
+335;MATT;You take half of 47, because you have fire resistance and you made the save.
+336;LAURA;So 23. 24.
+337;TRAVIS;Tell me he has only one of those per day.
+338;MATT;Nope, that regenerates.
+339;LAURA;23 or 24?
+340;MATT;It would be 23.
+341;SAM;And Matthew DM, do our temporary hit points go away first? Or last?
+342;TALIESIN;They're technically not temporary, it's actually your max increases, so they can come back.
+343;MATT;Correct, they can come back, yeah.
+344;TALIESIN;You can heal into them.
+345;TRAVIS;Did somebody get temporary hit points?
+346;SAM;We all did.|17, from our feast.
+347;LAURA;Oh, that's right, Pike has-- I need to--
+348;TALIESIN;You're 17 up. You can go 17 up even if you lose them.
+349;TRAVIS;Right, well I'm going to add them now.
+350;TALIESIN;Your max is now much higher.
+351;TRAVIS;Oh, thank you, that's much better.
+352;MATT;Okay. Kima's doing okay, but Gilmore is looking rough. As the flames burn through, hyper white, red, orange, blazing fire, you haven't felt heat like this before. You instinctively close your eyes, but it doesn't seem to help. As the flames pass by you, Keyleth, you can even feel the impact from here, singeing your eyebrows, and you have to cover your face for fear of being disfigured by the proximity. As the fire eventually burns away, Gilmore is like stumbling right now, burned all around. The rest of the party is already smoking, bits of your outfits and edges of clothing are now actually curling up and burning. That was bad. So that ends Thordak's go. Grog?
+353;TRAVIS;Well, being that my run was so rudely interrupted by shit-chest over there, can I change course seeing that he's going to barf fire at all of us and run straight at him in a rage?
+354;MATT;Yes, you may.
+355;TRAVIS;Yeah, can we go ahead and see how we do here, and I will go Reckless Attack, Great Weapon Master.
+356;MATT;Sure.
+357;LAURA;Doesn't that mean he gets advantage on his attacks against you?
+358;TRAVIS;Yeah, I mean, let's buy the ticket and take the train, right? Who fucking knows. One! Better. 19.
+359;MATT;19 misses.
+360;TRAVIS;Shit. Roll better. That's better.
+361;LAURA;He's so big, though!
+362;MATT;But his armor is hard.
+363;TRAVIS;That is a 25.
+364;MATT;25 hits. So the second attack hits. Are you doing--?
+365;TRAVIS;Reckless and Great Weapon.
+366;MATT;Right, but I mean are you doing your frenzy for the third attack? Or are you going regular?
+367;TRAVIS;Yeah, I'm going frenzied!
+368;MATT;All right.
+369;TRAVIS;21.
+370;MATT;21 misses. But you did get a hit in.
+371;TRAVIS;I do.
+372;LAURA;Oh my god. What was the second attack?
+373;TRAVIS;25. So somewhere between 21 and 25. Which one is the d12? This one. 11. Two points of necrotic and 36 total.
+374;MATT;36, nice! As the flames subside from the dragon breath, the flames part and you see, rushing out, flames curling off the edges of the fur, this angry raging goliath (yells) runs and takes one swing. It skids across the scales of the front of Thordak's chest, gleaning past the giant scar in the center. No damage. Thordak (laughs).|You look up into the beaming star-like eyes and angrily (yells). This time, the axe sinks in and the laughter stops. You see the slight twinge of pain in the right eye of the dragon as you pull back for a third one, brings its claw up and swings down to try and crush you. As you swing for your attack, you instinctually realize it's probably best to let this go and you duck out of the way in time as the claw (slam) into the ground in front of you.
+375;TRAVIS;Yeah! Yeah! Fuck. That ends my turn.
+376;MATT;Vex! Your turn!
+377;LAURA;Cool! I click my Boots of Haste!
+378;MATT;"You feel, for the first time, the adrenaline surge through you and you suddenly go, ""My brother's been hoarding this this whole time?!"" Everything slows down around you ever so slightly, and for a second, your mind's racing faster than it normally does."
+379;LAURA;With my full movement, can I get behind the wall up where Keyleth was headed?
+380;MATT;You can move 60 feet.
+381;LAURA;I want to stop in a place where I can attack before I finish my move.
+382;MATT;You'll go over there and as you're rushing past, Keyleth--
+383;LIAM;As she rushes past, she hears: (slowly) Those are just a loaner!
+384;LAURA;(slowly) Go fuck yourself! Okay. All right.|I'm going to cast Hunter's Mark. Then, for my first attack, I'm going to try a Bramble Shot.
+385;MATT;Percy, by the way, I need you to make a concentration check. It's a constitution saving throw.
+386;LAURA;Yes! 30 on the first.
+387;MATT;That hits.
+388;TALIESIN;Ten.
+389;MATT;Your Hex fades.
+390;LAURA;I took the bracers off, right? Yes, I did.|Okay. 15 plus two lightning damage plus two sneak attack and a Hunter's Mark. Ooh! 12 plus 4d8 for the Bramble Shot.
+391;MATT;Nice! So already at 29 damage plus--?
+392;LAURA;15. No. 13. 17.
+393;MATT;Plus 17. All right! 46 points of damage on the first strike! What's the DC on the strength saving throw?
+394;LAURA;Oh. 16.
+395;MATT;Yeah. He makes it.
+396;LAURA;That would have been amazing.
+397;MATT;Ten plus 12. That would have been amazing.|As you run past and fire the first arrow, it sinks in and jams into the side of where the plates of the chest armor meet the scar. As it hits, you watch it cause a spurt of dragon blood, knowing exactly where the weak points of the armor are, being a person that studied dragons.
+398;LAURA;Oh! That's right! And an additional d6 because he's a dragon, right? 2d6?
+399;MATT;You should have the additional damage, I think it was plus two damage against creatures that are--
+400;LAURA;Oh, just plus two.
+401;TRAVIS;2d20 of damage.
+402;LAURA;I thought it was a d6. Sorry. You're right, I think.
+403;MATT;Do you want to go look it up?
+404;LAURA;No, it's fine. I'll look it up between. My next attack, I want to try one of my poisoned arrows.
+405;MATT;You see the brambles extend out from the arrow and the dragon leans forward, already focused on Grog as you're slamming him in the side. As his body flexes, the brambles shatter.
+406;LAURA;27!
+407;MATT;27 hits.
+408;LAURA;Okay! 14 plus four lightning damage. Plus Hunter's Mark is another four. What is the poison? Do I do anything for the poison? MATT I am going to go ahead and roll a constitution saving throw for him. Which succeeds.|So, yeah, he just resists the poison effects of the arrows.|Okay, and then I'm going to do a third attack, right? Because I am hasted.
+409;MATT;Yep.
+410;LAURA;And that hits too! That's 31!
+411;TRAVIS;Damn, girl.
+412;LAURA;16 plus another four lightning damage! Plus Hunter's Mark, plus two plus two, because he is a dragon. But I didn't do plus two on the second one because I--
+413;MATT;So 24 damage that final strike. Nice! You did almost 100 points of damage in a single round.|(cheering)
+414;LAURA;And then I finish my round of movement and I keep running behind the building. Yeah. Right there. I know.
+415;MATT;As you rush past, looking up into the face of the creature that you know for certain, seeing it there, that this is the creature that brought your mother to her end and half the city of Byroden to the south. And as that anger swells into you and mixes with the surge of adrenaline in your body and you don't even feel the momentum, your hands instinctively go through all training, all the years that have gone by, as each arrow gets loosed, there is just kind of this fuzz, this kind of numbness, around as your hatred is focused so clear on this dragon's head. And then the air rushes back into your lungs and you slam your back into the wall, preparing for your next round. All right, that finishes Vex's go. Vax and Lady Kima go at the same time. What do you want to do?
+416;LIAM;I am going to down the potion of healing with a bonus action.
+417;MATT;Okay.
+418;LIAM;And then now I have two actions because of the potion--
+419;MATT;The potion of healing?
+420;LIAM;No, no. Haste. So that's bonus action, now I have two actions? Because of the potion.
+421;MATT;Correct.
+422;LIAM;Second action's used to pump out the wings.
+423;MATT;Okay. Wings are up.
+424;LIAM;Then I am going to fly directly towards Thordak's face to-- you don't need that-- to ten feet away from him to his face. you can just hold it for a second, and cast Vow of Enmity at him.
+425;MATT;All righty.
+426;LIAM;And then I am going to barrel roll back, fly, and land hard right down next to my sister where she's hiding.
+427;MATT;Okay. At a non-hasted fly speed.
+428;LIAM;120, hasted.
+429;MATT;Oh, because you are hasted with the potion.|So yeah, not a problem. Land right next to your sister.
+430;SAM;So you prayed at him? Good job!
+431;MATT;You swoop up, right in front, you cast the Vow of Enmity.
+432;LIAM;He could have taken a swipe at me. I'm just glad he didn't.
+433;MATT;Oh, but we are going to get there. As you swoop up within ten feet of his face and cast the Vow, focusing on him, the dragon grins, and as you pull out of his attack space, because he has a reach of 15 feet with his bite, he is going to take a bite attack at you. That is a 32 to hit.
+434;LIAM;Can I Uncanny Dodge this?
+435;MATT;You can.
+436;LIAM;Yeah. I have to.
+437;TRAVIS;32 to hit?
+438;LAURA;We're fucked.
+439;MATT;That's actually a bad roll. 17 points of piercing damage plus--
+440;LIAM;I knew it was going to happen.
+441;MATT;Plus 16 points of fire damage reduced to half.
+442;LIAM;No, 17 plus 16 total.
+443;MATT;Well, because you have fire resistance that is reduced.
+444;LIAM;Okay. So eight and 17. 25.
+445;MATT;Yes, 25 points of damage to you.
+446;LIAM;Gives me advantage on every attack.
+447;LAURA;Oh, that's great.
+448;LIAM;I will get sneak attack on every attack whether there's someone next to him or not.
+449;LAURA;That's good.
+450;TALIESIN;Good! That's really good.
+451;MATT;Kima is going to--
+452;SAM;Who that? Who that? Is that Kima?
+453;MATT;That's Kima. Kima can't do too much at this distance, unfortunately. She is going to cast Aura of Vitality on herself.
+454;SAM;On herself?
+455;MATT;"Correct. What that does is allows her to heal people as a bonus action for as long as it lasts. Which is pretty damn helpful, right now.|Let me pull it up real fast. Let's see, Aura of Vitality. She can use a bonus action to cause a creature in the aura, including herself, to regain hit points. She's doing okay. She looks over at Gilmore, who's hurt on the ground, staggering over in flames. As she rushes up, casts the spell on herself, holding her holy symbol of Bahamut to her chest, she looks up at the dragon. ""Remember me?"" Without even losing her vision, she puts her hand out like this, and you watch as a beam of divine energy streaks out, slams into Gilmore's side. He almost doubles over as it swirls around his body and heals his wounds for 2d6."
+456;SAM;Okay.
+457;MATT;So he heals four hit points.
+458;SAM;He's looking better.
+459;MATT;All right, that is going to end Kima's turn.|Pike's turn.
+460;SAM;By committee.
+461;LAURA;Okay, we're going to move to the corner of the building that she's standing in.
+462;LIAM;Inside. Squished into the corner.
+463;MATT;Okay. Ten feet of movement to get there.
+464;LAURA;Yes. She's going to, as a bonus action, cast Spiritual Weapon. At fifth level.
+465;LIAM;Okay. I'll mark that off.
+466;TALIESIN;Go nuts with it, yeah.
+467;MATT;What else is she doing this round?
+468;LAURA;And then she's also going to cast Beacon of Hope.
+469;MATT;Beacon of Hope is a 3rd-level spell. If you are casting a 3rd-level or higher spell as an action, you can only do a 2nd-level spell as a bonus action. So you can either do Beacon of Hope and then a 2nd-level Spiritual Weapon or--
+470;LAURA;So we should do Beacon of Hope and not do Spiritual Weapon because we want to do a higher Spiritual Weapon later?
+471;LIAM;So anyone within 30 feet of her is getting some nice things.
+472;LAURA;So anybody within 30 feet gets advantage on wisdom, which you already have, but you get advantage on death saving throws as well.
+473;LIAM;And the best part--
+474;LAURA;--is any time you're healed, you're automatically healed to the max possible amount.
+475;SAM;What do you mean any time you're healed?
+476;LIAM;When someone heals you, you don't roll. You calculate the maximum amount you could possibly roll.
+477;LAURA;And that's what you're healed for.
+478;TALIESIN;So, if it's 3d4, you just get 12. That's amazing!
+479;SAM;Do we get any healing from this as well?
+480;LAURA;No, this is a prep spell. This is something that probably we should have done before Thordak started attacking us.
+481;SAM;Yeah, well, you're not Pike. You don't know.
+482;LIAM;So, DM. Who all gets that? Looks like Grog is just out of reach of it?
+483;MATT;Within 30 feet of her? Grog is just out of the radius. Gilmore, Kima.
+484;LAURA;Should we have run around the corner? If we had run around the corner, would Grog get?
+485;MATT;If you run to there? Okay, yeah. That would get Grog, Gilmore, Scanlan, Percy, Keyleth. It does not get either of you.
+486;LAURA;Well, that's fine.
+487;MARISHA;This looks bad, but I feel okay about this.
+488;MATT;So that's your action?
+489;LAURA;And that gets Pike in that as well.
+490;SAM;You get a bonus action.
+491;LAURA;Bonus action?
+492;SAM;You can do a Healing Word.
+493;LAURA;Oh, that's right, Healing Word!
+494;MATT;You can do up to a level two.
+495;LAURA;Okay, so she should do a Healing Word. Is Healing Word a level two?
+496;TALIESIN;You can do it at any level you like.
+497;LIAM;Percy needs it? Grog needs it?
+498;LAURA;Grog needs it?
+499;TRAVIS;Yeah. I took like 40 points of damage.
+500;LAURA;I feel like he's okay still, so Percy?
+501;TALIESIN;One of the two of us, I would say.
+502;MARISHA;I didn't get hit. I'm good.
+503;TALIESIN;Oh, I'll take it. How much do I get back?
+504;LAURA;At a level two, that's 2d4.
+505;MATT;2d4 plus five.
+506;TALIESIN;13.
+507;MARISHA;Is that for everybody or just for her?
+508;LAURA;Everybody.
+509;MATT;Anyone who is affected by the spell, all healing is maximum. For as long as it lasts, and it's concentration. Okay, that ends Pike's turn.|Pike can technically move five more feet from where she is.
+510;LAURA;But she can't hide, though.
+511;MATT;No. She's out in the open right now.|Scanlan, you're up.
+512;SAM;I'll move ten feet towards that way, still ducking behind that stone there. I will inspire Percy. Wait, should I heal or inspire? I'll inspire Percy. I'll sing him a lovely Christmas song, (singing) You know Raishan and Vorugal, the Frigid Doom, Brimscythe and Umbrasyl, we killed in his room. But do you recall the most fucked-up dragon of all? Thordak the Cinder King had a very shiny gem. And if you ever saw it, run the fuck away from him.
+513;MATT;Take your d12 inspiration die.
+514;TALIESIN;All right. d12 is awesome.
+515;MATT;Bards are great. All right, that's your bonus action.
+516;SAM;And for the move, I guess I'll attack him? I don't do that very well. I'll do Bigby's Hand.|(sings) Bigby's Hand! At level seven.
+517;MARISHA;Oh, shit!
+518;MATT;7th-level Bigby's Hand!
+519;TALIESIN;We're just going to spray-paint Matt's hand purple and he's going to sit there, punch things.
+520;LIAM;Check out the big hand on Scan.
+521;MATT;Where do you want Bigby's Hand to appear? Within 120 feet.
+522;SAM;I guess keep it low. Just go for the ball shot, yeah.
+523;MATT;All right, so what are you having the hand do?
+524;SAM;Punch. Just punch.
+525;MATT;So Clenched Fist, and that is with plus 2d6 for each. Sorry, plus 2d8 for each slot above fifth. That is an additional 4d8. That is 8d8. If it hits. Go ahead and roll your spell attack.
+526;SAM;18.
+527;MATT;"18, no. The fist gleans off of Thordak's chin. The dragon just kind of grins (growls). ""Is this all you've got?"""
+528;SAM;Actually, yes. That is my biggest thing, so yes.
+529;MATT;"""Good."" All right. That brings us back to the top of the order. Now at the top of this round, we're going to start doing lair actions."
+530;LAURA;No!
+531;TALIESIN;Lair actions are the worst.
+532;MATT;It happens after Percy's turn, though.
+533;TALIESIN;Oh, good.
+534;MATT;So, Percy, your go.
+535;TALIESIN;Fine.
+536;LAURA;Make sure he dies before he gets anything else.
+537;LIAM;Pull out your dragon gun.
+538;TALIESIN;My dragon gun?
+539;MARISHA;We're going to be real disappointed if you can't take this all on your own.
+540;SAM;Wait a second, Matt! Doesn't he get a disadvantage on his save because of my Cutting Words?
+541;MATT;That wasn't a save, that was your attack.
+542;SAM;Yeah. That's what I meant.
+543;MATT;On the next saving throw he has to make, he has a disadvantage. Yes.
+544;SAM;Making sure you guys know how spells work.
+545;TRAVIS;Yep, thank you. I was confused.
+546;SAM;Jesus, Sam #3, why didn't you tell me that?!
+547;MATT;Percy, what are you doing?
+548;TALIESIN;I'm going to take a deep breath and shoot directly north, or I suppose to you it would be south, down the map towards that building on the far corner. I'm just going to run in that direction.
+549;MATT;As far as you can get with your full move?
+550;TALIESIN;That's as far as I can get with my full movement? And he has to recharge his fire probably before he can do that again?
+551;MATT;Yeah, when it comes back to his turn I have to roll to see if he gets it that round.
+552;TALIESIN;Okay, that's fine. I'm going to take two shots while I'm running. I'm going to, just because I'm not feeling lucky right now, I'm going to burn another Deadeye on my first run, so let's do that.
+553;MARISHA;Are you feeling lucky?
+554;TALIESIN;No, no, I am really not. So less so that I'm not even going to do sharpshooter. That's awesome! I take that back.
+555;MARISHA;Percy! You should have done it.
+556;TALIESIN;It's okay. Actually, that doesn't affect the crit at all. Sharpshooter isn't affected by a crit. I critted, by the way. Sorry. That's nice.|So, hey! I get that Deadeye back. That's cool.
+557;TRAVIS;You should have said that first and we'd all go, yay!
+558;TALIESIN;This is like bad college theater. No one knows when to applaud. Excellent. That's-- oh my god, that's kind of nice. 1d12, 2d12, 3d12, 4d12.
+559;LIAM;Nice. Actually not bad. Pretty good. This makes me happy. This is going to be funny.
+560;TALIESIN;Pretty good. That's not great, but it'll do. 24 points of damage. And I'm going to take another shot. You know what? Screw it. Let's put a sharpshooter on this. Actually, no. Never mind.|Yes! I'm going to put a sharpshooter on this. I am so nervous. I'm putting a sharpshooter on it. Which is good because I rolled--
+561;SAM;You have an inspiration.
+562;TALIESIN;17, 18, 19, 26.
+563;MATT;26 hits.
+564;TALIESIN;Yay. And that's 2d12. Yay. Boo, but that's okay. 30 points of damage.
+565;MATT;Nice. So both shots as you are running past, you watch as it slams into the sides, causing a little (explosion) out of the side of Thordak's armor, the scales slip for a second. The second shot smashes a small hole in one of the wings, but you watch as the leather seems to be largely unaffected by the impact. It's already tattered at the bottom anyway, but well done.
+566;TALIESIN;(high-pitched noises) Okay.
+567;MATT;So, there you are. At the end of your turn, Thordak's going to go ahead and use one of his legendary actions to do a tail attack against Grog right now, because you're within range.
+568;TRAVIS;Yeah, test your might. Oh no, please don't! (sobs)
+569;MATT;That's going to be a 25 to hit.
+570;TRAVIS;It hits.
+571;MATT;Yep. You take 22 points of bludgeoning damage, reduced to half, so 11 points of bludgeoning damage to you, Grog.
+572;TRAVIS;Yeah, it's good.
+573;MATT;All right. That ends that. At this point now, you watch as through the clouds this winged figure comes and (crashing) lands on this distant building, the flames flickering out.
+574;LAURA;Moment of truth. Moment of truth.
+575;MATT;"As the impact happens, you watch as Thordak turns and grins. ""There you are. Oh, you're going to taste so good."" Raishan grins from the side.|""Not to worry, my king."""
+576;SAM;Oh shit. That doesn't sound good.
+577;LAURA;I can't tell what she's going to do.
+578;SAM;Is she lying? She's a deceitful one.
+579;MATT;At this point, she will-- let me pull it up.|Oh there you go, there's the spell sheet. She's going to go ahead and move right there. Gets right up onto the building that you guys are hiding behind as you feel the rubble and rock tumble around you, you look up and you can see the giant green leathery wings unfurl. She inhales, her chest expanding.|(cheering)|Releasing a giant cloud of poisonous gas in the direction of Thordak. Into his face. Suprise, motherfucker!
+580;SAM;We have the best friends.
+581;MATT;Does not make his-- wait, this is a poison, oh, it's constitution. He does make that. He takes 38 points of poison.
+582;TRAVIS;38?
+583;MATT;"38 points of poison damage on that one. As Thordak rears from the attack. ""Oh, you'll die especially painfully."""
+584;LIAM;Is Thordy La Forge poisoned there?
+585;MATT;No, he just takes poison damage.
+586;LIAM;No disadvantage. I really just wanted to say Thordy La Forge.
+587;TALIESIN;Of course you did.
+588;MATT;"All righty. So, that ends Raishan's turn.|Raishan's like, ""Now, get in, circle and finish this!"""
+589;MARISHA;Wait, Raishan said that?
+590;MATT;Yes.
+591;TRAVIS;No, that was Lady Kima's voice.|(laughter)
+592;LIAM;Clarota, is that you? On a flying steed.
+593;MARISHA;I turn to Raishan and say, I don't take orders from you, I'm only doing this because it's a good plan. And then I run in. If I run my full movement, can I get into touch range with him?
+594;MATT;You can, yes.
+595;MARISHA;Okay, angry at what happened before and realizing that not a lot is probably going to work unless I get ballsy, I run in guns blazing, and I am going to do Contagion on him.
+596;MATT;Okay.
+597;MARISHA;I'm going to attempt Slimy Doom.
+598;ALL;Ooh.
+599;MARISHA;In honor of Zahra! And her teaching us about hentai!
+600;TRAVIS;Yup. I saw that hentai.
+601;SAM;"We hear Zahra in the distance, ""I'm still alive!"""
+602;MATT;Okay. So make a melee spell attack against him. So roll a d20, add your spell attack bonus.
+603;MARISHA;I know, I'm picking the right one.
+604;LAURA;It should probably be like a black or a green or something that's like slimy.
+605;MARISHA;I'll do a green one. Green's good.
+606;TRAVIS;Or just any dice.
+607;MARISHA;Shut up, Travis. Ooh, that's not too bad.|That's not too bad, plus 12? So that's 28!
+608;MATT;28 hits.
+609;MARISHA;(laughs) Redemption!
+610;LIAM;Keyleth is on The Price is Right.
+611;MATT;Contagion, we'll put that blue there. So at the end of each of the target's turns it has to make a constitution saving throw. After failing three, the disease takes effect.
+612;SAM;After failing three?
+613;MARISHA;He has to fail three.
+614;MATT;So as you're rushing up, running past the tumbling rocks and boulders of the barely standing ceiling that Raishan's stepping on, you rush towards Thordak, and getting closer you see the immense size towering above you. And getting this close, there is a heated presence around him, like an aura of superheated air that burns you as you get close enough to touch him. You reach out and grab as you cast the spell under your breath. And as you touch the edge of his scales, it's like touching a hot iron (sizzles). Your fingers singe upon contact, but you feel the burst of druidic energy pierce through the scales and you watch as a little bit of black power seeps into the body and curls in between the scales and has taken root.
+615;TRAVIS;(whispered) Yes.
+616;MARISHA;That's all I got, right? I'm going to turn. Grog, you're still down, right?
+617;TRAVIS;(weakly) Yeah.
+618;MARISHA;I'm going to do a bonus Healing Word on Grog. I'm going to go ahead and do it at third--
+619;MATT;Can't do third level because you cast a 5th-level spell.
+620;MARISHA;Second level.
+621;MATT;All right. So 2d4 plus six.
+622;MARISHA;But it's max. Eight plus six.
+623;MATT;14. You heal 14.
+624;TRAVIS;Woohoo! 14 points. 194.
+625;MATT;All right. At the end of your turn, Thordak's going to go ahead and use his next two legendary actions to use his wing attack. Thordak, now being surrounded by everything, goes (wing flapping). He begins beating his wings. You watch as the flames on the ground begin to curl up into these small tornadoes in the presence from the sheer vacuum of wind up under the wings. I need Grog and Keyleth and Raishan to make dexterity saving throws.
+626;TRAVIS;I think I have advantage on those, (singing) because I got Danger Sense!
+627;MARISHA;12.
+628;TRAVIS;Natural 20.
+629;ALL;Ooh.
+630;MATT;So you stay put, hunkering down for this.|Keyleth, you suffer 13 points of bludgeoning damage. 13 points of bludgeoning damage and six points of fire damage.
+631;MARISHA;To three, so 16 total.
+632;MATT;Yes, and you are knocked prone as the wind blows you to the ground. And the dragon can move up to half its movement speed. So it's going to pull back to there.
+633;SAM;Do you get an attack, Grog?
+634;MATT;You do. As you get hit by that, by the way, you can do retaliation or you can do your attack of opportunity, either works right now.
+635;TRAVIS;Yeah, yeah. Reckless and Great Weapon Master.
+636;MATT;Go for it.
+637;TRAVIS;Eight and that's a natural 20.
+638;MATT;Go ahead and roll your brutal damage there.
+639;SAM;Wow. That's a hit.
+640;TRAVIS;19, 20, plus ten is 30 points of damage, including the one point of necrotic, and then I double that?
+641;LIAM;Double all the dice.
+642;TRAVIS;Double all the dice. Right so, 60.
+643;LAURA;No. Double the dice.
+644;TRAVIS;Oh, sorry. Okay. 12, so 25, 35, 37.
+645;MATT;37, nice.
+646;TRAVIS;Thanks. Two points necrotic.
+647;MATT;Yes. Okay. So, as the wind beats up and the dragon begins to back up--
+648;LAURA;Did you add your plus ten, because it was Reckless?
+649;TRAVIS;Yeah.
+650;MATT;--hovering off the ground, you strike out with the-- technically, yeah, it was Reckless, you cannot do Great Weapon Master on the-- well, I guess you can on any attack you make. I'll double check on that real fast. So we'll say that's right there.
+651;TRAVIS;Yeah, if it's a reaction I'm not quite sure.
+652;MATT;I'm going to double check just to make sure.
+653;TRAVIS;That could have been better.
+654;LAURA;That's okay, that was a six.
+655;MATT;On your turn, so no, you cannot do that, so 26, yes.
+656;SAM;That's great! That's extra! That's just bonus.
+657;MATT;You reach out with the axe amongst the heat and the wind blowing in your face (wind blows) and strike across the front of Thordak's chest as he begins to swing back with his wings beating out.|All right, at the end of that turn, as Thordak does that, at the end of that turn, Raishan's going to use two legendary actions to cast Blight on Thordak.
+658;TRAVIS;There's some shit going down on this map.
+659;LAURA;Oh my God, Matt. I'm impressed and terrified of you for having to keep track of this.
+660;LIAM;They should really just do it already.
+661;LAURA;I honestly had no idea what my hands were going to do.
+662;MATT;Constitution saving throw from Thordak.
+663;SAM;At disadvantage!
+664;MATT;At disadvantage. That's a natural one. He is going to use one of his legendary resistances.
+665;LAURA;Get rid of them.
+666;MARISHA;Burn it, burn it! Burn that shit.
+667;SAM;He might have five of those.
+668;TALIESIN;Yeah and now he's got four.
+669;MARISHA;He has three, right?
+670;LAURA;He's probably got more than three. He's Thordak.
+671;TALIESIN;Thordak, he's got like 12.
+672;MATT;He takes 18 points of necrotic damage. All right. And because I initially forgot it, lair action!
+673;SAM;Oh shit. Lair action.
+674;MATT;Lair action, indeed.
+675;LAURA;Isn't that like if you forget to move or something, you don't get to do it later, if you forgot about it?
+676;SAM;Everyone with knees dies.
+677;MATT;For that, we're going to choose--
+678;LAURA;No no no no, I was just joshing you!
+679;TALIESIN;Don't make him look things up, it's always going to be worse.
+680;MATT;The two twins that have currently ducked around the way, you feel the ground nearby begin to shake, and down below you the earth cracks open and a giant column of magma (explosion) shoots out and sprays in the vicinity.
+681;LIAM;Evasion!
+682;MATT;You've already used Evasion.
+683;LIAM;On this round? It's once a round. This is a whole new round.
+684;MATT;Actually, you're right, you're right. You haven't gone since then. All right. Dexterity saving throw from both of you.
+685;LIAM;Okay. At advantage, because of those boots, man!
+686;LAURA;That's good. (whispers) Okay, that's good, that's good.
+687;LIAM;23.
+688;LAURA;27.
+689;MATT;Okay. You both take--
+690;LIAM;Did we fail the save?
+691;MATT;You succeeded on the save.
+692;LIAM;So I take zero.
+693;MATT;So you take zero. You, however, take what would be 12 points of fire damage reduced to half, so six.
+694;SAM;(scoffs) You call this a lair?
+695;MATT;All right. That ends Keyleth's go, it's now Jarett. Jarett, who's loaded up his crossbow, is going to go ahead and spin around, take two shots at Thordak. That's a cocked die. That's good. 18 plus seven hits, and the second one just barely hits, actually. There's two hits on him. Five points. Two ones in a row for damage, are you serious? Okay.
+696;MARISHA;Goddamn it, Jarett.
+697;LAURA;It's okay, I'm happy that he's here.
+698;LIAM;Happens to everybody.
+699;MATT;And then he is going to try and move back this way to keep everyone scattered and use the space to his advantage. That's going to end Jarett's turn.
+700;TALIESIN;Is there a little hole in the ground where the magma came out or no?
+701;MATT;No, it burst and then it cooled and covered the space. All righty. That brings us to Gilmore's turn. Gilmore, who's in a bad place, is going to go ahead and take his superior healing potion.
+702;TALIESIN;Gets max healing, because he was in the spell.
+703;MATT;That's true. Yeah, so he takes 16, 20, 24 plus eight is 32. Nice.
+704;MARISHA;That's awesome! Good spell!
+705;LIAM;Thanks Pike. We're so glad you're here.
+706;MATT;"Gilmore, who currently drinks the potion.|""This is already not the best start to this, but let's see what else I can do here."""
+707;LIAM;Come on, Shaun.
+708;MATT;He's going to try a Hold Monster. From where he is right there. That's a wisdom saving throw for Thordak. Yeah, that succeeds. That's a nine plus-- but he tried.
+709;SAM;And looked good doing it.
+710;LAURA;That's right. Those robes are fabulous, Gilmore!
+711;MATT;"""Thank you!"" He goes darting behind the other building off the opposite side. Yeah, that actually doesn't help in this circumstance. That ends his turn. Grog."
+712;TRAVIS;Yes?
+713;MATT;It's you and the dragon's go.
+714;TRAVIS;(giggles) Now, who's going first this time?
+715;MATT;You both are going at the same time, so what are you going to do?
+716;TRAVIS;Ah, you want to know what I'm going to do, do you? Intimidated by my presence, eh? Whack the Titanstone Knuckles!
+717;SAM;You're now 1/16 his size.
+718;TRAVIS;Yeah, yeah. I now come up to his ankle bone. Life is a thrill.
+719;MATT;Basically.
+720;TRAVIS;Can I use my full-- oh, he's far away.|Shit.
+721;MATT;Yeah, he moved away from you.
+722;TRAVIS;Balls and ass. I would like to run straight forward and then veer off to this side, I'm flanking him.
+723;MATT;This side over here?
+724;TRAVIS;Yeah.
+725;MATT;Yeah. You can get over to there.
+726;TRAVIS;Great. Am I now within striking range?
+727;MATT;You are.
+728;TRAVIS;I would like to make all three attack Great Weapon Master, Reckless!
+729;MATT;Go for it.
+730;TRAVIS;12, oh, so close. Damn it, covering up the wrong page. That's, damn it, 19.
+731;MATT;19. The first strike, you slam the axe as your form grows, rushing up next to the dragon, grinning, feeling the foam gathering at the corner of your mouth. You swing with the axe and carves a small line, but doesn't actually penetrate the armor of Thordak.
+732;TRAVIS;(Scottish accent) Great. That's better.|That is a 26.
+733;MATT;That hits.
+734;TRAVIS;Good.
+735;TALIESIN;You beat the Scottish into him.
+736;TRAVIS;27 minus five is 22.
+737;MATT;22 misses.
+738;TALIESIN;Good to know. We're learning. 22 misses.
+739;MATT;Roll damage on that strike.
+740;TRAVIS;I got to get rid of that fucking Great Weapon Master, that thing's killing me.
+741;LAURA;Oh yeah.
+742;LIAM;His AC is high, so ditch the handicap.
+743;TRAVIS;Hey, that's a six! Six points of necrotic for a total of 36 points of damage.
+744;MATT;36 points of damage. Nice. So, as two blows are deflected from the armor, one does sink in pretty hard, carving a piece of dragon flesh that's dangling off now in the torso region.|Thordak's like (snarls).
+745;TRAVIS;'Ello, poppet.
+746;MATT;"""Insect."""
+747;TRAVIS;Sect?
+748;MATT;Is that your turn?
+749;TRAVIS;Oh, insect. Yeah, that's my turn.
+750;MATT;Yeah, okay. Thordak begins laughing, (deep laugh).
+751;LAURA;Oh no, this is the laughter we heard about.|It drives you crazy. I cover my ears!
+752;MATT;The fire breath does not come back, it's a two.
+753;SAM;Oh, whew.
+754;TRAVIS;The fire breath does not recharge?
+755;MATT;Nope.
+756;MARISHA;That's good, that's good.
+757;MATT;However, he does make a full multiattack and that's four attacks against you.
+758;TRAVIS;On me? I'm trying to keep him warm! Like, I'm trying to give him a little touch, little feel, let him know that we love him.
+759;MATT;And it's with advantage against you?
+760;TRAVIS;Yeah, that's right.
+761;MATT;Okay, that's a 34.
+762;TRAVIS;I think that'll hit.
+763;MATT;Natural one and a 15, that is a 32. Natural 20.
+764;SAM;On the last one, I'm going to Cutting Words.
+765;TRAVIS;There's three. There's one more.
+766;SAM;Then on the last one.
+767;MATT;Okay. Natural 20! (laughs)
+768;SAM;Well then, maybe that won't help.
+769;TRAVIS;(singing) Happy trails to... shit.
+770;MATT;Okay, so a bite, two claw attacks, and a tail attack against you, as its tail swings down and whips towards you. So, first, the bite attack.|You suffer 16 plus a 12. 28 points of piercing damage reduced to 14 as well as--
+771;MARISHA;Come on, this is what you're built for.|This is why we trained you.
+772;MATT;19 points of fire damage, reduced that to nine.
+773;TRAVIS;Cool.
+774;MATT;So that's the first, that's the bite attack.|The two claw attacks against you. That is 18 points of slashing damage reduced to nine. And then the critical on the claw attack. That is--
+775;TRAVIS;Was there no fire damage on the second one?
+776;MATT;No, that's just the bite attack. That is 32 points of slashing damage, reduced to 16. And the tail attack, that is also a crit. 24. 36 points of bludgeoning damage.
+777;SAM;Can I Cutting Words that?
+778;MATT;You can, yes.
+779;SAM;"So I yell at him, ""You're so ugly, you scared the shit out of an outhouse!"""
+780;MATT;Go ahead and roll your d12. 36.
+781;SAM;Make that a 33.
+782;MATT;So 16 points of bludgeoning damage. And as part of his multiattack, he also uses his Frightful Presence, so everyone, as you see it clawing at Grog, it's like (roars), the tail whips down and slams the ground. The entire ground quakes and you feel all the flames grow brighter in the vicinity. While Thordak is large in this moment, it's like staring at a fire god. I need everybody--
+783;TALIESIN;Who is not immune to fear?
+784;LAURA;We're all immune to fear.
+785;MATT;Everyone, yeah, all of you are immune to fear.
+786;LAURA;Yeah. Except for Jarett.
+787;MATT;"Except for Jarett. Jarett does not succeed! Jarett is pissing himself right now behind. He almost ran into the wall and is like, ""Oh, this is not good!"" (yells)"
+788;LIAM;Hey, Thordy, eat a dick.
+789;MATT;Raishan does make her save.
+790;SAM;Does not?
+791;MATT;Does.
+792;LAURA;Oh, good.
+793;TRAVIS;Legendary? Did he do his legendary thingy? Or he just made it?
+794;MARISHA;Yeah, he also has to save against my Contagion.
+795;MATT;His turn's not done yet. Raishan uses her legendary resistance to resist the-- Oh sorry, she doesn't have to because she made it. From the shaking and the quaking you watch as the flames that brighten up leap out of the sides in the form of two fire elementals.
+796;LAURA;Damn it!
+797;MATT;That leap out of the sides of the cavern.
+798;LAURA;Can they fly?
+799;TRAVIS;Can we bring all the alcohol on set right now?
+800;TALIESIN;There's a lot of alcohol on the set right now. A lot of it's hiding.
+801;LIAM;How about acknowledge it?
+802;TALIESIN;There's a mini fridge built into Trinket.
+803;LIAM;Ancient dragon wasn't enough, huh, Matt?
+804;MATT;Thordak is going to move around Grog to this side.
+805;TRAVIS;Yeah, move around me, bitch. I'm going to get my insults in while I'm still breathing.
+806;MARISHA;He accidentally stepped on one of his elemental friends.
+807;MATT;He moved around it. It's fine. The elementals are now going the same turn as Thordak.|50 feet. Ten, 15, 20, 25, 30, 35, 40, 45, 50. This elemental. 35, 40, 45, 50. Right there. They're going to rush up and get into base to base with you guys, and up to Keyleth, who's currently on the ground prone as the elemental (roar) and comes up against you. You hear the familiar sound of the flickering flame of its elemental form rush up towards you.
+808;MARISHA;I feel like I saw you, in like the fire plane! 'Sup, man?
+809;MATT;All righty. At this time, you also hear a distant sound in the sky. A (sharp whooshes), but you make no visual. Everyone roll a perception check.
+810;SAM;21.
+811;MARISHA;24.
+812;TALIESIN;12.
+813;LAURA;Do I get advantage because it's dragon-related?
+814;MATT;This is not dragon-related.
+815;LIAM;25.
+816;TRAVIS;Six.
+817;LAURA;16.
+818;MATT;All right. Scanlan, you rolled a 21, you said?
+819;SAM;21.
+820;MATT;So, Scanlan, Keyleth, and Vax. You guys see a shape in the darkness of clouds and the smoke ahead. In between the sounds of thunder and lightning in the distance, you see the bow of the skyship Deera.
+821;LAURA;Yes, the skyship!
+822;TALIESIN;Fucking Teddy Ruxpin.
+823;MATT;(laughs) Vex, it's your turn.
+824;LAURA;Me? Okay. Where can I go to where I can hit him?
+825;TRAVIS;Pretty much anywhere.
+826;MATT;With your bow, you have quite a few options.|So you'd have to move around this way or this way.
+827;LAURA;Is the fire elemental right next to me?
+828;MATT;It is. It'll get a swipe at you if you try to move away from it.
+829;LAURA;Asshole. If I'm a third level rogue, do I get disengage?
+830;MATT;As a bonus action, yeah.
+831;LAURA;Okay, so for my bonus action I'll disengage. And then I'll move so I can hit Thordak. So can I move towards-- back towards the very back building? Can I get all the way there?
+832;MATT;With Haste, yes, you can.
+833;LAURA;Okay. So then I'm going to shoot him! Before I duck in around a corner or whatever. And I want to-- oh, that's 18.
+834;MATT;18 does not hit. So you rush past, disengaging. You hit up against the edge of the wall with your arrow out (arrow whoosh). It arcs past and misses.
+835;LAURA;Yeah, it's pretty far. Okay. This next one.|I'm going to use another poison arrow. Oh my God, I miss him again. Dice jail!
+836;MATT;That one hits the hide but ricochets off.
+837;LAURA;Okay okay. Third attack. 25.
+838;MATT;25 hits.
+839;LAURA;Yay! One, that's one lightning, at 17 plus, Grog is standing next to him? Yeah, it's good.|That's nine, 13. Plus 13.
+840;SAM;Hey, that's many points.
+841;MATT;So a total of--?
+842;LAURA;14, 15, 16, 17 plus 13.
+843;MATT;So 30. Nice. All righty. So the final arrow releases and (whoosh) gets stuck up under one of the scales on the side of where its shoulder and body hits and the dragon, Thordak, turns and (roars and laughs).
+844;LAURA;Oh no, I hide behind that building.
+845;SAM;Oh, God. What was that?
+846;TRAVIS;Those faces are-- wow!
+847;TALIESIN;Yeah, way too many emotions happening there.
+848;MATT;"You hear the voice ring out, ""Don't worry, we'll take them down. All of them. Each and every one."""
+849;LAURA;He's crazy as fuck.
+850;SAM;He's straight-up crazy.
+851;TALIESIN;No, he's not.
+852;MATT;That ends your turn, Vex?
+853;LAURA;I guess so, I mean, I don't know what else I can do.
+854;MATT;All right. Vax and Kima.
+855;SAM;When I was younger, I had an imaginary friend, too.
+856;LIAM;Should I go, or should Kima go?
+857;MATT;(chuckles) Kima, frustratingly so, being a short-ranged lady that she is, is first off going to glance over and see Keyleth on the ground. How are you doing, Keyleth?
+858;MARISHA;I'm okay. I'm on the ground, but I'm not super low. I'm still full on hit points. Well.
+859;MATT;Yeah, she's going to go full double move on this one. She wants to get into the fray and is so frustrated that she's too far out of the way. Kima is going to go ahead and rush out and do a 2d6 heal to Gilmore again. So that's seven to Gilmore.
+860;SAM;No, well he gets full healing.
+861;MATT;Oh that's right. 2d6, so it's a full 12.
+862;TALIESIN;That's so clutch. We should do that every time from now on.
+863;MATT;"Kima is now taking a full 50 foot move. 50.|Okay, she's charging in. ""We've done this before and we can do it again!"" as she has her Holy Avenger arcing over her shoulder, running screaming. (yells) Vax, what are you doing?"
+864;LIAM;Bonus action, I'm taking the potion of invulnerability.
+865;SAM;Oh, shit.
+866;TRAVIS;Time to get crunk.
+867;LIAM;Next action, I cast Hunter's Mark on Thordak.
+868;LAURA;Yeah!
+869;MATT;Okay.
+870;SAM;You can do that?
+871;LIAM;Then I fly at Thordak's face and strike at him with the dragon-slayer sword.|(cheering)|Face. Face.
+872;MATT;Right, so you're up in the air now.
+873;LIAM;At advantage. Good. 26 hits.
+874;MATT;Yes, it does.
+875;LIAM;So this is dragon-slayer sword plus Sneak Attack, I'm going to Smite and Hunter's Mark.
+876;SAM;That's all the attacks.
+877;LIAM;Yes, all the attacks.
+878;TALIESIN;Every die.
+879;LIAM;Okay, nine plus six is 17, plus-- 18, 19, 21, balls. 21, okay plus the Sneak Attack. 27, 29, 33, 39, 40, 42, 44, plus the Hunter's Mark, 45 total.
+880;MATT;That includes the Smite damage as well?
+881;LIAM;No, no.
+882;MATT;It's 2d8.
+883;LIAM;Now we're at 50.
+884;SAM;What about the dragon sword? Did you do that?
+885;LIAM;That's done. So I don't know exactly how far it was to his face and I know I'm all out of moves and I'm open to getting bitten again, but I want to fly away from his face as far as I can and land opposite everybody. Maybe near the lip. No, behind the building behind him.
+886;MATT;I'm currently working out how much movement you've done, because you're crazy.
+887;LIAM;120 feet of movement.
+888;MATT;It's about 65 to get up to his face.
+889;LAURA;Oh, sweet.
+890;MATT;All right, and you're going to pull back from him?
+891;LIAM;Curve over his, oh, no-- sword's in his head? My friends are going to fucking kill you today, you fuck! Arc over his head.
+892;MATT;The blade, which has jammed itself right in the cheekbone under the eye of the dragon, as you draw it out, there's a streak of dragon blood (roar, unhinged laughter). You arc over. As you do, he reaches up with his face, his jaws (snarl) reach out to try and bite you. That is a 21 to hit.
+893;LIAM;No.
+894;MATT;The jaws snap in the air, just as you coast through with your wings.
+895;LIAM;I'll slam down, if I can, behind the building behind his big fat ass.
+896;MATT;Sure.
+897;LAURA;I whisper on the earring, that was my brother! That was my brother.
+898;MATT;You are going to have an attack of opportunity from-- oh, no, you disengaged from the--
+899;LIAM;I didn't disengage.
+900;MATT;Oh, sorry, so the Fire Elemental actually would have gotten an attack of opportunity on you as you ran past.
+901;LAURA;Before all that, he knocks you unconscious.
+902;MATT;That's a 20-- yeah, misses.
+903;TALIESIN;Vax, it might be worth taking a peek in that crater when you get a second.
+904;LIAM;Working on it, working on it.
+905;MATT;All righty, that ends your turn, Kima's turn. Pike's up. However! At the end of Vax's turn, Thordak is going to go ahead and use a tail attack against Grog.
+906;MARISHA;Did he ever make that save, by the way?
+907;SAM;Not yet.
+908;MATT;Disadvantage, which is good because it was a natural 20. And a six, plus 16, 22. Makes it.
+909;LAURA;22. He's got to roll under a four or lower to get--
+910;SAM;There's no way, it's not going to happen.
+911;LAURA;It's possible! It's possible!
+912;MARISHA;It keeps going. It still goes.
+913;MATT;It keeps going. It lasts for seven days.
+914;MARISHA;Yeah, it's a seven-day thing.
+915;TRAVIS;After we're all dead, he'll get very sick.
+916;TALIESIN;If we die today, he's going to get the flu later in his life.
+917;TRAVIS;Let's reason with him! You can die now, wait for later--
+918;LIAM;"""That doesn't look normal."""
+919;TRAVIS;"""Why does it burn when I pee?"""
+920;MATT;However, it lasts for seven days, but remember, that's if the spell succeeds. If he succeeds three saving throws, it goes away.
+921;MARISHA;If he succeeds three?
+922;MATT;Yeah.
+923;MARISHA;I thought he just had to fail.
+924;MATT;Fail three to take effect, succeed three to just get rid of the disease.
+925;LIAM;Just dish out damage.
+926;LAURA;These damn spells.
+927;TALIESIN;He has disadvantage.
+928;MATT;So, anyway, that brings us to Pike. Oh, he was doing the tail attack to you. So, using one of the Legendary Actions to make a tail strike against--
+929;LIAM;So Legendaries can fall whenever they want?
+930;MATT;At the end of someone else's turn.
+931;TRAVIS;This is against me.
+932;MATT;Yeah, because you're right there. With advantage. That would be 31. So yeah, that hits you.
+933;TALIESIN;I pray for a single-digit number.
+934;TRAVIS;Almost double my AC.
+935;MATT;20 points of bludgeoning damage, reduced to ten.
+936;TALIESIN;Man, you are a tank.
+937;TRAVIS;Not much longer.
+938;TALIESIN;We're working on it.
+939;MATT;All righty. So, Pike, what's Pike doing?
+940;LAURA;Okay, Pike is going to run forward--
+941;LIAM;"""Oh, Grog!"""
+942;LAURA;"""Oh, Grog!"" And she runs as far forward as she can."
+943;MATT;That's as far as she can get.
+944;LAURA;We're trying to get a little diagonal, she wants to be 60 feet away from him.
+945;MATT;He's within 60 feet.
+946;LAURA;Okay. Can she be at a diagonal so she's not lined up with Keyleth and Bigby?
+947;MATT;I mean, that's as far as she can get.
+948;LAURA;Okay. Then she casts Heal on Grog, which gives him 70 hit points, automatically healed.
+949;TRAVIS;That's amazing!
+950;MATT;Yeah. So you're up 70 hit points, Grog.
+951;LAURA;And that's a 6th-level spell, so she's going to cast Spiritual Weapon as a 5th-level spell as her bonus action.
+952;MATT;She can't, because she already cast a 6th-level spell. If you do a spell that's higher than 2nd-level, you can only do a 2nd-level spell as your bonus action.
+953;LAURA;Oh, that's how it works. I thought it just had to be lower than--
+954;MATT;Technically, rules as written, you can't do that, but as we've been playing, for the sake of having so many players, I allow bonus action spells as long as they're level two or lower.
+955;LAURA;Should we just do it?
+956;TALIESIN;No, no.
+957;LAURA;If she does it at a 2nd-level, then--
+958;LIAM;And it'll keep going.
+959;LAURA;Yeah.
+960;TALIESIN;But what happens if you do it at a higher level?
+961;MARISHA;More damage.
+962;LAURA;Well yeah, but she's always going to be at a higher level than 2nd-level spells, so it doesn't matter.
+963;TALIESIN;Well, I mean, like, next round though, if she does that at a 5th-level, just the damage it'll add will be more than double the damage it'll do now.
+964;LIAM;I say wait, because she's doing her job.|She's keeping Grog alive.
+965;MARISHA;So you might want to do that at a lower spell level, and keep the higher levels for healing.
+966;LAURA;Okay, okay, okay. Wait-- okay, she can also do Mass Healing Word as a bonus action at-- never mind, that's a 3rd-level spell, so fuck it.
+967;MATT;Yeah, sorry.
+968;LAURA;She can do Healing Word, though! At second level.
+969;MATT;She can.
+970;LAURA;Should we do that? Who needs healing?
+971;SAM;I mean, everybody.
+972;LAURA;She's going to do Healing Word on Grog again.
+973;LIAM;At max.
+974;MATT;Okay. So at second level, that means that's 2d4 plus five. So 13, you heal 13 hit points.
+975;TRAVIS;Nice!
+976;TALIESIN;Which is like another attack you absorb.|That's great. It's like one more attack to absorb.
+977;MATT;All right, that ends Pike's turn, then.|Scanlan, you're up.
+978;SAM;I'm up?
+979;MATT;Yes.
+980;SAM;For my attack, I will punch the fire elemental currently menacing Kiki with my fist of fury.
+981;MATT;All righty, go ahead and roll a spell attack.
+982;SAM;Okay, 24.
+983;MATT;That hits.
+984;LIAM;It would have hit the fucking dragon.
+985;MATT;It would've. So 8d8 points of damage to the fire elemental.
+986;SAM;8d8. I need all the d8s.
+987;TRAVIS;All the d8s.
+988;MARISHA;Here, I've got d8s, how many do you need?
+989;LAURA;Hey, Scanlan. (mimes playing a flute)
+990;TALIESIN;That's seven.
+991;SAM;Four... I need one more. That's a d12.|(laughs) Oh man, these are all good, though.
+992;TALIESIN;So you want one more, though.
+993;SAM;I do. Oh my God! Okay. 16, 17, 18, 19, 20, 30, 41.
+994;MATT;41 points of damage, nice! It slams into his form and you watch as his body kind of tears open for a second, the flames dissipating and then form back in, but they're starting to flicker.
+995;SAM;He's not dead?
+996;MATT;No.
+997;SAM;As my bonus action, I'll punch him again.
+998;MATT;No bonus.
+999;SAM;That was my action, as a bonus action, I can do something else with Bigby, no?
+1000;MATT;Let me double check.
+1001;SAM;Every subsequent action I can do something as a bonus action, does that also negate the action?
+1002;MATT;When you cast a spell as a bonus action, it says here you can move the hand and cause the effects. It's your bonus action to move the spell.|So your action is there, I'll say-- it says specifically bonus action.
+1003;SAM;So I can't do it as my action?
+1004;LAURA;So you can do something else!
+1005;SAM;So that was my bonus action, then.
+1006;MATT;Correct, to do that is your bonus.
+1007;SAM;So I can do something else, then?
+1008;MATT;I'll let you do it again if you want to.
+1009;SAM;No, no, no, I'll do something else. Oh! By the way, I can't use my movement to drink a potion, right?
+1010;MATT;No.
+1011;SAM;Okay (laughs).
+1012;TRAVIS;(laughing) I'd like to drink a potion.
+1013;SAM;Can I lean over the wall there? And I'll Lightning Bolt the same guy.
+1014;MATT;Okay. So it would be over the edge of that wall there and (blasting noise). All right, go for it. So that's a no. That is a 12 for its dexterity saving throw, so it takes full damage.
+1015;SAM;All right, so.
+1016;TALIESIN, SAM;Oh!
+1017;SAM;Four ones in a row so far, so-- (laughter)|So I made up for some of them. 15.
+1018;MATT;15 points of lightning damage against the fire elemental. Okay, the bolt hits it and the fire elemental goes (sizzling), not terribly damaged by the impact.
+1019;TRAVIS;At least it didn't point and laugh at you.
+1020;MATT;Okay, do you want to stay where you are?
+1021;SAM;Yeah, absolutely.
+1022;MATT;Okay, that ends Scanlan's turn. Up to the top: Percival.
+1023;TRAVIS;He used your full first name.
+1024;TALIESIN;Yeah, okay, that's fine.
+1025;MARISHA;It's like when you're in trouble.
+1026;TALIESIN;I am in trouble. I have a whole bunch of your d8s over here, by the way. Feel free to pull them out whenever you like. I'm going to try a couple things. I'm going to do a piercing shot on the fire elemental, which I think I can do. I'm going to start moving in a northerly direction, so I guess I'll take like one or two steps southwest, I suppose it would be to you. Yeah, there you go.
+1027;MATT;There?
+1028;TALIESIN;Yeah, that'll do it. And I'm going to do a piercing shot. That burns a grit, okay. That'll do! That's 25 to hit the elemental.
+1029;MATT;25 hits.
+1030;TALIESIN;And now I have to roll again for Thordak?
+1031;MATT;Well, you have to decide whether your-- if it's a piercing shot affecting also Kima or Grog.|Because it's a straight line, and it hits-- depending on how you angle it, you're either hitting Kima or you're hitting Grog.
+1032;SAM;Oh shit.
+1033;TALIESIN;Really?
+1034;MATT;Yep.
+1035;TRAVIS;I'm saying Kima's not actually attached to a human being, just saying.
+1036;TALIESIN;Kima's not short enough that it'll go right over her head?
+1037;MATT;Nope. As per the rules as designed, no.
+1038;TRAVIS;I totally love Kima, I got nothing against her. Just looking out for myself right now.
+1039;MATT;She's parkouring off of the damaged wall, trying to get into the fray with the dragon, and happens to catch where the bullet would be going.
+1040;TALIESIN;Okay, that's happening, apparently.
+1041;MARISHA;Are you shooting Kima?
+1042;TALIESIN;It's either Kima or Grog. Although Grog takes half damage.
+1043;MATT;This is true.
+1044;TRAVIS;Yeah, okay, come on.
+1045;TALIESIN;You take half damage.
+1046;TRAVIS;All right. I'll remember this later.
+1047;MATT;So Grog it is? Roll for attack against Grog.
+1048;LAURA;I know, his head is so high. How are you hitting Grog?
+1049;TRAVIS;It's in the rules.
+1050;TALIESIN;It's in the rules.
+1051;MATT;In theory, from this angle, in to hit the fire elemental and Thordak, he has to aim up.
+1052;TALIESIN;20.
+1053;MATT;20? Against Grog hits?
+1054;TRAVIS;Yeah, it hits.
+1055;MATT;And roll against Thordak.
+1056;TALIESIN;And, no. I can't have a misfire once I've already hit the first?
+1057;MATT;Correct, only the additional attack can misfire.
+1058;TALIESIN;Okay. That's 15, that doesn't hit.
+1059;SAM;So you only hit Grog.
+1060;TALIESIN;I only hit Grog. No, I also hit the fire elemental.
+1061;MATT;Roll damage once.
+1062;TALIESIN;Yeah, I hit the fire elemental, though.
+1063;MARISHA;Maybe you'll kill it.
+1064;TALIESIN;Maybe I will. Maybe it's Maybelline.|Where are my d12s, they seem to have all vanished.
+1065;MARISHA;Kill it! Oh, jeez. Come on, man.
+1066;TALIESIN;That's awful. 13 points of damage.
+1067;MATT;Okay. Grog, you take 13 points of piercing damage, halved to six. Round it down. Six.
+1068;TALIESIN;Sorry! And the bullet gets lodged in you.
+1069;MATT;Yeah, basically.
+1070;LIAM;It's there for 50 years.
+1071;TALIESIN;Sorry! And then, is the fire elemental still standing?
+1072;MATT;Yes, it is.
+1073;TALIESIN;I'm irritated. I'm burning another grit, and I'm going to do a pushback on the elemental.|That's actually no save, that's just a pushback. I just have to hit. And that hits, I should have done a-- that's a 29, 32 to hit.
+1074;MATT;32 to hit. That'll hit, go ahead and roll damage. And it just gets pushed back ten feet?
+1075;TALIESIN;No, I'm saving you.
+1076;MARISHA;I mean, I could have handled it.
+1077;TALIESIN;14. I want you to be able to get up without that thing on you. 20 points of damage.|And it gets pushed back ten feet. Thank you.
+1078;MATT;Its form gets knocked back, coalesces again as a flickering flame creature. It's looking hurt, it's barely keeping its form together at this point, it's still standing.
+1079;TALIESIN;I'm going to use my bonus action for a healing surge to add 22 points to my hit points.|Then I'm going to keep running, use spider to run over that wall into that little house beneath the green dragon.
+1080;MATT;All right.
+1081;LIAM;Spider-climb is cool.
+1082;SAM;Little house on the prairie, with the dragon on it.
+1083;TALIESIN;There we go.
+1084;MATT;All right. That finishes your turn, Percy.|Now you watch as the skyship Deera pushes through some of the clouds, and you can now see a series of small shapes as it looks like a half-dozen wyverns are currently harrying it from the sky, attacking it. You can see some sort of combat going on on the bow of the ship, but you also watch as two of its arballists are set up, and fire towards Thordak. That actually hits. That's cocked. And, yeah. A 16 and a 15. With bonus, it hits both.
+1085;LAURA;That's Captain Damon, right? To the rescue!
+1086;MATT;So, they're both super-heated, they are flaming arballists, fire doesn't have an effect, but they still do piercing damage, for a total of 22 points of piercing damage. You watch these two large, thick heavy metallic piercing bolts come arcing through, slamming into Thordak's hide. The flames flicker on the edge where it impacted, though it has little effect, and Thordak is (insane growling).
+1087;TRAVIS;Crazy motherfucker.
+1088;LAURA;He's so fucking crazy.
+1089;MATT;(insane growling) (maniacal laughter)
+1090;SAM;Oh, god.
+1091;MATT;Two of the wyverns apparently, noticing the fray, and peel off, beginning to make their way down to where this struggle is happening.
+1092;SAM;No problem. (whispered) Big problem!
+1093;LIAM;This is a busy battlefield.
+1094;MATT;At this point in time, I'm going to do--
+1095;TALIESIN;You're having way too much fun.
+1096;MATT;Yeah. Okay.
+1097;SAM;Matt has been waiting a year for this.
+1098;LIAM;Don't worry, sir, we didn't see you playing with your dolls.
+1099;MATT;(laughs) Grog and Kima. Suddenly the ground quakes beneath you, and it splits open, and a very thick, yellowish-green sulfurous gas just spills out in the vicinity, immediately filling your lungs and causing your chest to seize just from breathing the air in. I need both you and her to make a... The area is now heavily obscured, so now there is a heavy smoke all in this area right now.
+1100;LAURA;Does his head peek up above that?
+1101;MATT;Yes, it does.
+1102;LAURA;He's so tall.
+1103;MATT;You don't do anything yet.
+1104;TRAVIS;Nothing yet?
+1105;MATT;You don't do anything yet.
+1106;TRAVIS;On my turn.
+1107;MATT;On your turn, you'll do it.
+1108;SAM;Does that affect the fire elemental, too?
+1109;MATT;It may.
+1110;LAURA;You don't know.
+1111;SAM;I don't. Sam Five has his theories, though.
+1112;MATT;For Raishan's turn, as smoke has filled the area, (coughing) you're having a hard time-- Raishan sees this, picks up off the ground as the wyvern begins to strike. First I'm going to see if her breath comes back. It does not. Seeing the new creatures in the fray, is going to rush up and interfere with this one immediately, and just do a full round of attacks against the wyvern.
+1113;TRAVIS;(singing) Eat the little pterodactyl.
+1114;MATT;That'll hit. That'll hit. That'll hit. Bite and two claws. Yep. That wyvern is looking really hurt, as you watch as Raishan reaches up and just tears into its side, and claws into its belly, they're both wrestling in the air, almost in a momentary freefall, then catch themselves again.|Raishan just clings on. The wyvern is already in a really, really bad place.
+1115;SAM;Oh, that's great.
+1116;MATT;That ends Raishan's turn. At the end of Raishan's turn, Thordak is going to do another wing attack.
+1117;LIAM;Man, Groggy. 17 displacer beasts just appear.
+1118;LAURA;Like, why would he add wyverns? For his own sake!
+1119;MATT;He's going to do another wing attack, at the cost of two of its actions. Picking up the wind around it once more, I need Grog... Kima's just out of the range, thankfully. Grog, I need you to make a dexterity saving throw.
+1120;TRAVIS;I have advantage because of--
+1121;MATT;You do.
+1122;LAURA;Would the wings disperse the gas on the ground?
+1123;MATT;Nope! But it does push it.
+1124;LAURA;Damn it.
+1125;MARISHA;Oh, boy.
+1126;TRAVIS;17.
+1127;MATT;17, nope. You take--
+1128;LAURA;Oh, no!
+1129;MATT;16 points of bludgeoning damage, reduced to eight.
+1130;TRAVIS;Okay.
+1131;MATT;And you take eight points of fire damage, reduced to four, from the impact, and you are knocked prone. So you are now prone on the ground.|And this gets pushed ever-so-slightly this way.
+1132;TRAVIS;Off of me?
+1133;MATT;Off of you, onto Keyleth, Pike, Kima, currently. The dragon does shift.
+1134;TALIESIN;Oh! No, Grog's down, so there's no attack of opportunity.
+1135;MATT;Keyleth, you're up. Initially, I need you to make a constitution saving throw.
+1136;MARISHA;Yeah, all right. Not that one, not that one. Gil! Don't fuck me, Gil. All right, that's not too bad. 19.
+1137;MATT;19, you succeed. You manage to just hold your breath, and the poison doesn't makes its way and fit into your lungs.
+1138;MARISHA;So, I still have this asshole in front of me, right?
+1139;MATT;Yes, you do.
+1140;MARISHA;But he's been pushed back?
+1141;MATT;It's pushed back, yeah, so it's not in contact with you.
+1142;TALIESIN;Yeah, you got to see if you can get up and walk away.
+1143;MARISHA;Yeah, that's cool. I will stand up.
+1144;MATT;Okay.
+1145;MARISHA;Rise up! This guy in front of me is almost dead, right?
+1146;MATT;He's looking pretty rough, yeah.
+1147;SAM;Focus on the dragon.
+1148;TRAVIS;What was that?
+1149;SAM;"""Focus on the dragon."""
+1150;TRAVIS;"""Focus on the dragon."""
+1151;MARISHA;How far away is Thordak from me?
+1152;MATT;Quite a ways away. I'd say close to 65, 70 feet from you.
+1153;MARISHA;Okay. I am going to-- Can I move up one square closer to Thordak, but not get near the--
+1154;MATT;Yeah, right there, you can.
+1155;MARISHA;But I'm in this cloud, too! Shit.
+1156;SAM;You have resistance to poison clouds, remember?
+1157;MARISHA;I don't, but that's nice. And now I'm going to--
+1158;MATT;You are immune to poison, just so you're aware.
+1159;MARISHA;Am I?
+1160;MATT;Because of the Heroes' Feast.
+1161;MARISHA;Oh, because of the Heroes' Feast! Oh, that's right. Oh, well, fine.
+1162;MATT;Thordak doesn't know that.
+1163;MARISHA;Right. And then I'm going to cast Blight on Thordak.
+1164;MATT;Okay. Thordak's going to make a saving throw. This is constitution?
+1165;MARISHA;I think so?
+1166;MATT;Success. So half damage.
+1167;SAM;Success. Half damage. Hey, you caused damage! That's great!
+1168;MARISHA;I did! I did a thing! Not too bad. 11, 17, 21, 23, 25, 31, 35. 35, halved.
+1169;MATT;Half of 35, all right. As the Blight spell takes hold, you watch as the tendrils of black necrotic energy begin to carve between the scales of Thordak's body. You watch as portions of the scar in the chest split, almost like a fresh wound. A little bit of pus begins to pour forth.|It's nasty.
+1170;MARISHA;I take a few steps back. Can I tuck into that little broken building, a little bit? Just inside the doorway?
+1171;MATT;Sure. You are just inside the doorway right now with Percy.
+1172;MARISHA;Perfect.
+1173;MATT;Actually, you can't quite get that far because you were knocked prone, so you're just barely... No, you can just get in there, so you're good.
+1174;MARISHA;How are you doing?
+1175;TALIESIN;I am just-- I am regretting so many things right now.
+1176;MARISHA;I don't know how we got here.
+1177;TALIESIN;Neither do I. I should have saved him--
+1178;MATT;Well, it is a 30-foot range.
+1179;MARISHA;What?
+1180;MATT;Blight has a 30-foot range.
+1181;MARISHA;Oh. Hm. Yeah.
+1182;MATT;So we're going to take that damage off.
+1183;MARISHA;Okay. Well...
+1184;SAM;Can we say that she walked 30 feet closer to--
+1185;MATT;No, because she was prone at the start of her round, she can only move 15 feet.
+1186;MARISHA;Okay. Well, then instead, (reverse words), take me back. I can only do 15 feet. All right. How many feet am I from the elemental?
+1187;MATT;He is 15 feet from you. Ten feet.
+1188;SAM;You could have cast it on the--
+1189;MARISHA;No, I'm not going to blow a 4th-level spell on his ass. I'm going to do a 1st-level spell, though, and do a Thunderwave.
+1190;MATT;Okay. So in that right there. What level, you're going to do first level?
+1191;MARISHA;Yeah.
+1192;MATT;Okay. That is a, what save? Constitution?
+1193;MARISHA;Yes.
+1194;MATT;That is a 17, so it does not succeed, I don't think.
+1195;MARISHA;It does not. It takes 2d8. Ooh, that's good! Ten damage! Please kill it, please kill it!
+1196;SAM;Does my hand need to make a save, as well?
+1197;MATT;No, because she aimed the-- It's a cone, right?
+1198;MARISHA;It's a radius.
+1199;MATT;Radius? So yeah, your hand would have to--
+1200;MARISHA;Oh, no, sorry. It's a cube. It's a cube, 15-foot cube.
+1201;MATT;Yeah, so you can just go right there. You're fine. As you get up off the ground, the smoke, you slam your staff into the ground. The smoke around you dissipates momentarily as the shockwave hits the fire elemental. It just turns into ash, and vanishes.
+1202;MARISHA;Got rid of that fucking asshole. All right. And that's all I can do.
+1203;MATT;You have 15 feet you can move.
+1204;MARISHA;Okay, now I'll tuck into there.
+1205;MATT;Now you can tuck in, yeah. Since you did move that time. There you go.
+1206;TRAVIS, MARISHA;There you go!
+1207;MATT;At the end of Keyleth's turn, Raishan's going to use a legendary action to make another attack against the wyvern. That will hit. And that will do it. With that, the wyvern gets its head ripped off by Raishan. The body plummets, the lizardman that was riding it ends up falling off.|Slams into the ground.
+1208;TRAVIS;Wilhelm scream!
+1209;MARISHA, TALIESIN;(half-hearted Wilhelm scream)
+1210;TALIESIN;I've got shit to do in the morning, I'm not going to do it for real.
+1211;TRAVIS;All right, fair enough.
+1212;MATT;Nine points of bludgeoning damage, as it hits the ground. It's still alive, but it's looking up at this green dragon. That ends Keyleth's turn. Jarett is currently afraid as shit.
+1213;TRAVIS;(laughs) Because he rolled not very good.
+1214;MATT;He's going to reload, and look over. He has to roll with disadvantage against Thordak from that distance, can't get closer. Even with disadvantage, hits, on the first attack. With 16 and 18. Misses with the second one.
+1215;TRAVIS;Crossbow?
+1216;MATT;"Yeah, with the crossbow. Still manages to do 13 points of piercing damage. To Thordak, which is nice. Jarett is then going to finish moving out of visual sight of this, like, ""Nope, nope, nope!"" Behind the wall, (panting) ""This is, uh. This is a terrible idea. They're not paying me enough for this."""
+1217;TALIESIN;He's not going to take a shot at the elemental while he's running away?
+1218;MATT;"No, he was focused on Thordak. He was just like, (yells). That ends Jarett's turn. Gilmore's turn. Gilmore is dodging out of the outside of the cloud, and goes, ""All right. Let's see if we can try this again."" He's going to go ahead and move up into the building just outside of the radius."
+1219;TRAVIS;Come on, buddy.
+1220;MATT;Looking behind where the window is busted open, he's going to blow his one 7th-level spell as a lower-level spell of Disintegrate once more up towards the chest, where it's kind of cracked open. That is a 24, 13 plus 11, that hits.
+1221;TRAVIS;Boom! Nobody else is excited about this?
+1222;LAURA;I am. I am very excited.
+1223;TALIESIN;Once I hear a number, I'll be excited.|I'm not saying anything until I hear a number.|It's going to be, like, 11 points of damage.
+1224;TRAVIS;7th-level Disintegrate.
+1225;MATT;That's an additional 3d6 to that. That's 13d6
+1226;ALL;Oh!
+1227;MATT;Plus 40 points of force damage.
+1228;ALL;Whoa!
+1229;LAURA;13d6.
+1230;TRAVIS;Now y'all are excited!
+1231;TALIESIN;Now we're on board.
+1232;TRAVIS;I'm with you, Gilmore, I'm a true fan, OG!
+1233;MATT;So it deals 88 points of damage to Thordak.|(cheering)|You watch as the beam slams right into the side of Thordak's shoulder and torso area, the beam firing out from behind the broken wall. The wings extend as he's bearing down on Vax, and as it hits, the flesh kind of peels away and turns to dust in the vicinity. (pained roar) You can see he's just reeling from the pain, the mouth opens wide, the eyes go wide, as it begins to curl across. As it does, you see it. There's a bit of bone exposed there where the flesh once was. You can see scar removed and pulled back. You can see on the inside of the ribcage, just barely exposed, the outside of a glistening red crystal that is embedded in Thordak's chest.
+1234;SAM;He does have it.
+1235;LAURA;It was just covered.
+1236;TRAVIS;The skin's grown over it.
+1237;LAURA;And it's being absorbed, so I'm not going to get it.
+1238;MATT;That is the end of Gilmore's turn. That brings us to Grog and Thordak.
+1239;TRAVIS;Would you like to go first?
+1240;MATT;First let me see-- This roll is going to-- Yes. I would like to go first.
+1241;LAURA, SAM;Oh, no.
+1242;LAURA;He just got his fire breath back.
+1243;MATT;After getting disintegrated, Thordak, who was focused on you, his attention keeps shifting from place to place. He's not focused in his current mental state. (enraged roar) And you watch as he heaves, you see the flames flickering brighter and brighter across him. (fwoosh)
+1244;SAM;Oh, god. No.
+1245;MATT;Or actually, he'd be right there.
+1246;LAURA, SAM, TALIESIN;No!
+1247;MATT;You do get an attack of opportunity against him.
+1248;LIAM;Yeah. Sneak attack, on top of that.
+1249;MATT;Yeah, because you have advantage, if you hit. So go ahead and roll twice.
+1250;LIAM;Got him, got him. That's 26 plus... is 27.
+1251;MATT;27 hits. Go ahead and roll damage with the sneak attack.
+1252;TALIESIN;Are you using the sword?
+1253;LIAM;Yep. Yes, I am using the sword.
+1254;TALIESIN;Yes, you are. Love it.
+1255;LIAM;Yes, where is my ten-sided die? Ten plus six is 16. Plus all of this shit. 16, 17, 23, 29, 33, 34, 38, 42, plus Hunter's Mark. 43.
+1256;LAURA;Plus 3d6 for your dragon.
+1257;LIAM;I already did that.
+1258;LAURA;No, you didn't.
+1259;LIAM;Correct. 43, thank you. 49. 50. 51.
+1260;MATT;51 points of damage as Thordak rushes away from you. (pained roar) As you cleave across his underside, you watch as the blood just spills out.|(wings flapping, hard landing) Actually, no, he's not going to land, he's staying up in the air.
+1261;LAURA;There's no plastic big enough to support him!
+1262;TRAVIS;Yeah, he ate too much, he can't get up in the air!
+1263;LAURA;He's too fat to fly!
+1264;LIAM;Too many Krispy Kremes.
+1265;MATT;Thordak is currently up--
+1266;LAURA;Oh shit, he's high.
+1267;TRAVIS;You just hit Grog.
+1268;MATT;I did, yeah. Hold on a sec.
+1269;TRAVIS;He does not appreciate that.
+1270;MATT;Grog will calm down.
+1271;LIAM;Here's Jenga, right here, that dragon's coming down. Holy cow.
+1272;LAURA;Oh, my. There's rocks, it's on the rocks.
+1273;LIAM;It's like Mousetrap. Holy cow.
+1274;LAURA;Oh my god. Grog!
+1275;LIAM;Oh my gosh!
+1276;LAURA;He's too big to fly, we told you!
+1277;LIAM;We'll use the theater of the mind, Matt!
+1278;TRAVIS;One little bump of that table, and it's falling down.
+1279;LAURA;It's all coming down. It's like he's going to knock over everything when comes down.
+1280;MATT;He's going to fire breath. That's going to be Grog, Kima, Pike, and Gilmore.
+1281;SAM;And the hand.
+1282;MATT;And the hand.
+1283;TRAVIS;I really don't want that to fall. It's going to break.
+1284;MATT;So I need Grog and Pike to roll a dexterity saving throw.
+1285;TRAVIS;All right. Come on, come on, Gil. Yes.|Even better! 21.
+1286;MATT;That's still not enough.
+1287;LAURA;Pike rolled a ten.
+1288;TRAVIS;That was a 19.
+1289;SAM;The hand rolled a nine.
+1290;LAURA;Oh, wait, does she get-- Wait. No.
+1291;MATT;That's 102 points of fire damage. Halved, for both of you, so 51 points of fire damage. No, no, to both of you! So 51 points of fire damage to Grog, and Pike. Pike needs to make a constitution saving throw to try and maintain concentration.
+1292;LIAM;19.
+1293;MATT;What's her constitution save?
+1294;LIAM;Her modifier, so, a total of 20.
+1295;MATT;Not enough. So-- It's half the damage you take. She had to roll a natural 20. She probably couldn't have made it, yeah. So Beacon of Hope is gone. Beacon of Hope is gone. You took 51 points.
+1296;TRAVIS;I took the 51.
+1297;LAURA;Right when she needs it the most! (shriek)
+1298;MATT;Kima rolls a natural 20 on her save, so she takes half damage, at least, so Kima's still up!
+1299;LAURA;If we hadn't had that Heroes' Feast, Pike would be unconscious.
+1300;MATT;Kima does not maintain her spell, unfortunately.
+1301;LAURA;Pike is way low.
+1302;LIAM;Pike is going to be looking out for Pike on her next turn.
+1303;TALIESIN;That's cool.
+1304;LIAM;Got to have that ray of sunshine, man.
+1305;MATT;Gilmore rolls a natural 20 on his reflex save.
+1306;EVERYONE;Yes!
+1307;MATT;That's awesome. And thank god, so he's still unconscious. Gilmore is down and in flames right now.
+1308;SAM;Oh, god.
+1309;TRAVIS;Wait, Gilmore is down, and is unconscious?
+1310;MATT;Unconscious.
+1311;SAM;Oh shit. I got him.
+1312;TRAVIS;How high is Thordak in the air?
+1313;MATT;Thordak is 50 feet up.
+1314;TRAVIS;Sam. What are you going to do?
+1315;SAM;I'm going to not let him die?
+1316;TRAVIS;Okay. Is somebody planning to go into the fucking tunnel, on the earring?
+1317;LAURA;Wha-- why?
+1318;TRAVIS;Because I can't hit him. He's too high.
+1319;LAURA;But he's-- There's crystals in his belly.
+1320;TRAVIS;But wasn't there a tunnel that we wanted? I attach the Bloodaxe to the Chain of Returning and I throw it at his feet.
+1321;MATT;Okay. So you stand up.
+1322;TRAVIS;Let me move 20 feet to his right rear, over here. Just in case he decides to do the Cone of Fuck Everything again.|(laughter)|Then I'll throw the axe.
+1323;MATT;Okay.
+1324;TRAVIS;Reckless! 29.
+1325;MATT;29 hits.
+1326;TRAVIS;Hey, that's a 12, that's great. Sorry, I'm blanking out. 25, 27, plus the 1d4 because I'm enlarged, which I didn't do last time. That's 30.
+1327;MATT;30 points of damage. Good.
+1328;TRAVIS;And I need to roll a DC of 14 to bring it back in, but it's strength.
+1329;MATT;Go ahead and roll.
+1330;TRAVIS;That's too wild. That's off the wall.|That's a 12. That's off the wall. God, nipples on a horse! Wait, do I have advantage?
+1331;MATT;While you're raging, you have advantage on strength rolls. Was it athletics or strength?
+1332;TRAVIS;Strength. Advantage on strength checks, strength saves.
+1333;MATT;So, roll again.
+1334;TRAVIS;19.
+1335;MATT;You yank the axe back down, catch it in your hands. You did the extra 1d4 damage from being enlarged, right?
+1336;TRAVIS;I did. It's that little tiny one.
+1337;MATT;That is going to end Thordak's turn. Now it is the elemental over here. It's going to (flame crackling) over next to Percy.
+1338;TRAVIS;Ooh! Is the Second Wind a bonus action? Second Wind, the fighter thing?
+1339;MATT;That's a bonus action.
+1340;TRAVIS;Can I do that?
+1341;MATT;Yeah. Go for it.
+1342;TRAVIS;1d10 plus fighter level, which is one.
+1343;MATT;1d10 plus one.
+1344;TRAVIS;Nine. Ten! Ten hit points.
+1345;MATT;Ten hit points, all right. All righty. Let's see. Vex, you're up.
+1346;LAURA;Okay. I'm going to shoot him. I'm going to reach back and I'm going to get a poison arrow.
+1347;MATT;It's your third and final poison arrow?
+1348;LAURA;No, I've got six poison arrows. That one missed.
+1349;MATT;It just barely misses Raishan on the way.
+1350;LAURA;Sorry! Poison arrow. No, it's okay, it's good. That is a 27.
+1351;MATT;That hits.
+1352;LAURA;15 plus four lightning. Does he have anybody near him? Does he see me? Am I sneak attacking?
+1353;TRAVIS;He's in the middle of the motherfucking sky.
+1354;MATT;You're not sneak attacking because nobody nearby can hit him.
+1355;LAURA;Plus four because that's two for being a dragon. Okay, so you know. And then the poison arrow thing.
+1356;MATT;Right. He makes his save.
+1357;LAURA;My last attack. I'm going to try using my last dragon-slaying arrow that I have.
+1358;MATT;Okay! This is the one you've had. This is the one you've kept this whole time, right?
+1359;LAURA;It's got Thordak's name on it.
+1360;MATT;You reach back and you pull and there's two.
+1361;LAURA;There's two?
+1362;MATT;There's two in there.
+1363;LIAM;Do it.
+1364;LAURA;Why do I have two?
+1365;MATT;You pull one out, look, and there's a small piece of paper attached to it.
+1366;LAURA;Ooh! I rip it off and tuck it in my shirt.|Pull. 21? No!
+1367;MATT;It arcs into the darkness, past the clouds and out of the Cloudtop.
+1368;LAURA;Goddamn it.
+1369;TRAVIS;It's okay!
+1370;MATT;You still have movement if you want to do something else.
+1371;LAURA;Is the building on fire?
+1372;MATT;There's small flames here and there, but there is a wyvern up above the wall now that seems to have noticed you as you went around the corner and fired a few arrows.
+1373;LAURA;Can I use my bonus to hide? From him?
+1374;MATT;You don't have anything to hide behind. It notices you over the side. You can move, if you want to, and try to do that.
+1375;LAURA;The building is on fire? Can I move and try to duck into the building? I see a hole that's not on fire.
+1376;MATT;You could move around here and duck inside there.
+1377;LAURA;Yeah. I'll try to hide in the building because wyverns, he's so dumb.
+1378;MATT;Go ahead and roll stealth.
+1379;LAURA;How about that? That is a 14.
+1380;MATT;That's a 14? All righty. I forgot to do the fire elemental attacks against you, Percival, from earlier.
+1381;TALIESIN;I had an environmental attack?
+1382;MATT;"Fire elemental attack that came over there and attacked you. It was during Thordak's turn; I forgot to do that. It gets two touch attacks against you. That is 13."
+1383;TALIESIN;That does not hit.
+1384;MATT;That's cocked. Natural 20.
+1385;TALIESIN;That hits.
+1386;TRAVIS;Yes! Oh. Not your natural 20.
+1387;TALIESIN;Yeah, not mine.
+1388;MATT;17 points of fire damage, halved to eight, and you are on fire.
+1389;TALIESIN;Yeah, oh.
+1390;TRAVIS;And you are on fire.
+1391;TALIESIN;Does stop, drop and roll work in--
+1392;MATT;You have to use an action to get rid of it.|So yes. And every turn, you'll take 1d10 fire damage until you get rid of it. All right, so, finishing Vex's turn, it is now Vax and Kima's.|Kima's going to make a constitution saving throw.|Kima makes it and is unaffected. Well, she's unaffected by the poison anyway because she was part of the Heroes' Feast.
+1393;LAURA;Oh, right, that's poison. So she's immune.
+1394;MATT;Yeah, Kima is angrily going to rush over to Gilmore.
+1395;SAM;(pouring drink)
+1396;MARISHA;It's never not weird.
+1397;SAM;(contented sigh)
+1398;LIAM;It's really on Matt for there being no pee break.
+1399;MATT;It's true. It's true. Kima is going to go ahead and Lay Hands on Gilmore.
+1400;MARISHA;Oh yeah, Kima.
+1401;MATT;"She's going to heal him for 35. All righty, so as Kima rushes over, still staring at Thordak up in the air, (wing flapping) she hand vaults over the destroyed wall, runs over to Gilmore's unconscious burning form and, moving her hand out of the way to put the flames out, pats him down and as her hand glows and she slams onto his chest and you watch (gasping) the breath come to him.|As his eyes flicker open, she goes, ""It's not your time yet, buddy."" Picks up her sword and angrily looks over towards Thordak again. She can move five more feet that way, that's as much as she can get this turn. But that's her action. Pike's turn."
+1402;LIAM;Vax's turn.
+1403;MATT;Sorry, Vax's turn.
+1404;LIAM;I'm going to fly straight at Thordak's flank. You can put me, well, don't actually put me there, because he'll topple.
+1405;MATT;Yeah, but you're up there.
+1406;LIAM;But I'm going to attack twice, once with the dragonslayer sword, once with Whisper, so here's the dragonslayer sword. Natural 20! (cheering)|Sneak attack damage!
+1407;MATT;Okay. So you have the sword and Whisper both attuned?
+1408;LIAM;Yeah. But this is the sword.
+1409;MATT;Yeah, go for it.
+1410;LAURA;He's going to use a legendary. I can see it on his damn face.
+1411;LIAM;He can't against damage, can he?|All right, well, here we go.
+1412;MATT;Can't legendary resist against damage.
+1413;LAURA;You can't?
+1414;MATT;No, it's only against saving throws.
+1415;LIAM;Yeah. So seven. I'll save the bonus for later. Seven plus the three.
+1416;SAM;Roll high. Roll strong.
+1417;LIAM;Seven, eight, 14, 18, 18 plus all of this.|And I'm smiting, by the way. 18, 21, 24, 26, 30, 32, 35, 39 plus Hunter's Mark is 42, plus Divine Smite-- 46. 48 times two is 96.
+1418;MATT;Without the bonus.
+1419;LIAM;Without the bonus, so a hundred and...|two.
+1420;MATT;102 points of damage against Thordak.
+1421;LAURA;On your first attack!
+1422;LIAM;For the second attack-- good, this is, yeah, it hits, 16 plus, 20, 20, 25. This is Whisper, so that is one plus-- is nine plus psychic damage...
+1423;LAURA;Can't you just attack twice with the dragon sword?
+1424;LIAM;No.
+1425;LAURA;Why not?
+1426;LIAM;Hand, hand.
+1427;LAURA;Oh.
+1428;LIAM;16 for Whisper.
+1429;MATT;All righty.
+1430;LIAM;And I will use my last action, so that was action, bonus action-- last action to disengage and fly down and land by Kima and Gilmore, this side of the building. Closest to me.
+1431;MATT;Right here?
+1432;LIAM;On the ground, even, if I can, yeah. Behind the column in the corner by Gilmore's head, I think.
+1433;MATT;Okay. So as you rush up, sword at the side, jam it to the hilt to the side of Thordak's haunch and upper torso area, using the momentum behind you, you continue to push forward and yank the blade around like a can opener. Just cutting through the scales and hide. (pained yelling) And as you tear through, the blade, it comes out the other side, cutting through the flesh as you spin around with your wings still out in front, you spin with Whisper and slam it into the open wound with the exposed crystal, hitting the crystal with the Vestige. (shattering) There's a flash of light, and you continue downward, landing off to that side. As you turn around and look up, you watch as the crystal begins to crack.|(shattering) (gasping)
+1434;SAM;It's got a weak spot. Weak spot.
+1435;MARISHA;Oh shit.
+1436;LIAM;Pretty sure I just had an orgasm.|(laughter)
+1437;SAM;In game, or right here?
+1438;TALIESIN;Could be both now, actually.|(laughter)
+1439;MATT;All right. That's your turn.
+1440;SAM;You've done your thing.
+1441;LIAM;Take it, take it. Pike cheat sheet, here we are.
+1442;LAURA;Pike cheat sheet.
+1443;MATT;All righty, that brings us to Pike's turn.
+1444;LAURA;Pike.
+1445;MATT;Pike has to make-- nothing because of the poison.
+1446;LAURA;Heroes' Feast?
+1447;MATT;Yeah, so, what's Pike doing?
+1448;LAURA;Pike is going to cast Heal on herself at seventh level. So she's going to heal herself for 80 points.
+1449;MATT;Okay.
+1450;LAURA;So she's got 84 points now.
+1451;LIAM;She was low.
+1452;LAURA;She was super low.
+1453;TALIESIN;She can take a death, remember. She can actually take a death. But yeah.
+1454;LAURA;Okay, but then she can't heal people. And then is anybody injured around her?
+1455;SAM;Everybody's injured around her.
+1456;LAURA;Gilmore's still pretty low, right?
+1457;MATT;Gilmore's not too great.
+1458;LAURA;Okay, then she's going to run, she's going to cast Healing Word on Gilmore.
+1459;MATT;Okay, he's within range.
+1460;LAURA;At second level that she can do it at?
+1461;MATT;Right, so that's 2d4 plus five.
+1462;LAURA;So that's, oh, right, because now shit's gone.
+1463;MATT;Yeah, Beacon of Hope is gone.
+1464;LAURA;Ten.
+1465;MATT;All right.
+1466;LAURA;And she's going to use her movement to run back into the building with Scanlan.
+1467;MATT;That's as far as she can get, right there.|Okay, that ends Pike's turn. Scanlan, you're up.
+1468;SAM;Oh. I'll, through the earring, say, Grog, you want to go for a ride, or no?
+1469;TRAVIS;Yeah.
+1470;SAM;Okay, action, I will arc around and Lightning Bolt the dragon real quick. With the hand cone, I don't know if that makes any difference. No, it doesn't. It might.
+1471;MARISHA;It can't hurt. It's got to save against that shit.
+1472;MATT;Yeah, you can see it from there. It's high enough in the sky. You don't have to arc around, you can go (magic shooting noise). Okay, makes his save.
+1473;SAM;Yeah, great, so what, I still roll damage and he takes half?
+1474;MATT;Yeah. He takes half.
+1475;SAM;Okay. That's fine. 23. So, 12, 11, something like that.
+1476;MATT;Okay.
+1477;SAM;Great.
+1478;MATT;11 points of lightning damage.
+1479;MARISHA;Good job, buddy. Man, good thing we gave you that flute.
+1480;LAURA;I know, right, fucking A, Scanlan!
+1481;SAM;We're doing great, guys, nobody's dead yet.
+1482;TALIESIN;It's so great that you did that 11 points.
+1483;MARISHA;Yeah, wait until we're-- he's on the other side of the continent. It could like--
+1484;SAM;And as the bonus action-- The Hand, who is still alive. He took 102 points of damage, but is still alive.
+1485;TRAVIS;Bigby's Hand is?
+1486;SAM;Yes, because he has my hit points. So he'll go over and lift up Grog by the scruff of his neck and go as high and mighty as he can. He can move like 120 feet, I think.
+1487;TRAVIS;Like a fucking puppy.
+1488;MATT;You can move him up to 60 feet per turn.
+1489;SAM;What? 120! Wait.
+1490;MATT;No, the spell's range is 120. Per turn, as a bonus action, it can move at 60 feet.|(laughter)
+1491;SAM;Well, knowing that, I'll just punch the dragon.
+1492;MATT;Okay. So the hand (whoosh) goes up. Punch him. Roll a spell attack.
+1493;SAM;Nope.
+1494;MATT;Whiffs.
+1495;LAURA;Wait, you're close to Pike. She uses War God's Blessing to increase your attack by-- can she do that? Is it technically an attack that she could add?
+1496;MATT;Let me check real fast. Let me see here.
+1497;LAURA;Was it really low?
+1498;SAM;I mean, you don't know.
+1499;MATT;Makes an attack roll.
+1500;LAURA;So yeah? So, do I roll the ten, or is it just a plus ten bonus?
+1501;MATT;Plus ten bonus.
+1502;SAM;Yeah, 23.
+1503;MATT;23 just hits.|(cheering)
+1504;SAM;It does hit! 6d8.
+1505;MATT;8d8.
+1506;SAM;No, it's usually 4d8, I think.
+1507;MATT;4d8, and you cast it, it's usually fifth level, you cast it as a seventh level.
+1508;SAM;So it's 4d8, so now it's 6d8.
+1509;MATT;It goes up by 2d8 every level higher.
+1510;SAM;Oh, shit!
+1511;LAURA;Oh my god. 4d8?
+1512;SAM;No, 8d8.
+1513;LAURA;8d8?!
+1514;MATT;Yes. Just punched the dragon in the face with Bigby's Hand.
+1515;SAM;Pike happened. Oh my god, Ashley is the MVP tonight.|(laughter)|Okay. Not huge, but okay. It's okay. 36.
+1516;LAURA, TRAVIS;That's great!
+1517;MARISHA;That's better than 11.
+1518;SAM;Yeah. Hey, I just dealt 47 points of damage! That's respectable! (approving murmurs)
+1519;TRAVIS;How's that Vestige treating you?
+1520;MATT;Top of the next round, Percy. First you take... You take ten, five points of fire damage.
+1521;SAM;(whispering) Laura.
+1522;MATT;That is terrifying. Oh my god.
+1523;LAURA;Thanks for getting my attention for that.|(laughter)
+1524;MATT;Goddamn it.
+1525;SAM;That will inspire you.
+1526;LIAM;Somebody gets an inspiration die.|(laughter)
+1527;TALIESIN;I'm going to spider-climb-- I'm going to stay within striking distance, I'm not going to disengage from the jerk, but I'm going to climb up on the wall above him, if that's okay.
+1528;MATT;I'd say yeah, you can do that. The wall next to him, there's nothing above him.
+1529;TALIESIN;Like, oh, I'm shooting at the television. Here.
+1530;MATT;Here? So you can move around and get on the wall.
+1531;TALIESIN;Yeah, like climb up there and be sideways. I'm going to pull out Bad News, I'm going to try something new. I'm seeing that big spike, there's a big metal spike stuck in his chest right now?
+1532;MATT;No, there's no spike. There's a crack in the crystal that's exposed.
+1533;TALIESIN;Is there still not a metal pole?
+1534;MATT;There's no metal pole.
+1535;TALIESIN;I thought he got hit by a thing.
+1536;MATT;No, he got hit by a Vax.
+1537;TALIESIN;Okay, I thought he also got hit by a thing. But that's okay. I'm going to try something weird. I'm going to spend a grit for advantage on this shot, because--
+1538;SAM;"""Constructing a pole vault."""
+1539;TALIESIN;I'm going to add two points of Cabal's Ruin to this.
+1540;MATT;Okay.
+1541;SAM;What does that do? What? You have a thing?
+1542;TALIESIN;I'm going to spend two points of Cabal's Ruin. I have a thing.
+1543;MATT;You can spend them once you roll to hit.
+1544;TALIESIN;Oh, I can wait until after?
+1545;MATT;Wait until you see you hit it, then you can spend the points.
+1546;TALIESIN;Well, that's even better. So first shot is a 27 to hit.
+1547;MATT;That hits.
+1548;TALIESIN;So I'm going to drop two-- I've got the little thing running through my glove, I've got the wire. I'm just going to let go of the little grounding wire and see what happens. I'll hold onto the barrel and pray. Let's add 2d6 to that.|Is that right? Yeah.
+1549;LIAM;I really like this spider-climb guy.
+1550;TALIESIN;I know, I'm digging this-- augh, it's okay. Yeah, this is okay. 22 points of damage plus two points of electrical damage.
+1551;MATT;Okay.
+1552;SAM;Did you roll your Cabal's Ruin thing?
+1553;TALIESIN;I did, yeah, I did, I'm going to do that again.
+1554;MATT;Okay.
+1555;TALIESIN;I'm going to burn two more points-- Well, I'm going to wait. That's really cool, that I can wait.
+1556;LAURA;That was the softest little roll.
+1557;TALIESIN;I hate it when that happens. I know, that was the worst roll I've ever done. That's okay. It's 22. Just hits?
+1558;MATT;22 misses.
+1559;TALIESIN;22 misses?! That's fine. I'm not going to burn any Cabal. So that's fine.
+1560;MATT;The first blast fires off... It impacts the side of Thordak. You watch the little charge of energy shoot through. Second shot, however, goes a little wide, as you feel the fire still burning up the front of your torso. It's enough to distract you from your actual aiming.
+1561;TALIESIN;That was very cool, though.
+1562;MARISHA;You can do that.
+1563;TALIESIN;Once I set it up, I can arc a charge to the bullet.
+1564;MATT;Okay, that ends your turn, Percy?
+1565;TALIESIN;That ends my turn. I may drop back behind-- No, I'm good, I'm good.
+1566;MATT;At this point, the ground quakes beneath--
+1567;TALIESIN;That was a terrible roll. Terrible roll.
+1568;MARISHA;Yes, it was.
+1569;TALIESIN;Snake eyes was not cool.
+1570;MATT;No, he can't do the same twice in a row, so it's going to do another magma erupt. (laughs) Beneath where Gilmore is, the ground splits open-- (groans)|--and another burst of magma billows out from underneath. Going against Kima, Vax, that's where most of them are clustered. Kima, Vax, and Gilmore. I need you to roll a dexterity saving throw.
+1571;LIAM;Yeah, evasion for me.
+1572;TALIESIN;Walls hate NPCs.
+1573;LIAM;With advantage. 18 for me.
+1574;MATT;18 for you. All right, that's okay. Gilmore rolls a--
+1575;LAURA;Natural 20?
+1576;MATT;15, which is enough. Kima rolls a natural 20-- (cheering)|So half as much damage to each of you guys.|You take none.
+1577;LIAM;I'm sitting pretty. I mean, I'm really rough.
+1578;LAURA;Don't say that out loud.
+1579;SAM;Have you taken any damage?
+1580;MATT;That's 21, that's ten points of fire damage to both Kima and Gilmore.
+1581;TALIESIN;Halved?
+1582;MATT;That was halved.
+1583;LIAM;I am Borishnakoffing all over this battlefield.
+1584;TALIESIN;Somebody's going to dive into that hole.
+1585;MATT;As that bursts off, you also watch as the airship Deera coasts around this way and takes three shots.|(cheering)|Misses. Hits! And misses. So three of them shoot past. The third one impacts for seven points of piercing damage to Thordak. You watch as two other wyverns get cut down from the edges of the ship, slamming into the ground near you. Their arms curl up, and the wings fall limply to the side. You also hear a slamming sound as from a nearby wall, you watch as a fire giant that has climbed over the edge of the wall.
+1586;LAURA;Why would you bring more things onto the battlefield?!
+1587;MATT;It charges into the fray, this way.
+1588;MARISHA;Wait, over what wall, over what wall?
+1589;MATT;On the outside of the side of the Cloudtop.
+1590;SAM;Is this one of the fire giants we've seen?
+1591;MARISHA;Yeah, is this one that Zahra and Kash were guarding?
+1592;MATT;Make a perception check.
+1593;MARISHA;Can I do it?
+1594;MATT;You barely have a view of it, so yes, you can.
+1595;LAURA;Do I have a view of it?
+1596;MATT;No, you're inside the room.
+1597;MARISHA;Ooh, yeah, 25.
+1598;MATT;You see it, this one does not appear to be coming from the direction they were.
+1599;LAURA;That's good, that's good. That's not a damn it, that's a good.
+1600;MARISHA;Means they're still alive. Hopefully?
+1601;MATT;With that, it is Raishan's turn. Raishan gets her breath back.
+1602;TRAVIS;(singing) Girl, get your breath back.
+1603;MATT;Raishan rears back, (hissing roar) releases the same poisonous torrent toward Thordak.
+1604;TRAVIS;Halitosis is a bitch.
+1605;SAM;We have exactly one ally dragon in this fight right now.
+1606;TRAVIS;I will fucking-- I will pop all your knuckles.
+1607;SAM;We do! She's great.
+1608;LIAM;The last thing we'll do in this fight is all turn on you.
+1609;MARISHA;The last thing we do is die as we see a bronze dragon show up.
+1610;LAURA;Yeah, we're all dead on the ground, and Scanlan's like, yay!
+1611;MATT;He takes half damage as the poison cloud billows up, (cough, sinister growl).
+1612;SAM;Aw, he's still crazy.
+1613;MATT;"""You're still around us? That's okay.|There's still time... to eat."" Raishan is going to fly past and land on the top of the roof, which nearly crumbles. Nearly crumbles above you, Keyleth, you feel stones (crash) around you, and you see Raishan landing on the ceiling of this damaged building as parts of it begin to collapse."
+1614;LAURA;Look how little she is.
+1615;MATT;That ends Raishan's turn. Keyleth, you're up.
+1616;LIAM;Go, girl.
+1617;MARISHA;So she's on top of me, more or less? I'm going to turn around and Tidal Wave this elemental behind me.
+1618;MATT;Okay.
+1619;TALIESIN;I was going to say, if I'm caught in the corner of this, will this extinguish me?
+1620;MARISHA;Extinguishes all flames.
+1621;MATT;It does. Wait, so what spell are you doing? You're doing--
+1622;TRAVIS;Tidal Wave.
+1623;LAURA;Is that one, like, still up or something? Is it like a concentration that just lasts?
+1624;MARISHA;No, the other one was Tsunami. That one is like the big daddy version of this one. Yeah.
+1625;MATT;So, Percy, I need you to make a dexterity saving throw.
+1626;TALIESIN;Can I autofail if I just want to be-- Oh, that's right, for half damage.
+1627;MATT;Yes.
+1628;TALIESIN;All right. Dex saving throw. That's an 11.
+1629;MATT;So roll 4d8 bludgeoning damage. Percy takes, and Percy is knocked prone, but is no longer on fire.
+1630;TALIESIN;I just fall on the ground, I assume.
+1631;MARISHA;Sorry, Percy. I'm saving your life, man!
+1632;MATT;However, the unscathed fire elemental is turned to mist. Water pushing past and doing way too much damage for him to--
+1633;MARISHA;Is this damage for Percy? 21.
+1634;TRAVIS;Thanks, Keyleth.|(laughter)
+1635;LIAM;Legitimately though!
+1636;MATT;But a full health fire elemental is turned to mist and is immediately destroyed. Actually, the force of it blows out the rocks from this side of the wall. And the wall, the wall here actually gets knocked open to that side as the tidal wave pushes out. Keyleth, do you want to move or stay where you are?
+1637;MARISHA;I'll pop myself out of the door a little bit.
+1638;MATT;Okay.
+1639;SAM;What's that other thing that you've been doing to him? That he has to save on every once in a while?
+1640;LAURA;Oh, Contagion?
+1641;MARISHA;Contagion, he has to do that at the end of his turn. Did he do it at the last...?
+1642;MATT;He did, yes. It was a 13 plus...
+1643;MARISHA;So he's saved against two or one?
+1644;MATT;He's only done two, so far, since you cast it.
+1645;MARISHA;He's only done-- I know about one.
+1646;MATT;No, because you didn't do it your first turn, you did it your second turn, so yeah, twice.
+1647;LAURA;Yeah, he's definitely done it twice.
+1648;MARISHA;And he's saved against both? Are you sure?
+1649;MATT;Yes.
+1650;MARISHA;All right.
+1651;SAM;But are you sure?
+1652;MATT;Yes.|(laughter)|Is that the end of your turn?
+1653;MARISHA;Do I see Gilmore?
+1654;MATT;You, from your current perspective, you do not.
+1655;MARISHA;Then, yeah.
+1656;MATT;Okay. Jarett, who is currently scared out of his wits.
+1657;TRAVIS;Get your shit together, man.
+1658;SAM;Jarett, do you need some suude?
+1659;TRAVIS;Spice?
+1660;MATT;"Ha, He's like, ""What? No, why would you..."""
+1661;SAM;Well, you look crazy right now.
+1662;MATT;"""Look at that!"""
+1663;SAM;It's like a Thursday.
+1664;MATT;And he goes and takes two more shots, with disadvantage against. That's a miss. Second shot, disadvantage. Is a miss. Both shots firing off.
+1665;TRAVIS;We'll remember this. Your annual review's coming up.
+1666;SAM;Needs improvement.
+1667;MATT;"Gilmore, who's now conscious, doesn't have a whole lot else as far as attack spells go, is going to attempt to stand up. ""All right, that was--"" (groaning)"
+1668;LIAM;Matt, why would you!
+1669;SAM;He flew 30 feet.
+1670;MATT;I can count that.
+1671;TRAVIS, TALIESIN;No!
+1672;MATT;Then stop giving me shit.
+1673;LIAM;Why would you!
+1674;MATT;"As he gets up, he leans back and backs out of the rubble, takes in his surroundings, sees the magma receding from the crack in the ground. ""This is... You guys bring me to the greatest places.|Oh, he's not looking too good."" And releases a Lightning Bolt."
+1675;MARISHA;He's not looking too good?
+1676;MATT;He's not looking too good. And he's going to release a Lightning Bolt at fifth level. A 5th-level Lightning Bolt. A 5th-level Lightning Bolt. Thordak makes his save. And that will be, come on, dice. 49. Half that will be 24 points of lightning damage against Thordak. That ends Gilmore's turn. Grog and Thordak.
+1677;TRAVIS;Oh God. I'm going first.
+1678;MATT;All right, what are you doing?
+1679;TRAVIS;Because it's so insignificant. I'm going to attach the Bloodaxe to the Chain of Returning and throw it at his foot.
+1680;TALIESIN;You could go in the hole, just saying.
+1681;TRAVIS;I thought we didn't care about the hole?
+1682;TALIESIN;I care about the hole.
+1683;TRAVIS;Grog loves going in holes.
+1684;LAURA;Just do what you're going to do.
+1685;TRAVIS;All right, I throw the Bloodaxe.
+1686;SAM;You can also hold your attack until he's closer or something?
+1687;TRAVIS;Reckless! Yeah, that's not going to happen. 31.
+1688;MATT;31.
+1689;TRAVIS;It's not Great Weapon Master. That's a 12.|That's good. Two points of necrotic for 27 and I'm enlarged! And that's another one.
+1690;SAM;Hey, 28 is great!
+1691;TRAVIS;Hey, matzoh ball in your face.
+1692;MATT;That's awesome.
+1693;TRAVIS;And then I've got to pull it back.
+1694;TALIESIN;With advantage.
+1695;TRAVIS;Seven plus 14, woo! Got it.
+1696;MATT;Yeah. You pull the axe back.
+1697;SAM;You got a bonus action or something?
+1698;LAURA;You could attack again?
+1699;TRAVIS;No I can't, I can only throw it once.
+1700;MATT;Thordak is going to swoop in.
+1701;SAM;You could heal or something? You've got potions and shit, don't you?
+1702;LAURA;Can't you hold your other attack until he moves?
+1703;TRAVIS;I don't have another attack.
+1704;MATT;Let's see here.
+1705;LIAM;He's hesitating.
+1706;TRAVIS;It takes my whole action. I get two attacks in an action.
+1707;SAM;He's hovering. God, he's going to his other Dungeons & Dragons game! (laughter)
+1708;LAURA;He's like, welp, I'm over this.
+1709;SAM;Oh God! That's dangerously close.
+1710;MATT;I know.
+1711;LAURA;Oh god.
+1712;MATT;Right there, Gilmore just behind.
+1713;LAURA;Gilmore is up his butt.
+1714;MATT;Raishan right there. Lands right up next to Pike.
+1715;LAURA;No!
+1716;MATT;Everyone else in that vicinity.
+1717;LAURA;Oh no, that's Pike and Scanlan isn't it?
+1718;SAM;Oh boy.
+1719;MATT;Yup. And (inhales).
+1720;LAURA;What? Why would you do that to Pike?!
+1721;MATT;Rolled a five on that. Because Pike keeps healing everybody. That'll be towards Jarett, Scanlan and Pike. I need you guys to make dex saves.
+1722;SAM;I'll Cutting Words this.
+1723;MATT;How many more bardic inspiration dice do you have by the way?
+1724;SAM;I have used only three. That means I have three left.
+1725;MATT;You've inspired one and you've Cutting Words twice? Correct, all right, cool. This is your fourth?
+1726;SAM;Yep. So I will Cutting Words that up with a poem I will make up on the spot. Roses are red, Violets are blue, I'm a gnome, and you're an asshole.|(laughter)
+1727;MATT;Roll a d12. What was Pike's dexterity save again?
+1728;LIAM;Oh no, it's this die.
+1729;SAM;Oh, you can reduce that by one point, Matt Mercer.
+1730;MATT;(laughing) Oh no. What did you get? Nah, roll your dexterity saving throw.
+1731;SAM;My dexterity saving throw. Terrible, 15.
+1732;MATT;Jarett does not make it either.
+1733;LIAM;Big eight, big eight.
+1734;MATT;All right, well.
+1735;LAURA;One of our Jaeger controllers did worse than our other--
+1736;LIAM;You shut your pie hole! Hear me, half-elf?
+1737;MATT;Well, with the damage reduction from Scanlan that's only 100 points of fire damage.
+1738;TALIESIN;Cut in half.
+1739;MATT;Cut in half, so that's 50 to each of you.|Jarett is practically immolated. His unconscious body hits the ground, crisp, smoking. He's currently going into shock and is in a really bad place right now.
+1740;SAM;Where's Pike? What's Pike doing?
+1741;LAURA;Pike is-- Wait, minus 50. She's at 50 minus--she's at 34 points right now.
+1742;TALIESIN;In combat range of a dragon.
+1743;TRAVIS;I never finished my turn, so can I use my movement now? Since we're on the same, can I chase him back to where he landed? 50 feet and how far does that get me?
+1744;MATT;Yeah, you can get right up behind him right there.
+1745;LAURA;Can you attack him now?
+1746;TRAVIS;Nah. Nah. Actually, my bonus action is still there and I am frenzied.
+1747;MATT;Yes, you are.
+1748;TRAVIS;Can I attack?
+1749;MATT;Sure.
+1750;TRAVIS;I'll do it Reckless.
+1751;MATT;I'll let you do it. It all happened at once.
+1752;TRAVIS;29?
+1753;MATT;29 hits.
+1754;TRAVIS;Yeah, not Great Weapon Master. Nine plus two, 26, 29. 29.
+1755;MATT;29? All righty. That ends your turn.
+1756;TRAVIS;That does.
+1757;SAM;Matt, in the interest of honor, should I roll a concentration saving throw?
+1758;MATT;Oh yes, you should. Sorry, thank you.
+1759;SAM;I rolled a-- what do I add to it?
+1760;MATT;It's a constitution saving throw, so you add your constitution save.
+1761;SAM;Constitution? So 18.
+1762;MATT;With that, Bigby's Hand fades, the spell knocked asunder. Thank you for reminding me of that. So that comes to end that turn.
+1763;MARISHA;He has to roll a save.
+1764;MATT;Yes, he does. And that is a seven plus 16.
+1765;MARISHA;Does he still have disadvantage on these?
+1766;MATT;No, he doesn't have disadvantage on every save, just the one. He was Cutting Words'd, you're right.
+1767;MARISHA;Yeah. He has to roll under a five.
+1768;MATT;Same thing. So with that, the third save is made, Contagion.
+1769;SAM;At least it won't eat up my Cutting Words any more.
+1770;MARISHA;It's resting in peace with my 8th-level spell and her dragon-slaying arrow. They're in a puddle somewhere.
+1771;MATT;It's a rough couple rounds.
+1772;LAURA;Did I see where that dragon-slaying arrow sailed off to?
+1773;MATT;With the sheer amount of clouds of ash and blackness in the air, you have no idea where it went, I'm afraid. At the end of Thordak's turn, the wyvern that had seen you, it did spot you.|Your stealth was not very good. It leaps down into the back of the building and (growls) coming towards you. The wyvern's going to make a multi-attack. The first is a bite attack against you. That's a natural one. Does not hit you. The stinger, however, is a natural 20. Wow! So that is for 12 points of piercing damage to you and I need you to make a constitution saving throw.
+1774;LIAM, TALIESIN;Poison immunity.
+1775;MATT;That's right. So no effect.
+1776;LAURA;12 points of damage.
+1777;MATT;The rider is going to swing at you with a heavy club and then a javelin. That is a 16.|What's your AC?
+1778;LAURA;21.
+1779;MATT;Nope. And no. Misses you with both. You're just too quick for him. The giant sees Percy lying on the ground and goes (yells). With its giant two-handed sword, it's going to make two attacks against Percy with advantage. 19, so that's 30 for the first one.
+1780;TALIESIN;Oh, that just hits.
+1781;MATT;And a 22 with the second.
+1782;TALIESIN;That also just hits.
+1783;MATT;All right. So you take 28 points of slashing damage from each hit.
+1784;TALIESIN;So that's 28 times two.
+1785;LAURA;56.
+1786;TALIESIN;56. All right, that's fine. I blame you for all of this.
+1787;SAM;We're getting in flute range soon.
+1788;TALIESIN;I'll be hearing about it from the kitchen. It'll be great. I'll be working on my new character.
+1789;MATT;All right. That brings us to--
+1790;SAM;Raishan?
+1791;MATT;No. That brings us to Vex's turn.
+1792;LAURA;I can't see anything about where I am.
+1793;MATT;You're back here right now.
+1794;LAURA;Yeah, I can't see that on the screen, so I don't know.
+1795;LIAM;Other side of that building.
+1796;LAURA;Can I use disengage to get away from the wyvern?
+1797;MATT;Yeah.
+1798;LAURA;I'm going to do that and I'll run out somewhere. Where's the laser pointer?
+1799;LIAM;I can't see where Vex is at all.
+1800;LAURA;I just have no clue where I am.
+1801;MATT;Well, I have you right here because you actually fell and your base came off and I glued it together when you were talking.
+1802;LAURA;No way! Oh, I thought you said the face.
+1803;SAM;He has crazy glue on his person?
+1804;MATT;Like any good dungeon master should. So you're inside this building right now.
+1805;LAURA;If I'm hasted, does that affect my broom?
+1806;MATT;No.
+1807;LAURA;So I just run out.
+1808;MATT;So you just run out this way. You have a lot of movement speed, so you're still out here at half movement.
+1809;LAURA;Okay. Then I'm going to run through the building and under Raishan and shoot up at Thordak from through the building.
+1810;LIAM;Ditch the broom.
+1811;MATT;Go for it. Make your shots.
+1812;LAURA;Okay. Oh no, that one doesn't hit. Okay, second one. Okay, that hits. That's 29.
+1813;MATT;29. All right.
+1814;LAURA;Can I do that with a poison arrow? I should have said that before.
+1815;MATT;You should have said that before.
+1816;LAURA;Never mind. 18, that's with four lightning.|I do get sneak attack right now. 15 more.
+1817;MATT;Okay. That was the first roll. Second attack?
+1818;LAURA;Yeah. Should I do the second dragon attack? I'm so scared to use the dragon arrow.
+1819;TRAVIS;There is no tomorrow. There's a giant fucking dragon and a fire giant.
+1820;LIAM;Pop his head off in one shot. Go.
+1821;LAURA;I'm going to use my dragon arrow. My last one. Oh, good! That was so close but it definitely hit.
+1822;MATT;Okay.
+1823;LAURA;Oh God. Okay. 17 with one lightning.
+1824;MATT;One lightning damage. All right.
+1825;LAURA;So three more. And how many do I add for the dragon arrow?
+1826;MATT;I'm looking it up right now, actually.
+1827;SAM;Ooh!
+1828;LAURA;I think it's 10d6. I think.
+1829;SAM;Is it really?
+1830;LAURA;Or 6d10. It's one of those two.
+1831;SAM;10d20.
+1832;LAURA;10d20. 12d12.
+1833;TRAVIS;100d100s. And the universe implodes.
+1834;MATT;DC 17 constitution saving throw.
+1835;LAURA;He gets to save?
+1836;MATT;Yes, he does. Which he makes. So he takes half damage. So it's 6d10.
+1837;LAURA;Oh! Whoa. That's okay, I'll just roll this, 'cause this is easier.
+1838;LIAM;6d10.
+1839;LAURA;Oh, that was just 6d10. 32 halved.
+1840;MATT;32 halved. All right.
+1841;SAM;Worth it.
+1842;MATT;You release the first arrow, which goes and strikes Thordak in the upper shoulder wing area.|(growls) He turns around and goes to face you, the arms and wings open angrily. As you release the dragon-slaying arrow, it goes and hits the side where the chest is currently disintegrated and exposed. As the arrow, using the power of Fenthras behind it, slams into the crystal, the crystal shatters. As it breaks, you watch as Thordak goes (crazed laughter) and the form begins to slowly shrink.
+1843;TRAVIS;Oh shit!
+1844;MATT;(growling) He seems to be grinning and laughing through the pain as the swollen, primordial dragon form of Thordak begins to slowly wither and wither.
+1845;SAM;You have another model?
+1846;LAURA;What?!
+1847;SAM;And it's even bigger.
+1848;LAURA;Look at the puny little fuck.
+1849;SAM;He's a little puny baby.
+1850;MATT;That's still a pretty fucking huge dragon.|(laughter)
+1851;SAM;He's so sad.
+1852;MATT;Now there are hanging folds of dragon hide skin. The form shrunk, but portions still are sagging off of it.
+1853;LAURA;Can I duck around the side so I'm in the building? So I'm not in the opening. Yeah.
+1854;MARISHA;Are we going to try and take Raishan out as well?
+1855;MATT;At the end of your turn, he's going to use two legendary actions to wing attack. Trying to whip the wings much faster now due to the somewhat dire circumstances. I need Pike, and currently just Pike, to make a dexterity saving throw.
+1856;SAM;Come on, Pike. For all the marbles.
+1857;LAURA;17.
+1858;MATT;Nope. Pike takes 20 points of bludgeoning damage and eight points of fire damage reduced to four.
+1859;LAURA;So she's got ten points left.
+1860;SAM;She's a perfect ten. Always was.
+1861;MATT;He's going to fly up--
+1862;SAM;Does Pike get an attack of opportunity?
+1863;TRAVIS;I do!
+1864;LAURA;And Pike does!
+1865;MATT;There we go. You both do.
+1866;TRAVIS;Has his AC changed with his different size? You don't know? Reckless, Great Weapon Master. Natural 20.
+1867;MATT;Really?
+1868;TRAVIS;Yeah, on the first roll.
+1869;LAURA;And Pike rolled a 32.
+1870;SAM;Jesus. What is she attacking with?
+1871;LAURA;Her Mace of Disruption.
+1872;SAM;Yes, she is.
+1873;MATT;So go ahead and roll damage for both of them.
+1874;TRAVIS;I also have brutal critical which at thirteenth level, you roll two additional damage dice.
+1875;MATT;Yes, you do.
+1876;TALIESIN;Which you then double, don't you?
+1877;MATT;No. You add those two. So roll the damage first, and then double the dice.
+1878;LAURA;And then she gets Divine Strike, right? On her attack.
+1879;MATT;Correct.
+1880;TRAVIS;28. So I double that?
+1881;MATT;You double the dice. Including the d4 and d6 from your weapon and your enlarged status.
+1882;TRAVIS;Right. So that's 16 doubled, 32. So then, that's an 11. So 47.
+1883;MATT;Nice, and Pike's?
+1884;LAURA;Pike rolled-- fuck. 18. 19! It was 19.
+1885;MATT;Okay. Perfect. You both strike, as the now-diminished form of Thordak begins to pull backward, eyes looking around. The piercing star-like white light of the eyes seems to have slowly recoiled into a glowing reddish-orange. And you can now see where the crystal once was in the chest, there is just a gaping hole where bits of flesh and dragon muscle are hanging out, occasionally slopping out of the wound. He's pulling back. All right.
+1886;LIAM;I'm up.
+1887;MATT;Yep.
+1888;LIAM;I'm going to arc up and land on his head.|I'm just going to unload all three: action, action, bonus action, into his head.
+1889;MATT;Okay.
+1890;LIAM;First attack probably misses, that's 17?
+1891;MATT;Misses.
+1892;LIAM;Second attack hits. That's 24.
+1893;MATT;Hits.
+1894;LIAM;Third attack with the dragon sword is a 22.
+1895;MATT;22 hits.
+1896;LIAM;So, with Whisper. (counting) That's 45 with Whisper. And then with the dragonslayer sword.|Eight plus six plus 3d6. So 21. What did I say before that?
+1897;LAURA, TRAVIS;45.
+1898;LIAM;So 21 plus 45 is-- So 66.
+1899;LAURA;It's 45 for the first attack, 21 for the second.
+1900;MATT;Yeah. Okay.
+1901;LIAM;And I will stay there.
+1902;MATT;You're going to stay there? All right. So you are currently up here, in Thordak's face.
+1903;LAURA;This is going to be bad if we have to take Raishan out.
+1904;MATT;Cool, so that ends Vax's turn. Kima--
+1905;SAM;Oh yeah, the wyvern.
+1906;MATT;That wyvern just can't seem to keep itself standing.
+1907;SAM;That was really good handwork, I didn't catch any of it. That I got.
+1908;MATT;She's just going to move towards Raishan.|She's going to move over to this wall.
+1909;LIAM;Sorry. Also, four for Hunter's Mark on the second attack as well.
+1910;MATT;Okay. That's ends Kima's turn, going over there. Pike's turn. Pike is knocked prone from the spell earlier.
+1911;LAURA;She's still alive. She gets up.
+1912;LIAM;Girl.
+1913;LAURA;(singing) She's going to Guiding Bolt up the butt! At what level do we have left?
+1914;LIAM;So many levels. All the levels. Pike cheat sheet. Five!
+1915;LAURA;She's going to cast it at a five.
+1916;LIAM;Plus 1d6 every level above second level. So 3d6.
+1917;LAURA;4d6. Plus 4d6. So 8d6. She has to roll the attack first, or just straight-up?
+1918;MATT;Well, she has to roll to attack with her spell bonus, her spell attack bonus.
+1919;LAURA;24.
+1920;MATT;24 hits.
+1921;LAURA;All right. So 8d6.
+1922;LIAM;You can do it, Pike. All the way from New York City.
+1923;LAURA;Five. Seven. Eight. Ten. 16. 18. Another two. 26.
+1924;MATT;26? Nice. As the guiding bolt slams into the side of Thordak's side, you can see this glimmering beacon of light. The next attack against Thordak has advantage.
+1925;LAURA;Oh good. And then she's going to Healing Word again? Yeah, she's pretty fucked, so she'll Healing Word at second level, that's her last 2nd-level...
+1926;MATT;So 2d4 plus five. To herself?
+1927;LAURA;And that's just to one person? Yeah, so she'll... so she's going to do that to Jarett.
+1928;MATT;Okay.
+1929;SAM;She would heal Jarett over herself?
+1930;LAURA;It's Pike. I'm being honest, she would heal Jarett.
+1931;TRAVIS;I don't know why we're wasting that on Jarett.
+1932;MATT;Jarett went and got you illicit drugs, Scanlan!
+1933;TRAVIS;I mean, he had a great accent, but fuck.|You remember the cryptkeeper? Jarett's going to those auditions tomorrow.
+1934;LAURA;So that's eight.
+1935;MATT;Eight? Okay, so Jarett is healed up eight points.
+1936;LIAM;He is Groot.
+1937;TRAVIS;Yeah.
+1938;MATT;"Where the terrible burns are, most of them seem to heal, or at least scar to a point where he comes to consciousness. He's like, ""What happened?"""
+1939;LAURA;"""Jarett, you need to get up and fight."""
+1940;MATT;"""Right."" Grabs the crossbow to the side, leans up. So was that Pike's turn?"
+1941;LAURA;Yeah.
+1942;MATT;All right, was that Pike's turn? Scanlan, you're up.
+1943;TALIESIN;Like slap the charred skin off his face.|Get back in there!
+1944;LIAM;The whole face comes off.
+1945;SAM;Shit. I will use my action to pour my superior healing potion into Pike's mouth.
+1946;LIAM;That's love.
+1947;LAURA;"""Scanlan, I can do that myself."""
+1948;SAM;Oh wait. First, I aerate it.|(laughter)
+1949;LAURA;So that's 8d4?
+1950;SAM;I don't know. What is it?
+1951;LAURA;That is 8d4. Do you do that or do I?
+1952;SAM;Do I roll it, or does she?
+1953;MATT;You roll it, that's fine.
+1954;SAM;It's just a bunch of d4s? 8d4s? Oh my god.|This is so many. Six. 13. 16. 20, plus something.|Plus six, 26.
+1955;LAURA;Okay, that's good.
+1956;SAM;Who else can I see? Nobody. Jarett's alive, right?
+1957;MATT;Correct.
+1958;SAM;Now as my bonus action...
+1959;TRAVIS;Whether he wants to be when he sees a mirror...
+1960;SAM;Well shit, I have an action, I can do anything. I can do anything!
+1961;TRAVIS;Yeah, you could play the fucking flute.
+1962;SAM;What? What flute?
+1963;LIAM;What are you saving it for?
+1964;SAM;I play a shawm.
+1965;LAURA;We're going to have to fight Raishan in a second.
+1966;MARISHA;This is far from over.
+1967;TALIESIN;And whatever's in that pit. And whatever's in that pit.
+1968;SAM;What? How's she doing? Is she okay?
+1969;LAURA;She's at 36.
+1970;SAM;It's not great. All right, I will attack the dragon. Bigby's Hand at level six. Why not?
+1971;MATT;So you recast Bigby's Hand?|All righty.
+1972;LIAM;Give the people what they want.
+1973;SAM;That is not what they want.
+1974;LAURA;Hey, he's got a hole in the middle of his chest.
+1975;SAM;I'll poke it.
+1976;MATT;Go ahead and roll a spell attack.
+1977;SAM;Nope. Did Pike help me out?
+1978;LAURA;Yes! She casts her last War God's Blessing.|Add a ten to that.
+1979;MATT;So plus ten to that.
+1980;SAM;23.
+1981;MATT;23 hits. So that would be?
+1982;SAM;6d8. Gimme.
+1983;LIAM;Here comes the gnome.
+1984;TALIESIN;Here's 4d8. 5d8. 6d8.
+1985;SAM;27.
+1986;MATT;27? Nice.
+1987;LAURA;Every time!
+1988;MATT;All right. Percival. Unless you want to move, Scanlan.
+1989;SAM;I moved to Pike to pour stuff in her. That's all. I did not mean that in any weird way.
+1990;MATT;Percival. Your turn.
+1991;TALIESIN;Okay. I'm going to, for my bonus action, I'm going to down a greater, which is 4d4, I believe?
+1992;MATT;4d4 plus four, yeah.
+1993;LAURA;Did you add four to your 26 when you healed her? Or did you just roll--
+1994;TALIESIN;I'm dying less. I'm going to stand up.|I'm technically engaged with this bloody thing, aren't I?
+1995;MATT;Correct.
+1996;TALIESIN;Okay. I'm just going to-- There's little I can do other than just say, please, somebody fix this, and I'm going to take two shots at the red dragon. First shot with Bad News. 23?
+1997;MATT;23 hits.
+1998;TALIESIN;I'm going to just throw-- forget it, I'll throw four charges of Cabal's Ruin there.|Let's just do it.
+1999;MATT;That's an additional 4d6 damage.
+2000;LIAM;Am I electrified, sitting on his head?
+2001;TALIESIN;Technically speaking, no, the way that this works-- it's like a Tesla arc, so it wouldn't technically-- you'll feel tingly.
+2002;MATT;Your hair sticks up a little bit. Your nipples get a little pointy.|(laughter)|Start shaking in the leather armor.
+2003;LIAM;Do it again, Percy.|(laughter)
+2004;TALIESIN;Bloody fanart. Okay. And let's see what kind of damage we do with this. Eh. That sucks.|Stop it! Stop it! I can't count when-- that's (counting) 21 points of damage. Stop saying that, it's 21! You don't know, it's 21.
+2005;MATT;Okay.
+2006;TALIESIN;Second shot. Can I reroll that, 'cause he? Yeah, it misses. And now I'm going to die.|You're like everything I hate about Overwatch.
+2007;SAM;You're not going to die.
+2008;MATT;One of the fingered claws of Thordak gets blasted off from the impact from Bad News, the energy arcing through the rest of his arm from Cabal's Ruin. The second shot, however, having to aim, manages to just barely miss Vax. He gets in the way of the shot, and you have to shoot wide and it misses entirely. Is that your turn?
+2009;TALIESIN;Yeah. That's my turn.
+2010;MATT;At the end of Percy's turn, Thordak's going to go ahead and use his third legendary action.
+2011;SAM;To do what?
+2012;MATT;To do a tail attack against Vax. That is a 22 to hit?
+2013;LIAM;No. Nope. Nope. Hasted, 23, fuck you. Not you.
+2014;SAM;23? Jesus! Where'd you go?
+2015;MATT;All right. So that brings us to-- we're going to say this will be... all right. The ground shakes.
+2016;SAM;Oh, shit, I forgot about that. Lair actions.
+2017;MATT;A 60-foot radius around the dragon, as just the presence of Thordak, the ground just begins quaking beneath. You watch as fissures of small volcanic energy begin to break from underneath.|Pretty much everybody--
+2018;SAM;Is Jarett in there?
+2019;MATT;Yep. Except for you, who's in the air. Need to make a dexterity saving throw.
+2020;TALIESIN;Nope, rerolling that.
+2021;SAM;Natural 20, 25.
+2022;TALIESIN;I'm rerolling, because that was awful. Oh, never mind.
+2023;SAM;Yeah, if he doesn't like it, he gets to reroll.
+2024;MATT;It's a fighter ability.
+2025;TALIESIN;Nine.
+2026;LAURA;30 for me.
+2027;MATT;Pike?
+2028;LAURA;Eight for Pike.
+2029;TRAVIS;11.
+2030;LIAM;Not like this.
+2031;MATT;Grog, Keyleth, Percy, Pike, Gilmore, all get knocked prone from the ground quaking as you all fall on your back. You manage to brace yourself against the wall real fast, Vex.
+2032;SAM;Does Jarett get knocked to his feet?
+2033;MATT;(laughs) No. He just gets shaken on the ground.
+2034;MARISHA;Popcorn on a trampoline.
+2035;MATT;Raishan does not get her breath back. She is, however, going to utilize Chain Lightning.
+2036;MARISHA;Yeah, I want to see how this works.
+2037;LAURA;She's going to hit us. No, she decides where it hits.
+2038;SAM;She's still on our side, right?
+2039;TALIESIN;For another round or two.
+2040;MATT;All right. Chain Lightning. Dexterity saving throw. That's a success for Thordak. Sorry, I'm trying to get through this. Okay, so that is halved. Halved, that is 18 points of lightning damage. Vax, make a dexterity saving throw.
+2041;LIAM;I'm going to use Luck. Yeah. Good time to use Luck. 26.
+2042;MATT;26, okay. You suffer 18 points of lightning damage as the bolt of energy that strikes Thordak then arcs into you because you're right next to it.
+2043;LIAM;Would this be a new round for me to use Evasion? I've lost track.
+2044;LAURA;No, 'cause Thordak's already gone.
+2045;MATT;No, you've already used it. So yeah. That ends that. Going to take off and land right there next to that guy.
+2046;LAURA;Who is that guy?
+2047;MATT;That's the lizardman that fell from the wyvern. Keyleth, you're up.
+2048;LAURA;Dragon just landed on him, basically.
+2049;SAM;I think he's got a shot.
+2050;MATT;Keyleth, you're up.
+2051;MARISHA;Oh boy. Okay. I'm going to stand up.|Question. Is Thordak within 30 feet of fire giant dude?
+2052;MATT;No.
+2053;MARISHA;Okay. That answers my question, then. I'm going to reach up and do Blight on Thordak, 'cause I think I can, this time.
+2054;MATT;What's the range on Blight?
+2055;MARISHA;30 feet.
+2056;MATT;Nope. Thordak is 50 feet in the air.
+2057;MARISHA;Fucking shit fuck balls. Okay. Then--
+2058;LAURA;Maybe you can jump and then cast it.
+2059;MATT;You could climb up and cast it, if you wanted to try that.
+2060;MARISHA;No. I'm in a skirt situation. It's not good.
+2061;SAM;I'm not even paying attention, so if that's your concern.
+2062;MARISHA;No, it's just clumsy. Okay, I'm going to do-- everything's not ideal right now!
+2063;LAURA;Climb it, climb it, Keyleth! Just do it!
+2064;LIAM;It's fucking end of the world!
+2065;TALIESIN;They don't know.
+2066;MARISHA;You don't know! I'm not good at that. I'm bad at that thing. So I'm not a dextrous person, so instead I'm going to use my Spire of Conflux.
+2067;SAM;Oh yeah, that Vestige thing!
+2068;MARISHA;Look, I haven't forgotten about it, all right?
+2069;TRAVIS;Who are you talking to right now?
+2070;MARISHA;My ancestors. And I'm going to do Chain Lightning on Thordak.
+2071;SAM;Oh! Another chain.
+2072;MATT;All righty. Thordak's save is 19.
+2073;MARISHA;Fail, motherfucker!
+2074;MATT;Thordak's going to use his second legendary resistance to make it. So go ahead and roll damage.
+2075;MARISHA;Fine, that's fine. It's how many damage? Like 8d10?
+2076;MATT;8d10.
+2077;TALIESIN;Want some d10s?
+2078;MARISHA;Yeah, I do.
+2079;TALIESIN;Here's three more. How many are you at?
+2080;MARISHA;I need one more. Oh, and I get to reroll ones, right? That's actually really--
+2081;TALIESIN;Whoa! Holy fuck.
+2082;SAM;Is that a one?
+2083;MARISHA;No, that's a seven. So that's 29, 34, plus-- that's a seven. And then 34 plus 14 is 48.
+2084;MATT;So half that is 24 points of lightning damage.
+2085;MARISHA;And there's no one else within 30 feet of him, other than Raishan?
+2086;MATT;Raishan's not even in that range.
+2087;MARISHA;No one else? Well. Okay. I do that, and then I turn around and I'm going to cast a Grasping Vine as a bonus action.
+2088;TALIESIN;Oh, thank you.
+2089;MARISHA;Right next to me. And then I'm going to use it to whip around and grab Percy and--
+2090;MATT;You do not have visual range on Percy right now.
+2091;MARISHA;I haven't used any movement. Can I shift into that house a little bit?
+2092;MATT;Sure, you move into the house?
+2093;MARISHA;Uh-huh. And once again cast Grasping Vine from out of that corner and drag Percy to me.
+2094;MATT;Okay.
+2095;MARISHA;Around the ankles.
+2096;MATT;Still prone, but better.
+2097;MARISHA;Hi.
+2098;TALIESIN;Hi. That was really good. Ow.
+2099;MATT;"That end your turn? All right. Jarett's turn. Jarett gets up. Jarett still only has a view of the dragon and is like, ""What happened to-- that's weird."" Missed the whole exchange. But gets the gist of it. Disadvantage. Misses. Natural 20, disadvantage. 15, still hits. Not a critical, unfortunately. But a ten on damage, that's 13 piercing damage."
+2100;LAURA;It didn't drop fear when he died?
+2101;MATT;No, I think that would instill more fear.
+2102;LAURA;Okay, just checking.|(laughter)|Just checking.
+2103;MATT;Logistically.
+2104;LAURA;I didn't know if it was a reset when you wake up.
+2105;MATT;Right. Gilmore gets up from the ground.
+2106;TALIESIN;I'm so distracted right now. There's too much happening.
+2107;MATT;So he's going to cast another 4th-level Lightning Bolt. Thordak fails his save. Is going to use his last resistance to get that, 'cause he's doing real rough.
+2108;LAURA;You've got big-level spells, don't you, still?
+2109;SAM;Yeah, one.
+2110;MATT;He's rolling shit tonight. 14 points of lightning damage. No, 16. Okay. All righty. That's Gilmore's turn. It's Grog and Thordak's turn.
+2111;TRAVIS;Oh, yes? I would like to stand up.
+2112;MATT;Okay.
+2113;TRAVIS;How high is Thordak?
+2114;MATT;Thordak is 40 feet up.
+2115;TRAVIS;Son of a bitch on a stick. Could I just attach the bloodaxe and throw it at his much smaller foot, now?
+2116;MATT;Sure.
+2117;TRAVIS;Yeah, but I can only jump 20 feet in the air. 15 feet in the air.
+2118;LIAM;That'll do it, won't it?
+2119;TRAVIS;He's 40 feet in the air.
+2120;SAM;You don't know numbers. Maybe it'll work.
+2121;TRAVIS;These hieroglyphs seem to indicate that he's too high. Yeah, 'cause I'm only like 14 feet high, right?
+2122;MATT;Right now? Yeah.
+2123;TRAVIS;I'm reckless throwing the bushwhacker.
+2124;LAURA;(gasps) He got another natural 20!
+2125;SAM;Holy shit!
+2126;MATT;You have advantage. Roll again.
+2127;TRAVIS;Ten.
+2128;LAURA;That's a really pretty die that he's got, too. Sparkly.
+2129;MARISHA;She's getting ideas.
+2130;TRAVIS;(counting) 34, 37, 38. 38 points of damage.
+2131;MATT;38 points of damage.
+2132;TALIESIN;That with your bonus? I just said that randomly, I don't actually know any of your bonuses, I just thought maybe it would jog something.
+2133;TRAVIS;With my movement, can I run nuts towards where the fire giant is?
+2134;MATT;Sure. You can get right there.
+2135;TRAVIS;That'll work. I need a new plaything that'll actually stay.
+2136;MATT;Thordak, who is physically falling apart at this point, sections just sloughing off, and just the whole experience has been sending his physical-- his whole physical form is wrecked right now. The word escapes me that I was looking for. He's going to go ahead and turn and go into a full flight.
+2137;LIAM;I'm riding him.
+2138;MATT;You're riding him?
+2139;LIAM;Yeah. Shit yeah, I'm riding him.
+2140;MARISHA;Oh, no. No, Vax, no.
+2141;TALIESIN;Vax is good.
+2142;LAURA;No!
+2143;MATT;Dash into the dark hole within.
+2144;TALIESIN;This is good.
+2145;LAURA;Why is this good?
+2146;SAM;A dark hole?
+2147;LAURA;Vax, be careful!
+2148;TRAVIS;We don't care about the tunnel, huh? (laughter)
+2149;MATT;You need to go ahead and roll a strength saving throw to try and maintain grip as the dragon goes into a full dive.
+2150;LIAM;I'll use my last Luck. So it's a 15.
+2151;MATT;15. You do manage to make it inside the tunnel, but you lose your grip and then go into a full tumble, hitting the ground. It's a decline, it's a 45-degree angle downward.
+2152;LIAM;So I'm in there with him.
+2153;MATT;Yes. Roll an acrobatics check to stop yourself.
+2154;LIAM;That is a 25.
+2155;MATT;25, okay. So you do tumble and come to a stop. You don't take any damage from the fall, and you stop yourself from doing a tumble, but it is still a decline into darkness below, and you just watch as the back end of Thordak's barely flying form slams into the side of the tunnel and continues swooping away.
+2156;LIAM;Do I still see him with darkvision at this point?
+2157;MATT;He just begins to leave outside of your darkvision.
+2158;LIAM;Are we still in the same chain of initiative?
+2159;MATT;As of right now, we are, yes. So. Finishing, that is Thordak's go. Vex, you're up.
+2160;LAURA;Okay. I run after him and dive after him, because I saw that. And at the edge of my movement, I want to hop out on my broom and get ready to fly down the hole after.
+2161;MATT;Okay. So you are hasted, so you get down and you basically have just enough movement to catch up to your brother. And you get the broom out.|You're both down there in the darkness by yourselves. You guys watch as the rest of them dive into the hole. Vax, you're up.
+2162;LIAM;How far away from me is he?
+2163;MATT;How far does your darkvision go for?
+2164;LIAM;60 feet.
+2165;MATT;He's outside of your darkvision.
+2166;LIAM;Then I am going to use my movement and go 120 feet, or until I see him.
+2167;LAURA;Can I cast-- 'cause I didn't do an attack, right?
+2168;MATT;This is happening after your turn. So you begin to dart forward?
+2169;LIAM;This is just my movement. 120 feet or until I'm on him.
+2170;MATT;Well, your movement is not 120 feet. You're still flying through there?
+2171;LIAM;Yes, I'm flying.
+2172;MATT;Right, so your wings are still out there.|Okay. Okay. So yeah, you begin to come in, you see him just begin to come into your visual range.
+2173;LIAM;Still away from me?
+2174;MATT;Still away from you.
+2175;LIAM;Then I'm going to use a bonus action to dash and hit his back, and land on his back.
+2176;MATT;Okay. You land on his back.
+2177;LIAM;Attack, attack. First attack is a-- scheisse. 24.
+2178;MATT;I would say you have disadvantage on these strikes, as you're currently gripping onto a flying dragon underneath a cavern ripping through.|You have advantage on them automatically, which means you don't have disadvantage on these strikes, but you do not get the automatic sneak attack.
+2179;LIAM;I don't remember-- oh, I don't get the automatic sneak attack?
+2180;MATT;No.
+2181;LIAM;But I got advantage?
+2182;MATT;No. Essentially, you would have advantage, and then trying to grip onto him and through the middle of this tunnel and slamming into him, you would have disadvantage, and so they both cancel to just a regular attack.
+2183;LIAM;All right, so 24 for the first.
+2184;MATT;What was the first one?
+2185;LIAM;24.
+2186;MATT;24 hits.
+2187;LIAM;Second one is a natural 20.
+2188;MATT;Second one was a natural 20? All right.
+2189;LIAM;So the first one's the dragon-slaying.|Three, eight, 14, 19, plus Hunter's Mark. So there's no sneak attack on this, right, you said?
+2190;MATT;Correct.
+2191;LIAM;21 with the dragon-slayer.
+2192;MATT;21, nice.
+2193;LIAM;And then Whisper, which is a natural 20, is one plus that is nine, plus the-- six is 15, plus Hunter's Mark. 17.
+2194;LAURA;Times two?
+2195;LIAM;Oh. 15 times two is 30.
+2196;LAURA;It's all times two, 'cause that's all-- well, 15 times two is 30.
+2197;LIAM;30 plus eight. 38.
+2198;MATT;Okay.|How do you want to do this? (yelling)
+2199;LAURA;In the dark. Alone.
+2200;SAM;In a dark pit.
+2201;LIAM;With Whisper, I'm going to shove it in so that my hand disappears from view, so I'm up to my forearm, and stab as far in as I can reach.|I hear the voice of my mother in the morning. Fuck you.
+2202;MATT;As the blade plunges into Thordak's now-sloughing and soft flesh, exposed through a series of wounds and gashes left behind by your allies, and his form just slowly shriveling into its diminutive space, the dagger cuts cleanly through, and with that force you go all the way up to the shoulder as you reach inside. As you finish saying your phrase, your eyes narrow and you clench your teeth, and as you pull back and yank, there's this strange series of low whispers that come into your ears, and as you pull back, you watch as these bits of greyish energy begin to pour out of the air, coalescing around the blade, fitting into the body where you're currently plunged within. As you yank outward, you watch as the blade almost has an extended edge about ten, 15 feet beyond Whisper's actual-- and this blade edge just leaves a giant wound on the side of Thordak's body. You don't even hear an exclamation of pain as Thordak just slowly slams into the ground of this low, barely glowing tunnel. Roll an acrobatics check with disadvantage.
+2203;LIAM;25.
+2204;MATT;25.
+2205;SAM;Jesus.
+2206;MATT;So with the speed and impact of tumbling, you manage to reduce the damage by half, so you--
+2207;LIAM;Which is also halved by the potion.
+2208;MATT;Right. That is 17 points of bludgeoning damage.
+2209;LIAM;Is that the quarter?
+2210;MATT;No, that's halved. So that would bring it to 8. As you watch Thordak's form sputter, roll, and then tumble, grinding to a halt, gathering a bunch of stone, broken rock, and part of the cavern that's on the verge of collapsing from the impact of Thordak's body, now lifeless, still in the darkness, subterranean tunnel.|And we're going to take a break.|(yelling)
+2211;TRAVIS;We don't even know it's happened, though, yet! It's all underground!
+2212;TALIESIN;She would know.
+2213;LAURA;I do know. Can I fly forward before we take the break?
+2214;MATT;You want to?
+2215;LAURA;I just want to fly forward and hug my brother as he's just covered in dragon guts.
+2216;TALIESIN;He's way down in there. That's a long flight.
+2217;MATT;And now we'll take a break. So we'll be back here in a few minutes.
+2218;SAM;Don't forget, Backblaze is hosting a Critical Role giveaway. Anyone who signs up for a free trial with Backblaze at backblaze.com/criticalrole through January 8th will be eligible to win items signed by the Critical Role team that killed a dragon.
+2219;MATT;Check out the video here during the break, and we'll be back in a few minutes, guys.|[break]|Welcome back, everybody. First and foremost, we have our winner in the chat for the Wyrmwood dice tray. It is DetectiveKane! (cheering)|You'll receive this awesome dice tray signed by us. Half of us at the break, and the other half will sign before the night is out. But it's coming your way real soon. Congratulations, DetectiveKane! Get this out of my fucking face!
+2220;LAURA;Nobody's there.
+2221;MATT;Somebody take it from me!
+2222;SAM;I don't even know that guy!
+2223;TALIESIN;I think I see half a dozen people on their phones behind us.
+2224;MATT;It feels so good to be able to do that, but it feels better when it's immediate. Otherwise, it feels, like, kinda good. All right, so. Picking up where we left off. The rest of you watch as Thordak swooped into the hole that he emerged from, quickly followed by Vex and Vax. There is still on the field-- Raishan just tore into this lizard man. We have a fire giant that is unscathed currently, bearing down on the rest of the party, and a wyvern rider back around this wall section here. That being the case, they end that turn there. First up is Lady Kima. Who is pissed that she hasn't had a chance to really do anything tonight against flying dragons.
+2225;TRAVIS;There's a big fire giant.
+2226;MATT;That's what she's going to do.|Paladins that don't fly and have haste have a hard time getting around. Just so you know.
+2227;LAURA;Vestige!
+2228;MATT;"Watching this giant whale upon Percy pisses her off, and she cracks her neck. ""You're first."" And she leaps down."
+2229;TRAVIS;Open him up!
+2230;MATT;And she's going to multi-attack against him.|That is-- that hits. And the other also hits. Even with a minus five on each for her Great Weapon Master. She's also going to Divine Smite on that at a level three.
+2231;TRAVIS;Yeah, get it!
+2232;MATT;First strike is a 14, plus ten, 24. Plus 11, 35. 42 points of damage on her first strike against the giant.
+2233;TRAVIS;Boom!
+2234;MATT;"And the second strike is 24 points of damage. So that fire giant's already had a big chunk taken out of its-- Kima rushes up and double strikes with her Holy Avenger, one cleaving off a piece of its armor, the second one cuts through, leaving a giant flash of divine energy as it bursts out the side. She looks up in the eyes and says, ""Bahamut says hi."" That ends Kima's turn.|Pike is up now."
+2235;SAM;Oh, how's Pike doing?
+2236;LAURA;Pike-- oh, Pike's turn! Jesus.
+2237;LIAM;She's doing great.
+2238;TRAVIS;Head out of ass.
+2239;LAURA;I'm sorry! Okay.
+2240;LIAM;She's in Manhattan.
+2241;LAURA;She stands up.
+2242;MATT;Technically-- I was going to say, the giant was going on Thordak's turn order. So I technically skipped the giant's turn. That's fine.|I'll do the giant's turn now.
+2243;LAURA;Okay.
+2244;MATT;The giant, who has watched Percy get pulled away, steps in to get into melee range with both Kima and Grog.
+2245;TRAVIS;That's such a mistake.
+2246;MATT;And is going to take a strike on each. Takes an attack on Kima and rolls-- that's a 20, that hits. And then roll Grog-- that is a 29.
+2247;TRAVIS;That hits.
+2248;MATT;That's 28 points of damage to Kima and-- it's fun to roll against the players. 33 points of slashing damage against you, Grog.
+2249;TRAVIS;So halved to, math?
+2250;MATT;16.
+2251;TRAVIS;Thank you. I will use my Retaliation. The old chin turned back. Reckless. Great Weapon Master. That's better. 21.
+2252;MATT;21. That hits.
+2253;TRAVIS;Nice. 21, that was crap. And 22. Both ones. 22 plus ten is 32.
+2254;MATT;32 points of damage, nice. The giant already in that round of attacks and your retaliation is-- it has its giant greatsword on the ground, it's rearing up for its next round of arcing attacks.|That brings us to Pike. What's Pike doing now?
+2255;LAURA;"Okay, Pike stands up. She's going to run forward and say, ""You can't have all the fun, Grog!"" And she's going to Guiding Bolt, level four, at the fire giant."
+2256;MATT;All right, go ahead and roll a melee spell attack.
+2257;LAURA;Okay, okay. Okay, that's 18.
+2258;MATT;18 just hits.
+2259;LAURA;Okay. Oh, wait. 17.
+2260;MATT;Nope.
+2261;LIAM;17 sounds like 18.
+2262;MATT;It does, but it's not the same. The giant sees the flash of light as the bolt comes towards it, out the corner of its eye. As it has its blade down, it instead ducks underneath, using Grog for cover briefly as it arcs past its shoulder and shoots off through the cloud, out of sight.
+2263;MARISHA;What if it was 17.99? That's basically like 18.
+2264;MATT;It's not.
+2265;LIAM;Crazy Eddie prices?
+2266;TRAVIS;Taco Bell logic right there.
+2267;LAURA;"She says, ""So, sorry! I guess you do have all the fun. How are you on hit points, Grog? You okay?"""
+2268;TRAVIS;Yep.
+2269;LAURA;Okay, then she's going to Healing Word herself at first level.
+2270;MATT;Okay. d4 plus five.
+2271;LAURA;Okay, that's six points.
+2272;MATT;There you go. Six points to Pike. Scanlan, you're up.
+2273;SAM;We're fighting this fucking giant thing?
+2274;LIAM;Yeah, man.
+2275;SAM;Jesus. I'm going to move out from my hidey hole. Oh god, there's a giant there. I think my Bigby's is still on the field, yeah. So I'll Bigby's Punch. Bigby Punch!
+2276;MATT;Yeah, Bigby could just get into range melee there for it.
+2277;SAM;A 24?
+2278;MATT;That hits. Go ahead and roll your 6d8.
+2279;SAM;6d8, oh man. I only have one d8. I'll roll it six times.
+2280;MARISHA;Do you want some d8s?
+2281;SAM;I'll roll it six times.
+2282;MARISHA;No, that's-- oh, he's already committed.
+2283;TRAVIS;Mad d8's. Oh, he's stroking out.
+2284;MARISHA;Should we do what he does to us? 15!
+2285;SAM;That was four.
+2286;TRAVIS;Flirted with the edge.
+2287;LAURA;15. 15.
+2288;TALIESIN;23.
+2289;MARISHA;15.
+2290;SAM;You fuckers!
+2291;TALIESIN;This doesn't feel good on the other end, does it?
+2292;SAM;Oh, shit, that was a lot! It's either 33 or 34, they fucked me up. But it was a lot! It was mostly sevens and eights!
+2293;MATT;We'll go with 34 on that. Cool. So, as the giant ducks out of the way of the Guiding Bolt streaking past, it snickers and grins, says something in Giant which you hear, which is--
+2294;TRAVIS;(gasps)
+2295;MATT;You didn't even hear what he said yet!
+2296;TRAVIS;Oh. I will hold my reaction.
+2297;MATT;"""Insolents, bow to your king!"""
+2298;TRAVIS;No.
+2299;MATT;And then, as it brings the sword up, while it saw the glimmer of the Guiding Bolt, it didn't see the purple glimmer of the shining fist as it comes up and whack right across the jaw, dislocating it briefly as the fist comes back up and is ready for another round. Still standing, but looking pretty rough. That brings us to--
+2300;SAM;That was my bonus action. As my action, I will swig a Greater Healing Potion.
+2301;MATT;Okay.
+2302;SAM;What is that, four?
+2303;MATT;Greater Healing Potion is 4d4 plus four, yeah.
+2304;TALIESIN;Oh, 4d4 plus six!
+2305;SAM;Yeah, the potion doesn't do that for me, does it? Plus four? Four, three, two, one is ten, right?
+2306;MATT;Yes. So 14 hit points you heal.
+2307;LAURA;When you were healing Pike with the superior, did you add--
+2308;SAM;You're right, it's two less than I thought.
+2309;LAURA;Oh, okay. So she's at 40 healed points now, not 42.
+2310;SAM;I get a plus six when I cast it, because of my awesomeness.
+2311;MATT;Correct.
+2312;SAM;But not when I use a potion.
+2313;MATT;Correct.
+2314;SAM;Got it.
+2315;MATT;All righty. Scanlan, that finish your turn?
+2316;SAM;Yeah, I think I'm done.
+2317;MATT;Percival.
+2318;TALIESIN;I'm going to put Bad News away, pull out Animus and take three shots at this asshole.
+2319;MATT;Okay. So are you getting up?
+2320;TALIESIN;I'm getting up. Pulling out the gun, putting three sharpshooter shots in this guy.
+2321;MATT;Go for it.
+2322;TALIESIN;That's a 26. That hits. I'm going to roll that one until he drops, so that I can-- 1d8 plus 1d6. 1d10 plus 1d6. That's 18, 19, 20, 21. 21 points of damage plus four points of psychic damage, so 25 points of damage.
+2323;MATT;All righty.
+2324;TALIESIN;Second shot. That's 21 to hit.
+2325;MATT;Hits.
+2326;SAM;Right? Plus three plus two plus one...
+2327;TALIESIN;That's... Not right now, you bastard! I hate you! That's 27 plus... 27 points of damage plus one point of psychic damage to me because I can't think!
+2328;MARISHA;He needs horse blinders! Horse blinders!
+2329;TALIESIN;So 27 points of damage plus one... I'm so sorry.
+2330;SAM;What goes around comes around!
+2331;MATT;So as the fist clocks him across the face, dislocating the jaw, it stands up and grabs the jaw and snaps it back into place. Looks up just in time for you to come up out of the shadow and (gunshots), turning the barrels, you fire, and the first shot hits in the side of the throat and blows open the neck. And you see as the blood begins to gout out, reaches up with a hand and it (gasps) but it's to no use as the other shot takes out the right eye, blowing out the back of the giant's head as it falls backward.
+2332;SAM;Violence, violence! Who would've thought a fire giant would be so easy?
+2333;TALIESIN;I am now going to start making my way to the-- I'm going to start running my way to the pit. With what little movement I have because I got up.
+2334;MATT;Okay. All right, that ends Percy's turn. Top of the round, the lair actions do not function.|However, you watch as the skyship Deera, still rotating around, there's still wyverns attacking.|You hear the distant sounds of lightning cracks as well. And you hear very, very distantly what sounds like a-- sorry, internet-- a cacophony of voices. Because there's no other word to describe it. Hundreds and hundreds of voices, all shouting combat war cries simultaneously. You have no idea how far away it is, it's very, very faint, you just pick it up. You hear the sound of impacts, of crumbling stone in the distance. There is a battle happening all throughout the city that is slowly making its way towards your current location.|Deera's turned around and is going to take two shots at Raishan, because it's going to fire at whatever dragons are there. Damon was not notified of anything otherwise.
+2335;LAURA;You know what, if Raishan gets hit, she gets hit.
+2336;MATT;Rolled an eight, and an eight. No, it does not hit. Oh, she gets three attacks, because the--
+2337;TRAVIS;What?
+2338;MATT;"Three eights in a row. That's ridiculous.|Yeah! That's not a three, that's an eight. Absurd.|So yeah, (boom, boom, boom) all on the ground, and Raishan spins in place (growls), ""Call off your dogs! We still have a deal!"""
+2339;TRAVIS;We literally have no power over them.
+2340;TALIESIN;I'll respond. To the pit! Now!
+2341;MATT;Which, Raishan at this point is now leaping (whoosh) and disappears into the portal-- or down into the hole in the ground.
+2342;TALIESIN;She was already going that way, she doesn't get into shit with that.
+2343;LAURA;I want her to get hit.
+2344;TALIESIN;She's not going to get-- She's going in the tunnel.
+2345;MATT;All right. At this point, full speed, that is-- 60 feet, yeah. You guys, as you're having this moment hugging each other--
+2346;LAURA;Hugs!
+2347;MATT;You hear (wings flapping) (smash) The ground shakes nearby as you turn and see, you watch as Raishan skids to a halt right next to you and the currently smashed corpse of Thordak within the tunnel.
+2348;MARISHA;Can I say over like a headpiece thing-- Be like, twins, if you're still alive, I think Raishan's coming in your direction.
+2349;LIAM;Thanks for that.
+2350;MATT;"Raishan is watching both of you as she begins to walk towards Thordak's corpse and goes, ""You've done well."""
+2351;LIAM;Yeah, what now?
+2352;TALIESIN;Every six seconds, we get to move.
+2353;MARISHA;Yeah, we're heading ass-- Hauling ass that way!
+2354;TALIESIN;Booking with my spider walk.
+2355;LAURA;I'm heading ass-wherever!
+2356;TALIESIN;Running down the ceiling upside-down.
+2357;TRAVIS;Not me, I'm putting out that last fire on the map.
+2358;LAURA;Stomp, stomp, stomp!
+2359;SAM;He's volunteer fire department, yeah.
+2360;MATT;80 foot flying, this wyvern swoops in.
+2361;SAM;Ah, there's a fucking wyvern?
+2362;LIAM;Keyleth.
+2363;MATT;The one that was left earlier, that was after you, is going to swoop in and attempt to make two strikes at Kima. Miss. And a three. Miss.|And the rider's going to go ahead and make two strikes at her as well. Miss with a 17. And a two! Kima's like deflecting, getting against the wall as the spear shoots by and as the blade comes down from the rider, she strikes it with the sword and stops it mid-air, and she starts laughing in his face. That ends its go.
+2364;TRAVIS;Trinity.
+2365;MATT;Keyleth, you're up.
+2366;SAM;Keyleth! There's a wyvern on the field. Or you can ignore and go into the hole.
+2367;MARISHA;Fuck that wyvern. I say, everyone in the hole! And I head towards the hole.
+2368;TALIESIN;We're going to need light down here.
+2369;SAM;(singing) Head to the hole!
+2370;MATT;Are you doing a double move?
+2371;MARISHA;(singing) Black as your soul! What?
+2372;MATT;Double move? Are you doing a dash action?
+2373;SAM;You've got nothing else to do.
+2374;MARISHA;Yeah, I'll dash.
+2375;MATT;"Okay. So you begin to make it into the hole.|That brings us to Jarett's turn. Jarett is going to turn the corner, he's like, ""So it's gone? Okay, good."" Loads the crossbow, sees the wyvern, and goes, ""Are you-- no, are you-- seriously?"" and takes his shots. Nice, 19. Yeah, two shots against the wyvern."
+2376;LAURA;Nice. This is his level, this is what Jarett needs at a time.
+2377;LIAM;This is the Jarett we know.
+2378;MATT;14 points of damage. He's not the heroic individual you guys are necessarily.
+2379;MARISHA;Look, he's a great security guard.
+2380;LAURA;He is bad-ass.
+2381;MATT;He is, in his own field.
+2382;LIAM;He caught my sister's attention, anyone that does that has got to have a lot of spunk.
+2383;MATT;"All righty. So that ends his turn there, those two shots. Both sink into the wyvern, both bolt stuns (snarling). That will end his go.|Gilmore, recognizing the circumstance here and everyone's rushing in there, he's going to go ahead and... okay, he'll go, ""Actually, me first."" And he Dimension Doors to the edge, and begins to charge in after you guys. That brings us to Grog."
+2384;TRAVIS;I want to kill all the things that are alive.
+2385;MATT;Okay. So you move into melee with the wyvern and the rider.
+2386;TRAVIS;Yeah. Great Weapon Master, Reckless.|Eight, 15, 19.
+2387;MATT;Hits.
+2388;MARISHA;Kill it real hard.
+2389;TRAVIS;16. 22. Ooh! 26. 36. For the first hit.
+2390;MATT;We'll say for the sake of brevity, you're going to wipe out the wyvern.
+2391;TRAVIS;Yay!
+2392;MATT;Because you're giant Grog.
+2393;TRAVIS;Is the lizard man left?
+2394;MATT;The lizard man is left, yes.
+2395;TRAVIS;Can I give him the option to run?
+2396;MATT;If you want to.
+2397;TRAVIS;Nah, fuck that. I kill him, too.
+2398;MATT;Well, all three of your attacks would be what it would take to take out the wyvern.
+2399;TRAVIS;Hey! Oh, cool.
+2400;MATT;So as you finish cleaving the wyvern down, it falls over and the lizard man's like (snarls).
+2401;TRAVIS;Yeah, I do this.
+2402;MATT;(reptilian whimper) It looks conflicted.
+2403;TRAVIS;You're at a crossroads, bro. Crossroads.
+2404;MATT;Vex. It's your go.
+2405;LAURA;Okay.
+2406;MATT;You have Raishan like (booming footsteps) stepping over to Thordak's body, watching you closely.
+2407;LAURA;What are you doing?
+2408;MATT;"""Exactly what we talked about. Learning his secret."""
+2409;LAURA;I'm going to keep my hand ready to attack and hold my action until anything gets aggressive with Raishan.
+2410;MATT;Okay.
+2411;TALIESIN;What do you see down there? What's happening, what's in the room?
+2412;LAURA;Thordak is dead.
+2413;TALIESIN;What's in the room?
+2414;LAURA;Oh, what do I see around me?
+2415;MATT;The tunnel that you're in, it's been a steady decline. It's rounded off a little bit and it begins to open up maybe 70 feet ahead of you.|Actually, with your darkvision, you would just barely start to see it begin to open, it looks like there's an actual chamber ahead of all of you guys, but you haven't reached it yet.
+2416;TRAVIS;The shitter.
+2417;LAURA;Okay, I'm going to use my movement to back away from Raishan towards the chamber. But I'm going to hold my attack until I think it's aggressive.
+2418;MATT;Okay. So as you move in, you can see there's a very, very faint glow of orange and red in the room, and the whole tunnel here has a very, very, very concentrated natural burning chemical smell to it. A lot of sulfur-type, very putrid, pungent smells. And the glow you can now see, there is a lava flow that is coalescing in the center of this room, or at least is pouring through, and it looks like it's bisecting this room. You don't make out much more detail than that at this distance, but you do see this chamber does have an actual flow of liquid rock.
+2419;LAURA;Okay.
+2420;MATT;Vax.
+2421;LIAM;Keyleth? You tell me.
+2422;MARISHA;What's going on? Whatcha doing?
+2423;LIAM;You tell me.
+2424;MARISHA;Just describe the scene.
+2425;LIAM;Hit or wait?
+2426;MARISHA;Wait till I'm there! Wait till I'm there!
+2427;LIAM;What?
+2428;MARISHA;Wait till I'm there!
+2429;LIAM;I'm going to hold my turn until Keyleth acts.
+2430;MATT;Okay. Pike, Scanlan, you guys all follow suit?
+2431;SAM;Yeah.
+2432;MATT;Okay, at a full run you guys can get, at your tiny feet you can get up towards the edge there.
+2433;TALIESIN;I'm at a full run on the roof.
+2434;MATT;Right, Percival. Yeah, you do, you get up there and inside. Raishan comes up to the body of Thordak and you see that she reaches up under one of her scales and pulls out a small leather case.
+2435;TRAVIS;Oh shit.
+2436;MATT;Pops open the case.
+2437;MARISHA;Don't let her touch him.
+2438;MATT;And sits back and pulls open a somewhat weathered scroll. And starts reading off of it.|(magical language)
+2439;LAURA;Oh, no, what is this?
+2440;MARISHA;No no no! Don't go, don't go--
+2441;LIAM;Attack. I'm attacking her. She acted, she said don't touch, I said I'll base it off of Keyleth, so I'm attacking. I'm going to interrupt that.
+2442;TRAVIS;Don't you want to see what happens?
+2443;LIAM;No.
+2444;MATT;Okay. Hold on. You say attack based on-- Because you don't see this yet.
+2445;MARISHA;I said don't let her touch him.
+2446;TRAVIS;She's reading that scroll, man.
+2447;MATT;She hasn't touched him yet. But you're attacking on your own instinct.
+2448;LIAM;If I've heard don't let her touch him, and she's doing that, those two things mean the same thing to me. She's doing something. Yes.
+2449;MATT;All right. I will say, for this, go ahead and make a dexterity check.
+2450;LIAM;Dexterity check? All right. And I'll use my last Luck of the day.
+2451;SAM;I thought you did that already.
+2452;LIAM;I had two. So that's a 28.
+2453;MATT;28, okay. So you can make your attack. This with the dagger?
+2454;LIAM;This is everything. How far away is she from me?
+2455;MATT;She's maybe like 20 feet, so you can--
+2456;LIAM;All three attacks.
+2457;MATT;Well, you held your action, which means you can only take your action, you can't move as well.
+2458;LIAM;Okay. Move? I don't need to move. How far away is she, you said--
+2459;MATT;20 feet.
+2460;LIAM;20 feet. So I can throw daggers at her, right?
+2461;LAURA;Yeah, but you can't throw your sword
+2462;LIAM;No, but I have lots of daggers. I still have the Flametongue Dagger, which is not attuned, it's just a lame old dagger.
+2463;MATT;That's true, you can do that, yeah. So yeah, you can do that.
+2464;TALIESIN;Oh boy.
+2465;LIAM;First one is a 23.
+2466;MATT;A 23?
+2467;LIAM;Second one is a 19.|Third one is a 29.
+2468;MATT;Okay. So it was-- 29 hits. The first one...
+2469;LIAM;God. I don't remember.
+2470;LAURA;A 23.
+2471;LIAM;23 sounds familiar.
+2472;MATT;Right. The 19 was the one that didn't hit.
+2473;LIAM;So two of the three hit? So it was hit-miss-hit, right? I think so. All right, so the first one is Whisper. Four plus eight is 12, plus psychic damage is 15, but there's no sneak attack, because there's nobody near her, and the Hunter's Mark-- Oh! Can I move Hunter's Mark to her at this point? I have no idea.
+2474;MATT;No, because you've used all your attacks.
+2475;LIAM;It's a bonus? Okay. Got it. Okay. So 15 for the first and the second one. Oh, I don't need that. Is nine.
+2476;MATT;Okay, so what was the first attack? It was--
+2477;LIAM;15 plus nine.
+2478;MATT;15? 15 plus nine. So the first attack was 15. Okay, maintains concentration. Maintains concentration.
+2479;LIAM;And I'll use my movement to move between my sister and Raishan.
+2480;LAURA;You can't do movement, because you were holding your action.
+2481;LIAM;Okay.
+2482;MATT;Okay. So as both daggers come, you watch as it's muttering from the scroll, not both of her eyes, but one of the eyes turns to face you.
+2483;LAURA;Like a chameleon.
+2484;MATT;Yeah. And narrows. The scroll finishes and (poof) turns to ash. And similar to something you've seen before, you watch as Thordak's corpse, which is currently buried into the rock with the face to the side, the breath filters into the mouth. The body still motionless, you recognize this similar or adjacent magic to the Speak With Dead--
+2485;LIAM;We've seen Pike do it.
+2486;MATT;Yes.
+2487;SAM;She's just trying to ask a question, Vax. I mean, Jesus.
+2488;LIAM;You're not here.
+2489;MATT;"So as soon as that finishes, Raishan-- the other eye flickers over. Now both eyes are on you.|And says, ""Know what you're doing."""
+2490;LIAM;You're not walking away from this field.|You're going to die. Maybe I will too, but you are going to die.
+2491;MATT;(chuckles) Okay.
+2492;SAM;We're men of our word. We're men of honor.
+2493;MATT;Raishan is going to...
+2494;LAURA;She did attack our home.
+2495;SAM;I'm not saying she's great.
+2496;MATT;Hmm. Let me check one thing real fast.
+2497;SAM;Hmm. Oh boy. You stumped the chump.
+2498;MATT;"Well, I'm trying to see what her reaction's going to be. Oh, okay. She feels comfortable with that. She goes, ""Well, then. Come claim me!"" And just steps away from Thordak. And with one big push of the wings, turns around and coasts into the chamber beyond you."
+2499;LIAM;Out of sight?
+2500;MATT;Beyond, you can see her form disappear into the darkness. There's a little bit of an orange glow in there, but given that circumstance, yeah, she disappears into the shadows of the room.
+2501;LAURA;Should I have taken my shots when things got aggressive?
+2502;MARISHA;So she's coming towards us.
+2503;MATT;No, she's going the opposite direction.
+2504;LAURA;I mean, did that look aggressive?
+2505;MATT;She flew away from your brother. But your brother did throw three daggers into her, and then said she was going to die.
+2506;TRAVIS;Did she ask her questions of Thordak?
+2507;LAURA;It might not have been the same fucking spell. It could have been something like it.
+2508;TRAVIS;He said it looked very similar.
+2509;LAURA;Yeah, adjacent.
+2510;LIAM;I'm sure she was just going to ask about cooking recipes. It's fine.
+2511;MATT;So what are you going to do, attack or not? You watched your brother throw three daggers into Raishan, and tell her that she's going to die, and then Raishan basically abandoned Thordak's body and fled.
+2512;LAURA;"Said, ""Come and claim me,"" and flew toward me?"
+2513;MATT;Flew over you, and past, into the chamber.
+2514;LAURA;Yeah, I'm going to attack.
+2515;MATT;Go for it. Roll your attacks!
+2516;LAURA;Oh no.
+2517;TRAVIS;Do it, Tiny Toon!
+2518;LIAM;Go for it.
+2519;SAM;You got this, Bailes.
+2520;MARISHA;I mean, she kind of released Thordak.|She's totally Little Finger.
+2521;LAURA;This isn't about vengeance, though, you guys.
+2522;SAM;What is it about?
+2523;MATT;Roll your attacks.
+2524;LIAM;Five, four, three, two...
+2525;LAURA;I don't know. (sad noise) That one doesn't hit. Probably. 18.
+2526;MATT;Nope.
+2527;LAURA;That one probably hits. 27?
+2528;MATT;Yeah.|(laughter)
+2529;SAM;Saddest attack ever.
+2530;LAURA;And a natural fucking one. Fenthras can sense my trepidation.
+2531;MATT;Hah, apparently! So roll damage on one arrow strike. And it is, your hand's shaking at this moment, you're trying to figure out what to do. When she flies overhead, you release one arrow, pull back and pull another, and the second one is right as she's over and above, sinks in. And the third one, you fire after, and it hits the rock ceiling.
+2532;LAURA;Just 15 damage.
+2533;MATT;15 points of damage. All righty. Raishan just swoops into the darkness of the chamber beyond. Keyleth. You just manage to catch up at this point now, at a full run, this will be your full turn, catching up to Vex and Vax. Or Vax specifically, Vex is a little beyond, aggressive stance, Raishan nowhere to be seen, Thordak's corpse ground into the dirt.
+2534;MARISHA;Where is she?
+2535;LIAM;Forward.
+2536;MARISHA;Are we going after her? I mean--
+2537;TALIESIN;I'm not there.
+2538;LIAM;Yes.
+2539;MARISHA;I run deeper into the hole.
+2540;MATT;Okay. Jarett and Gilmore, at this point, manage to catch up to you guys, as well. It'll take a while for Grog and Kima to catch up to you guys.
+2541;TRAVIS;Oh, I didn't say I was leaving.
+2542;SAM;Looting the giant's body?
+2543;TRAVIS;No, there's a lizardfolk right there.
+2544;MATT;It's true, actually, yeah.
+2545;TRAVIS;I want to see how many licks it takes to get to the center of a Tootsie Roll Pop.
+2546;SAM;One. It takes one lick.
+2547;MATT;Well, Grog, it's staring at you, going like (growl).
+2548;TRAVIS;I reach out and go like (head crushing sound).
+2549;MATT;Make a strength check.
+2550;TRAVIS;I have advantage on those.|(laughter)|18. 18 plus seven. 25.
+2551;MATT;25? There's this moment where you're grabbing its head, and it reaches up and (frantic snarl).
+2552;TRAVIS;Can't hear you, can't hear you.|(laughter)
+2553;MATT;A very Riki-oh type moment. The head just pops outward in a smear of purple gore.
+2554;TRAVIS;Oh, no. That's the show, folks. All right.|Well. Anybody see that? Who's here?
+2555;SAM;My hand is near you.
+2556;TRAVIS;Kima's there, right?
+2557;MATT;(chuckles) Bigby's Hand claps the wall, applause.|(laughter)
+2558;TRAVIS;Ha, fuck Bigby's Hand.
+2559;MATT;"You look over at Kima, and Kima's kind of spattered with it, and she goes, ""Well done!"""
+2560;TRAVIS;Smooth, right? Let's join everybody else.
+2561;MATT;"""All right, all right."" You're going your movement, about there, full speed. Kima's a little slower behind. She'll catch up at a full double-dash speed, there. Jarett and everybody else has kind of moved in. We'll say at this point, the rest of you--"
+2562;LAURA;(laughs) Jarett is just like--
+2563;MATT;He can't do anything, he's having a bad day, man.
+2564;MARISHA;Poor Jarett.
+2565;MATT;So you guys all charge in after?
+2566;TALIESIN;I'm doing the best I can, I can't see a damn thing.
+2567;MATT;No, you guys are far behind. So it's currently you three in the lead.
+2568;TRAVIS;Should anybody stay out here in case she wants to come back out? You want me to stay out?
+2569;MATT;Do you want to move Bigby's Hand?
+2570;SAM;Yeah, for the rest of the one minute it works for. Which is not very long?
+2571;MATT;Nah.
+2572;TALIESIN;If she makes her way out, that means we're all dead. Come on in. It'll be fun. Let's all die together.
+2573;MARISHA;We'll go to the spa afterwards.
+2574;MATT;So you guys kind of rush into this chamber now, and the heat in here is more immense than anything you felt on the surface. This is kind of the core of the volcanic surge that Thordak's presence was pulling upward. You see within, there's this flow of lava. I want the three of you to roll perception checks, if you can.
+2575;SAM;Who's the three, Vax, Vex, and--
+2576;LIAM;31. 31.
+2577;LAURA;This is at advantage because it's a dragon-related thing?
+2578;MATT;Well, are you looking for Raishan, or are you inspecting the room for details?
+2579;LAURA;I don't know, what am I rolling for?
+2580;MATT;I was rolling to see just the general vicinity of the room.
+2581;LAURA;Okay, 27.
+2582;LIAM;31.
+2583;MARISHA;25.
+2584;MATT;You guys, the first thing you notice as you glance around, is there are some kind of alcoves inside this chamber where the rock formations pull inward. You see kind of set into the stone and various bits of fallen rock and earth, a handful, somewhat spread out throughout the room, a handful of large nine-foot-tall dark, deep crimson red with crystalline elements to the outside, ovoid structures. These are what appear to be larger than normal, elementally altered dragon eggs. Five of them in the chamber.
+2585;LAURA;Five bebes?!
+2586;SAM;(singing) Muppet Babies...
+2587;LAURA;Can I look back at Thordak? What does it look like-- I know Raishan, like, (gasps) made him do that. Does it look like there's anything around him, or is he just dead-dead still?
+2588;MATT;He's a ways back. If you want to try and move back to him, you can. But, with your high perception, you glance up and see in the ceiling portion of this chamber where there are a number of these small caverns that are pressed up to the side, you see out of the top just the slight peeking of Raishan's face, kind of looking down into the chamber above you. And you watch as the teeth, something muttering in the mouth, the teeth grin as the ceiling of the room, you watch distortion in the air above you. Almost like these small portals kind of (multiple fwooshes) open, and coming flying out of them, you see four large, flaming rocks. Rocks. These are massive, fiery, meteorite-like boulders, that come firing out of the ceiling of the room (crashing sounds).|Slamming into the ground around you, exploding in a massive explosions, rocking you. All you see is white, and ringing in your ears as your bodies are thrown from explosion to explosion. I need the three of you to make dexterity saving throws.
+2589;LIAM;25.
+2590;MARISHA;I rolled a natural 19, so 22.
+2591;LAURA;29.
+2592;SAM;Wow, guys! That's really good rolling!
+2593;MATT;You guys take half damage. Well, here, let's do the first part. So, there's the fire damage.|Which is 20d6.
+2594;LIAM;What did we have to beat?
+2595;MATT;You had to beat 22.
+2596;LIAM;Zero.
+2597;MATT;Right, so you take zero damage from this.|Both of you take 63 points of fire damage. Halved, to 31. And then you each take 70 points of bludgeoning damage.
+2598;MARISHA;70?
+2599;TRAVIS;That's 130-something total points.
+2600;MATT;As these flaming arcane meteors crash into the ground, detonating and destroying a portion of the cavern floor, lava spatters everywhere, and you watch as you duck out of the way as, Keyleth, what are your hit points at?
+2601;MARISHA;I'm actually still up at-- What's 101 minus 119? 18 points.
+2602;MATT;18 points. Set your hit points to that. You watch as your sister is thrown, her body unconscious, flung in the air like a ragdoll as it scatters to one end of the cavern. You can see the volcanic activity billowing up from the recent shaking of the room, as bits of the molten rock are flung across, as the green dragon face kind of withdraws in the cave. And I think that's where we're going to pick up next year.|(yelling)|It's 11:22, guys! We gotta get home!
+2603;SAM;Next year?! We have to wait a year?!
+2604;LAURA;I have to find out if I'm for sure dead.
+2605;LIAM;I got you, I got you.
+2606;LAURA;I'm across the fucking room.
+2607;LIAM;Doesn't matter, I can fly 500 feet, I got you.
+2608;TALIESIN;You're going to get the conclusion of this before the next season of Westworld.
+2609;LIAM;Lay on Hands, dude.
+2610;SAM;No, she's dead.
+2611;LIAM;No, shut up. I will kill you in the parking lot.
+2612;MATT;We will pick this up in January.
+2613;TRAVIS;What was that called, those four flaming rocks?
+2614;MATT;That's called Meteor Swarm. That's a 9th-level spell.
+2615;TRAVIS;Is that a spell? What level is that?
+2616;ALL;9th-level.
+2617;LIAM;She just blew her wad, she's done, we got a dragon and a flute.
+2618;LAURA;She's not done.
+2619;MATT;You're right. She has nothing else up her sleeve. So. On that note.
+2620;SAM;Matt Mercer.
+2621;MATT;This could possibly be a whole different encounter, I don't want to keep you guys here until 1 AM. I know Laura has to record in the morning.
+2622;LAURA;I do, I have to film all day.
+2623;SAM;I have an 8 AM session.
+2624;MATT;Well. Guys. This will be interesting.|(groaning)|Yeah, it's going to take a few rounds for the rest of the party to get here.
+2625;TRAVIS;She didn't get to ask any of the questions?
+2626;LAURA;She might not have even needed to ask questions.
+2627;SAM;Of course she did, she cast a big spell to do it!
+2628;MARISHA;Yeah, maybe she was doing it telepathically.
+2629;SAM;What are you talking about? She read a scroll!
+2630;LAURA;Maybe it was just taking his soul into herself.
+2631;SAM;Information!
+2632;MATT;Regardless. (laugh) We are out for the evening, thank you all for sticking with us for this longer episode.
+2633;LIAM;We should have just let her do what she wants, summon the most powerful thing in the universe.
+2634;TRAVIS;I like that idea.
+2635;MARISHA;Team Rowdy Half-Elves, what's up!
+2636;MATT;Yeah, the half-elves are down here in this chamber, with the Thordak eggs.
+2637;MARISHA;Half-elves, running in, recklessly, yeah! Like we do!
+2638;TALIESIN;I've got nothin'. Yeah.
+2639;MATT;(laughs) Anyway, guys. Thank you so much for watching, thank you guys for kicking ass in that battle.
+2640;TRAVIS;Talks Machina next week?
+2641;MATT;Talks Machina on Tuesday. It's the Critmas episode, check it out.
+2642;LAURA;Check out Backblaze.
+2643;MATT;Indeed, indeed. And I guess have a wonderful New Year to all of you guys, very happy holidays to everyone. All viewers, Critters, Team Hooman, and everyone who decides to spend their Thursdays with us. We really appreciate it. Love you very much, and we'll see you in the new year. Is it 2017 yet? [music]

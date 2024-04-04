@@ -1,0 +1,2580 @@
+;Player_Name;Transcription_Text
+0;MATT;Hello everyone, and welcome to tonight's episode of Critical Role, where a bunch of us nerdy-ass voice actors sit around and play Dungeons and Dragons--
+1;ALL;(cheering)
+2;MATT;-- you assholes.
+3;MARISHA;Der 'n' Der!
+4;MATT;Welcome. Tonight should be an interesting episode, but, before we begin, let's go ahead and get through our announcements for the evening! So, welcome, and, first and foremost, tonight we are sponsored by our friends at Loot Crate.
+5;ALL;(cheering) Loot Crate!
+6;MATT;Thank you, Loot Crate, for being amazing sponsors.|Sam, did you want to tell us a little about--
+7;SAM;Okay! I haven't done this in a while, so I'm falling back on an old crutch, an old beloved character-- Rhodey Slater is back to do another round--
+8;MATT;(laughing) Oh my god.
+9;SAM;"Gotta get in character.|(in surfer voice) Yo-ho-ho, it's me, Rhodey Slater, with another message from our sponsor, Loot Crate. Whether you're dropping in on a party wave in Uluwatu or even Tamarindo, you won't look like a paddle-puss if you haul your tres gnarly gear from El Crate-o del Loot-o. This month's theme is Build, featuring sick brands like Power Rangers, hang ten; Batman, wax it up; Lego, mondo bitchin'; and Tetris, shaka.|(all laugh)|So don't get raked over by a wiper, point your nose to Lootcrate.com/CriticalRole and use promo code ""criticalrole"" for 10% off your subscription.|You'll be radder than Tom Curren nailing a 360 air reverse rodeo. You'll be cooler than a tight on-shore breeze at Malibu. You'll be more authentic than a sad voice actor searching for surfing terms on Yahoo Answers at 5 pm-- (all laugh)|-- when he should be really spending more quality time with his children, as their youthful lives pass by without their father, precious moments ticking away until one day they're adults, and you're standing at their wedding, thinking, ""Oh my god, I missed so much, I missed so very much, and for what? A Loot Crate ad?"" Anyway, ride that tube and subscribe today, (shouting) bonzai! (all laugh and cheer)"
+10;TRAVIS;I mean, he's a whole new echelon.|It's a whole new--
+11;TALIESIN;You just Inception'd a Loot Crate ad.
+12;MATT;Thank you for that!
+13;TRAVIS;Incredible!
+14;MATT;Sam.
+15;MARISHA;You took, like, a failed Californian sketch and turned it into Oscar-winning material.
+16;MATT;That is, thank you very much.
+17;LAURA;It hurts, it hurts.
+18;LIAM;I didn't know Rhodey's, Rhodey's a father, that's an interesting development.
+19;SAM;Yeah.
+20;MATT;Indeed.
+21;SAM;Many. Many.
+22;MATT;Just a heads-up, guys, we've done a couple of these and we're going to do a couple more of these upcoming For Honor streams, where a few of us are going to be guesting on here for a number of hours to play For Honor and beat the shit out of each other and other people, as various historical warriors of old. And then a number of us are actually, I think, a voice in the game.
+23;TRAVIS;Yeah!
+24;MATT;But yeah. So tomorrow, joining the Nerdist team from 9 am to 12 noon Pacific Time, we have Liam and Travis--
+25;TRAVIS;Woo!
+26;LIAM;Tarvis!
+27;MATT;--to jump in on there, and then, on Saturday, from 12 noon to 3 pm, that's going to be Travis, Taliesin, Sam, Marisha, and myself on there--
+28;MARISHA;Hey-oh.|MATT:-- all playing the game, getting crazy.
+29;LAURA;Woah. Really?
+30;TRAVIS;Yep.
+31;LAURA;Why aren't I there?
+32;TRAVIS;'Cuz you suck.
+33;LAURA;Oh man.
+34;LIAM;He's right.
+35;LAURA;I know it!
+36;LIAM;He would know. He would know.
+37;MATT;(laughs) So yeah, it'll be here on the Twitch, check it out, I'm really excited, I haven't played the game yet? And everyone I know who's talked about has said it's ridiculously fun and amazing. It's like, the upgrade of Dark Souls combat and I'm really excited about it.
+38;TRAVIS;I have to, like, show up an hour early and learn how to play, or we're going to get.|We're going to get killed a lot.
+39;MARISHA;Yeah, I'm probably going to.
+40;TRAVIS;We've got to work on our death sounds.
+41;LIAM;What, I'm Leet, man, you're going down, and stuff.
+42;TRAVIS;(belches)
+43;LAURA;Leet!
+44;MATT;(accented voice) Going down.
+45;TRAVIS;No. No. You... are the one falling, in the opposite direction of up.
+46;LIAM;(in Christopher Walken voice) It's important to point out, we're not doing Walken anymore-- (all laugh)|--we're doing our impression of Troy, doing an impression of Nolan doing Walken.
+47;MATT;Oh, wow.
+48;TRAVIS;It's a quad lay-up.
+49;MATT;The chain goes deep.
+50;LAURA;Yeah, it does.
+51;TRAVIS;(Walken voice) Quad. Lay-up.
+52;LAURA;Woah. Just woah. (laughs)
+53;LIAM;I don't even know what Walken sounds like, it's come through a daisy-chain of assholes.
+54;MATT;"It's true, it's true. That's our next shirt.|""Daisy Chain of Assholes."" I'm okay with that."
+55;TRAVIS;Critical Role: It's About Scientology--
+56;MATT;Also, don't google that phrase!
+57;TRAVIS;-- and a Daisy Chain of Assholes.
+58;MATT;All right! Next up, we have (quieter) me, breaking my pen. Uh--
+59;LAURA;Oh, no.
+60;MATT;April 1st!
+61;TRAVIS;April 1st!
+62;MATT;WonderCon!
+63;TRAVIS;WonderCON!
+64;MATT;Save the date. We have--
+65;SAM;We're allowed to say the date now?
+66;MATT;We do now. That's all the information we have so far, but April 1st, WonderCon. Critical Role and Talks Machina live, in their--
+67;LAURA;Be there or be squared!
+68;MATT;-- big room, it's gonna be good.
+69;TRAVIS;Anaheim.
+70;MARISHA;Big room, did I say square?
+71;SAM;It is not an epic April Fools' Joke--
+72;MATT;No.
+73;SAM;-- this is really happening.
+74;TRAVIS;It's really happening.
+75;TALIESIN;It's really happening.
+76;SAM;Okay.
+77;TRAVIS;"And it's going to be a big, big, rowdy room. So if you're like, ""Aw, I don't want to go, there's not going to be any seats."" There gon' be seats."
+78;MATT;There's plenty of seats.
+79;LIAM;Yeah, it's--
+80;TRAVIS;Bring it, if you can.
+81;LIAM;--It's April Fools', we're not going to be there.
+82;TRAVIS;I can say that.
+83;SAM;You know what?
+84;LIAM;We're not going to do that.
+85;SAM;I will promise that I will play at least one April Fools' joke on one of you, during that panel.
+86;LAURA;Ooh.
+87;TALIESIN;I'm excited by this.
+88;LAURA;Can I vote for Brian?
+89;LIAM;I'm not.
+90;SAM;Sure, of course.
+91;TALIESIN;I think that's a great idea.
+92;TRAVIS;He's not listening to this right now.
+93;MATT;We should have a poll in the community for which member of the team Sam gets to prank.|(all laugh)|Don't actually do that, please. 'Cause we all know that's going to be--
+94;TALIESIN;I'm a big fan of Brian, I have a feeling that's a good bet.
+95;MATT;Also!
+96;MARISHA;Man, we're being so transparent.
+97;MATT;Isn't it, though? All right! Next up--
+98;LIAM;Wow.
+99;MATT;Signal Boost has returned. Marisha, if you want to talk about that.
+100;MARISHA;It has returned--
+101;TRAVIS;Oh, snap!
+102;MARISHA;Oh, my goodness, you guys! The amazing Darin De Paul, already. He kicked off the season.
+103;TRAVIS;DDP!
+104;LIAM;So good.
+105;TALIESIN;It was crazy.
+106;MARISHA;Yes. Yeah, he kind of set the bar really high.
+107;TALIESIN;It was crazy.
+108;MATT;He's awesome.
+109;MARISHA;You guys know Darin as the voice of Reinhardt from Overwatch, and many other things. But--
+110;MATT;He's also the main villain, Ardyn, in Final Fantasy XV and a bunch of other games. Super talented--
+111;LAURA;He's blowing up! He's in everything now!
+112;MATT;He's incredible.
+113;MARISHA;He's great.
+114;SAM;I don't care for him.|(All laugh)
+115;TRAVIS;I think he's rude. And he smells funny.
+116;MATT;There you go.
+117;SAM;He didn't want to come on my show, Siggle Boost.
+118;MARISHA;(laughs)
+119;TRAVIS;Siggle Boost?
+120;SAM;Siggle Boost.
+121;MARISHA;Wow, I haven't heard of that one.
+122;TALIESIN;Do you guys just like draw weird circles?
+123;SAM;Yup. Yeah.
+124;TALIESIN;Right, okay. I was just checking.
+125;MATT;And people correct you for mispronouncing it.
+126;LAURA;It's called Sigil Boost.
+127;MARISHA;Sigil Boost.
+128;SAM;That's true, that's true.
+129;LIAM;Let's run the GIF (hard g) of that now, please.
+130;TALIESIN;It's pronounced siggle.
+131;MARISHA;Yes, it's back. You should watch it. Yup.
+132;TALIESIN;Yeah.
+133;MARISHA;People.
+134;MATT;Yeah, Erika Ishii just did hers--
+135;MARISHA;On Tuesdays.
+136;MATT;--and then Amy Dallen's up next, right?
+137;MARISHA;Amy Dallen is up next and--
+138;MATT;Awesome.
+139;MARISHA;Yeah. It's good people coming up.
+140;TALIESIN;Yeah, you drain Erika Ishii's blood.|It's pretty great.
+141;MARISHA;Yes. We do. Yeah.
+142;LIAM;Yeah, but you can only do it once, though.
+143;MARISHA;Yeah.
+144;TALIESIN;It's a great trick. You can only do it once.
+145;MATT;Laura, do you have a merch update?
+146;LAURA;Do I? Do I? Do-
+147;TRAVIS;Do I?
+148;MATT;It's on the list.
+149;LAURA;We watched Galaxy Quest last night.
+150;TRAVIS;So great.
+151;LAURA;So good. Again. For, like, the hundredth time. You know, I mean, there's merch in the store right now. These dice bags that I'm holding in my hand. I literally just happened to be holding it as you asked me that, which is crazy. There's a very small amount of them left, I happen to know.
+152;SAM;In the hundreds? In the fifties? In the tens?
+153;TALIESIN;Baker's dozen.
+154;LAURA;In the barely hundreds.
+155;SAM;Wow.
+156;MARISHA;Yeah.
+157;TRAVIS;It's a lot.
+158;MARISHA;They went fast.
+159;LAURA;Which, you know, could be a lot or couldn't. Depending on if you want them.
+160;SAM;Wow.
+161;LAURA;There's also shirts! And hats! And patches and--
+162;MATT;(singing) Things, oh God!
+163;LAURA;-- other stuff coming up that I'm real excited about, and I'll show it to you when it's here.
+164;TRAVIS;Yep.
+165;MATT;(clicking dice) Such a beautiful sound.
+166;TRAVIS;(sniffing) Allergies. (groans)
+167;TALIESIN;You watched Galaxy Quest.
+168;LAURA;Yeah.
+169;TRAVIS;You don't need that-- he can have that many. You have too many.
+170;TALIESIN;You know they have the dubbed version of the alien language on the DVD?
+171;LAURA;No!
+172;TALIESIN;(alien noises) The whole movie, the entire movie-- You can watch it, if you're drunk enough.
+173;LAURA;It's just so good.
+174;MARISHA;(laughs)
+175;MATT;That's pretty great. All right!
+176;LIAM;I'm ready.
+177;MATT;Anything else anyone wants to talk about? Or are we good? I think we're good.
+178;TRAVIS;We're good.
+179;MARISHA;Yeah.
+180;MATT;So we're going to hop in, and start off tonight's episode of--
+181;LAURA;Oh God.
+182;MATT;Critical Role.|(All cheer)
+183;MARISHA;That's right.|[opening credits]
+184;MATT;Hello everyone, and welcome back.|(all laugh)
+185;TRAVIS;Well done.
+186;MATT;"So, to get you up to speed with our current story: Vox Machina, having just completed the destruction of the Chroma Conclave, a scourge of ancient chromatic dragons that have terrorized the countryside. They are victorious, yet in the process lost a couple of lives. Percy returned and Scanlan, his lifeless body brought back to Whitestone. They completed the ritual correctly, and he came to life; however, he remains unconscious in a pseudo-coma. They left him in Whitestone, hopefully to recover. While beginning to finish up some of their last business they've been unable to with the current rush of this current arc. They made a journey to Vasselheim, where they walked through the Abundant Terrace and into the Birthheart itself, the temple of Melora within Vasselheim, spoke with one of the various worshippers there, and buried a box of ashes, apparently, of Senokir's wife--"
+187;MARISHA;"""Apparently"""
+188;MATT;--as a thank you for when you guys journeyed and met him in the City of Brass on the Fire Elemental Plane. Upon doing so, you then began to scatter about the city to do some business.|One of the elements of which: Grog Strongjaw, along with Pike, made their way to the Trial Forge, which is the Kord section of the city.|Returning to the Trial Forge, the temple to Kord, and upon walking to the center of the strangely empty temple structure, you saw, down in a once previously traversed sandpit, there stood Earthbreaker Groon, the high priest of Kord, who then turned to you--
+189;TRAVIS;My palms are really wet.
+190;LAURA;(laughs)
+191;MATT;"--and asked you to ""show him what you had learned."" After slamming his feet into the sand and preparing himself for conflict, he beckons you towards him. And that is where we left off. So--"
+192;LAURA;Oh god, oh god, oh god.
+193;MATT;--as you're standing up there on the edge of this pit, Groon just stands there with his hand beckoning towards you.
+194;TRAVIS;"I reach into my Bag of Holding, and I pull out a small drawing of the letter ""G"". This.|This is what I have learn-- That's not it.|That's not what I wanted. And I take out the Dwarven Thrower and I jump into the sandpit."
+195;MATT;"All righty. (jumping sound) (impact thud) There, as you land in the sand, the bottoms of your boots sinking but a couple of inches into the soft surface. Pike gets ready to leap down after and Groon puts his hand up. ""No...."""
+196;TRAVIS;Oh, shit.
+197;MATT;This fight is for us.
+198;LAURA;Oh, god.|Yeah, we're here, we're watching it, right?
+199;MATT;You guys didn't say if you were catching up with them last time.
+200;LAURA;Yeah, we said we came in the temple with them.
+201;MARISHA;Uh, no, we're totally watching this.
+202;TALIESIN;We're here, we're here.
+203;MATT;So then you guys rush in afterward, hoping that-- Morpheus is fighting Neo, you guys-- (all laugh)|You all rush in on the outskirts here to watch. I'll put you in over here to keep an eye on the sidelines. Grog, I need you to roll initiative.
+204;LAURA;Oh my god!
+205;TRAVIS;(blows raspberry)
+206;SAM;Big roll, big roll.
+207;MARISHA;Big roll! Big money, no whammies.
+208;LIAM;Now we attack on the count of three.
+209;TRAVIS;I get advantage on my (mumbles)
+210;TALIESIN;Jenga.
+211;LIAM;Get 'im.
+212;TRAVIS;That's shit.
+213;LAURA;God, oh god.
+214;MARISHA;Come on, come on.
+215;TRAVIS;That-- that's one worse.|Five!
+216;LIAM;Oh!
+217;MATT;You're going second.
+218;TRAVIS;Hey! You can go away.
+219;LAURA;(laughs) You're in jail.
+220;MARISHA;You know, second has its advantages sometimes.
+221;MATT;(clears throat) So.
+222;MARISHA;Sometimes.
+223;TRAVIS;Mm-hm.
+224;MATT;As you land and ready yourself with the hammer at the side, knowing that all of your friends are up on the outer edges of this watching you, you look up at Groon, who just, his hands at the ready, puts them down at his sides and just.... (slow steps)
+225;TRAVIS;Awesome.
+226;MATT;Just walks up towards you... And just stands there. Your turn.
+227;SAM;Like a matador.
+228;TRAVIS;What a dick move! What a dick move! Right.|(clears throat) I, uh. I bow.
+229;SAM;Oh!
+230;TRAVIS;And say... Kord's strength be with you.|And I smash the Titanstone Knuckles together.
+231;MATT;All righty! (laughs) Off to a start.
+232;SAM;(sound of impact)
+233;LAURA;(whispers) Oh my god.|I wish we had popcorn!
+234;MARISHA;Oh, yeah. Is there popcorn in the studio?
+235;DENISE;(off screen) No.
+236;LAURA, MARISHA;Damn it!
+237;MARISHA;Damn it, Denise.
+238;TALIESIN, LAURA;(laugh)
+239;DENISE;(off screen) Sorry! (all laugh)
+240;MARISHA;Always the bearer of bad news, that one.
+241;MATT;All right.
+242;TALIESIN;Don't say her name three times, then your rolls won't come true.
+243;TRAVIS;I would like to move backwards three squares.
+244;MATT;Okay.
+245;TRAVIS;That's my turn.
+246;MATT;All right. On his turn he stands there.
+247;LAURA;Ahh!
+248;MATT;He stares right at you.
+249;TRAVIS;Fucking knew it!
+250;MATT;Arms at the side--
+251;TRAVIS;What is-- It's a test already!
+252;MARISHA;Waiting for you to go first?
+253;TRAVIS;I hate the SATs! I hate Scantrons, I hate number two pencils, I hate all of it! (all laugh)
+254;LIAM;Don't blink, don't blink. Roll with it, player.
+255;TRAVIS;MM-hm, mm-hmm, mm-hmm.
+256;MARISHA;It's totally--
+257;TRAVIS;I start in that same distance from him, the same radial distance, I start walking to my right. My full speed.
+258;MATT;Okay.
+259;TRAVIS;That's my turn.
+260;MATT;He turns with you as you move and just rights himself and stares at you. Your turn.|(all laugh)
+261;SAM;Worst chess game ever.
+262;LAURA;I know, right?
+263;LIAM;Smash cut to two hours later.|(all laugh)
+264;MATT;I know.
+265;TRAVIS;All right. Okay.
+266;SAM;"""What do you want me to do!"""
+267;LAURA;"""Are you hungry? I'm kind of hungry."""
+268;TRAVIS;I would like to rage.
+269;MATT;Okay. (woosh) So--
+270;TRAVIS;And I do so by taking the...dwarven thrower and smashing it against my chest.|And then I chuck it at him.
+271;MATT;All right. As you slam it into your chest, you can feel the impact, and there's that brief sharp bit of pain as the metal clashes against the muscle, slamming against the bone and your rib cage. And that pain just kind of shoots through you like exciting electricity and you harness the pain as your eyes blur for a moment as you feel the rage overtake you, your muscles flexing and tensing and with that fury now flowing through your body, you take the hammer. I need you to go ahead and make a wisdom saving throw.
+272;SAM;Oh no.
+273;LAURA;Oh shit.
+274;TRAVIS;(whispers) I knew it. (louder) I mean, I didn't know it.
+275;SAM;Oh no.
+276;TRAVIS;Which is a minus two, right?
+277;MATT;Yes.
+278;TRAVIS;That's a six.
+279;MATT;As you go to throw, the strength leaves your arm and it just hangs limp at the side.|The attack is lost.
+280;TRAVIS;Any reason why?
+281;MATT;You don't know.
+282;TRAVIS;Not that I'd know. Cool. Do I have another attack?
+283;MATT;Yeah. You have two attacks.
+284;MARISHA;He just Jedi mind-tricked you.
+285;TRAVIS;"I shake off the random numb arm, and I toss it over to the other hand like, ""C'mon, Betsy!"" And I throw it with that hand.|(all laugh)"
+286;MATT;Okay. Roll another wisdom saving throw.
+287;TRAVIS;I don't know D&D enough to know what the fuck's happening right now. Ooh! 16?
+288;MATT;Uh, 16, actually let me see this real fast.
+289;TRAVIS;I have a modifier of zero. Minus two.
+290;LAURA;Minus two.
+291;TRAVIS;I rolled an 18.
+292;TALIESIN;Monks are not in my wheelhouse.
+293;MATT;Monks are fun.
+294;MARISHA;I feel like this guy's special, too.
+295;TRAVIS;He's not even here. This is a dream.
+296;LIAM;Slowly, Raishan uncurls like a Xenomorph from the ceiling.
+297;MATT;What'd you roll?
+298;TRAVIS;16.
+299;MATT;Nope. This time, you do manage to push through and throw the hammer, but you end up throwing it way wide. Like, 20 feet away from him.|Like, you're looking at him and just go (whoosh) (all laugh)|It comes back, and you catch it, and you're like, something's just messing with your mind.|There's something about his presence right now that is oppressing your ability to actually attack towards him.
+300;TRAVIS;All right. All I have is my bonus action.
+301;MATT;Well, you used your bonus action to rage, right?
+302;TRAVIS;Oh I did, yeah. I don't have a bonus action. That's my turn.
+303;MATT;All right. He turns towards you. Walks forward--
+304;TRAVIS;No, I don't.
+305;MATT;--very, just, carefully and intently.|That's his turn. You go.
+306;TRAVIS;God dang it!
+307;LAURA;Oh man. What does he want-a!
+308;TALIESIN;(whispering) Popcorn.
+309;LAURA;(whispering) He wants popcorn.
+310;TALIESIN;(whispering) He wants popcorn.
+311;TRAVIS;I try and hit him with it with both hands.
+312;MATT;Okay, so you you're using both hands--
+313;TRAVIS;Yeah, both hands.
+314;MATT;Go for it. Roll a wisdom saving throw.|(laughter)
+315;LIAM;Look at his little boy smile.
+316;TRAVIS;Six!
+317;MATT;You go to swing and he seems to blur for a moment, your eyes blink and as you swing with the hammer, you swung far to your left and it's almost like your arms are intentionally missing and almost fighting your directoral sense.
+318;LAURA;Shut up, Brian Wayne Foster!
+319;MARISHA;Awesome! Brian Fostah.
+320;TRAVIS;This is so stupid! Okay, I keep the hammer in one hand but I just try and punch him with the Titanstone Knuckles out of frustration.
+321;MATT;Okay. Make a wisdom saving throw.
+322;TRAVIS;What? No weapon in my hand?
+323;MATT;Mm-hm.
+324;TRAVIS;Nine!
+325;MATT;"You go to punch and by the time it gets to his chest there's so little force behind it that your fingers just kind of unfold open against him, almost breaking your wrist in the process, and you pull back, and he's just staring right at you. ""Show me you have the will to fight.|Come at me!"" Are you going to move or are you going to stay where you are?"
+326;TRAVIS;I'm going to stay within his attack range, but I'm going to 180 around him.
+327;MATT;Okay. That's easy enough to get around here.|All righty.
+328;TRAVIS;And I'll stay there.
+329;MATT;All right. For his turn, he turns around--
+330;TRAVIS;No he doesn't. Come on. Come on.
+331;MATT;Your turn.
+332;TRAVIS;Oh, this is a nightmare. I just want to hit him! (all laugh)|All right. All right. Maybe it's all about love! And I try and give him a bear hug!
+333;MATT;Okay... make a wisdom saving throw.
+334;TRAVIS;No!
+335;LAURA;You got this.|Natural 20.
+336;TRAVIS;That's a zero.|(all laugh)|I rolled a two.
+337;LAURA;Two zero, exactly.
+338;MATT;You go to grab him, and you reach, and you feel this physical form in your grasp, and then your arms all of a sudden touch nothing, and you realize that he's standing where he was. You grabbed what was almost like a mirage or an illusion, it's almost like your brain is playing tricks on you. That's one attack.
+339;TRAVIS;(surprised grunt)
+340;LAURA;You can do it, Grog! I don't know what he wants, but figure it out!
+341;TRAVIS;I look so pathetic right now.
+342;SAM;Yo, how does it look to the rest of the gang?
+343;MATT;It looks hilarious.|(all laugh)
+344;LIAM;What did we just see?
+345;MATT;It's hilarious, and it's disconcerting, because you're watching as Grog, in the middle of his rage, most of his attacks are amateur, far too wide away from the target, or by the time they get close, he is holding himself back. And you don't know why. Something is messing with his will and preventing him from being able to follow through with his attacks.
+346;TRAVIS;Okay. (sighs)
+347;MATT;Second attack?
+348;TRAVIS;Second attack. I just want to touch him with my finger. Just, like, a boop.
+349;MATT;Okay. You reach out and your finger touches his chest (cracking sound), and you feel--
+350;TRAVIS;He's real?! He's there?!
+351;MATT;He's real. The skin's there.
+352;TRAVIS;Thought you might be a dragon.|Wisdom saving throw?
+353;MATT;That wasn't an attack.
+354;TRAVIS;Oh! I touched him!
+355;MATT;You touched him.
+356;LAURA;Great job, Grog!
+357;MARISHA;We believe in you, Grog!
+358;LIAM;Okay, now ramp it up! (all laugh)
+359;MATT;"He smiles at you and goes, ""And with gentleness there comes clarity."""
+360;TRAVIS;(heavy breathing)
+361;SAM;I think you're going to have to fuck him, Grog.|(all laugh)
+362;MATT;And that's your turn?
+363;TRAVIS;That's my turn.
+364;MATT;Okay.
+365;SAM;(quietly) What? With gentleness there comes--?
+366;MATT;"""With gentleness there comes clarity."" And he smiles through his big, white-grey beard. And then the smile fades, his eyes flash, and he is going to attack you with a flurry of blows."
+367;LAURA;Oh no.
+368;TRAVIS;Wait, I haven't learned the lesson yet. I'm still--
+369;MATT;The lesson's just begun.
+370;TRAVIS;Oh no.
+371;MATT;All right, that is-- ooh.|33 to hit.
+372;TRAVIS;(squeaky voice) Mmm, yep.
+373;MATT;That is a 24 to hit.
+374;TRAVIS;(squeaky voice) Yep.
+375;MATT;That is a natural one.|So that is a failure. And it's a 32 to hit, so he hits you three times.
+376;LAURA;Jeez Louise.
+377;MATT;So you're raging, so you take half damage from these, because they're bludgeoning, since he's punching you.
+378;TRAVIS;Mmhmm.
+379;MATT;His eyes flash, he rushes up and pummels you once in the chin, elbows you in the sternum, goes and grabs your shoulder and leaps over behind you and then kicks straight back into the middle of your shoulder blades and (pained gasp) you feel the breath almost get kicked out of you.|That is 15 bludgeoning damage, halved to--
+380;TRAVIS;Seven?
+381;MATT;We'll say eight.
+382;TRAVIS;Eight? Yeah.
+383;MATT;That is nine, reduced to five, and that is 13 reduced to seven. There you go.
+384;TRAVIS;Oh shit, that's 20 points of damage.|Cool.
+385;MATT;That's his turn. You're up.
+386;TRAVIS;Uh, yeah. Sweet, sweet anus.
+387;MARISHA;That's a really good British candy.
+388;TRAVIS;What do monks do? Can I, like, use my magic powers? And I want to keep my eyes closed, and I'm gonna swing around behind me, knowing that I just got kicked in the back there.
+389;MATT;Okay, go ahead and make an attack with disadvantage.
+390;TRAVIS;Oh! No wisdom saving throw?
+391;MATT;Nope.
+392;LAURA;With gentleness comes clarity.|You touched him, maybe if you'd've shaken his hand.
+393;TRAVIS;With disadvantage?
+394;MATT;With disadvantage, because you have your eyes closed.
+395;TRAVIS;Uh, 23.
+396;MATT;That just barely hits.|(all gasp)|Go ahead and roll damage.
+397;TRAVIS;(mumbling) Okay, with a ten.
+398;SAM;So what did we learn from that?
+399;TRAVIS;I should've done it reckless. No, I don't want him rolling reckless, holy shit! God, I'll die in a second.
+400;MARISHA;His AC's 23.
+401;SAM;No, that-- close your eyes-- or, how does this... what?
+402;LIAM;It might be touch.
+403;SAM;I'm so confused.
+404;LIAM;You're unconscious.
+405;TALIESIN;You've got the touch.
+406;TRAVIS;That's 18 points of damage.
+407;MATT;18 points of damage, gotcha.|That's your first strike (hitting sound).|You feel the weapon behind you make contact with a form, and (cracking noise), you see a little bit of sand out of your peripheral this side go (scattering sound) as his form gets pushed about a foot, kind of setting some of it off.
+408;TRAVIS;So it goes (low hitting sound). I close my eyes again. I swing around the other way, and I try to connect.
+409;MATT;Okay, roll again with disadvantage.
+410;TRAVIS;That's not bad. 14 and 20, uh... 29.
+411;MATT;That hits, yes.
+412;TRAVIS;Yes, okay. Damn, same thing, so 18 points of damage.
+413;MATT;18 points of damage. All righty.|As he takes both impacts, kind of parrying them with his forearms with each impact. They're still hitting him, and he's still taking the brunt of the attack and the pain, but with each hit you can feel the force of his forearm is almost stopping still the hammer blow as you're throwing it behind you, and you can see him gritting teeth with each impact, but he's just staring right at you again as you kind of spin around, open your eye again to see what you did.|He kind of gives you a bit of a narrowed glare--
+414;TRAVIS;Stink eye?
+415;MATT;Little bit of a stink eye.
+416;TRAVIS;Fuck.
+417;MATT;But like an intentional kind of connecting point and just says--
+418;TRAVIS;Pink eye?
+419;MATT;No, that's a whole different-- that's a different monk path.|(all laugh)
+420;LAURA;Like that little hobbit.
+421;TRAVIS;Be nice.
+422;MATT;Let's see here.
+423;TRAVIS;I'm a student here.
+424;LAURA;What's the lesson? What's the lesson?!
+425;MATT;Okay, he's going to go ahead and attack you twice.|(punch sound) Two punches, straight to your back of your shoulders and neck as you're turning around to look at him. That is a 17, misses.|No, that does hit.
+426;TRAVIS;That hits, yeah, it's my AC.
+427;MATT;And a 23.
+428;TRAVIS;Yeah.
+429;MATT;So both hit you. That is...|16, so eight damage.
+430;TRAVIS;Okay.
+431;MATT;And that is ten, so five damage.
+432;TRAVIS;Okay.
+433;MATT;And he's going to spend three ki.
+434;TRAVIS;Three ki?!
+435;MATT;Yeah, three ki points.|So, the first punch hits you across the chin. The second one, he slams his fingers, curled up, right into your sternum as you turn around to face him (whack), and as it hits you, you feel these kind of vibrations, ripples, carry through your body, and then slowly fade inside. And you feel this tingling, this very faint, brief numbness that just kind of lingers throughout your body. You can feel it gathering at the edge of fingertips and toes, almost like ripples through a lake, and he steps away.|You get to make an attack of opportunity if you'd like.
+436;TRAVIS;(strained) I would.
+437;MATT;Don't forget, you can use your reaction to get an attack back because of your retaliation ability.
+438;TRAVIS;Yeah, I've totally forgotten that, I'm just totally stunned at this point.|That's good, that's 32.
+439;MATT;32 hits.|Go ahead and roll damage.
+440;TRAVIS;(sing-songy noises) That's a ten.
+441;LAURA;Yeah.
+442;LIAM;All these sounds are in game, in character.
+443;TRAVIS;So 20, 25.
+444;LAURA, LIAM;(gibberish)
+445;MARISHA;(laughs) When Grog becomes Popeye.
+446;MATT;All righty, and he just stands across the way, and just kind of beckons you towards him.|Your turn.
+447;TRAVIS;And I feel all shake-weighty at the moment, right?
+448;MATT;Yeah. You're not quite sure.|You don't feel bad, it's just this kind of uneasiness in your body.
+449;TRAVIS;Can I take a step towards him?
+450;MATT;Mm-hm, take a step forward.
+451;TRAVIS;Does anything happen? Do I shit my pants?
+452;MATT;Nope.|(all laugh)|Not yet.
+453;TRAVIS;Can I take the other four steps of the five step exploding heart point technique thing?
+454;MATT;Seems fine.
+455;TRAVIS;Cool.
+456;MARISHA;What would you have done if you shat your pants on that fifth step?
+457;LAURA;Oh my god, that would have been amazing.
+458;TRAVIS;Just explosive shat. I'd be, like, kill me now.|Kill me now, take it away.
+459;MARISHA;Just lost your bowels.
+460;MATT;(laughs) I'd have to bring out the cone template for that.
+461;MARISHA;Like a very dedicated marathon runner.
+462;LAURA;(laughs) Area of effect?
+463;TRAVIS;Can I close the rest of the distance to him?
+464;MATT;Sure.
+465;TRAVIS;I want to try the bear hug again.|I want to grapple him.
+466;MATT;Okay. So, go ahead. And I think it's your athletics versus his--
+467;TRAVIS;So I can touch him now.
+468;MATT;(mumbling) Acrobatics, I'm pretty sure.
+469;TRAVIS;The wisdom saving throw was something in the beginning.
+470;LAURA;Yeah, I think it was, you have to shake his hand or do something, like, gentle to him.
+471;LIAM;I like the idea that it's silent in here and we're just hearing sand get kicked around and Grog breathing like a bull.
+472;LAURA;I like to think that Earthbreaker Groon has, like, mood music for his fights.
+473;MARISHA;Agreed, yeah.
+474;TRAVIS;There's frustrated grunts happening.
+475;LAURA;He's got a sound system.
+476;MATT;So, make an athletics check.
+477;TRAVIS;Okay.
+478;MARISHA;Like war drums, yeah.
+479;TALIESIN;Like taiko. (low drum sounds)
+480;LAURA;Ooh! That'd be sick.
+481;MARISHA;(joins in on the drum sounds) Totally.
+482;TRAVIS;24. Plus 16 plus eight.
+483;MATT;Yeah, okay, so you go to grab him and he just (fwish) slips out.
+484;TRAVIS;Damn. My athletics versus his? Judo?
+485;MATT;He just kind of like parries it to the side, ducks under and rights himself, just out of your grasp.
+486;TRAVIS;Cool, that was nice. Do I have a second attack?
+487;MATT;Yeah.
+488;TRAVIS;Two-handed great weapon master, please.
+489;MATT;Okay, go for it.
+490;TRAVIS;That's not going to hit. 24.
+491;MATT;24 hits.
+492;TRAVIS;Oh, it does?
+493;MATT;Yeah.
+494;TRAVIS;Oh, 23, that's right.
+495;LIAM;23 was the threshold.
+496;TRAVIS;Thank you, god. No it doesn't, 24 minus five.
+497;MATT;Oh, minus five. So, as you go to swing, both of your hands on the hammer, (grunts) giant downward arc. As it slams downward, you see his form (whoosh) shift, and suddenly he's two feet to the right. He moved so fast with the side step, and you slam it down into the sand. You guys watch as this crater emerges (boom), and the sand shoots off the sides from the impact of Grog's blow on the ground. Groon seemingly unaffected.
+498;TRAVIS;That ends my--
+499;MATT;You're not frenzied yet, right?
+500;TRAVIS;Nope. That ends my turn. Yep.
+501;MATT;Okay. At the end of your turn, he's going to go ahead and make an unarmed attack on you.
+502;TRAVIS;Unarmed attack?
+503;MATT;That's just his punch as a part of his legendary action here. That is a 27 to hit.
+504;TRAVIS;Oh, that hits.
+505;MATT;You suffer another ten points of bludgeoning damage, reduced to five.
+506;TRAVIS;Okay.
+507;MATT;Now it's Groon's turn.
+508;TALIESIN;Two lair actions.
+509;MATT;He's gonna go ahead and make another series of attacks on you. That is an 18?
+510;TRAVIS;Yeah, that hits.
+511;MATT;17.
+512;TRAVIS;Hits, also.
+513;MATT;All right. So that is nine plus eight.|That'd be 17.|So, say nine points of bludgeoning.
+514;TRAVIS;Nine?
+515;MATT;And then--ooh! 18. So another nine points of bludgeoning damage. I need you to go ahead and make a constitution saving throw.
+516;TRAVIS;Damn, Gina.
+517;LIAM;Nice pull.
+518;SAM;I don't get it.
+519;TRAVIS;21.
+520;MATT;21, okay. As his first hit is a long round haymaker punch across the chin, he comes from underneath and goes for an uppercut that hits you right in the jaw. Right at the side where usually it would snap and really mess with somebody's ability to stay either conscious or control their atmosphere. You just manage to maneuver out of the way where it hurts, but the impact doesn't hit its intended place, and you resist the effect.
+521;TRAVIS;What was the effect?
+522;MATT;You don't know.
+523;TRAVIS;God damn it.
+524;SAM;Diarrhea.
+525;LAURA;Instant knockout.
+526;TRAVIS;I'll shit my pants before this fight is over with.
+527;LAURA;The button.
+528;TRAVIS;On the button?
+529;LAURA;It's the button.
+530;TRAVIS;It's the brown note.
+531;MATT;It's your turn.
+532;TRAVIS;My turn. I am so tired of this slippery shit. I go into a frenzied rage!
+533;MATT;Okay.|(unenthused cheering)
+534;TRAVIS;Yeah, thank you. I would like to Great Weapon Master try to hit him with the Dwarven Thrower.
+535;MATT;Go for it.
+536;TRAVIS;Not reckless.|No. (crying) I don't know what the lesson is. 32 minus five is 37.
+537;MATT;27?
+538;TRAVIS;27!
+539;MATT;That hits.
+540;TRAVIS;Yeah. 32 minus five is 37! 35.
+541;MATT;"Okay. This one cracks him right across the side of his shoulder and pec area (wham), and you watch as for the first time since this battle started, he loses his footing, and he has to catch himself behind. His head looks back and he turns around towards you and a big smile goes across his face as he goes, ""Good. Keep showing me."""
+542;TRAVIS;I was encouraged until he got creepy with the talking.
+543;LAURA;Maybe he just likes getting hit.
+544;TRAVIS;All right, I hit him again!
+545;MATT;Go for it.
+546;TRAVIS;That's gonna hit. That's a 31 minus five is 26.
+547;MATT;Yeah, go ahead and roll damage.
+548;TRAVIS;22... 32.
+549;MATT;32. Nice.
+550;LAURA;He's got like 5,000 hit points. More than last time.
+551;TRAVIS;Last one. Reckless.
+552;MATT;Okay.
+553;LAURA;(gasps)
+554;TRAVIS;What's life without a little spice?
+555;MATT;Sure.
+556;MARISHA;Ask him.
+557;TRAVIS;18, not quite. 34 minus--29.
+558;MATT;That hits, yeah.
+559;TRAVIS;Yeah. Close to what I wanted. This is 33.
+560;MATT;Okay, cool. All right, so, as you unleash your next series of blows against him, you saw him topple from the first hit. The other two, he pulls his arms in and takes them, one to the shoulder, and the other one hits him in the stomach (air getting knocked out) and he grabs your arm, and pushes off. Jumps in the air and lands about five feet from you.
+561;TRAVIS;Is he bruised? Is there a slap mark? I mean, is there any blood? Anything to tell me that I might be doing a good job?
+562;MATT;He looks, more so than the previous fight that you had with him, it looks like he's starting to take some hits.
+563;TRAVIS;Good! Yeah.
+564;MATT;He's gonna use Legendary Action to take a hit on you.
+565;LIAM;A Legendary Action?
+566;MATT;That is a 30.
+567;TRAVIS;(squeaks) Hits.
+568;MATT;Actually it's with advantage because--
+569;TRAVIS;Yep.
+570;MATT;So that is another nine points of bludgeoning damage.
+571;TRAVIS;Sweet.
+572;MATT;Not halved. That is what it is halved.
+573;TRAVIS;Okay. Because it's legendary--
+574;MATT;Because it would be 18, yeah.
+575;TRAVIS;Right.
+576;MATT;"Okay. His turn. He slowly walks around you.|And says, ""Your size is useful for those who know not how to use it against you."" And he rushes down, beneath your large standing form, and goes into a series of strikes against the inside of your knees and your legs and we'll see how the last blow hits."
+577;TRAVIS;I've been forgetting to roll my enlarged damage.
+578;MATT;That's a 30 on the first hit.
+579;TRAVIS;Yep.
+580;MATT;That is a 21 on the second hit.
+581;TRAVIS;(high pitched) Yeah, sure.
+582;MATT;That is a 29 on the third hit.
+583;TRAVIS;(laughs) How many hits are there?!
+584;LAURA;Four.
+585;MATT;And natural 20 on the fourth.
+586;LIAM;Natural 20 to the gooch.
+587;LAURA;To the chode hit?!
+588;TRAVIS;Wow, had to Reckless, huh?
+589;MATT;Yeah.
+590;TRAVIS;Cool.|Vegas is a short trip this time.
+591;MATT;"So that is 18 reduced to half; that's nine."
+592;TRAVIS;Okay.
+593;MATT;14 reduced in half is seven.
+594;TRAVIS;Okay.
+595;MATT;That is a nine reduced in half is five.
+596;TRAVIS;Okay.
+597;MATT;And final strike is a 20. Reduced in half, that is ten.
+598;TRAVIS;Can I use my Stone's Endurance on that last one?
+599;MATT;Sure! Go for it.
+600;TRAVIS;All right.
+601;LAURA;Nice.
+602;TRAVIS;That's 12. Plus my constitution, which is five, so 17.
+603;MATT;And I would like you to make another constitution save.
+604;TRAVIS;Shit! So do I add 17 hit points back?
+605;MATT;No, you reduce the attack, which was 10 damage?
+606;TRAVIS;Yeah, so just wipe it out?
+607;MATT;Yeah, it does none.
+608;TRAVIS;Okay, cool. I'm getting down there.
+609;LAURA;Really?
+610;SAM;He's down to triple digits now.
+611;TRAVIS;Constitution saving throw. 18.
+612;MATT;18.
+613;TRAVIS;Ten plus ten minus two is 18.
+614;MATT;Okay. You feel from that impact, all of your muscles seize up. He goes for the same strike zone on the other side of the chin and hits and you kind of (groans) as you pull back. And then, feel all of a sudden this pulse (throbbing sound). The pulse (louder throbbing sound) and all your muscles tense up. You're stunned until the end of your next turn.
+615;TRAVIS;Shit! (laughs)
+616;LAURA;What does being stunned do? You can't move?
+617;MATT;Can't move, can't do anything, you're considered incapacitated.
+618;TRAVIS;He Vulcan Pinched my ass.
+619;LIAM;Groon's in Vegas and your ass just came up pineapples.|LIAM & TRAVIS: (slot machine ringing)
+620;LAURA;I'm gonna pull an arrow out and just stand there and get ready in case Groon does anything.
+621;MATT;Okay. Groon is thinking to go ahead and step back to there.
+622;TRAVIS;What?
+623;MATT;Which would be there.
+624;LAURA;He's waiting for you to become unstunned.
+625;TRAVIS;Okay.
+626;MATT;And as he darts back, you guys watch as he runs to the back. As he does, his feet barely touch the sand (fast, light footsteps). You see these very faint little plumes behind each footstep, as this giant man has almost no weight across the ground--
+627;TRAVIS;Like a jackrabbit.|MATT:--as he runs with such speed. And as he lands and finds his footing (loud boom), the weight seems to kick in once more, and you watch as the sand (scattering sound) shoots out behind him.|He stands his ground and crosses his arms, and just watches. So Grog, it's your turn.|You're stunned. You end your turn, you're no longer stunned. It's now back to him.|(whispers) Fuck.
+628;MATT;He puts his hand up. Puts it up towards you.
+629;SAM;Oh, no.
+630;MATT;Closes his fingers
+631;TRAVIS;Oh, no, I've seen this before.
+632;MATT;And you feel this (pulse) in your chest, right in the sternum right where he hit you earlier. I need you to go ahead and roll a constitution saving throw again.
+633;TRAVIS;23 minus two, 21?
+634;SAM;Ooh?
+635;MATT;21!
+636;SAM;Ooh!
+637;TRAVIS;Constitution I have a lot of. For my saving throws.
+638;MATT;That (pulse) sound ripples out (rapid impacts) and you feel the muscles begin to tear, the ligaments begin to burn from the inside.|You manage to, through the sheer force of physical constitution, shrug off what would've been immensely more deadly circumstance, but you still do take 10d10 necrotic damage.|(everyone groans)
+639;SAM;It would've been 20d10?
+640;MATT;No, you would've dropped to zero hit points.
+641;LAURA;Oh shit.
+642;TRAVIS;Is that the palm thing?
+643;MARISHA;Quivering Palm?
+644;MATT;It's the Quivering Palm. He's not holding back this time.
+645;LAURA;Oh no!
+646;TRAVIS;Oh, I mean, don't make any special exceptions on my part. Fuck.
+647;LIAM;"Vax is watching; he just leaked a little bit."
+648;LAURA;Gross!
+649;MATT;18... 26.
+650;SAM;(whispers) Quivering Palm...
+651;LAURA;No one will ever notice, the armor already stinks.
+652;MATT;Take 51 points of necrotic damage.
+653;TRAVIS;52?
+654;MATT;51 points of necrotic damage.
+655;TRAVIS;51. Okay.
+656;LAURA;How much damage?
+657;MATT;51 points of necrotic damage.
+658;TRAVIS;I'm out of the triple digits guys.
+659;LAURA;(gasps)
+660;SAM;Oh, man.
+661;LAURA;Does Grog look all bloody yet, or is he--
+662;MATT;You guys watch as Grog is standing there, his body shakes and shimmers, and you watch various veins that usually bulge in his rage and enhance blood flow of his combat just (bursts and splatters) bursts in places. And blood just seems to spray out of him from multiple positions on his body.  And you see the blood now leaking all over him. He's just covered in his own crimson.|He slowly turns around, prepares himself for the next round of combat.
+663;LIAM;That is some North Star shit.
+664;MARISHA;Oh, my god.
+665;TALIESIN;Nice.
+666;TRAVIS;Yeah. Yeah. Okay. (exhales) Good deal.|Tight. Wow, distance doesn't help. Okay.
+667;LAURA;Can you talk to him? (louder) Can you talk to him?
+668;TRAVIS;I just look up, covered like Carrie, in the movie. Just dripping with fake blood.
+669;LAURA;Never mind! You're doing great, Grog! Keep going. (whispers) He looks like shit.
+670;MARISHA;(whispers) He does.
+671;SAM;Sometimes music calms the savage beast.|You could sing to him.
+672;TRAVIS;I would try Intimidating Presence, but he'll just shrug it off because he's amazing.
+673;LIAM;It's fine, it looks like he's going to rally. Here it comes.
+674;TRAVIS;I just take off straight for him.
+675;MATT;Okay, you turn around--(counting) You just get into melee with him.
+676;TRAVIS;Cool. Awesome. I am going to take all three attacks at Great Weapon Master at him.|NOT Reckless.
+677;MATT;Okay! Go and make your attacks at disadvantage.
+678;LAURA, TRAVIS;Why?!
+679;TRAVIS;Because I'm covered in blood?
+680;MATT;No. Because he used his Patient Defense.
+681;SAM;Patient Defense.
+682;MATT;Essentially with each blow that you--
+683;LAURA;Oh, that's fun.|MATT:--swing towards him, he's just prepared himself from a defensive position, to prepare himself. And he's using your own momentum against you to sway every attack away from him. So make all of your attacks at disadvantage.
+684;TRAVIS;So that's pretty smart. I threw that literally into the holder and it was on an edge.|Shit. That's a natural 20 that's going to be replaced by a not as great (inhales sharply).|23 minus five. So, it'll be a dud.
+685;MATT;Nope. So the first blow swings wide.|He grabs the actual side of the hammer with both hands and just (whooshes) throws it off to the side.
+686;TRAVIS;Okay, okay. 31 minus five. 26.
+687;SAM;Ooh.
+688;MATT;26. He attempts to parry this one, however, your sheer force of strength manages to push past his grasp, and you bring the hammer down towards his clavicle. Go ahead and roll damage.
+689;TRAVIS;(exhales) Oh, thank god. (high pitched) I like it when I hit them. (normal voice) That's 28 plus enlarge. Which I've been forgetting. 20.
+690;MATT;20!
+691;LAURA;18 and 10? Because of your--
+692;TRAVIS;18 plus 10 for Great Weapon Master. 28.|30.
+693;LAURA;30? You said 20.
+694;TRAVIS;I said 20 I meant 30.
+695;LAURA;It's 30.
+696;MATT;You mean 30.
+697;TRAVIS;My apologies. He is hitting me really, really hard.
+698;LAURA;Yeah. And your brain is already so little.
+699;TRAVIS;It's actually large, it just doesn't do much.
+700;MATT;And if you're using your bonus action, you can get one more strike in.
+701;TRAVIS;I would like to. At disadvantage.
+702;MATT;Go for it.
+703;TRAVIS;That's a one.
+704;MATT;"Nope. So, the second one does hit the clavicle, and it cracks and he (grunts).|You see a little bit of blood spill out the corner of his mouth down his chin. And he looks up at you, and for a second there, the whites of his eyes seem to almost dim ever so slightly into a moment of humanity you haven't seen in him yet.|He's been this godlike entity and this is the first point where you see that pain show just a hint of any sort of weakening. And he kinda looks right up into you. ""Good. Good."" And as you go for your third strike he literally puts up his hand and (heavy impact) catches the hammer in place."
+705;TRAVIS;Oh, god, it's so awesome!
+706;MATT;He just holds it there as he stares at you.
+707;TRAVIS;(groans) Yeah, I'm checking reflexes.
+708;MATT;Good.
+709;TRAVIS;I want you to know I'm not afraid to go down.
+710;MATT;That is the first lesson. Let's see if your words can be put into practice.
+711;TRAVIS;Oh shit.
+712;MARISHA;Good night!
+713;LAURA;No! No!
+714;MARISHA;We'll see you in the morning, sleep well friends.
+715;TRAVIS;I hope you get a popcorn kernel in your teeth.
+716;MATT;He is going to, let's see...
+717;LIAM;Go Cobra Kai on your ass.
+718;TALIESIN;Cobra Kai.
+719;TRAVIS;Sweep the leg, Johnny!
+720;TALIESIN;Never dies.
+721;LIAM;Put him in a bodybag!
+722;MATT;Yeah, he's going to go into a flurry of blows against you. That's a natural 20.
+723;TRAVIS;(groans)
+724;MATT;That is a 18?
+725;TRAVIS;Yeah.
+726;MATT;That is a 26.
+727;TRAVIS;Okay, all hit!
+728;MATT;Yeah, those all hit, okay. So the first one is 18, reduced to half, is nine.
+729;TRAVIS;Nine, okay.
+730;MATT;That is a nine, reduced to half, five.
+731;TRAVIS;Okay.
+732;MATT;That is a 12 reduced to six.
+733;TRAVIS;Okay.
+734;MATT;And that is a 13 reduced to seven.
+735;TRAVIS;Sweet. Real excited.
+736;MATT;And he's just going to go ahead and rotate around you to the opposite side. As he turns around (punch sounds), hitting you as he goes with each hit.
+737;TRAVIS;(grunts, spurting blood noise)
+738;MATT;I need you to go ahead and make a strength saving throw.|You have advantage on these because you're raging.
+739;TRAVIS;Yeah, I know. But I still have minus two to them.
+740;MATT;This is true.
+741;LAURA;Minus two?
+742;LIAM;It's going to knock the beard off your face.
+743;TRAVIS;That's better. 23 minus two, 21.
+744;MATT;21, okay, yeah. So, the last blow, as he comes round (punch noise), does a roundhouse kick and brings back and goes for a huge double-fisted kind of earth-side punch into your torso.
+745;TRAVIS;Not the double fist!
+746;MATT;It's about to push you backward, but you dig in your feet (grunts) and resist it and hold your place.
+747;LAURA;Yeah!
+748;TRAVIS;Look who's catching who now.
+749;MATT;Now it's your turn.
+750;TRAVIS;He didn't have a quip back for me, okay.|Right. I would like to turn so I'm facing him.
+751;MATT;Okay.
+752;TRAVIS;I want to pick him up and try and bodyslam him.
+753;MATT;Okay! Go ahead and make an athletics check.
+754;TRAVIS;Okay. 24.
+755;MATT;No, that's a 30 acrobatics.|(everyone gasps)|You go to grab, and he steps back with his arms still crossed, leaps onto your hands as you reach out for him, and just jumps in the air, looks down at you before he comes landing right on top of your hands (bam), forcing your fists into the dirt.|What are you going to do for your next attack?
+756;TRAVIS;I almost drop out of my rage because that was a real dick move, just dunking on me.
+757;LAURA;He's jumping and crossing his arms--
+758;TRAVIS;He did the Kill Bill on my hands.|I want to try one more time.
+759;MATT;All right, roll again.
+760;TRAVIS;20.
+761;MATT;Remember, you have advantage on these because you're raging.
+762;TRAVIS;It doesn't matter.
+763;MATT;Okay, that's a 24 acrobatics. As you pull your hands up out of the dirt reaching out for him with these giant Titanstone gauntlet-encrusted fingers (groans), and the sand burst goes upwards, you reach, and find nothing but sand. And as the sand fades, he uses his-- Is this the end of your turn, because you still have a bonus action.
+764;TRAVIS;I still have a third one, yeah.
+765;MATT;Okay, so as the sand is still cascading, now you can see his shape through it, what are you doing with your third strike?
+766;TRAVIS;I just want to try and grab a hold of the slippery bastard.
+767;MATT;Okay, one more time.
+768;TRAVIS;Yeah. Strength, advantage or just natural roll?
+769;MATT;Advantage on your athletics.
+770;TRAVIS;Okay.
+771;LIAM;God, it probably looks like he's running in circles to us.
+772;TRAVIS;26.
+773;MATT;He only rolled 24.
+774;LAURA;(gasps)
+775;MATT;With the sand there, kind of coming down from the impact of you pulling your fists out, you reach out and finally they find purchase on the sides of his arms. And doing so, you (boom) pull him in, and grasp him right to your chest.|The hammer still clutched in your right hand, and you watch as he (grunts) gets pulled in now, and he is firmly in your grasp, he is currently grappled.
+776;TRAVIS;Cool. I don't say anything, I'm just really stoked that I actually got him.|(everyone laughs)|I'm like, take a picture! Whatever that is!
+777;LAURA;Draw it! Draw it! Quick, Percy! Should I flash him? Should I flash him?
+778;TALIESIN;It couldn't hurt.
+779;MATT;You want to make this into a bodyslam?
+780;TRAVIS;Could I? MARISHA Couldn't hurt the rest of us, either!
+781;MATT;I'll let you, sure. Okay.
+782;TRAVIS;I was thinking initially I'd like to remove one of his five hits that he takes on me, but, four, who gives a shit.
+783;MATT;We'll say for the purposes of this, since your intent was to bodyslam him, go ahead and roll an attack with disadvantage.
+784;TRAVIS;Okay, attack with disadvantage. That's not that great. Oh, regular attack!
+785;MATT;It's without your weapon bonus. It's minus 3.
+786;TRAVIS;Yeah, 22.
+787;MATT;22. You grab him and you lift, and it's like he's anchored to the ground. He's much smaller than you, and you can lift things far larger and denser than him, but for some reason, he won't budge an inch. He's just staring up at you, with his arms pressed to his sides.
+788;MARISHA;I want to learn that trick.
+789;TRAVIS;I've still got him grappled at least.|That's it.
+790;MATT;All right.
+791;LAURA;You have to be crouched down in order to be grappling him?
+792;TRAVIS;Yeah.
+793;MARISHA;It's like the possum trick.
+794;TRAVIS;Let's just assume that I picked him up.|I'm just holding him grappled.|Or am I squatting?
+795;MATT;You're squatting down and grappling him.|You went to lift him up but (grunts) he wouldn't budge.
+796;TRAVIS;Hugging Santa's little helper.
+797;LIAM;He's friggin third Hokage, man. He's not going anywhere.
+798;MATT;As you're holding him, he closes his eyes.
+799;TRAVIS;He closes his eyes?
+800;MATT;And you watch as this kind of warm orange-ish white energy begins to just emanate--
+801;LARUA;(gasps) He's going super saiyan!
+802;MATT;--from various parts in his body. Just here, in the middle of the forehead a little glimmer opens here, a little glimmer in the shoulder--
+803;MARISHA;He's over 9000!
+804;MATT;--his various chakra points begin to glow.|And you watch as many of the bruises and bludgeons that you put upon his body, and cuts begin to heal up.
+805;LAURA;Shit.
+806;LIAM;I want to be at level 21.
+807;SAM;That's 20 more levels.
+808;LIAM;Four more years of this.
+809;MATT;(laughs) And he can't move, he's currently grappled. All right, so that's his turn.|You go ahead.
+810;TRAVIS;I still have him grappled?
+811;MATT;You still have him grappled.
+812;TRAVIS;I still want to try to get him to the ground. I want to try and get him prone.|Can I try a leg wrap, so I'm gonna wrap my right leg around his, and dive forward. Trying to push him off-balance on to his back.
+813;MATT;I'll say go ahead and make another athletics check.
+814;TRAVIS;Okay. 24.
+815;MATT;24, he got a 21. So we'll say for this, you go ahead, you'll be releasing the grapple, but you slam him on the ground and make him prone. So you manage to just (grunts) rip him off of whatever weird center of gravity he's forced himself into, lift him over your head, and just pile-drive him into the ground.
+816;TRAVIS;Great.
+817;MATT;(boom) Once again, you see sand and dust kick up, and then you see these two legs sticking up as you've basically planted him in the ground like a carrot.|And he is currently prone on the ground, yes.
+818;TRAVIS;Great! When he's prone, do I get advantage on attacks?
+819;MATT;When he is prone, attack rolls against the creature have advantage if you're within five feet, so yes you do.
+820;TRAVIS;Great. Great Weapon Master, dwarven thrower, and I say I want to know the answer to the lesson! (everyone laughs)|29 minus five, 24?
+821;MATT;24, that hits.
+822;TRAVIS;Okay.
+823;LIAM;Get him, big man!
+824;MARISHA;Give him the chair!
+825;TRAVIS;35.
+826;MATT;35.
+827;TRAVIS;Plus the enlarge damage.
+828;MATT;Nice! Okay, that's your second attack.
+829;TRAVIS;Uh, 28 minus five, 23.
+830;MATT;23 just hits.
+831;TRAVIS;9, 24, 34, 38.
+832;MATT;38, oof! All righty. So as you're shouting this the first blow comes down (whack), you're not even seeing him or seeing the impact, all you're seeing is sand and fury. The second and final blow, you bring up, and as you bring it down you feel something (crack) crack underneath.|And you watch as you pull the hammer up again, he pushes off, and he's gonna actually use it at the end of your turn-- are you going to move?
+833;TRAVIS;(laughs)
+834;MATT;It's up to you, you can stay where you are.
+835;TRAVIS;No, I would be right there, just entranced that he's actually in the ground.
+836;MATT;Okay. So at the end of your turn he's going to go ahead and use a legendary action to attack you.
+837;TRAVIS;I meant 'I run'!
+838;MATT;It's a 30. So it hits you. All right, that's 18, halved to nine, take nine points of damage.
+839;TRAVIS;Okay.
+840;MATT;And I need you to make another constitution saving throw.
+841;TRAVIS;Okay. Natural 20!
+842;MATT;Sick, okay! As you pull up from the hammer, you can see now, there's quite a bit of blood now out of his mouth, and there's a part of the chest where it's pushed in, and you can see where the impact has caused heavy bruising and parts of the skin have broken open from impact. So now he's bleeding in places. You're bleeding all over the place.
+843;TRAVIS;Yeah, yeah!
+844;MATT;So it's just this mess of two somewhat dressed humanoid men covered in their own blood. It's delightful.
+845;TRAVIS;And blood and sand.
+846;MATT;Yeah, blood and sand. It's encrusted everywhere.
+847;MARISHA;Be careful, that's how blood diseases are transferred!
+848;TALIESIN;Very filthy.
+849;MARISHA;Be careful!
+850;SAM;Sepsis!
+851;MATT;He pushes off and manages to hit you in the sternum once again, the same place where the vibrations hit. However this time you grab his hand as it gets there, and it still hits you, but the gauntlets absorb the impact and prevent it from spreading through your body. That ends your turn. It's now his turn. He stands up from prone.
+852;TRAVIS;Goddamn, he did that to me on my turn.
+853;MATT;Yeah.
+854;TRAVIS;(laughing) That's fucked up.|(everyone laughs)|Holy shit. Natural 20 on my turn, saved my life.
+855;MATT;Okay, he's going to go ahead and hit you twice (punch sounds). That is an 18?
+856;TRAVIS;Hits.
+857;MATT;And a 20. So yeah, so the first one--I need you to make a constitution saving throw.
+858;TRAVIS;Okay.
+859;MATT;And you take 14 reduced to half, seven points of bludgeoning damage.
+860;TRAVIS;Uh, 13 on my constitution saving throw.
+861;MATT;13.
+862;TRAVIS;What was the damage? I'm sorry.
+863;MATT;Seven.
+864;TRAVIS;Seven.
+865;MATT;You feel your muscles lock up once more, and you're stunned now.
+866;TRAVIS;Awesome.
+867;MATT;That allows his attack, and since you are stunned, attacks against you have advantage, and you are incapacitated, so hits that are against you are technically all crits.
+868;TRAVIS;Oh, fuck!
+869;MATT;So the next hit that went against you is six plus eight--
+870;TRAVIS;Can I smile before he hits me?
+871;MATT;Sure, you go. So you feel as your body locks up, the next hit (whack) goes right into the same place where he keeps hitting you in the sternum.|You can feel the bruising, now you hear the (crack) crack inward as you feel the cartilage there pop inward. That's the second hit.|He goes in for two more strikes now as you're stunned. (whoof) The next one, the third one, that's going to be a 27? That is eight plus eight, you take eight damage because it's halved.|So take eight bludgeoning damage. And his final hit, that is going to be a 30. That is going to be a 6, 12, 20, reduce that to ten bludgeoning damage.
+872;TRAVIS;Cool! Great!
+873;LIAM;Still standing.
+874;TRAVIS;My math is probably wrong but I'm getting down there.
+875;MATT;Okay. He's going to stand right there.|Your turn.
+876;TRAVIS;He is.
+877;MATT;Yep.
+878;LAURA;Oh my god.
+879;MATT;What are you going to do?
+880;TRAVIS;Did he just stand there, and he had a turn?
+881;MATT;He just went. He got up from prone, that's half his movement, and he's not going to move around you, he's staying right where he is.|What do you do?
+882;MARISHA;Show him what you've learned! None of us know what you learned though! We can't help you!
+883;TRAVIS;I feel like he's doing that Patient Defense thing again. Yeah, fuck it. I'm going to go for broke. Because we're pretty close anyway.|I'm gonna make all three attacks reckless, Great Weapon Master.
+884;MATT;Okay! Go for it.
+885;LIAM;Tripling down on the barbarian.
+886;TRAVIS;(laughing) I don't know any better, I don't know.
+887;MATT;Oh no, actually, you're stunned this turn.
+888;TRAVIS;Oh!
+889;MATT;I just remembered that.
+890;LAURA;Fuck!
+891;MATT;So, you grin, and then (grunts) your body just won't respond.
+892;TRAVIS;Is there a small fart at least?
+893;LIAM;(high-pitched fart noise)
+894;MATT;It's about that.
+895;TRAVIS;Yep. It's not even like something to be proud of. Just a little squeaker.
+896;LAURA;Oh, did you just poop your pants?
+897;LIAM;You turtle a little bit?
+898;TRAVIS;(Scottish accent) A little turtle head poking out. (Normal voice) So I'm stunned--
+899;MATT;You're stunned until the end of your turn.|Your turn ends, at the end of your turn he's going to use one of his legendary actions to use Like The Wind, and he gets to move his speed without attacks of opportunity.
+900;LAURA;What does he want from you?
+901;TALIESIN;For you to show him what you learned.
+902;MATT;He just (whoosh) slips back and he's on the opposite side, and just goes.
+903;TRAVIS;Cool. I look back, and do this.
+904;SAM;Ooh! He learned to be a dick! (everyone laughs)
+905;MATT;That's your turn?
+906;TRAVIS;Yeah.
+907;MATT;Okay. He begins to rotate. Over there...|and that's his turn.
+908;SAM;You have a healing--
+909;MARISHA;Everyone is doing their Keanu impressions.
+910;TRAVIS;I have no healing anythings.
+911;SAM;Awesome.
+912;TRAVIS;I do if I short rest, but that's it. All right--
+913;SAM;Ooh, take one.
+914;LIAM;I do to Keyleth.
+915;TRAVIS;How far can I throw this fucking thing? Long range of 60 feet. The long range of 60 feet means that it would be a disadvantage throw?
+916;MATT;Correct.
+917;TRAVIS;That's not great.
+918;MATT;Short range is 20?
+919;TRAVIS;Yeah.
+920;MATT;Just get up within 20 feet of him.
+921;TRAVIS;Yeah, let's be honest.|Could I get to him in 50 feet?
+922;MATT;You wanna try?
+923;TRAVIS;Yeah, I'd like to try.
+924;MATT;(counting) You just barely get up to him.
+925;TRAVIS;God! I just wanna keep staring back at him but I don't-- There's no point to it.|I can't do anything. It's not like I can psych him out or--
+926;LAURA;Tell him what you learned! (all laugh)
+927;MATT;What are you gonna do?
+928;SAM;Vague words of encouragement! (all laugh)
+929;TRAVIS;Yeah, going for broke again.|Reckless, great weapon master, all three.
+930;MATT;Okay.
+931;TRAVIS;Okay.
+932;MATT;You have disadvantage on them because of his Patient Defense, so they're just straight rolls.
+933;TRAVIS;Spatial-- Patient Defense.
+934;MATT;Patient Defense, yes.
+935;TRAVIS;Also known as spatial defense in the barbarian world.
+936;LAURA;Totally. (gasps)
+937;TRAVIS;Natural 20.
+938;MARISHA;Ooh.
+939;MATT;Okay.
+940;LIAM;Just two more of those, please.
+941;TRAVIS;So I double the damage die-- or I roll two more damage dice after this.
+942;LAURA;Are you supposed to roll 10's or 12's?
+943;MATT;10's for the hammer.
+944;LAURA;Okay.
+945;TRAVIS;42.
+946;MATT;42 points of damage on the first one, ooh.
+947;LAURA;(quietly) That's good, that's good.
+948;TRAVIS;Second one.
+949;MATT;Second attack.
+950;TRAVIS;That's a 31 minus five, 26?
+951;MATT;26 hits.
+952;TRAVIS;(counting) 35.
+953;MATT;35 points of damage?
+954;TRAVIS;Yep.
+955;MATT;Oof.
+956;TRAVIS;Last one.
+957;LAURA, SAM, MARISHA;(clap)
+958;MATT;Last attack.
+959;TRAVIS;I'm buying a ticket to the no pants dance after this. 20, 22.
+960;MATT;22, no.
+961;LAURA;(groan)
+962;TRAVIS;Oh no no, that's not minus five-- it is minus five.
+963;MATT;"Yeah, it is minus five. So, you go bounding up towards him (boom boom boom). He just sits there waiting, his arms up. The first strike, he goes to parry but as you hit (crack), his arm gets knocked out of the way, preventing him from parrying the second strike as it comes down right across the side of the face (boof), hitting him, you watch as blood (splattering sound) across the sand and you see his jaw's kinda momentarily dislodged, his beard just kinda crusted in his own blood.|As you come up with a giant over-the-head blow and as it comes down, he (crack) slaps it from both sides and stops it mid-action. You see his hands shaking as he's holding it, and he just kinda looks up in your face, ""Good. Good."""
+964;TRAVIS;You keep saying that!
+965;LIAM;That was so metal.
+966;MATT;It's now his turn. As he throws the hammer back over your head, which puts you off-balance, he's gonna go into his first two strikes. The first one is a 21 to hit?
+967;TRAVIS;(strained) Yes, I believe that hits.
+968;MATT;That is gonna be ten, reduced to five.
+969;TRAVIS;Okay.
+970;MATT;Second one, uh-- on the first one, I need you to make another constitution saving throw.
+971;TRAVIS;Okay, same damage?
+972;MATT;Same damage, yeah.
+973;TRAVIS;Okay.
+974;MATT;But he's gonna do--
+975;TRAVIS;23.
+976;MATT;23.
+977;TRAVIS;Nope, 21.
+978;MATT;21, that's right, yeah. So you manage to resist, the effect of the stunning strike.|He's gonna go for the secondary attack.
+979;TRAVIS;Okay.
+980;MATT;Which was seven plus 13, it's 20, so that still hits you.
+981;TRAVIS;Yeah.
+982;MATT;You take 18, reduce that to nine.
+983;TRAVIS;Oof (laughs).
+984;MATT;Make another constitution saving throw.
+985;TRAVIS;Cool (laughs). We in the single digits, kids.|(all gasp)
+986;MARISHA;(quietly) No.
+987;TRAVIS;22 minus two is 20.
+988;MATT;20, you just barely shrug off the effect of the stunning strike.|(all sigh in relief)
+989;SAM;Clutch.
+990;MATT;He is gonna go in for his flurry of blows 'cause he knows you're on the edge.
+991;LAURA;No!
+992;MATT;He knows you're on the edge.
+993;SAM;He just has to miss four.
+994;TRAVIS;Yeah, yeah.
+995;MATT;That's a natural 20.|(all gasp)
+996;MARISHA;No.
+997;TRAVIS;(laughs)
+998;SAM;Just has to miss three.|MATT:That is 16 plus 8, that is 24 points of damage reduced to half to 12.
+999;TRAVIS;I am unconscious, but! I use my relentless rage.
+1000;SAM;(growls)
+1001;MATT;Right! Oh shit, okay.
+1002;MARISHA;You're coming back.
+1003;MATT;I forgot about that.
+1004;TRAVIS;Which, it's a flurry of blows, and he only did it on the first one.|(all laugh)|So, I'm like (long groan, rewind noise) Oh shit! (long groan).|(all laugh)
+1005;MATT;Well, you need to make a constitution saving throw.
+1006;TRAVIS;I do, yes.
+1007;MATT;The DC of 10.
+1008;TRAVIS;I do.
+1009;MARISHA;C'mon.
+1010;SAM;Phillip!
+1011;TRAVIS;If I can't make a DC of 10, I don't know.
+1012;LAURA;Go Phillip!
+1013;LIAM;Phil!
+1014;TRAVIS;Uh, 21.
+1015;MATT;Okay, so the third hit, the first couple just kinda loosen you up (pop pop)--
+1016;TRAVIS;This is gonna get interesting.
+1017;MATT;The third hit, he leaps in the air, kinda Troy style (whack) and hits you right square in the face--
+1018;LAURA;Superman punch!
+1019;MATT;-- up in the air and (ringing punch sound) you kinda pull back as you feel your vision begin to darken, and then you feel that surge of white hot rage in the back of your skull (crack) bring you back, and you (grunt) pull back up as he lands, and you watch as his expression goes (huff) and he darts downward and goes for a low to high ground uppercut dragon punch style.
+1020;LIAM;Look out, Guile, look out.
+1021;MARISHA;Oh god.
+1022;MATT;That's gonna-- oh, that's an 18 plus 13, that's a 31.|(all groan)|You take nine points, reduced to five.
+1023;TRAVIS;(electronic shut down noise)
+1024;LAURA;No! (all laugh)
+1025;MATT;(boom) Hits you right underneath the chin, now make--
+1026;TRAVIS;However, I use my relentless rage, now at a DC 15.
+1027;MATT;Correct.
+1028;SAM;Whaat?
+1029;LAURA;Ooh, shit.
+1030;MARISHA;Come on, come on.
+1031;LAURA;C'mon, c'mon, c'mon, c'mon, c'mon.
+1032;LIAM;Game that system, do it.
+1033;SAM;Come on, come on.
+1034;LIAM;Pull out a squeaker, Travis, c'mon.
+1035;TRAVIS;27.
+1036;SAM;Ohh!
+1037;MARISHA;(claps)
+1038;LAURA;(cackles)
+1039;MATT;"27. As it knocks you into the air, almost onto your feet but you manage to catch yourself and (groans) right back up as he lands (cracks) turns around and looks at you and goes, TRAVIS: Good?|""I see what you've learned."" (all laugh)|It's your turn."
+1040;TRAVIS;It's my turn?
+1041;MATT;It's your turn.
+1042;SAM;Kill him.
+1043;TRAVIS;All three, reckless, great weapon master! Chewing my tongue off while I do it! (all laugh)
+1044;MATT;Go for it.
+1045;LIAM;(deep voice) Show me what you've learned.
+1046;TRAVIS, MARISHA;(deep voice) Show me--
+1047;TRAVIS;29 minus five, 24.
+1048;MATT;24 hits.
+1049;TRAVIS;Yep. So the first one is... 23, 33, 34.|34 points of damage, first one.
+1050;MATT;Okay.
+1051;TRAVIS;Second one, nine, damn it.
+1052;TALIESIN;(high-pitched groan)
+1053;MARISHA;(whispering) Kill him.
+1054;LAURA;22.
+1055;TRAVIS;No, but it's minus five so it's 20.
+1056;MATT;20.
+1057;TRAVIS;Misses.
+1058;MATT;So the first one hits (whack), it hits him in the side of the head, the other side, it rights his jaw strangely but knocks him down onto three points.|He's down on his hand and his two knees in the ground, his other arm's still up, clenched in a fist.|He's breathing heavily, like he's on the edge.
+1059;TRAVIS;Oh.
+1060;MATT;Second strike, you go--
+1061;LAURA;Get him, Grog!
+1062;MATT;-- to swing down and he rolls out of the way (fwish, crack), hits the ground with no effect.|You're going for your third and final strike.
+1063;TRAVIS;I am, yeah.
+1064;MATT;Go for it
+1065;MARISHA;Come on, come on.
+1066;LAURA;C'mon, c'mon, c'mon.
+1067;TRAVIS;(strained) That's pretty good. That's a 30, minus five is 25.
+1068;MATT;25 hits. Roll damage.|(all cheer)
+1069;MARISHA;Come on, come on.
+1070;TRAVIS;Fuck you, Master Splinter.
+1071;LIAM;Oh man, Vax is just--
+1072;TRAVIS;Yeah, I haven't forgotten it now--
+1073;LIAM;-- perched on the wall, pulling feathers out.
+1074;TRAVIS;-- 23, 33, 37.|LAURA: Oh!
+1075;MATT;Okay, how do you want to do this? (all cheer and clap)
+1076;LIAM;That was Vox Machina's real reaction.
+1077;TRAVIS;Okay, so the first one hits, right?
+1078;MATT;The first one hits, the second one, he rolls out of the way and you pull back--
+1079;TRAVIS;Right, I reach back for the third one and I go, who's good now? (whack)
+1080;MATT;(crack) You guys watch as he knocks him clean 15 feet in the air from the blast of the blow. He ends up landing on top and the outside--
+1081;TRAVIS;Yes! (laughs)
+1082;MATT;-- of the arena (boom) landing strewn across the steps that lead to the edge of the sand pit, and there's just quiet in the chamber.
+1083;TRAVIS;(heavy breathing)
+1084;MATT;As he stands there breathing heavily, covered in blood.|There's spatters of blood all across the sand and Groon's just lying there, unconscious, breathing.
+1085;LAURA;We're just screaming our asses off.
+1086;MATT;You guys are yelling.
+1087;MARISHA;Aaaah!
+1088;TRAVIS;Wait, wait, wait, wait, wait. Stay there.
+1089;LAURA;What?
+1090;MATT;At this point, there's the opening at the top of the temple.
+1091;TRAVIS;Right.
+1092;MATT;There's... a rumbling sound, a (rumble), from up above. And there's a small spark of energy that (cracks) up above, (cracks) streaks down and hits Groon--
+1093;LAURA, MARISHA;(gasp)
+1094;MATT;-- like a very faint lightning bolt, just (pfft) out of the sky and Groon rises up on the side, his eyes just vibrant bright, almost glowing, and he stands back up, and he's still covered in his own blood, he's wrecked. You can see parts of his body where the muscle is swollen, one arm appears to be almost ruined, but he lands right in front of you.
+1095;TRAVIS;Little bit of pee comes out.
+1096;MARISHA;Uh-huh.
+1097;LAURA;(laughs) Everybody's peeing.
+1098;LIAM;Join the party.
+1099;MATT;"""You've learned much... and Kord smiles upon you."" As you look up and you hear the roiling again, and two bolts come streaming out of the top of the temple down towards Grog. And slamming into your body, you instinctually pull down and hunker, as an animal in a thunderstorm would, but you feel the warmth as your gauntlets all of a sudden flash with electrical energy. And you look down as the runes on all the sides, and the chains are now glowing with divine energy."
+1100;SAM;You're a magician!
+1101;TRAVIS;Awesome!
+1102;MATT;"As the roiling kinda comes to a close you hear the (thunder noises) of thunder begin to subside, and you feel the smell of burnt sky and ozone around you begin to subside, still looking down at the energy pulsing through the gauntlets.|Groon is still standing there, looking up at you, and just goes: ""Continue with your journey."" And just looks at you, waiting for some kind of response."
+1103;TRAVIS;I walk over to him. I bow. And then I reach out one of the Titanstone Knuckles.|Kord's strength to you.
+1104;MATT;"And (slamming noise) slams and pulls you in, and with an intensity you feel his fingers crack, even through these newly-imbued gauntlets you feel the tension as his grip is still, strangely...|You expect he could be powerful enough to crush the gauntlet with his bare fingers. He just pulls you in from your giant form. The strength is immense and you (grunt) kinda pull down into his form. He looks you straight up, face to face, but an inch away.|""What have you learned?"""
+1105;TRAVIS;That without the love of my friends, life has no meaning, and I would be nothing.
+1106;MATT;And how will you utilize this knowledge?
+1107;TRAVIS;I will make their strength mine, and my strength their own, and in turn, I will try to make the world a better place than I found it.
+1108;MATT;"His grip pulls off, and he withdraws his arm, and he releases you back to your full standing pose.|Now, at your enlarged form, gargantuan in the center of this temple space, his once very intimidating form, diminutive by comparison to Grog's full structure, looks up and nods.|""I thank you."""
+1109;GROG;I mean, I really-- I thank you.|(all laugh)
+1110;TRAVIS;I've never gone that far in a battle before. I didn't even know that was possible.|This was incredible. I'm talking a lot, aren't I? I have a bit of a man crush--
+1111;MATT;Yes. Yes you are.
+1112;TRAVIS;Okay. Uh. Thank you.|And I turn, and I walk back to my friends.
+1113;MATT;As you make your way back, Groon steps and leaps back out onto the opposite side, and you can see, on the opposite end of the platform, of the sand pit, there is a silver, somewhat tarnished, but still functional, bell. And he walks over to the side of it, grabs the rope, and just-- (tolling of a low bell). And you watch, from all the different corners of the empty temple, all the priests of Kord begin to wander back in, who had exited previously, as was the request, it seems, of Earthbreaker Groon, knowing that you were coming.
+1114;LAURA;(whispers) Oh my gosh.
+1115;MATT;They all just silently enter and kind of nod and bow in your direction as you make your way towards your friends. You acknowledge it, but it doesn't slow you, doesn't stop you, they are still your focus. And you guys watch as Grog approaches, bloodied, beaten, barely conscious, one eye, the lid is kinda drooping a bit.|And even though he's strong in his stride, there's still a shake with his knees, but he doesn't show that weakness. He keeps pushing towards you with a slight smile through his bearded face.
+1116;TRAVIS;Guys-- (cough) if we could just make our way out of here, in as cool a way as possible...|If I fall, just pick me up like Weekend at Bernie's, okay? (all laugh)
+1117;LAURA;Pike stands next to him and says, Don't worry, you won't fall. And she casts, um, Cure-- whatever, fucking-- (all laugh)|I don't fucking know what the spell is.
+1118;MATT;Cure, Cure Things!
+1119;LAURA;I'm not even looking at them-- Cure--
+1120;MATT;You have the spell!
+1121;LAURA;He-- no, no, no, I gave them back to Ashley!
+1122;MATT;No, I mean--
+1123;TRAVIS;Vex.
+1124;MATT;Vex has the spell.
+1125;LAURA;Yeah, but as Pike, Cure-- okay, but Pike, she can do it better than Vex can.
+1126;TRAVIS;You have the spell!
+1127;MATT;Sure, I rolled it for you. You heal eight hit points.
+1128;LAURA;That way you're standing and you don't have to wobble out.
+1129;TRAVIS;I'm back at nine.
+1130;LIAM;Let's get you some ale, big man.
+1131;TRAVIS;That sounds great.
+1132;LAURA;Grog.
+1133;TRAVIS;Yeah?
+1134;LAURA;That was fucking amazing.
+1135;TRAVIS;Right? I mean, I got struck by lightning, guys.
+1136;LAURA;Wait! Look at your gauntlets!
+1137;TRAVIS;What?
+1138;LAURA;They're glowing!
+1139;TRAVIS;Oh shit, they are.
+1140;LAURA;What does it mean?
+1141;MARISHA;Is that lightning available to you all the time? (all yell)
+1142;SAM;Piece of paper.
+1143;LIAM;Just for clarification, that all took place in Super Nintendo graphics, right?
+1144;MATT;Oh, yeah.
+1145;LIAM;16-bit.
+1146;MARISHA;As we walk out, Keyleth throws a little gust cantrip to kick up the dust behind us.|It just looks really dusty and epic as we walk off into the sunset.
+1147;MATT;As you guys walk off, the silhouetted most-of-Vox-Machina with one giant Grog form stepping through. You exit the Trial Forge into the rest of Vasselheim. We'll take a break there.
+1148;TRAVIS;Wow.
+1149;LAURA;What's it do, what's it do?
+1150;MATT;Yeah, what does it do?
+1151;TRAVIS;In its Exalted form, my strength now becomes 26, so plus eight, right?
+1152;MATT;Yeah.
+1153;TRAVIS;And when I use Enlarge now, I gain resistance to fire, cold, lightning, for ten minutes.
+1154;LAURA;Oh shit, imagine if we had done that before we went after the dragons.
+1155;LIAM;You should've fought that guy before the dragons.
+1156;TRAVIS;Hey, you know? (all laugh)|A little drama's good for everybody.
+1157;LIAM;You barely eked out that victory, by the way.
+1158;TRAVIS;I know, and double damage.
+1159;MARISHA;Wait, fire, lightning, and what?
+1160;TRAVIS;And cold.
+1161;MARISHA;Lightning, fire, and cold, and double damage?
+1162;TRAVIS;Yeah, so --
+1163;MATT;Well, not double damage.
+1164;TRAVIS;Double damage on objects and structures.
+1165;MATT;He had that previously.
+1166;TRAVIS;But that's a lot of resistance to a lot of things. And 26 is... that's really strong.
+1167;MATT;26 is good. It's two more than what you had, so everything goes up plus one damage to hit.
+1168;LAURA;Damn.
+1169;LIAM;My armor does that too, but it only makes me smell bad, it doesn't affect me.
+1170;TRAVIS;That was awesome.
+1171;MATT;All right, guys. We're gonna take a quick break, hit the restroom, get some snacks, and we'll be back here in a few minutes.|Thank you again. See you in a second.|[break]|Hello everyone, and welcome back to Critical Role.|(all laugh)|So, picking up where we left off, Vox Machina is now exiting the Trial Forge into the Braving Grounds, Grog with the recently reinforced Titanstone Gauntlets by the strength of Kord through your duel with Earthbreaker Groon.
+1172;TRAVIS;Yeah!
+1173;LAURA;Sick!
+1174;MARISHA;What do they do Grog? What do they do?
+1175;TRAVIS;I dunno. You know what, we'll probably have to fight somebody to find out, let's find the first person outside of here.
+1176;MARISHA;Well, I mean, okay
+1177;SAM;Sure to one-hit them.
+1178;LAURA;Maybe we can find an old building and you can just destroy it.
+1179;TRAVIS;I'm at nine.
+1180;TALIESIN;It's just a kitten going-- (mimes punching a kitten)
+1181;LIAM;Old woman!
+1182;MATT;Red mist.|(all laugh)
+1183;TRAVIS;(exploding noises) Oh shit.
+1184;MARISHA;And that's how Grog was beaten to death by a purse.
+1185;TALIESIN;It is technically one point. He may go down.
+1186;MARISHA;Yeah, an old lady trying to cross the street and takes out Grog.
+1187;TRAVIS;I'm at nine hit points.
+1188;TALIESIN;Nine hit points?
+1189;LIAM;He did just take down an old man so our streak against the elderly is going strong.|(all laugh)
+1190;MARISHA;You have the hit points of a kitten right now.
+1191;TRAVIS;Right, well, I do-- I am fond of cats.
+1192;MATT;I'm pretty sure a kitten has less hit points than that.
+1193;MARISHA;Yeah, like five.
+1194;TALIESIN;Five.
+1195;MATT;Who would've had a level one character with less hit points then a kitten. That would be the saddest thing ever.|(all laugh)
+1196;TALIESIN;We worked it out at one point.|We worked out the math at one point.
+1197;MARISHA;Yeah.
+1198;LIAM;Five is way too many. At level one you can have five hit points as a person.
+1199;TALIESIN;It's like two hit points, it's going to be a very tough kitten.
+1200;LIAM;It'd be like 0.1.
+1201;MARISHA;I mean if you're a wizard.
+1202;MATT;What we're saying is 'kitten' is the baseline hit point counter in Dungeons and Dragons, everybody.
+1203;SAM;Can we count hit points in kitten strength for now?
+1204;MATT;All right, I'm going to use three hit dice, I'm at 12 kittens.
+1205;LIAM;Jewels, gems, golds and kittens.|And that's what the air machines run on.
+1206;TRAVIS;Man. Thanks for not jumping in on that.|It was very personal.
+1207;LAURA;It was really hard to not.
+1208;TALIESIN;Anytime. You're welcome.
+1209;TRAVIS;Yeah, thank you.
+1210;LAURA;For a second there, Grog. For a second.|Well, a couple of seconds.|Well, no, I did, did you not see?
+1211;TRAVIS;I missed it.
+1212;LAURA;Your back was turned for so much of the time.
+1213;TALIESIN;It was amazing.
+1214;TRAVIS;Encore!
+1215;LAURA;Well, I mean, we're outside. All right.
+1216;TRAVIS;Don't.|(all laugh)|I'm so sad Scanlan wasn't here for this.
+1217;LAURA;I know, he would've loved that.
+1218;TRAVIS;Yeah seriously. (sniffs)
+1219;LAURA;I feel like we should go celebrate and drink, but it wouldn't feel right without him.
+1220;TRAVIS;No, I need like a million potions, and maybe some attractive naked women to heal me back to my full health.
+1221;LAURA;Right.
+1222;MARISHA;It has been a while for you, hasn't it, Grog?
+1223;TALIESIN;Potions or women?
+1224;TRAVIS;Yeah. Yeah. I'm real cranky so I need bandages, and maybe some bondage, and just all the women.
+1225;LIAM;Bandages upon bondages.
+1226;MARISHA;Those things go together!
+1227;TRAVIS;Good!
+1228;MARISHA;That's great.
+1229;TRAVIS;Like a B & B right?
+1230;MARISHA;Yeah.. that's exactly what B & B means.
+1231;TRAVIS;That's what the letters for those words are.|(all laugh)
+1232;LIAM;How long has Scanlan been out for?
+1233;MATT;Uh, at this point in time Scanlan's been out for almost a day.
+1234;SAM;(making dying noises in the background)
+1235;LIAM;Gosh. I'd like to go get him, but I really want him to wake up on his own accord.
+1236;MARISHA;I mean, we can try head back to Whitestone and get Grog healed up and check up on Scanlan.
+1237;LAURA;I think that would be good. Maybe get some potions before we head out here, because everyone's low. I'll just stop by the store and pick some health potions from where we got them before.
+1238;TRAVIS;There are nice stores here, and we haven't even proper shopped in a while.
+1239;MARISHA;It's true. Vasselheim hasn't been touched, right?
+1240;LIAM;Yeah. That's good thinking.
+1241;MATT;From what you know of the Conclave, no.
+1242;LAURA;I mean we've got fucking shit to sell--
+1243;MARISHA;(sneezes)
+1244;TALIESIN;Bless you.
+1245;MARISHA;Sorry.
+1246;LAURA;-- and stuff to buy, but that's kind of a thing.
+1247;TRAVIS;Or we should check out the stuff that we got out of the den where Raishan was.
+1248;MARISHA;We should definitely do the research.
+1249;LAURA;That creepy-ass book we need to look at.
+1250;LIAM;Is Scanlan sleeping it off? I mean, we're in Vasselheim, we've just bamfed across miles and miles. We're here.
+1251;TRAVIS;Yeah.|(all laugh)
+1252;MARISHA;I know!
+1253;SAM;Hmm, yeah, it's fine.
+1254;LAURA;No, yeah, it's fine, it's fine, I'm just fucking sitting here, no big deal.
+1255;SAM;No, it's fine, I'm having a great dream.
+1256;TALIESIN;I wonder what Scanlan would say if he were here right now?
+1257;SAM;Fucking come back and get me! (all laugh)
+1258;TALIESIN;Yes, yes.
+1259;MARISHA;He's asleep.
+1260;TALIESIN;Very asleep.
+1261;SAM;(snores)
+1262;MARISHA;In a coma.
+1263;LAURA;Shit.
+1264;TALIESIN;Do quick shopping and then head home and look at all the things.
+1265;LAURA;A quick buying of potions, I just wanna see if I can get some stuff.
+1266;MATT;Make an investigation check.
+1267;LAURA;I should've just shaken that instead of just--
+1268;TRAVIS;Yeah.
+1269;LAURA;Yeah. 14.
+1270;MATT;"Okay, with a cursory glance of the area of the Quad Roads which you previously went to for the acquiring of various tonics and salves and healing liquids, you do find a new nice establishment that's just recently been built.|And as you enter to check in, the gentleman at the front looks up at you, and is familiar looking, and he goes ""Can I help you-- No! You are not welcome. Leave.|Now. Out. Please."" (snaps fingers)"
+1271;SAM;Who's this guy?
+1272;MATT;And these two bouncers kind of step--
+1273;LAURA;Are you the cart guy? Fucking who--
+1274;MATT;Please. No. Not her. Please!
+1275;LAURA;I didn't abuse him. Everyone else abused him. I was very kind to you.
+1276;MATT;Your business is not welcome here, goodbye.
+1277;TRAVIS;Excuse me, has anyone seen my friend Ve-- You.
+1278;MATT;You?
+1279;TRAVIS;-- beautiful salesman, carrier of all delightful things.
+1280;LAURA;See! We're friends, we're all friends here.
+1281;TRAVIS;Was he uncomfortable seeing you or something?
+1282;LAURA;Yeah. Said he didn't like me very much.
+1283;TRAVIS, LAURA;I can't imagine why?
+1284;MATT;What do you want from me?
+1285;LAURA;Just some potions.
+1286;MATT;We don't have many.
+1287;TRAVIS;Whatcha got?
+1288;MATT;We can do business. We cannot.
+1289;LAURA;All right, I'll just stand next to him while you do business with him.
+1290;MATT;You're not welcome in my establishment.
+1291;TRAVIS;I'm really hard of hearing. Like, I've been working--
+1292;MATT;I can yell!
+1293;LAURA;Could you understand that?
+1294;TRAVIS;It was like (mimics Matt)
+1295;MATT;(groans)
+1296;LAURA;Yeah, yeah, it's just muffled, it's just muffled for him.
+1297;MATT;"(huffs) ""Well, our stocks have been running low since last time you came through, we don't have much!"" He puts up a small leather case and opens it."
+1298;TRAVIS;It is such a shame. Did you tell him already that we have a whole kingdom's worth of jewelry and gold to spend, and I'm really tired of carrying it.
+1299;LAURA;Stuff to sell.
+1300;MATT;Blah, blah, blah, blah.
+1301;LAURA;It is so unfortunate. We are saviors of Emon, saviors of the world, really, and he doesn't even care.
+1302;TRAVIS;I thought I'd lighten this backpack a little.
+1303;MATT;I really don't care. I have four healing potions and one greater. That is all I have.
+1304;LAURA;Oh, is it?
+1305;MATT;That's it. You want it? No? Then good day.
+1306;LAURA;You know, I don't like him, I don't even want to buy it from him.
+1307;MATT;Perfect.
+1308;TRAVIS;You go ahead and leave.
+1309;MATT;Please!
+1310;LAURA;No, Grog, please don't. Don't shop without me.
+1311;TRAVIS;I'm just gonna yell at him really loud.
+1312;LAURA;No, no, I'm standing here. I can't let you do this.
+1313;MATT;Could you please just escort them out--
+1314;TRAVIS;No, no, no, we'll take it. We'll take it.|How much? For the four healing potions and the one greater?
+1315;MATT;1500 gold pieces.
+1316;TRAVIS;Cool!
+1317;LAURA;I don't know, me personally, if that is a good amount. But Vex would know, is that a good amount or is that a shit amount?
+1318;MATT;Based on your previous dealings with this individual, the fact that you are getting a price at all--
+1319;LAURA;Yeah.
+1320;MATT;--is good.
+1321;LAURA;But it's not a good price.
+1322;MATT;It's not a good market price, but it's also a buyer's market right now.
+1323;TRAVIS;I know how to do this. I take a bag of gold--
+1324;LAURA;No, Grog! Grog, Grog, Grog.
+1325;TRAVIS;-- pour it onto the desk. Just a pile of gold.
+1326;LAURA;Grog, do not do this. Please, please, please.
+1327;TRAVIS;1500 gold pieces.
+1328;LAURA;I just scoop it back into your little-- hold out your pouch.
+1329;TRAVIS;Do you not want healing potions, or what?
+1330;LAURA;Huh?
+1331;MATT;He starts putting them back into the leather case. (huffs)
+1332;LAURA;I don't want his healing potions.|I think those aren't even real healing potions, I think those are probably water colored--
+1333;TRAVIS;Well, I mean, clearly I have to say they have worked.
+1334;MATT;Probably yes, you're right. They are colored liquid of no particular worth. You're right, leave. Begone.
+1335;LAURA;Right.
+1336;TRAVIS;They've worked every time.
+1337;LAURA;But we can-- Grog, please.
+1338;TRAVIS;Vex. We are so rich.
+1339;LIAM;I lean in the door and say, you've been in there long enough to pay rent, what is going on?
+1340;TRAVIS;Vax, will you come in here a minute?
+1341;LIAM;Uh, yeah.
+1342;TRAVIS;Will you please tell your sister that we have enough money to fund several townships, and that this guy wants 1500 gold for four healing potions and we have almost none.
+1343;LAURA;And a greater healing potion! Five healing potions really.
+1344;LIAM;Is she being a pain in the arse?
+1345;TRAVIS;Yeah, I mean, c'mon, Vax.
+1346;LIAM;We're not begging in Stillben. Will you give the guy some fucking coin so we can get the fuck out of here?
+1347;LAURA;Yeah, but this guy's mean!
+1348;LIAM;My time is valuable. Will you pay him so we can go, please?
+1349;TRAVIS;You're also royalty, so you should show peasants how to act.|You know, stiff upper lip, pip-pip.
+1350;TALIESIN;So glad I'm not in this room.
+1351;LAURA;That's true.
+1352;MARISHA;My time is valuable.
+1353;LIAM;That was Liam.
+1354;MARISHA;I know, I know.
+1355;LAURA;I am a lady, and ladies treat merchants well, and they don't hold grudges, I hear, because they are ladies and they are above it.|So here. Take this 1500 gold. I'm going to count it out for you, Grog. It's below him, it's beneath him to count this gold, he's also a Lord.|There you are. C'mon Grand Poobah.
+1356;LIAM;All he hears is fart noises, and I grab her by the mouth and I drag her out the door.
+1357;LAURA;Oh my god.
+1358;MATT;"He hands the potions over to Grog.|""Very well. Enjoy your day, and I'd be wary of keeping her as your business contact. She's a bit abrasive."""
+1359;TRAVIS;Yeah, I noticed. You've moved up in the world, this is really nice.
+1360;MATT;I'm sharing it with a few folks, it's sort of a partnership, but yes.
+1361;TRAVIS;Is it working out for you?
+1362;MATT;Well, I've had to hire bodyguards, if that's any indication.
+1363;TRAVIS;If I wanted your name, like if I wanted to call on you later, 'cause it seems like-- As far back as I can remember, we've run into you quite a bit, and I'm kind of fond of this--
+1364;LAURA;No, just a couple of times. Just a couple of times.
+1365;TRAVIS;Yeah. Do you have a name?
+1366;MATT;Cidrick Gillsman.
+1367;TRAVIS;I will not remember that.
+1368;MARISHA;Oh, this guy.
+1369;TRAVIS;By the way, did you have any--
+1370;LAURA;It's the guy. That took advantage of Grog
+1371;MARISHA;That took all the money from him?
+1372;LIAM;It's why I'm saying nothing.
+1373;TRAVIS;--limited exclusive items and, like, top shelf. Your most elite, (clicks tongue) paying customers only?
+1374;MARISHA;Did you say 'a leek'?
+1375;MATT;I just generally run the realm of healing balms and salves.
+1376;TRAVIS;Right.
+1377;MATT;My partner does a bit more than that, but he is out currently picking up a shipment and will be back in a few days. Try back then.
+1378;MARISHA;Where's his shipment from?
+1379;SAM;Are you there?
+1380;MATT;Who are you?
+1381;MARISHA;Did he come out? I thought he came out.
+1382;ALL;No.
+1383;LIAM;No, he walked into the door with Vex.
+1384;MARISHA;No, sorry.
+1385;SAM;You're at the window. When's he coming back?
+1386;TRAVIS;Where's he getting his shipment from? Do you trust your partner? This new guy?
+1387;MATT;I do, and I don't trust you enough to tell you this information.
+1388;TRAVIS;I give him ten gold for the information.
+1389;MATT;Thank you, that is very generous. I don't know.
+1390;TRAVIS;Oh.
+1391;MATT;He gives the ten gold back.
+1392;TRAVIS;Oh! I thank you for your time, Poobah out.|And I leave.|(all laugh)
+1393;MATT;All right.
+1394;TRAVIS;Look, I know that was hard for you.
+1395;LAURA;Grog.
+1396;TRAVIS;He was very apologetic.
+1397;LAURA;Was he?
+1398;TRAVIS;Yup. He was-- yup.
+1399;LAURA;Grog, he took advantage of you before--
+1400;TRAVIS;No, he didn't.
+1401;LAURA;-- and I didn't like that.
+1402;TRAVIS;No, look, his hands were on that side of the counter the whole time.
+1403;LAURA;Oh?
+1404;TRAVIS;Yeah.
+1405;LAURA;Really?
+1406;TRAVIS;Mm-hm.
+1407;LAURA;Well, all right then.
+1408;TRAVIS;Yeah, here, these are for you.
+1409;LAURA;Thanks, darling.
+1410;TRAVIS;Yeah.
+1411;LAURA;Which one do you want?
+1412;TRAVIS;No, I don't want any, I need more of the hands-on healing, you know what I'm saying?
+1413;LAURA;I cast Cure Wounds on him. Level four, bitch!
+1414;MATT;All right.
+1415;LAURA;Whoa.
+1416;MATT;4d8 (all laugh)
+1417;TRAVIS;4d8?
+1418;MATT;4d8 plus your wisdom modifier.
+1419;LIAM;What does that mean?
+1420;TALIESIN;It's like if you gave him an ice cream, you see me running around on a sugar high for the rest of the day. Never gonna burn that off.
+1421;LAURA;14, 19.
+1422;MARISHA;Yeah, the Makey Mace-- the Mickey Mouse-shaped one?
+1423;TALIESIN;Forgot the ears.
+1424;MARISHA;Those were great, with the ears.
+1425;LAURA;22.
+1426;TRAVIS;22|31 hit points.
+1427;LAURA;So... who needs the greater?
+1428;MARISHA;I'm all right. Give it to others.
+1429;TRAVIS;I mean, we could take a short rest and let me heal up for a second. Once we land somewhere.
+1430;LAURA;Yeah, yeah, yeah.
+1431;MARISHA;We're going home, right?
+1432;LIAM;You wanna rest in the tavern?
+1433;TRAVIS;I mean, maybe.
+1434;LIAM;For an hour?
+1435;TRAVIS;But didn't you need to go somewhere?
+1436;LAURA;Percy. Greater?
+1437;TALIESIN;Thank you.
+1438;LAURA;Then I pass out the other healing potions between--
+1439;LIAM;Where I have to go is a little more involved.
+1440;TRAVIS;Oh.
+1441;LIAM;Yeah.
+1442;MARISHA;Are you gonna slide by the temple?
+1443;LIAM;I scoop you by the arm and take you off for a minute. You know, I want to come back here, sometime. One, I would love to go to the Velvet Cabaret again. You know, just like a date night.
+1444;MARISHA;Oh, that was great. Yeah, that was fu--
+1445;LIAM;Yeah, but without somebody trying to kill us.
+1446;MARISHA;-- oh my gosh, that was before we were together. That was good times.|(all laugh)
+1447;LIAM;I'd like to go back without somebody trying to murder any of us, though.
+1448;MARISHA;Right, yeah.
+1449;LIAM;That aside, I do have to go to the temple, but I don't want to go.
+1450;MARISHA;Why are you saying it like you have to go to the toilet?
+1451;LIAM;'Cause that's kind of what it's like.
+1452;MARISHA;Does it feel like that? Yeah. Okay.|Yeah.
+1453;LIAM;Yeah, there is another shoe that's gonna drop, probably, eventually.
+1454;TALIESIN;You should probably pass that, I think.
+1455;LIAM;I wanna get back to--
+1456;MARISHA;(laughs) As Percy walks by.
+1457;TALIESIN;No, I don't walk by. I just-- I'm amazed that no one remembers that we can hear everything over these earpieces.
+1458;LAURA;No, you have to be touching your ear.
+1459;LIAM;No, you have to hit send, my friend.
+1460;MARISHA;(laughing) You have to hit send.
+1461;TALIESIN;Carry on, carry on.|(all laugh)
+1462;LIAM;Her other shoe is gonna drop, eventually.|And I'm not ready for that.
+1463;MARISHA;What are you afraid of? What do you think she's gonna ask of you?
+1464;LIAM;I don't know.
+1465;MARISHA;You think she's gonna cash in on that bargain?
+1466;LIAM;Why wouldn't she?
+1467;MARISHA;I thought you already considered paid up in a way. I don't know.
+1468;LIAM;I don't know.
+1469;MARISHA;Sure.
+1470;LIAM;But I feel like being a little selfish and taking a little time, and when she wants me-- 'cause she's not talking to me at the moment-- when she wants me, she'll call. So I'd like a little time.
+1471;MARISHA;Okay. What are you asking of me right now?
+1472;LIAM;Just to come back, down the road.
+1473;MARISHA;Later?
+1474;LIAM;Yeah.
+1475;MARISHA;Do you wanna go now?
+1476;LIAM;No.
+1477;MARISHA;While we're here?
+1478;LIAM;No.
+1479;MARISHA;You're sure?
+1480;LIAM;Very sure.
+1481;MARISHA;So, just getting this straight.|What you're proposing is a Raven Queen-slash-Velvet date night visit back to Vasselheim?
+1482;LIAM;Well, I don't know what's gonna happen at the--
+1483;MARISHA;Like, you go to church and then we go to the casino?
+1484;LIAM;I'd probably do it the other way around?
+1485;MARISHA;Sure.
+1486;LIAM;Because I don't know what's gonna happen at church. I'm talking months. Unless she rings, okay? I just want to spend some time with you, before I have to do whatever the fuck she wants.|She's going to collect.
+1487;MARISHA;Mm-hm.
+1488;LIAM;My sister is walking around and breathing.|Still.
+1489;MARISHA;Okay.
+1490;LIAM;Shocking as that is.
+1491;MARISHA;I mean, the fact that any of us are still doing that is impressive at this point.
+1492;LIAM;Anyway.
+1493;MARISHA;Okay, so that will be-- that's a good date night to look forward to.|Let's go home, I guess.
+1494;TRAVIS;Yeah. Let's at least go see if little lover boy has woken up.
+1495;LAURA;Yeah, we've got our potions.
+1496;LIAM;Way down the line.
+1497;MARISHA;Way down the line.
+1498;LIAM;Way down the line.
+1499;MARISHA;Sure. Are you sure you don't wanna just hop in the Raven's Spa, tonight?
+1500;LAURA;Hey, Keyleth?
+1501;MARISHA;Uh-huh?
+1502;LIAM;Jesus.
+1503;LAURA;Sorry, I just--
+1504;LIAM;Who is that?
+1505;LAURA;-- finished buying those potions.
+1506;MARISHA;Yeah.
+1507;LAURA;So, do you wanna get back to Whitestone?
+1508;MARISHA;Are you okay? You're a little-- you look a little sweaty.
+1509;LAURA;No, I'm fine. I'm fine. I'm fine.
+1510;LIAM;That little vein on the side of your forehead--
+1511;LAURA;You know what? We've made a lot of money, and--
+1512;MARISHA;Yeah, you've got the Julia Roberts vein going. (laughs)
+1513;LIAM;Who?
+1514;LAURA;(laughs)
+1515;MARISHA;Don't worry about it.
+1516;LAURA;I really do get that thing, though, I really do. But no, I'm okay. We're fine.|Everything's fine. Except Scanlan's still unconscious, so maybe we should go see if he's all right?
+1517;MARISHA;You're right, you're right, all right.
+1518;LAURA;All right.
+1519;MARISHA;Let's go. Let's go. Everything's fine here too, by the way.
+1520;LAURA;Good, good, you guys didn't seem awkward at all while I walked up.
+1521;MARISHA;No, we're never awkward.
+1522;TRAVIS;How do we get back?
+1523;LAURA;Maybe we should go.
+1524;MARISHA;Huh?
+1525;LAURA;Tree. A tree? Can you still do a Tree Stride?
+1526;MARISHA;I could do a tree.
+1527;LAURA;Let's do a tree.
+1528;TRAVIS;We gotta leave the city, though, right? Out of respect.
+1529;LAURA;No, I don't think we have to.
+1530;TRAVIS;Oh.
+1531;LAURA;Druid magic's different.
+1532;MARISHA;Huh?
+1533;LAURA;It's not like-- It's not like showy wizard magic.
+1534;TRAVIS;These rules confuse me, but okay.
+1535;LIAM;The wizard magic is like Broadway musicals?
+1536;LAURA;Yeah. It's like jazz hands. And druid magic is like modern dance.
+1537;TALIESIN;Community theater.
+1538;MARISHA;Yes, yes.
+1539;LIAM;Brechtian theater. (pained groans)
+1540;MATT;(laughs)
+1541;MARISHA;If wizardry is Bob Fosse, druidism is Twyla Tharp.
+1542;MATT;There you go.
+1543;TALIESIN;Wow. We went there.
+1544;TRAVIS;That was good.
+1545;MARISHA;I might know my modern choreographers.|Okay? Let's go back to Whitestone.
+1546;TRAVIS;Yeah.
+1547;MATT;All righty. So you find your way back to the Abundant Terrace, where you find a similar-sized tree, to what you arrived in. Using Transport Via Plants, you transport yourself back to Whitestone, stepping out of the Sun Tree. Make your way--
+1548;LIAM;Pfft.
+1549;MATT;Where else, you would like to within Whitestone?
+1550;MARISHA;It does not make that sound. That's what you're trying to do. It does not sound like that.
+1551;LAURA;Like a little fart?
+1552;MARISHA;That is not canon.
+1553;LIAM;Trees don't fart out here?
+1554;MARISHA;They don't. Trees don't fart, they poot, okay.
+1555;LAURA;I just start heading--
+1556;LIAM;(loud pooting sound)
+1557;LAURA;-- towards the castle.
+1558;MATT;It's the air ashari, man. So what were you saying?
+1559;LAURA;I start heading towards the castle.
+1560;TRAVIS;On the way there, I ask Percy, Percy! Percy.
+1561;MARISHA;The Cantrip Gust.
+1562;TRAVIS;I know this city's, like, being rebuilt and everything--
+1563;TALIESIN;Yes.
+1564;TRAVIS;-- but do you think there will ever be like a pleasure hall, or a house of, you know, bosoms. I mean, I just want to put out like a couple ideas as a city, bound up.
+1565;TALIESIN;Of course it has one. Do I happen to know where it is, or do I not?
+1566;MATT;I mean, it hasn't been--
+1567;TRAVIS;Nope, yeah, it's pretty empty right now, I know this.
+1568;MATT;-- really functional for a while.
+1569;TALIESIN;I feel like it would be the sort of thing that would have just existed for fuck all ever.
+1570;TRAVIS;No, no, no, yeah.
+1571;MATT;Whitestone has had-- there's generally-- There were two brothels, one was destroyed, in the Briarwoods' run.
+1572;MARISHA;Is one called the House of Bosoms?
+1573;SAM;Better be.
+1574;MARISHA;It's like the House of Cards of porno.
+1575;MATT;As one of the titled masters of Whitestone, it could very well in the near future. Just tell me so I can add it to the campaign guide.|(all laugh)
+1576;TRAVIS;I'll come up with something better.
+1577;SAM;International House of Bosoms
+1578;TRAVIS;Yes.|(all laugh)
+1579;TALIESIN;Thank you.
+1580;TRAVIS;With all the flags on it.
+1581;TALIESIN;Would I possibly know this?
+1582;TRAVIS;And six different syrups to choose from in each room.
+1583;SAM;Ahh, the silver dollars.
+1584;TALIESIN;I don't even know if I would know this.
+1585;MATT;You know what? Make a history check.
+1586;TALIESIN;A history check? That's so-- okay.|A natural twenty.
+1587;TRAVIS;Is it really?
+1588;TALIESIN;Yeah.
+1589;MATT;Okay.
+1590;TALIESIN;That's a natural twenty, with my history is--
+1591;SAM;Whore check! (all laugh)
+1592;TALIESIN;-- is a 30. That's a 30.
+1593;LAURA;Percy knows knows.
+1594;MATT;You've never been to it, but you recall one of your older brothers who is of age did return and tell stories of a house of--
+1595;MARISHA;IHOB
+1596;MATT;-- flesh and pleasure.
+1597;TRAVIS;Thank god.
+1598;MATT;You don't recall its name, but you know that it existed somewhere on the western side of this city, and within a short period of time, you could lead him to it.
+1599;TALIESIN;Okay.
+1600;SAM;And also that they serve a pancake with-- (all laugh)
+1601;TALIESIN;There's a pancake brunch.
+1602;TRAVIS;Smiley face?
+1603;SAM;-- some chocolate chips and a smiley face.
+1604;LIAM;The ancient Sumerians would pay for sex with silver dollars.
+1605;TALIESIN;I'm honestly not sure, Grog. I really have to think about it.|I don't know if such a thing exists.
+1606;TRAVIS;But I'm just saying, you know, if you need to lean on me to develop that sort of the economy again, I'm here for you buddy.
+1607;TALIESIN;That's good to know.
+1608;TRAVIS;Okay.
+1609;TALIESIN;That's good to know. Excellent.
+1610;TRAVIS;Let's go find Scanlan.|(all laugh)
+1611;TALIESIN;I wonder if he's awake yet.
+1612;SAM;Search for him. Wherever he might be.
+1613;LAURA;Where did we leave him, again?
+1614;TRAVIS;I think strapped up and covered in mayonnaise.
+1615;TALIESIN;Pudding. Pudding.
+1616;TRAVIS;Pudding.
+1617;LIAM;"""Pudding."""
+1618;MATT;So you guys find your way back to castle Whitestone, upwards to Scanlan's room. The door's partially ajar. On the inside you see Kaylie is actually asleep. She's sitting on a stool next to the bed and her head's down, and she's very lightly snoring. And there, in the bed, as you left him, is Scanlan.
+1619;LAURA;His arms are still up?
+1620;MATT;Well, he's been turned.
+1621;LAURA;Okay.
+1622;TALIESIN;We've had people taking care of that.
+1623;LAURA;Jeez.
+1624;TRAVIS;And Kaylie's sitting in the chair, or is she leaning back on?
+1625;MATT;No, she's leaning back in a chair and is passed out. Scanlan is still on the bed.
+1626;TRAVIS;Can I please knock the legs of the chair out?
+1627;TALIESIN;There's seven children in this family, I think they're used to some tomfoolery.
+1628;LAURA;It's up to you, Grog.
+1629;TRAVIS;Yeah. I walk over and I just kick the back leg of the chair out so she falls down.
+1630;MATT;(falling sound) (yelps)
+1631;TRAVIS;Oh my god, these chairs are so old.|Are you all right?
+1632;MATT;Oh, I'm gonna remember that.
+1633;TRAVIS;Oh right, I forgot, you'll speed bag my nuts later, sorry.
+1634;LAURA;How you doing, Kaylie?
+1635;MATT;"She looks groggy and slightly hung over and is like, ""All right. So, you've all come back? He hasn't really done nothing"" And she kinda smacks him in the side of the face and wipes some of the pudding off. You hear, just ever so faintly, as you kinda are coming out of your stupor, you hear what sounds like voices muffled, and it comes to, you hear what sounds like Grog, and then what sounds like Kaylie, and then something hits you in the cheek and you feel a slight tinge of pain like a flick.|But your eyes begin to blink, and you guys watch as Scanlan begins to stir."
+1636;LAURA;How long has he been like this?
+1637;LIAM;Why is he covered in pudding?
+1638;LAURA;Who did this to him?
+1639;TALIESIN;I have no idea.
+1640;SAM;What's going on?
+1641;MARISHA;Keyleth takes a little bit of the gunk off and what is it?
+1642;LAURA;Gross.
+1643;MATT;It's like a vanilla custard.
+1644;LIAM;Thank God.
+1645;LAURA;That's fucking foul, Keyleth.
+1646;MARISHA;Look. How do you think druids discover things, okay? Someone has to figure out what's poison and what's not.
+1647;LIAM;Sour.
+1648;TALIESIN;They lick them apparently.
+1649;MATT;It's a little sour.
+1650;MARISHA;This is funny. This is funny, was this you? This is funny!
+1651;SAM;Hello. Hello?
+1652;MATT;You guys hear Scanlan talking.
+1653;SAM;Hello? What's going--
+1654;LAURA;Scanlan! (gasps)
+1655;SAM;Hi.
+1656;LIAM;Hey, buddy.|LAURA (sing-songy) Welcome back!
+1657;SAM;What-- where am I?
+1658;TALIESIN;You missed all the fun.
+1659;SAM;What's going on, where am I?
+1660;LIAM;This is the afterlife, Scanlan, you've gone to the good place.
+1661;MATT;Your hands are bound up over your head currently, and you are dressed in a nightgown and your room and yourself are, there's spatters of pudding everywhere.
+1662;SAM;What's going on? Why am I like this? Where am I?
+1663;LAURA;You don't remember?
+1664;SAM;No. Is the dragon alive?
+1665;LAURA;No, you killed it, and then we all celebrated, and you had a big orgy.
+1666;TRAVIS;Yeah, you proposed to this woman downstairs and this was your bachelor party.
+1667;MARISHA;You clearly have some very intense dreams, Scanlan.
+1668;SAM;I feel like you're fucking with me.|(all laugh)
+1669;MATT;"And you hear Kaylie's voice, ""Oh, you think that? Probably right true."""
+1670;SAM;What are you doing here?
+1671;MATT;Well, apparently your friends brought me along to make sure that you woke up nice and right.
+1672;SAM;They brought you here?
+1673;MATT;Aye.
+1674;SAM;Where are-- are we in Whitestone?
+1675;TRAVIS;Yeah.
+1676;LIAM;We're in Whitestone.
+1677;LAURA;Yeah.
+1678;TALIESIN;And the dragon is very dead. Very, very dead.
+1679;LAURA;But you are not. And that's very important.
+1680;SAM;Kaylie, could you excuse us a moment?
+1681;MATT;"""Aye, but at the very least--"" And she reaches over and undoes the bindings on your wrists. Your fingers are a little numb.|You pull back and kind of rub them instinctually.|She goes, ""Don't take too long. I've a mind to speak to you in a minute."""
+1682;LAURA;Kaylie?
+1683;MATT;Aye?
+1684;LAURA;Thank you.
+1685;MATT;"""Sure."" She just kind of storms past and pushes, a little gnome figure pushing through the crowd of Vox Machina, and out of the room."
+1686;SAM;I'm sorry I... fell again. Can someone answer me one thing, though? Who got Kaylie? Who brought Kaylie here?
+1687;TRAVIS;Vex did.
+1688;LAURA;I sit down on the bed with you.|Well, it just seemed like the logical thing to do, dear.
+1689;SAM;Why the fuck would you do that?
+1690;LAURA;Right. Well, 'cause you said that--
+1691;SAM;I promised her that I wasn't going to die, and you showed her my dead body.|You thought that was a good idea?
+1692;LAURA;What! Would you rather she just discover it on her own? This way she--
+1693;SAM;No! I'd rather she never know.
+1694;LAURA;Scanlan. She came here. She helped bring you back. You know what that means, right?
+1695;SAM;Yes, I do, unfortunately.
+1696;LAURA;You think it's bad that she cares about you?
+1697;SAM;I think it's bad that she thinks that I'm an oathbreaker, that I am weak, that I failed in my promise to her.
+1698;LAURA;Scanlan.
+1699;SAM;That everything she thought of me when she found me is confirmed now. That I can't be trusted, and I can't protect her.
+1700;LAURA;Scanlan. She thought nothing of you when you met her, all right? The fact that she showed up here and saw that you gave your life for a greater cause? That's so much more important than any promise you made.
+1701;SAM;I hope that's true.
+1702;LAURA;I think it is. She didn't run away.|And after the fact she stayed here and looked after you!
+1703;LIAM;You should have heard her play.
+1704;SAM;I did. I think. I heard music. I heard Pike.
+1705;LAURA;Wait. You heard?
+1706;SAM;I heard voices. I heard Pike saying a poem.|I heard someone playing music.
+1707;TRAVIS;Was that it?
+1708;SAM;Yes.
+1709;LIAM;All your daughter knows is that you stood against great evil overtaking an entire continent.|That's nothing to sneeze at, Scanlan.
+1710;SAM;She also knows that I fell and that my friends thought it would be funny to put me in a fucking nightgown and spread pudding all over me.
+1711;TALIESIN;That was me.
+1712;SAM;And bring back my lifeless body and show her how weak her father is. That's what she saw.|I made a promise, and I broke it, and you proved it to her. And I wish you hadn't meddled in my affairs. I don't have... I don't have many things that I care about, and I don't have anything that cares about me.
+1713;LAURA;That's a lie.
+1714;TRAVIS;That is bullshit.
+1715;MARISHA;Definitely not true.
+1716;LIAM;That's full bullshit.
+1717;SAM;What? You think you care about me?
+1718;TRAVIS;Yes.
+1719;LIAM;Yes, asshole! Yes.
+1720;SAM;Yes, I'm sorry, you're right. You like me because I make jokes, and I play songs, and I give you a warm place to stay at night, and I feed you fucking chicken, and I heal you in battle.|But you don't really care about me. Come on.|Let's be honest with each other. You don't really give a shit about me.
+1721;LIAM;I've changed my outlook on life because of you! What the fuck are you talking about? Of course we all love you--
+1722;SAM;Prove it.
+1723;LIAM;-- you could crush me in a second.
+1724;SAM;Prove it.
+1725;LIAM;How?
+1726;LAURA;What do you want us to do?
+1727;SAM;We traveled into the fucking nine hells to get Pike a set of armor. We went and battled a city of vampires so Percy could feel good about his name. We fought goliaths for Grog. We've traveled across planes of existence so you could fix your fucking daddy issues. But you've never done anything for me. Ever! You've never risked anything, you don't know me, you don't know anything about me. What's my mother's name? What's her name? Easy question. Died in front of me.|Killed by a goblin. Biggest part of my life.|What's her name? My father. Is he alive or dead? How old am I? Where's my fucking dog?
+1728;LAURA;We did get the dog.
+1729;SAM;You don't care about me.
+1730;LAURA;We did get your dog.
+1731;SAM;Did you?
+1732;TRAVIS;No, we didn't.
+1733;LAURA;We did, I searched--
+1734;LIAM;I've asked your age.
+1735;LAURA;I thought I did the magic search.|Fucking hell.
+1736;SAM;It's fine. I'm just a little hungover from being dead, and I just have been thinking for a while, and, you know. Grog has Pike. Vax has Keyleth. Percy has Vex. But Scanlan has no one, and I had one chance at one real relationship with my daughter, and I feel like you've gone and fucked it up, too. Because you don't really know me, and you don't really know what my relationship is with her, and what I've promised her, or anything, really. And it's fine. When I met you all, I was just a funny little man playing songs, and that's all I'll ever really be.|And that's okay, because I can take care of myself.
+1737;LAURA;You don't have to, Scanlan. Nobody knew that any of this was going on. How many times have we asked you if you're all right and you just laugh and joke? We can't help you if you don't tell us what's going on.
+1738;SAM;I don't need your help.
+1739;LAURA;Well, apparently you do, darling.
+1740;SAM;I don't like that very much at all.
+1741;LAURA;Get used to it. Nobody likes needing someone.
+1742;MARISHA;Scanlan, do you think any of us could have gotten here without each other? I thought you knew that more than the rest of us. Maybe we just thought you didn't need us as much as you felt like we didn't.
+1743;LIAM;I thought you were the only one who had everything figured out.
+1744;MARISHA;I did too.
+1745;SAM;Well then, I must be a very good liar.
+1746;MARISHA, LAURA;You are.
+1747;LIAM;I thought for months, what haven't I got figured out that Scanlan has got figured out? I've been trapped in the mud for months, wondering what I could do to get where you are. Scanlan, you fucking saved the world with us. If your daughter can't see that, then she can't see anything.
+1748;SAM;Yeah. If you really respected me, you wouldn't pick me up like some sort of dwarf and pick me up and put me down and take off your fucking armor and treat me like a fucking child.
+1749;LIAM;You've thrown some of us like baseballs.|I don't know what that is.
+1750;MARISHA;Scanlan. Do you wish we wouldn't have brought you back? Should we not have done that?
+1751;SAM;I just wish you wouldn't have brought her into this.
+1752;MARISHA;Scanlan--
+1753;SAM;I had one shot with her, and now how will I ever show her that I can be trusted? How will I ever show her that I can protect her?
+1754;LAURA;Well, maybe you should fucking talk to her.
+1755;MARISHA;Yeah, you're a better father than most of us have ever had.
+1756;SAM;You're right. I should talk to her.
+1757;LAURA;You should!
+1758;SAM;I should! I should. And I will.
+1759;LAURA;Don't treat her like a fucking sacred object, treat her like a daughter, Scanlan.
+1760;SAM;Fine. You're right. I will. I will.|I'll talk to her. Listen. I don't know what adventure we're going on next, but I think you should go without me.
+1761;TRAVIS;Really?
+1762;SAM;Vex is right. I should talk to her.|I should be here for her. I don't know why I wasn't with her in the first place. I didn't need to go with you to kill the dragons. I should've just been with her in the first place. Probably just scared to.|I should just be her father and stay.
+1763;TRAVIS;Can I ask you a question?
+1764;SAM;Yeah. No, I will not go whoring with you one more time.
+1765;TRAVIS;No. I was gonna ask you what your mother's name is.
+1766;SAM;It was Juniper.
+1767;TRAVIS;I'm sorry I didn't know that.
+1768;SAM;Thank you for asking.
+1769;LAURA;Is your father still alive?
+1770;SAM;I don't really know. He makes things.|Made things, I don't know. His name is Vicou.
+1771;TRAVIS;I'm glad you're back. Whatever you want to do now that you are... it's up to you, mate.
+1772;MARISHA;I'm sorry if we had selfish intentions.
+1773;TRAVIS;We did have selfish in--
+1774;MARISHA;Yeah. Grog knows what I'm trying to say.
+1775;TRAVIS;We didn't think about those things.|We didn't. We thought about what you meant to us.|It may not feel like much, to us it feels like a bit, but now that you're here...
+1776;MARISHA;Scanlan, as much as you can say that you were just the funny guy who played music and made jokes, I don't think you realize how desperately we need that. That's nothing to scoff at, that's not a talent that many of us naturally possess. You've taught me so much about the brightness of the world, and to look at the light side of things.
+1777;SAM;I guess it's just easier to laugh at the world when you don't care about it.
+1778;MARISHA;That's not true. You do care.
+1779;SAM;I know.
+1780;LAURA;That's why he's an asshole now.
+1781;LIAM;We've never had one conversation, you and I, about my mother. Where my sister and I came from.|Did you know Thordak killed her?
+1782;SAM;I think that's come up.
+1783;LIAM;We've never talked about it. Not once.|Because I didn't want to talk about it.|I didn't push into your private life. If you wanted to talk to me, and you did, about your daughter. We did. We talked in the sewers of Westruun about your daughter because you wanted to talk about her. We love you, Scanlan, and if you want to talk about your mother or your father, we will. You have not been exactly forthcoming.
+1784;SAM;That's fair. I haven't been. But I also don't-- I don't have anyone.|I have to take care of myself. That's all.
+1785;LIAM;We have survived a fucking hellscape.|All of us.
+1786;SAM;(quietly) I didn't.
+1787;LIAM;You are standing before me, talking to me.|You did.
+1788;SAM;I did not. I died. Twice.
+1789;LIAM;That's fucking semantics, Shorthalt.
+1790;SAM;In a row.
+1791;LIAM;You've been brought back. You're standing here. Your daughter is there and needs you.
+1792;SAM;I'm being kept alive by some fucked-up weird magic. Before I met you people, I would have never-- the worst I would have gotten in is a bar fight. And I would have won. 'Cause I would have been a liar and a cheater. And now, I didn't help any of you in the last fight. I didn't do anything. The fight before that, I didn't do anything--
+1793;LIAM;What about the fight before that?
+1794;SAM;-- I'm useless!
+1795;LAURA;(tiredly) No, you're not.
+1796;SAM;-- I'm out of my league. I'm out of my league. Listen, it was fun. It's fun. It really has been fun to travel with six legends. It's fun.|It's fun to say that your friends are legendary fighters.|It's fun!
+1797;LIAM;Excuse me! Speaking as someone who has been fucking depressed for a long time-- Look me in the eye. I was shit for months. And you are one of the main reasons I am out of that now. We would be dead, all of us, if it weren't for you. The first time we fought Raishan, we would all be dead.|You are in a pity party right now, and I know you're hurting, and I'm sorry you're hurting, and I love you. But you are lying to yourself, that you have been no use to us. You are lying to yourself.  If you wanna retire, if you wanna go off with your daughter, that's fucking wonderful.|I encourage you to do it. But don't lie to yourself.
+1798;SAM;Well, that's just it. I'm a really good liar.
+1799;LIAM;(pleading) Scanlan.
+1800;SAM;Just give me some time.
+1801;MARISHA;(timidly) Hey-- hey, guys? We're friends, right? Are we friends?
+1802;TALIESIN;Worse, family.
+1803;LIAM;Family.
+1804;MARISHA;That's fair.
+1805;TALIESIN;And for fuck's sake, sir, I will say I died in that fight too.
+1806;SAM;It's not fun, is it?
+1807;TALIESIN;No. And let me tell you something.|Whatever lie you were trying to feed your daughter out there about the man she thought you might be, that you just thought you could tell her and then she would walk away and never actually meet you or get to know you. So that maybe she would never see what a shit you can be. And you can be a shit. That fucking girl out there is a shit too. She's a miserable, lying shit.|And for fuck's sake, the thing that brought her back here was the things about you that you don't like about yourself. And don't think that they don't count, either. You're a shitty person, we know! That's not the fucking point. The point is for just one moment-- one moment-- once in a blue bloody moon... You come through in a way that others can't. And you do it, and we love you for it, and you are worthwhile, there's a reason we just nearly went mad trying to bring you back.|And it was not pity. And we didn't bring her-- we brought her here so that maybe she would snap you out of wherever the fuck you were going to.|And I know you're not out of there yet, I've been where you are and I know it's shit.|And I would really recommend, as somebody who misses an awful lot of people, that you are honest with that girl and maybe discover that she actually likes you. As a person. Because you are actually likeable as a person! I know, it's coming out of my mouth. I can feel the shit from it but it's true. And for fuck's sake, get to know her and stop making false promises that you can protect her, and you'll always be there.|'Cause you can't and you won't. No one can.|And you're fucking lying! And it's sick.|Be a man. Be a man. I've seen you be a man, I know you can fucking do it. And when you're done with that, and we will leave you with that fucking shit girl, I would like you to look up my parents' name. You can find it on every fifth hallway in this fucking city. And then I'm out.
+1808;MATT;(hoarsely) You leave the room?
+1809;TALIESIN;Mm-hm.
+1810;MATT;(clears throat) Okay. As you push the door open-- it's still partially ajar-- and as you push it open, leaning against the wall just by the door is Kaylie, and you can see she has tears streaming down her face.
+1811;TALIESIN;I give her a big hug, a kiss on the forehead--
+1812;MATT;She doesn't let you. As soon as you go for it, she just kind of smacks it away--
+1813;TALIESIN;(makes an air kissing noise)
+1814;MATT;"--turns into the room, and just kind of walks past everyone and grabs her bag off the ground.|Slings it over her shoulder, grabs her violin case. ""So, you coming?"""
+1815;SAM;...Yeah.
+1816;MATT;"""Grab your things. Be waiting for you downstairs."" And she walks out."
+1817;LAURA;Really? Just like that?
+1818;SAM;I have to.
+1819;MARISHA;Where're you going to go? What're you going to do?
+1820;SAM;I'm just gonna be a Shorthalt for a while.|And I'm just gonna figure out what that means.|And... it's great being part of a team, but you gotta know who you are first. So I gotta go figure that out. And I gotta go figure out what she is, too. And when I do, I'll come back and find you. And if you really need a place to stay, I'll advise you to buy some tents, 'cause you won't have a mansion anymore. I know you'll be fine 'cause you all have each other, but for now, I just need to have me for a while. I love you all. I even love Percy... and his parents, Frederick and Johanna. And I'll go with Kaylie.
+1821;TRAVIS;Wait. I reach into the Bag of Holding and I grab my salt-lick rock and I toss it to Scanlan.
+1822;SAM;What's this?
+1823;TRAVIS;It's yours now. When you miss us-- I know you will-- give it a lick.
+1824;SAM;(choked) All right, I will.
+1825;LAURA;I grab the Gatestone off the end table where we left it with him and hand it over to you as well.
+1826;SAM;You'll need this.
+1827;LAURA;I'd rather it go to you.
+1828;SAM;When Vex tries to give you something, you take it. All right. Don't die.
+1829;LIAM;Scanlan... We'll miss you.
+1830;SAM;(exhales) I hope so. And... well, you said I was right. Let's pick up that conversation later.|I'll go out the door.
+1831;MATT;Okay. As he walks down the hall, you hear his feet across the stonework echo quieter and quieter until you can't hear it anymore, and you all stand in stunned silence in the chamber.
+1832;LIAM;(draws in a breath) Fuck.
+1833;LAURA;I just pick up a pillow and throw it at the door.
+1834;MATT;It opens slightly. The pillow lays on the ground smattered with vanilla pudding.
+1835;TRAVIS;Did he take all his things with him?
+1836;MATT;I would say he would've grabbed his things as he left, yeah.
+1837;LAURA;Well, that didn't go like I thought it would.
+1838;MARISHA;No. No it didn't.
+1839;LAURA;Kinda wish we would've gone drinking in Vasselheim now.
+1840;TRAVIS;We might've missed him if we had.
+1841;LIAM;(wearily) We saved the continent, why does everything feel like shit?
+1842;TRAVIS;He's alive. That's what really matters.
+1843;LIAM;But he's our liar, Grog.
+1844;LAURA;(tearily) And he hates us, now.
+1845;MARISHA;He doesn't hate us.|I just... think we've all just discovered that maybe we have a lot more secrets about ourselves than we've all ever let on.
+1846;TRAVIS;He needs time. We have that.
+1847;LAURA;(angrily) Fuck him! Fuck him for not saying anything sooner.
+1848;MARISHA;I dunno.
+1849;LAURA;And fuck us for not asking. (sniffs)
+1850;MARISHA;I think Percy's right. We're worse than friends, we're family. And family leaves.
+1851;LIAM;Yes. They do.
+1852;MARISHA;Can we not be family? Can we, like, redact that?
+1853;LIAM;I don't think so. I think it's too late.
+1854;TRAVIS;I step out into the hallway. Do I see Percy at all?
+1855;TALIESIN;I'm around the corner, up on the--
+1856;MATT;Yeah.
+1857;TALIESIN;I'm outside of-- If you went far enough, you'd see me.
+1858;MATT;You eventually find Percy, yeah.
+1859;TRAVIS;Hey.
+1860;TALIESIN;Hi.
+1861;TRAVIS;Rough one, that. Question:
+1862;TALIESIN;Yeah.
+1863;TRAVIS;Do you have any, like, sneaky people in your employ here in the castle.
+1864;TALIESIN;'Course.
+1865;TRAVIS;Wouldn't you feel better if we had someone just keeping an eye on them? Bit explosive, the two of them together.
+1866;TALIESIN;I'm torn. I don't know if he'd like that.
+1867;TRAVIS;I don't know if I care. (laughs)
+1868;TALIESIN;I don't know if I do, either. I keep thinking, I could just shout right now and half a dozen guards would stop them.
+1869;TRAVIS;Yeah. It'd be half a dozen dead guards, though.
+1870;TALIESIN;Well, what's half a dozen dead guards these days?
+1871;TRAVIS;Good point.
+1872;TALIESIN;There's tale of a brothel in the west end of Whitestone. I don't know if it still exists but I'm sure if you go drinking in that area, you might find something. Sorry.
+1873;TRAVIS;No, yeah. Yeah. I'll go give it a look.
+1874;TALIESIN;When you're in the mood.
+1875;TRAVIS;Now's good. Yeah, I'll be back after nightfall. Gonna go out for a bit.
+1876;TALIESIN;Grog.
+1877;TRAVIS;Yeah.
+1878;TALIESIN;I know we don't always agree, and I know that I can be unkind but...|you know you're family, right?
+1879;TRAVIS;I don't know much, but I do know that.
+1880;TALIESIN;It's nice having an older brother again.
+1881;TRAVIS;I leave.
+1882;MARISHA;So what, just-- the half-elves are left alone in a room covered in pudding?
+1883;MATT;Yeah.|(all laugh)|Yeah, basically.
+1884;TALIESIN;Way to paint a tableau.
+1885;MARISHA;Crying.
+1886;MATT;Yeah. Crying in your pudding.
+1887;MARISHA;Angry.
+1888;TALIESIN;I think 'crying in your pudding' is actually a British saying.
+1889;MARISHA;Do you think that if we would've not covered the room in pudding, that he would have stayed?
+1890;LAURA;I start cleaning it up.|Well, he seemed pretty pissed that I went and got Kaylie, even though he ran away with her at the first chance he had.
+1891;MARISHA;And you had to stay in a shitty BnB, a brothel and-- (laughs)
+1892;MATT;You see that Pike is still kinda shaking her fist in the corner right now. She doesn't say anything during this whole exchange.
+1893;LIAM;Pike--
+1894;LAURA;Pike, are you okay?
+1895;LIAM;How you doing, Pickle?
+1896;MARISHA;Oh, right, Pike. Right.
+1897;MATT;He needs to do this... Right? He needs to do this.
+1898;LAURA;He says he does.
+1899;MATT;What do we need to do?
+1900;LAURA;I have no fucking clue.
+1901;MATT;I need to get a drink.
+1902;MARISHA;Yeah. We could always go back to Vasselheim and pick up on that little drinking.
+1903;LAURA;I'm not gonna go anywhere, Keyleth.
+1904;MARISHA;Yeah.
+1905;LIAM;I don't wanna go back to Vasselheim.
+1906;MARISHA;I mean, we can drink anywhere. Vasselheim doesn't have to be in that equation.
+1907;MATT;Where else do we have to go? Away from here.|I just want to be away from here.
+1908;LIAM;Pike--
+1909;MARISHA;I have to go to the water ashari.|I have to.
+1910;LIAM;And before too long, we have a demon who wants you and I dead in the night. We have to deal with it.
+1911;MATT;All right. Anything else?
+1912;MARISHA;Pike, you know the Ozmit Sea. You've sailed it, yeah?
+1913;MATT;It's been a while, but yeah.
+1914;MARISHA;We might need you for the water ashari.
+1915;MATT;I can do that.
+1916;MARISHA;Seems like-- I guess all of us are picking up on our own individual paths from here? I guess.
+1917;MATT;Why can't we still help each other out?
+1918;LIAM;We can. Of course we can. Pike...
+1919;MATT;His path is his own. He has to do his thing alone. We don't have to be alone.
+1920;LIAM;No. No, we don't. We just wanna slow things down for a while.|It's been a long couple of months.
+1921;MARISHA;Is Scanlan right? Have we become too close to each other? Do we need to all take our individual time like we've done in the past?
+1922;LIAM;No, we just need to not have our lives on the line every day. For a little while. Or ever.|Retirement's not a terrible idea. I mean, what's the takeaway here, from Scanlan? Can't hold anything in. Fuck. You know that I've always looked up to you, for everything? That I've tried to model myself after you. Do you know that? And you.|You know that she's my best friend, right? You know that.
+1923;MARISHA;'Course.
+1924;LIAM;You know that I'm madly in love with her, right? You know that, right? We don't need to joke about it or dance around it anymore.|You know that I'm in love with her, right?
+1925;LAURA;Obviously.
+1926;LIAM;Obviously.
+1927;MARISHA;What are you getting at, Vax?
+1928;LIAM;I just don't-- He left because he felt like we didn't know him. I'm scared to death about what I have to give to a fucking god, eventually.|I'm scared of that. I don't want to do that, but it's going to happen, and it's destiny.|I'm scared about that. There. That's out.|Do you have anything that you're holding in? You're in love with Percival. We all know that, right? It's plain as day, right?
+1929;LAURA;My take-away from Scanlan is that we all talk too much. And I leave the room.
+1930;MARISHA;And then I look at Vax and Percy, and say--
+1931;TALIESIN;Oh, I'm not there.
+1932;MATT;Percy's not there
+1933;MARISHA;Oh, sorry. Vax and--
+1934;MATT;Pike.
+1935;MARISHA;--Pike, and say: And my takeaway is that maybe we were forgetting who we were before we all banded together. And then I leave the room.
+1936;SAM;They're all individually going to the room next door.|(all laugh)
+1937;MATT;Yeah, they're all just congregating in the next chamber.
+1938;LAURA;And that's where Scanlan's waiting.
+1939;TALIESIN;It's like a Black Mirror episode
+1940;SAM;Everyone's reading highlights.
+1941;LIAM;Crack out the aerator, yo.
+1942;TRAVIS;Highlights.
+1943;LAURA;Blacklight.
+1944;MARISHA;It's the basement in Westworld.|We all just go catatonic.
+1945;MATT;"Pike kinda walks up to you as they walk out of the room and puts her gauntleted hand on your shoulder and just says, ""We all make mistakes, I make 'em a lot."""
+1946;LIAM;Yeah.
+1947;MATT;You have a lot of other people to look up to, aside from just me.
+1948;LIAM;I've learned that.
+1949;MATT;His path is his own. And he'll come back.|Right?
+1950;LIAM;I don't know. But he's our friend.|I like having him around.
+1951;MATT;Me too. (sighs) Let's get a drink.
+1952;LIAM;What? MATT Let's get a drink.|Let's get a drink. You wanna go in town?
+1953;MATT;Yeah.
+1954;LIAM;All right.
+1955;MARISHA;I chase down Vex, and we do the same thing.
+1956;MATT;You guys all individually find your way through the rest of the afternoon to discuss, cope with and ruminate on the separation of Scanlan. Going through all the different emotions you feel that are necessary, and whatever activities you proceed to distract yourself with.|Grog.
+1957;LAURA;(laughs) Crying in a corner.
+1958;LIAM;(mock-crying)
+1959;TRAVIS;Crying on bosoms. (mock-crying) (all laugh)|I'll pay for this.
+1960;MATT;Yes, you will. That's extra.|(all laugh)|And strangely not uncommon.
+1961;LIAM;He's wrapping up the show, I can tell.|So I came to give Sam a hug.
+1962;LAURA;He's not! No, he's not!
+1963;MATT;He's not, actually. I don't know where you got that idea.
+1964;LIAM;Well, I was just getting in a mid-game hug.
+1965;MATT;There you go! (laughs)
+1966;TALIESIN;This is awkward.
+1967;MATT;You guys still got shit to do.
+1968;LAURA;Guys, no. Stop it.
+1969;MATT;You guys made promises, you're still on a timeline for some things.
+1970;TRAVIS;Yeah.
+1971;MATT;You still have things to do.
+1972;MARISHA;No, we know.
+1973;TALIESIN;We know.
+1974;LIAM;We know.
+1975;MATT;Don't take that as Sam closing the curtain here. Still got shit to do.
+1976;LIAM;I know, but... I craved that, so I took it.
+1977;MATT;No, that's okay. Cross-table hugs are fine.
+1978;TALIESIN;That was weird.
+1979;MATT;"The next morning comes around, you're all in various states of hungover; should you have chosen to imbibe with the rest of the party."
+1980;LIAM;Heavily.
+1981;MATT;Grog eventually wanders in, less hungover but more meek about how his previous day was.
+1982;TRAVIS;Not my best night.
+1983;MARISHA;I see Vax the next morning and I say, Look, your sister gave me one of her blue feathers. It's because this is the darkest timeline.
+1984;LAURA;I come back and I take that off. I'm like, No, Keyleth, you took that from me when you were drunk last night, actually.
+1985;MARISHA;It's because this is the darkest timeline and I stole it from you.
+1986;LIAM;Pike and I come in wearing fun buns, hungover. My face hurts.
+1987;LAURA;How is everyone?
+1988;MATT;She slaps you.
+1989;TRAVIS;Amazing.
+1990;MATT;Does it still hurt?
+1991;LIAM;Yeah, and also my face hurts as well.
+1992;MATT;Good.
+1993;LAURA;Percy.
+1994;TALIESIN;Good morning.
+1995;LAURA;Morning.
+1996;MARISHA;What did you do last night?
+1997;TALIESIN;Worked.
+1998;MARISHA;Worked? You were productive.
+1999;TALIESIN;Well...
+2000;MARISHA;You made the rest of us look and feel like shit?
+2001;TALIESIN;I think we all have our ways of coping.
+2002;MARISHA;What did you make?
+2003;TALIESIN;Just some sketches.
+2004;MARISHA;Did you bake a cake? I hope you baked a cake.
+2005;TALIESIN;There's no cake.
+2006;MARISHA;I really want coffee cake right now, Percy.
+2007;TALIESIN;There are people for that.
+2008;LIAM;You look like me.
+2009;LAURA;Squish-squish. Squish-squish.
+2010;LIAM;You look like me. Why do you look like me?
+2011;LAURA;You're still drunk. Sober up. It's a new day.
+2012;LIAM;That's boring.
+2013;LAURA;(laughs) Oh, shit! He could've broken his nose just then, I swear. Oh my god.
+2014;MARISHA;Is it a new day?
+2015;LAURA;It is.
+2016;MATT;It is.
+2017;MARISHA;I thought it was still yesterday.
+2018;TALIESIN;Oh hey, I've got all my hit dice back.|That's nice.
+2019;MATT;Yeah, spells are back, you guys are healed.
+2020;MARISHA;My staff is charged.
+2021;LAURA;You're up from nine points.
+2022;TRAVIS;Yeah.
+2023;LAURA;Hey, wake up, fuck. Wake up. It's a new day. Open your eyes. Hey.
+2024;MATT;Pike casts Restoration on Vax.
+2025;LAURA;Hey, you're not drunk anymore, look at that.
+2026;LIAM;I feel good.|(all laugh)
+2027;TRAVIS;All right. So, what? First step is the most important one, right?
+2028;TALIESIN;Well, as far as I know we have three things still on our plate.
+2029;MATT;Which ones?
+2030;TALIESIN;We've got a hand.
+2031;LIAM;Hotis.
+2032;TALIESIN;We've got the ashari, and we've got a demon.
+2033;MARISHA;We also have research we have to look at that we got from that lair of Raishan's.
+2034;TRAVIS;What's the hand?
+2035;LAURA;We have to give Ripley's hand to those guys in Marquet. I think that's the easy one.
+2036;LIAM;That seems like the quickest.
+2037;MATT;That's definitely the quickest.
+2038;TRAVIS;Let's try that.
+2039;LIAM;My mental acuity's on point.
+2040;MARISHA;I feel like if I teleport I'm gonna puke.
+2041;MATT;Pike grabs a bucket.|(all laugh)
+2042;TALIESIN;I run to the kitchen. I put together something that is not quite, but probably a hot sauce, with half a raw egg, and shot of something that is quite possibly but not quite some sort of fantasy variant of tequila.
+2043;MARISHA;You are not--
+2044;TALIESIN;Swirl it all up.
+2045;MARISHA;-- frat-boy one-shotting me this.
+2046;TALIESIN;This is a thing.
+2047;LIAM;That's science. Listen to Percy. That's science, you need that and you need a traditional Whitestone breakfast.
+2048;LAURA;It's super good, Keyleth, really.
+2049;TALIESIN;Yeah, just get it down, just get it down.
+2050;MARISHA;Why this?
+2051;TALIESIN;Don't look at it.
+2052;LIAM;Just listen to the science guy and chug-a-lug.
+2053;TRAVIS;Bottoms up.
+2054;TALIESIN;I was kidding. You shouldn't actually drink that.
+2055;MARISHA;Fuck you, motherfucker!
+2056;TALIESIN;Can I get a roll damage? (all laugh)|I've done something very similar to that on many a morning.
+2057;MARISHA;We need to look at this research.|We need to figure out what Raishan had going on.
+2058;LAURA;My brain hurts from crying so much yesterday.
+2059;MARISHA;I know. Are my eyes puffy?
+2060;TALIESIN;Yes.
+2061;MARISHA;Do I have bags under my-- thank you.
+2062;TALIESIN;You're welcome.
+2063;LIAM;You wear it well.
+2064;MATT;So what's the plan. What's up first?
+2065;TALIESIN;Let's take a quick look at what we got from the cave.
+2066;LAURA;Maybe bring Allura and Gilmore in here, because we have that book that seemed very nefarious.
+2067;MARISHA;I help Percy figure things out.
+2068;MATT;Okay. From the things that you gathered off, a lot of them were candle-holders, there were various reagents, some of them rotted or dried out, a number of books and tomes, some that deal with poisons, various alchemy. Actually, a similar book to the one that you found earlier in your travels, but an older version of it. And there is the one large tome that you acquired that had the more nefarious-looking leather-bound exterior, the thicker piece.
+2069;TRAVIS;I'll read this.
+2070;LAURA;No, don't touch it, Grog, I don't trust it.|I want Allura or Gilmore to look at it first.
+2071;MATT;The easiest person to find here would probably be Allura, in the castle. Well, no, because Allura's off in Emon helping with the destruction. Gilmore would be the only one you could really speak to currently.
+2072;LAURA;Or Eskil.
+2073;MATT;Or Eskil. But he's a little wary of you at the moment. (laughs)
+2074;LAURA;I just keep making people wary of me.
+2075;MATT;All right, so you go ahead and you bring Gilmore in?
+2076;MARISHA;Yeah.
+2077;MATT;"Okay. And it's easy enough to bring in.|He's just waking up. (yawns) ""So, what can I help you with?"""
+2078;LAURA;Hi.
+2079;TALIESIN;We found this. Be careful, it was with Raishan.
+2080;MATT;"He takes it, he sits down and places it on his lap, and tugs on his braided goatee.|""This smells like shit."""
+2081;TALIESIN;Several things have died on top of it.
+2082;LIAM;I give my armor a sniff.
+2083;MATT;"Smells-- different kind of shit, but shit nonetheless. He takes a look over it.|""This has a very faint magical essence to it.|Let me go ahead and--"" He looks over it for a second, his eyes glow with that same arcane purplish energy that flares when he does the Identify spell. Looks over it.|""This is an evil book. Reading this would be informative, but would certainly have a cost."""
+2084;TRAVIS;Like, money?
+2085;MATT;Soul-money.
+2086;LAURA;Soul-money.
+2087;TRAVIS;Do we have any of that in the bag of holding?
+2088;LAURA;I don't think we do. Not anymore.
+2089;MATT;Wouldn't recommend it, Grog.
+2090;TALIESIN;What do you recommend we do with this book?
+2091;MATT;Well, if you ever feel like you want some light reading. Or find somebody who's foolish enough to read it. Or at least has the willpower to push through its dark enchantments. I have no idea.
+2092;TRAVIS;Oh, shit.
+2093;LAURA;Let's just keep that in a--
+2094;TALIESIN;Going to vault that for the moment.
+2095;LAURA;Yeah.
+2096;TRAVIS;You're saying somebody could read it, but they'd have to make it all the way through the end.
+2097;MATT;I don't want to look into it, I'll put it that way. But somebody with a strong enough mental aptitude to be able to not be corrupted by its dark magics.|It's my recommendation at the very least.
+2098;TALIESIN;Not anyone in this room, is what he's saying.
+2099;TRAVIS;Right. What else have we got?
+2100;TALIESIN;I say hand. It's simple, to the point.
+2101;LAURA;I agree.
+2102;LIAM;I agree. One and done.
+2103;TALIESIN;And we can find the ashari on the way back.
+2104;MARISHA;Yeah, we can.
+2105;TRAVIS;All right.
+2106;LAURA;This feels wrong.
+2107;TRAVIS;It feels different.
+2108;LIAM;Ah, it feels wrong.
+2109;MARISHA;That's not on us, though, it's on him.
+2110;LAURA;Can you scry?
+2111;MARISHA;Me?
+2112;LAURA;Yeah. See where he is, what he's doing.
+2113;MARISHA;I pull out the scrying eye. Can I hold it out in front-- this is kind of flavor-- and I let it levitate in front.
+2114;MATT;It locks itself in place and slowly rotates.
+2115;MARISHA;Can I open it like a fortune-teller's spying sphere type of crystal--
+2116;LAURA;And just like project it on the wall behind her so we can watch it like that movie.
+2117;MATT;The vision comes to you. It doesn't quite do that.
+2118;MARISHA;That would be really awesome.
+2119;TRAVIS;Can I make it Imax?
+2120;MATT;I want that HD download, not the SD.
+2121;MARISHA;5.1 Dolby digital surround.
+2122;LIAM;Whoa, it's all around me!
+2123;MARISHA;Oh my god, so many lagging issues.
+2124;TRAVIS;What's he rolling for?
+2125;LAURA;To see if he senses it, maybe.
+2126;LIAM;You don't know.
+2127;MATT;So what's your wisdom modifier?
+2128;SAM;Me?
+2129;MATT;Your wisdom saving throw.
+2130;SAM;Negative two.
+2131;LAURA;Wait, what did you roll?
+2132;MATT;What'd you roll?
+2133;SAM;I got a two total. But I get advantage against magic.
+2134;MATT;You do.
+2135;SAM;That's a 17.
+2136;MATT;Plus your-- what's your wisdom saving throw bonus?
+2137;SAM;I mean, that's 19, my wisdom is negative two.
+2138;MATT;Oh, minus two. Got you. And your spell DC is--
+2139;MARISHA;Oh, I'm spying on those bitches.
+2140;MATT;Okay, so. You get a brief view of what looks to be Scanlan, wearing his regular outfit and armor now.
+2141;MARISHA;He took his armor off? He's just regular clothes?
+2142;LAURA;No, he walked out in a fucking nightgown.
+2143;MATT;He walked out in a nightgown.
+2144;MARISHA;Oh, right, yeah.
+2145;MATT;Through this whole emotional circumstance, he was in a nightgown. But he is currently, he's walking through the Parchwood Forest that surrounds Whitestone. He is on the path south.
+2146;MARISHA;South of Whitestone?
+2147;MATT;Yeah. South of Whitestone. To his left is Kaylie, and they're both with their sacks over their shoulders, and they're just hiking through the forest. They're, at the moment, not talking, but they're both slightly smiling. Just kind of enjoying the journey, and the company. And you just watch them walk for a little bit through the thick tree canopy above, the well-worn path that heads south and out of the Parchwood.
+2148;MARISHA;He looks content. Happy, even.
+2149;LAURA;That's good.
+2150;LIAM;Yeah, good on him.
+2151;TRAVIS;Can you yell at him?
+2152;MARISHA;I feel like he's like flicking off a bunch of trees now.|I don't know. He was always an odd one.
+2153;LIAM;To be fair, he did that about seven times a day.|(all laugh)
+2154;MARISHA;He did, yeah.
+2155;LIAM;For no reason.
+2156;MARISHA;I never knew his animosity toward trees.
+2157;MATT;You never know.
+2158;SAM;Just in case.
+2159;MARISHA;I don't know.|(all laugh)
+2160;LIAM, LAURA;Just in case.
+2161;MARISHA;Just really hates oaks.
+2162;LIAM;Raven Queen, demons, you never know who's looking over your shoulder.
+2163;LAURA;We should've invited Kaylie to come with us. They could've stayed--
+2164;LIAM;They don't want that.
+2165;MARISHA;I have a feeling there's little chance we could talk him out of it. Well! All right.|He's living a nice, happy, content, low-key life now. Let's continue on.
+2166;LIAM;Yeah, and why shouldn't he, he earned it.
+2167;TRAVIS;Yeah.
+2168;MARISHA;Yeah, he did
+2169;LIAM;He earned it.
+2170;TRAVIS;(quietly) Dick. (louder) Sorry, what?
+2171;LAURA;Yeah, right.
+2172;MARISHA;He saved the world, what more could we ask of anybody?
+2173;TRAVIS;Let's go. What clears the brain better than travel? (sniffs) Or sex.
+2174;LIAM;Wait, stop, stop. I was about to say you sounded very wise, don't fuck it up. Just, period.
+2175;TRAVIS;Period.
+2176;LIAM;Travel and sex. Done.
+2177;MARISHA;You know, there's merit to that.|All right, let's go.
+2178;LAURA;As we head to the tree, I pull Grog aside, and I ask him: Are you all right, Grog? I mean, I know, I know you got your lady favors out of the way and all that, but... Scanlan was your bestie, right? Outside of Pike.
+2179;TRAVIS;Yeah, I'm just bummed, because I'm glad he's alive--
+2180;LAURA;Well, yeah.
+2181;TRAVIS;I think that's what keeps us from being terrible. But like-- (sniffs) I only trust like a few people in the world. You, Scanlan, and Pike.|And now it's just you and Pike.
+2182;LAURA;Me and Pike?
+2183;TRAVIS;No, I mean I trust the others, right, but like... I know you on a more intimate level.
+2184;LAURA;Cause you saw my titties?
+2185;TRAVIS;Pretty much.
+2186;LAURA;Yeah.
+2187;TRAVIS;Yeah. Um.
+2188;MARISHA;That's literally it. I don't know if they've ever had, like, an in depth conversation.|(all laugh)
+2189;TRAVIS;So.
+2190;LAURA;Right.
+2191;TRAVIS;That's all. I just-- I just feel a little more sad on the inside. But I'm all right.
+2192;LAURA;I'm sorry, Grog.
+2193;TRAVIS;Yeah. I'm glad he's okay.
+2194;LAURA;Me too.
+2195;MARISHA;Show him your titties again.
+2196;LAURA;Do you want to see them? Would that make you feel better?
+2197;TRAVIS;No, it's not right, right now.
+2198;LAURA;Yeah, no, it didn't feel right, I just wanted to... all right.
+2199;TRAVIS;Yeah, you know. It's... mmm. You know.|(all laugh)|I appreciate the offer.
+2200;MATT;As you walk your way down to the center of Whitestone, to the Sun Tree--
+2201;LIAM;It's so touching and ridiculous at the same time.
+2202;MATT;I know. You recall that in the center of the city itself, Ank'harel, as it acts as one of the largest oases in the center of the central Marquet desert, there are a number of larger trees of various types, and there's one not too far from the Suncut Bazaar, that you recall. You make that your designated tree, and upon casting the spell, you watch the Sun Tree, tear open the doorway, and you step across--
+2203;MARISHA;As I cast the spell, I just say, Hey, Sun Tree? Watch over Scanlan and Kaylie, okay? And then go though.
+2204;MATT;You step through. Okay. You all emerge on the outskirts of the Suncut Bazaar. At this point in time, it would be the beginning of-- just past dusk. The sun has gone down in Ank'harel.|But you can still see the oranges and reds and purples of the recent sunset in the distance.|The city is bustling. Lanterns are alight all throughout. The bazaar itself and all the various multicolored towers and structures and buildings, the beautiful city just stretch up in all directions around you. You can see the bazaar itself is lively with carts that are open, shouting as various barkers are peddling their wares. It's a very upbeat atmosphere, and one that's a stark change to the Whitestone you just stepped away from.
+2205;LIAM;And the sun is going down, you said?
+2206;MATT;The sun has already gone down.
+2207;LIAM;After we just woke up.
+2208;MATT;Yes.
+2209;LIAM;Jet lag.
+2210;LAURA;We fucked up.
+2211;MATT;Yeah. Other part of the world.
+2212;TALIESIN;Jet lag.
+2213;LIAM;Yeah. What?
+2214;TALIESIN;Tree lag.
+2215;MARISHA;Tree lag.
+2216;LIAM;It's a bitch.
+2217;MATT;(laughs) Tree lag.
+2218;MARISHA;It's the worst.
+2219;MATT;You guys begin making your way toward the Debt's Respite, which is the tavern that housed the Scarbearers. This is where Treev Bonebreaker was when you last discussed the return of Ripley's hand--
+2220;LAURA;Right.
+2221;MATT;-- as the assassin that killed one of their own. And you're returning this hand to absolve yourselves of implication in this murder.
+2222;MARISHA;Yes.
+2223;MATT;Since you discovered the body.
+2224;TALIESIN;I'm, for the record, not wearing the cloak when we do this.
+2225;MATT;Okay.
+2226;LAURA, MARISHA;Hey!
+2227;MATT;Good point!
+2228;TALIESIN;And just for the record, I know I'll get yelled at for twitter on this. I have informed my sister where I'm going and what's going on.|Not just going willy-nilly.
+2229;MATT;Right, right, Cassandra is aware. All right.|You guys walk through, you catch a few eyes as you are not just outsiders walking through Ank'harel, but you're all adorned in, you know, beautiful artifact armor--
+2230;LAURA;Right, we didn't put on our--
+2231;MATT;Magical weapons--
+2232;LIAM;God wear.
+2233;MATT;God wear, essentially. And as you walk toward the Debt's Respite tavern, on the outside you can see, there's what looks to be an eight-and-a-half-foot tall, humanoid, golem-like metallic construct. It looks similar to a golem, but it's smaller. Like the iron golems you've fought before, but it's smaller in scale.
+2234;LIAM;Like the one we fought in J'mon's.
+2235;MATT;Yeah, J'mon's, but much smaller. It's less bulky, and more just a functional, tall, metallic humanoid-type construct.
+2236;LIAM;Protocol droid.
+2237;MATT;Yeah. You see it's clutching--
+2238;MARISHA;(gasps) It's basically the Vision?
+2239;MATT;A little more ramshackle in construct.
+2240;MARISHA;Ah, okay.
+2241;MATT;It's clutching a leather tome in one hand that is open, and is holding what looks to be a quill in the other, and it's just standing there quietly. To the front of it you see, almost waiting outside the tavern in the process of thumbing through some satchels, you see a handsome human male. Late 30s or so, with shoulder length, feathered, dirty blond hair and blue-green eyes, a well groomed goatee adorning his dashing smirk as he turns and looks across you and very quickly the eyes very overtly take in and categorize your decor, your dress, your stature. And the smile grows even wider. His frame is svelte, he's adorned a set of polished, immaculate breastplate armor with numerous satchels all around him, and he carries a silver helmet under his arm that shines with many, many embedded gems: diamonds, opals. Just an opulent-looking figure who's wearing what looks to be barely used, or at least very well-kept armor and jewelry and adornments.|Immediately catches their attention.
+2242;SAM;You there!
+2243;LAURA;(gasps)
+2244;SAM;You lot! Hello! Wow! Who are you all? Look at this, magical items from head to toe. Why, I've never seen anything quite like it.
+2245;LIAM;Pouring it on a little thick, friend.|What's up?
+2246;SAM;Doty, come here, will you? Take this down.
+2247;MATT;(stomping and creaking sounds) And you watch as the giant construct takes a few steps forward and begins writing into the book.
+2248;SAM;In my travels through--
+2249;LAURA;Fuck! It's a kleenex, it doesn't work! You piece of shit!
+2250;LIAM;God dammit.
+2251;MARISHA;That couldn't have been more uncanny!
+2252;LAURA;Fuck! I didn't want to throw something hard at him.
+2253;MARISHA;Hoooly shit.
+2254;LIAM;Fucking. Hell. (bangs table)
+2255;SAM;Doty. Doty, take this down: In my travels in Anh'karel, I have never seen so many magical items in one place. But then I saw them, walking up to me, and I knew I had met some very special people.|That's it for now. Hello! Nice to meet you all. The name is Taryon Darrington.|(all laugh)
+2256;MARISHA;Darrien Darriton? Sam: Tary-ann-- Taryon Darrington.|Darrington.
+2257;SAM;My friends just call me Tary. And I'm a bit of an adventurer. I've been traveling around this continent for a while, trying to tick off things off of my list, and I've had a few scraps and scrapes. And I'm looking for more adventure.|I was travelling with a band of ne'er do wells that I had hired and, well, let's just say many of them were killed. Heh. SO. I was looking to employ a ragtag group of people, elves, whatever you are.|To accompany me, sort of be my side men, if you will.
+2258;LAURA;(disgruntled) Oh.
+2259;SAM;How much would a band like you cost for a day?
+2260;LAURA;50,000 gold.
+2261;SAM;Oh. That's nothing. Would you--
+2262;TRAVIS;An hour.
+2263;SAM;I'm sorry?
+2264;LAURA;50,000 gold an hour.
+2265;MARISHA;It's like our retainer fee.
+2266;LAURA;(quietly) Good thinking, Grog.
+2267;SAM;Well, I tend to employ people on a month-by-month basis, and you get a cut of the treasure as we go, of course. We can work out the particulars, but are you in fact, guns and-- or, not guns. Swords-for-hire?
+2268;TRAVIS;What, are you going after treasure?
+2269;SAM;I'm going after many things. I have a long list of things I want to tick off.
+2270;TRAVIS;Are you famous?
+2271;SAM;Of course I am. You haven't heard of...|Well, you haven't heard of me yet because my book hasn't come out yet. Doty here is recording my legendary adventures as I travel around the continents.
+2272;TRAVIS;How thick is the book?
+2273;MATT;It's pretty thick. Make a perception check.
+2274;TRAVIS;(surprised) Oh.
+2275;LAURA;Wow.
+2276;TRAVIS;18!
+2277;MATT;Okay. It's a pretty thick book, but it looks like Doty is maybe a third into it. A fourth.
+2278;TRAVIS;Lots of scribbles in that book.
+2279;SAM;"Yes, I haven't settled on a title yet.|It will either be-- ""Tary's Adventures"". It's sort of lame, sort of lame. Or it could be ""Daring Adventures of Darrington"" or it could be ""Tarry On with Taryon"". Or something like that, I'm working on the title, I have a while to finish it."
+2280;LAURA;(sarcastic) They're all very clever.
+2281;TALIESIN;The Daring Trial and Tribulations of Tary Darrington.
+2282;SAM;That's fantastic! Doty, please write that down.
+2283;MATT;(creaks and squeaks)
+2284;SAM;I knew you were special when I ran into you all, my goodness.
+2285;LIAM;Hey, buddy boy, we have to go to the Nine Hells in the not too distant future, are you down for that?
+2286;SAM;Well.  Hold on, let me check my list....|that is on the list. It was... lower down, but, it's another thing I have to tick off before I'm a real adventurer! So, I'm up for anything if you are.
+2287;LIAM;Hm. I do not like you.
+2288;MARISHA;This fucking asshole, am I right? This fucking asshole.
+2289;TRAVIS;Can I insight check Asshole?
+2290;MATT;Yes, you may.
+2291;LIAM;Look at this willing accomplice motherfucker!
+2292;MARISHA;I know!
+2293;LAURA;You piece of shit, both of you.
+2294;MARISHA;You're all pieces of shit.
+2295;LAURA;I'm so angry at everything right now.
+2296;TRAVIS;Is it perception or what on that?
+2297;MATT;Insight.
+2298;TALIESIN;It feels weird. New dad is wearing old dad's skin, and trying to do an impression of him and--
+2299;MARISHA;(yelling) I don't like change!
+2300;LIAM;Who cares about the whisper, what's going on, Sam?
+2301;MARISHA;Bullshit.
+2302;TALIESIN;Tell us about the LootCrate, Sam! Tell us about the LootCrate.
+2303;LAURA;How dare you, Samuel? (gasps) He has a new character sheet. I'm going to cry, again.
+2304;TALIESIN;Ah! Mother lied. Ah.
+2305;LAURA;I'm going to cry again. Nope. I hate Tary.|He's a dick.
+2306;TRAVIS;We are actually--
+2307;MARISHA;You're going to make Laura cry.|Look what you've done.
+2308;TRAVIS;We are currently under--
+2309;TALIESIN;Dick.
+2310;MARISHA;(yelling) Fuck you, Ryan Green! Fuck you!
+2311;LIAM;This show is breaking apart because of you, Sam!
+2312;MARISHA;You were part of this too!
+2313;LIAM;Show me on the character sheet where the bad DM touched you.
+2314;MATT;So, bringing it back to current conversation at hand.
+2315;TRAVIS;We are currently employed right now.|We're on a very, very dangerous mission.
+2316;LAURA;A super important mission.
+2317;TRAVIS;However, it ends here. So, if you have the coin, and maybe if you prove yourself not to be too much of a lag-behind.|Percy, what do you feel like--
+2318;TALIESIN;I'm just saying, look, it's not like we don't have business right now. You seem...|what does he seem like?
+2319;MARISHA;Yeah, what do you do, Tary?
+2320;SAM;I'm an adventurer!
+2321;TRAVIS;He's an adventurer.|(all laugh)
+2322;TALIESIN;You seem like a person, and that's great.
+2323;TRAVIS;Like Kenneth Branagh in Harry Potter.
+2324;LIAM;He seems like a prat.
+2325;TALIESIN;I'm trying not to judge at the moment, and--
+2326;LIAM;That's what you do.
+2327;TALIESIN;I know. I've had a bad day.
+2328;MARISHA;We trust you to judge.
+2329;TRAVIS;What does he do?
+2330;SAM;That's my biographer, Doty.
+2331;TRAVIS;Does he just write stuff?
+2332;SAM;If I tell him to. He also has other skills.
+2333;LAURA;What does he have?
+2334;SAM;Many things. I can grant powers to many people.|For instance: you, Little Elf Girl, what's your name?
+2335;TRAVIS;(laughs) (quietly) I'm gonna move over here.
+2336;MARISHA;Hell no. Oh-ho-ho-ho.
+2337;TALIESIN;I take it back, I like him.
+2338;LIAM;Wait, I'm stealthing.
+2339;MATT;Flames on the side of my face. Fire.|Heaving breaths.
+2340;MARISHA;Keyleth uses a fog cantrip and just fades into the alleyway.
+2341;LIAM;I rolled a 33 on stealth, I'm gone!
+2342;TALIESIN;And I just hex into the shadows.
+2343;MARISHA;It's like we're in a Western when they cut back to the tavern and everyone's gone.
+2344;MATT;Basically.
+2345;LAURA;I walk up to him. What kind of adventurer are you if you've never heard of Vox fucking Machina?
+2346;SAM;Ooh! Is that a band of evildoers, is that a roving goliath horde?
+2347;LAURA;Where the fuck have you been? Who are you? No really, who the fuck are you?
+2348;SAM;My name is Taryon Darrington, I am an adventurer, and I have more recently set out on my journey, that is true.
+2349;LAURA;This armor looks very new.
+2350;SAM;I have not seen so many real battles yet, but I have fought many beasts.
+2351;LAURA;Mm.
+2352;SAM;"There was one, it was a smallish beholder, and my men took it out into a field for me and sort of roughed it up for me, and then when the time was right for the kill, they said ""Come on in and kill it!"" And I came in and used my powers and killed it and I checked it off the list."
+2353;LAURA;Oh, I see.
+2354;SAM;Yes. It was so thrilling.
+2355;TRAVIS;Your men, are you--
+2356;LAURA;The ones that died.
+2357;TRAVIS;Oh.
+2358;LAURA;Right?
+2359;SAM;They also perished, that was a different group, yes.
+2360;LAURA;Wonderful.
+2361;SAM;But they were well-paid before they went, and I'm sure they sent some of the money home.|Some of them, I think they do that, typically.
+2362;TRAVIS;What else is on your list, what're you looking for?
+2363;SAM;I've got a long list of beasts and animals I'd like to slay--
+2364;TRAVIS;Just give me one.
+2365;SAM;Uh, naga, I think that's how you say it.
+2366;LAURA;That is how you say it.|TRAVIS. It's actually nah-jah.
+2367;SAM;Okay.
+2368;MARISHA;(laughs) Nah-jah!
+2369;SAM;I've already gotten a smaller beholder.|Someday I'd like to see a dragon, maybe have a crack at it or two.
+2370;LAURA;Oh, I'm sure you'd take it out in no time, dear.
+2371;TALIESIN;Right.
+2372;MARISHA;Man, I fucking hate this guy.
+2373;SAM;I feel like you're condescending to me! I'm not, I'm not a dullard, here. I can do a lot of things! My wealth has bought me many different artifacts from my travels, and they all do majorly magical things.
+2374;TRAVIS;What kind of weapons does he have on him?
+2375;SAM;I have a rod.
+2376;LAURA;An Immovable Rod?
+2377;TRAVIS;Is it movable?
+2378;SAM;No, it's whatever I want it to be. Sword!
+2379;MATT;You watch as the rod all of a sudden transforms into this sudden liquid, metal-like visage, and then solidifies into a longsword.
+2380;SAM;Fire!
+2381;MATT;It bursts into flames.
+2382;TRAVIS;Now that is fucking great.
+2383;SAM;It's fucking cool, isn't it?!
+2384;LAURA;How much money did that cost?
+2385;SAM;Oh, like, 400,000 gold or something? It was a lot of money. I don't quite... Doty keeps the facts and figures. Doty, can you show me that piece of the book?
+2386;MATT;(mechanical squeaks, pages turning, squeaks). Turns it around.
+2387;SAM;That's embarrassing.
+2388;MATT;Shows the page to you and you glance through it, and the actual construction of the item cost you upwards around 65 to 70,000 gold.
+2389;LAURA;That's it?!
+2390;MATT;It's a lot of money.
+2391;LAURA;Well I know, but--
+2392;TRAVIS;So wait, you want to come with us, or you want us to come with you?
+2393;SAM;I don't have a current adventure right now.|Fire off.|Still getting used to some of the contraptions.
+2394;LAURA;Tell you what, Tary? 50,000 gold and you can follow us right now as we finish this very adventurous errand we're running.
+2395;MARISHA;What! Vex!
+2396;TRAVIS;Yeah!
+2397;MARISHA;What?!
+2398;LAURA;50,000 gold. Small fee.
+2399;SAM;What kind of adventure is this, again? You mentioned you're going to do something very dangerous.
+2400;LAURA;It's so dangerous.
+2401;TRAVIS;So dangerous.
+2402;LAURA;We're going into this dangerous--
+2403;SAM;Can you tell me what it is?
+2404;LAURA;I'm afraid I can't, it's very--
+2405;TRAVIS;It's a test of your reflexes, on point, how you handle things you're not quite ready for.
+2406;SAM;I could limber up, sure.
+2407;LIAM;I stealth up behind Keyleth and rest my chin on her shoulder and just say Whaaat the fuuuuck.|(all laugh)
+2408;MARISHA;And I just say I knoooow.|Um, Vex.
+2409;LAURA;What?
+2410;TALIESIN;One moment, sir. Huddle.
+2411;MARISHA;Huddle. Is 50,000 dollars worth dealing with this annoying piece of shit?
+2412;LAURA;While we go drop off a hand?
+2413;MARISHA;Look, it just feels like when your guinea pig dies as a kid and then you immediately get another guinea pig to replace it? This doesn't feel good.
+2414;TRAVIS;You don't like him, right?
+2415;LAURA;You think he's replacing Scanlan?
+2416;MARISHA;No! I just, I don't want another guinea pig!
+2417;LAURA;This piece of shit would never replace Scanlan.
+2418;MARISHA;He's a fabricator! He gets ghostwriters to write all of his books, I bet he does!
+2419;LIAM;He's a schmuck.
+2420;TRAVIS;He probably does. Keyleth, you don't like him very much, right?
+2421;MARISHA;I don't like new people right now, as of yesterday!
+2422;TRAVIS;But like, 50,000 gold and we have ourself a very flamboyant distraction if we need it.
+2423;LAURA;Think about it, for 50,000 gold, we're only 15,000 gold away from getting one of those fucking flaming swords!
+2424;SAM;While they're talking, I'm working on my rod.|Battleaxe!
+2425;LAURA;Look at how fucking cool that rod is!
+2426;TRAVIS;He's in. He's fucking in.
+2427;MARISHA;No!
+2428;TRAVIS;Look at the battle axe! Holy shit!
+2429;MARISHA;You guys, he's like the worst alter-ego version of Percy! He's a rich kid who just buys all of his cool toys. No offense, Percy.
+2430;TALIESIN;None taken.|(all laugh)
+2431;MARISHA;It's true though! He's not legit!
+2432;LIAM;I don't like him either, but I'll just say two words: Hotis bait.
+2433;TALIESIN;Yes, that's my thought.
+2434;LAURA;Maybe he is Hotis.
+2435;MARISHA;Oh yeah, what if he is Hotis?
+2436;TRAVIS;He's not.
+2437;MARISHA;How do you know, Grog?
+2438;LIAM;He hasn't tried to seduce me.
+2439;TRAVIS;I'm a dark wizard.
+2440;LAURA;I've always known.
+2441;TRAVIS;Yeah.
+2442;TALIESIN;I'm not going to pretend I'm not mildly entertained by the distraction at the very least.|We just have to drop off a hand.
+2443;MARISHA;And then he's gonna take credit for dropping off a hand, like it's some crazy, miraculous thing!
+2444;LAURA;Let him take credit for the hand.
+2445;TALIESIN;Do you want credit for dropping off a hand?
+2446;MARISHA;No! I don't care. It's the principle of the matter!
+2447;TRAVIS;Is there a fighting arena in Marquet, or anywhere we could find a scrap if we wanted to?
+2448;MATT;I mean, I believe there is. Let me find the name of it real fast.
+2449;TALIESIN;We also could report in to a certain dragon about things that have happened.
+2450;LAURA;We actually need to because we promised Jarett we would talk to J'mon.
+2451;LIAM;So many things to do.
+2452;TALIESIN;Let's just--
+2453;LIAM;While Grog's thinking about that, I pull him aside and say Did I ever show you I know how to summon a dragon, d'you know how to do that?
+2454;TRAVIS;No.
+2455;LIAM;Watch and learn from my hand symbols.|What do you think of that, big guy?
+2456;TRAVIS;And I grab his hands with the Titanstone Knuckles--
+2457;LIAM;Ow! Ow!
+2458;TRAVIS;-- and squeeze.
+2459;LIAM;Jeepers creepers, you've killed my dragon!
+2460;MARISHA;Grog! Grog!
+2461;TRAVIS;Don't --
+2462;MARISHA;Grog! Grog!
+2463;TRAVIS;-- summon the dragon. Uh, what?
+2464;MARISHA;Grog, no, no, let go, Grog drop it, Grog drop --
+2465;TRAVIS;-- baby dragon
+2466;MARISHA;Drop it, drop it, good boy!
+2467;LIAM;See if I ever do anything nice for you again! Jeez!
+2468;TRAVIS;Well, I thought you were being taken over.|D'you need me to make sure you're all right?
+2469;TALIESIN;Very proud of you Grog.
+2470;LIAM;Will you kiss it? I thought so. And I walk away.
+2471;MARISHA;Grog.
+2472;TRAVIS;He comes. C'mon.
+2473;LIAM;We are fucking slap-happy.
+2474;TALIESIN;C'mon then.
+2475;TRAVIS;Besides I wanna see him get in a fight, let's audition him at least.
+2476;TALIESIN;Vex, let's let the money tag along.
+2477;LAURA;Yeah.
+2478;TALIESIN;It'll be fine.
+2479;MARISHA;Okay, but I'm--
+2480;LAURA;C'mon, pretty boy, let's go.
+2481;MARISHA;-- gonna be pouty about this.
+2482;SAM;Doty, take this down. As the group turned around, I knew I had them.|(all laugh)|And our adventure was about to begin.|End chapter.|(all laugh)
+2483;LAURA;I hate him so much!
+2484;MARISHA;I hate him so much!
+2485;TRAVIS;I love him.
+2486;LIAM;I miss Scanlan! (all laugh)
+2487;MATT;As you guys decide against your better judgment to accept your companion for the time being--
+2488;LIAM;Don't like that word!
+2489;MATT;-- you make your way into the Debt's Respite Tavern to meet with Treev Bonebreaker and deliver the right hand.
+2490;LAURA;Wait, wait, I wanted that gold up front!
+2491;SAM;Oh! I don't carry 50,000 gold with me on my person!
+2492;LAURA;Well, you carry platinum, how much do you have?
+2493;SAM;I-- not--
+2494;LAURA;Doty, how much platinum does he have on him right now?
+2495;SAM;Doty, go ahead and speak.
+2496;MATT;No response.
+2497;SAM;Go ahead, Doty, speak.
+2498;LAURA;Doty!
+2499;SAM;Oh, that's right, Doty can't speak.|Doty's a machine.
+2500;LAURA;Doty, show me the ledger. How much platinum does he have on his person right now?
+2501;MATT;There's no response.
+2502;LIAM;(robot beeping sound effects)
+2503;SAM;Doty only listens to me. If you had some sort of a pet, you would understand.
+2504;TRAVIS;(gasps) Oh, I'm gonna love Tary so much!
+2505;MARISHA;Vex! Vex, kick his ass!
+2506;TRAVIS;I'm gonna love him so much.
+2507;MARISHA;Kick his ass, Vex!
+2508;LAURA;Gold up front or you don't join us.
+2509;SAM;How about this? I'll give you a little present, just for you, little elf girl. And I flip her a silver coin that I have put a spell into.|I've put--
+2510;LAURA;I don't catch the coin.
+2511;MARISHA;You're like all the bad things about the internet as a character.
+2512;LAURA;It's a piece of shit silver coin, I don't need your stupid silver coin.
+2513;SAM;It's a special coin, you should pick it up.
+2514;TALIESIN;Did he flip the coin at her?
+2515;MATT;He did.
+2516;TALIESIN;I was thinking of intercepting it anyway so--
+2517;MATT;Okay. It would be easy to do with your Gloves of Missile Snaring.
+2518;TALIESIN;Yeah, I have Gloves of Missile Snaring.|I intercept it.
+2519;SAM;Well, that was for the elf girl but all right, sure, you can use it too. When you need it, if you just hold that coin up, you'll turn invisible.
+2520;TRAVIS;Seriously? An invisible-making coin?
+2521;MARISHA;No! Grog, no! Do not show satisfaction in the things he says.
+2522;TRAVIS;This is just my gut reaction though.|MARISHA. Even if you're impressed, we pretend like we're not. Pretend like you're not impressed.
+2523;TALIESIN;I'm not saying I can't be bought--
+2524;LIAM;You said that very loud.
+2525;SAM;Hey, big man.
+2526;TRAVIS;Yeah.
+2527;SAM;Look at this. Heavy crossbow!
+2528;TRAVIS;It's the most amazing thing!
+2529;MARISHA;Grog!
+2530;TRAVIS;I mean, hold on! Not impressed.
+2531;SAM;You can shoot it!
+2532;TRAVIS;I wanna shoot it! (all laugh)|(bvvm!)
+2533;MATT;(tsoo!)
+2534;TRAVIS;Yeah, oh shit, take it back.
+2535;MATT;You have no idea where it went, it arced way out of your line of sight.
+2536;SAM;That was pretty good.
+2537;TRAVIS;That's cool.
+2538;SAM;Yes!
+2539;TRAVIS;He stays.
+2540;TALIESIN;Let's get the hand to its final destination.
+2541;LAURA;Ugh!
+2542;TRAVIS;Or you can kill him and take the weapon later.
+2543;LAURA;I will.
+2544;LIAM;He's slow. None of the rest of us like you, so fucking watch it, all right?
+2545;LAURA;We're such dicks!
+2546;SAM;And with that we embarked on our new adventure! The adventures of, what was it again?
+2547;TALIESIN;(sighs)
+2548;LIAM;What a dillweed!
+2549;SAM;This is going to be fun, fun, fun! (all laugh)
+2550;MATT;As you walk into the Debt's Respite Tavern, we're gonna end tonight's session there and pick this up next week.|(all cheer, groan, yell)
+2551;LIAM;You break our hearts and then pull that asshole out?
+2552;LAURA;You asshole! How dare you? How dare you?
+2553;TALIESIN;Unbelievable!
+2554;MATT;Oh, it's beautiful.
+2555;LAURA;I am so angry at you!
+2556;MARISHA;You were on the Critical Role wikia last night weren't you?
+2557;TRAVIS;Tary berry.
+2558;TALIESIN;Yes, he was, he has it all--
+2559;SAM;Tary Darrington.
+2560;LIAM;You ain't know all our characters' mothers' names, you motherfucker.
+2561;SAM;I know all of your parents' names.
+2562;LIAM;After Googling that shit!
+2563;SAM;Because I love you!
+2564;LAURA;Whatever!
+2565;SAM;I love you so much!
+2566;LAURA;Sam you're the least-- you don't care about any of it!
+2567;SAM;I am the most sincere!
+2568;LAURA;You're a dick!
+2569;TRAVIS;That was amazing.
+2570;LIAM;It was amazing, it was amazing.
+2571;TALIESIN;I love that-- I wish that everyone could see that the crew is in utter revolt behind us right now.
+2572;MARISHA;Yes! Get him! Get him!
+2573;TALIESIN;And they've all got nerf guns!
+2574;LAURA;Get him! Get him! He deserves it!
+2575;LIAM, TALIESIN;You're tearing this family apart!
+2576;SAM;No, I'm Tary-ing this-- Tarying this--
+2577;MATT;Tary-ing this family apart, oh my god! (all laugh)|Thank you Loot Crate for sponsoring us.|You guys are awesome. Much love to you guys, have a wonderful week. We'll see you soon.|Is it Thursday yet?
+2578;TALIESIN;Big hand for Sam Riegel, holy shit! [ART]
