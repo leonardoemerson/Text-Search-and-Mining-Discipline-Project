@@ -34,21 +34,21 @@
 32;ORION;I'm waving through it.
 33;MATT;Tiberius is waving through it.
 34;LAURA;Oh, you're still up top.
-35;MATT;"The general's on the ground, warhammer at his side, blackened armor still kind of sizzling with the arcane energy from his temporary Banishment via Scanlan. He sits there with this kind of gnarled, brackish beard, looking about the rest of you with these wild kind of white-coated eyes. ""So you found your way in. What's your purpose? What do you want from me?"""
+35;MATT;"The general's on the ground, warhammer at his side, blackened armor still kind of sizzling with the arcane energy from his temporary Banishment via Scanlan. He sits there with this kind of gnarled, brackish beard, looking about the rest of you with these wild kind of white-coated eyes. """"So you found your way in. What's your purpose? What do you want from me?"""""
 36;LIAM;Well, Vax walks right up to him and walks behind him and grabs him by the hair, and right back to this position. Let's have a talk.
 37;LAURA;Oh.
 38;LIAM;Would you care to have a chat?
 39;LAURA;Of course I would, thank you.
-40;MATT;"""If you want blood, take it. It's all you're getting from me."""
+40;MATT;"""""If you want blood, take it. It's all you're getting from me."""""
 41;TRAVIS;Okay, kill him.
 42;ALL;No, wait!
 43;ORION;Hold on a second, ask the question.
 44;LAURA;We don't want your blood.
 45;ORION;What are we asking?
 46;LAURA;We're looking for a halfling. Have you seen one?
-47;MATT;"""I don't know what you're talking about."""
+47;MATT;"""""I don't know what you're talking about."""""
 48;LAURA;A female halfling. She came down here.
-49;MATT;"""Well, she wouldn't have gotten far if she did. Not with my people."""
+49;MATT;"""""Well, she wouldn't have gotten far if she did. Not with my people."""""
 50;LIAM;I take my dagger and stick it in about a centimeter and say, your master is gone, it's just you and your friends here now, I think it's in your best interest to talk. You could walk away from here. You don't have to die if you can play nicely.
 51;ORION;And believe me when I tell you he usually kills everybody.|He doesn't give that offer very often.|(all laugh)
 52;MATT;Go ahead and make an intimidation roll with advantage.
@@ -60,15 +60,15 @@
 58;LAURA;That's the way!
 59;TRAVIS;Probably those eight miles you rode.
 60;ORION;Shush!
-61;MATT;"As you pull the blade to his throat, he chuckles deeply against the strain. ""Your halfling lass was foolish. We took her. We delivered her to King Murghol as a present. If she lives, she's probably ruined and broken deep within the dungeons of Emberhold.|You're welcome to go for her there."""
+61;MATT;"As you pull the blade to his throat, he chuckles deeply against the strain. """"Your halfling lass was foolish. We took her. We delivered her to King Murghol as a present. If she lives, she's probably ruined and broken deep within the dungeons of Emberhold.|You're welcome to go for her there."""""
 62;LIAM;Who's this king of yours?
 63;LAURA;King what?
 64;MARISHA;Murgholt?
-65;MATT;"""Murghol."""
+65;MATT;"""""Murghol."""""
 66;ORION;Which way should we head?
-67;MATT;"""Ooh, down, probably."""
+67;MATT;"""""Ooh, down, probably."""""
 68;ORION;I mean, is there any particular shortcuts or less running into your kind along the way, I suppose?
-69;MATT;"""I highly doubt it."" He spits in your direction."
+69;MATT;"""""I highly doubt it."""" He spits in your direction."
 70;ORION;Oh! Prestidigitation. And I catch it and throw it back into his face.
 71;MARISHA;Can I do an insight check to see if he's lying about that?
 72;MATT;Go for it.
@@ -104,36 +104,36 @@
 102;MATT;You got your paper today? Lovely.
 103;LIAM;She's bonafide.
 104;LAURA;18.
-105;MATT;"18. He says, ""No passages to the stronghold, but there is a way in. Aside from the front. Good luck getting up in there from that point."""
+105;MATT;"18. He says, """"No passages to the stronghold, but there is a way in. Aside from the front. Good luck getting up in there from that point."""""
 106;ASHLEY;Is it through the lake?
-107;MATT;"""Yes, through the lake. Deep below, you'll find a tunnel. This tunnel will lead you to a subterranean passage straight to the stronghold."""
+107;MATT;"""""Yes, through the lake. Deep below, you'll find a tunnel. This tunnel will lead you to a subterranean passage straight to the stronghold."""""
 108;LAURA;Can we check to make sure he's not untruthful?
 109;MATT;Make an insight.
 110;LAURA;(groans) Okay. 16?
 111;MATT;No, he's bullshitting through his teeth.
 112;LAURA;Oh, okay.
 113;LIAM;Vex'ahlia?
-114;MATT;"Hey, he seemed honest about the passage but dishonest about the-- he's basically following her lead. ""Uh-huh."""
+114;MATT;"Hey, he seemed honest about the passage but dishonest about the-- he's basically following her lead. """"Uh-huh."""""
 115;LAURA;You're lying.
-116;MATT;"""Perhaps."""
+116;MATT;"""""Perhaps."""""
 117;LAURA;Tell us true, where is it?
-118;MATT;"""If I tell you, will you let me live?"""
+118;MATT;"""""If I tell you, will you let me live?"""""
 119;TRAVIS;Ooh. Well.
 120;TALIESIN;I think that's very reasonable.
 121;LAURA;I think that's reasonable. We'll--
-122;MATT;"""I'm essentially--"""
+122;MATT;"""""I'm essentially--"""""
 123;TALIESIN;We will not kill you.
 124;LAURA;I think we can--
 125;TRAVIS;We can lock him up. And then kill him.
 126;LIAM;We'll leave you alive.
 127;LAURA;We'll leave you alive.
 128;LIAM;Yes.
-129;MATT;"""Don't just leave me alive. Give me a chance to walk from this building, on my own, arms intact."""
+129;MATT;"""""Don't just leave me alive. Give me a chance to walk from this building, on my own, arms intact."""""
 130;TRAVIS;No.
-131;MATT;"""And I'll give you the secret entrance to Emberhold itself, leading you straight within the throne room."""
+131;MATT;"""""And I'll give you the secret entrance to Emberhold itself, leading you straight within the throne room."""""
 132;ORION;Well, that's a good thing.
 133;TALIESIN;So we have to leave you alive, and let you leave this building intact?
-134;MATT;"""Correct."""
+134;MATT;"""""Correct."""""
 135;TRAVIS;I go over and pick up his warhammer and say, you may-- maybe-- leave.|But I get to keep this as a souvenir.
 136;TALIESIN;I actually think this is an appropriate moment to play with a bit of banditry. I say we take everything from him and he can make his way out all on his own.
 137;TRAVIS;I like that idea.
@@ -149,16 +149,16 @@
 147;MARISHA;Why don't we take him with us? Just in casies--
 148;MATT;At which point, a cold, clammy hand touches your shoulder and pulls you aside as--
 149;MARISHA;Ew.
-150;MATT;"-- a partially hooded Clarota steps forward and says, ""I'll attempt to read his surface thoughts. If he tries to keep it from me, I'll know."""
+150;MATT;"-- a partially hooded Clarota steps forward and says, """"I'll attempt to read his surface thoughts. If he tries to keep it from me, I'll know."""""
 151;TRAVIS;Smart, smart!
-152;MATT;"As he steps forward, he puts one hand in front of him and his eyes gleam with a sickly green hue. You can see the general tips his head back for a second and begins twitching an eye. Sweat begins to bead around his brow as Clarota takes another step forward, tensing his hand once more, his head beginning to bow forward with an intensity, a force of focus towards his direction. You can now see the general, ""Let me live. Let me go and I'll tell you. This isn't necessary. I'm willing to give you the information."" You can see a trickle of blood begin to pour out of one of his nostrils."
+152;MATT;"As he steps forward, he puts one hand in front of him and his eyes gleam with a sickly green hue. You can see the general tips his head back for a second and begins twitching an eye. Sweat begins to bead around his brow as Clarota takes another step forward, tensing his hand once more, his head beginning to bow forward with an intensity, a force of focus towards his direction. You can now see the general, """"Let me live. Let me go and I'll tell you. This isn't necessary. I'm willing to give you the information."""" You can see a trickle of blood begin to pour out of one of his nostrils."
 153;TRAVIS;Yeah.
 154;ORION;That's a mind flayer.
 155;LAURA;What do we do? I think we should stop him.|Should we stop him?
 156;LIAM;Clarota.
 157;LAURA;Wait.
 158;LIAM;Does he know anything about K'varn?
-159;MATT;"""Let me see."" And the mind flayer pushes once more into his brain. You see a twitch to his face as his head kind of lolls back and rolls for a second, resisting as best he can. But his will is currently being beaten by the defeat of the battle, the lack of his compatriot mind flayer, and the sheer intensity of Clarota now focused on vengeance and returning to his people. The blood beings to stream not just from his nostrils, but from his ears as well. As Clarota releases him for a second, he goes, ""He has not seen K'varn, but knows a bit of his nature. I cannot read it, but we could press for more information."""
+159;MATT;"""""Let me see."""" And the mind flayer pushes once more into his brain. You see a twitch to his face as his head kind of lolls back and rolls for a second, resisting as best he can. But his will is currently being beaten by the defeat of the battle, the lack of his compatriot mind flayer, and the sheer intensity of Clarota now focused on vengeance and returning to his people. The blood beings to stream not just from his nostrils, but from his ears as well. As Clarota releases him for a second, he goes, """"He has not seen K'varn, but knows a bit of his nature. I cannot read it, but we could press for more information."""""
 160;LIAM;I walk up--
 161;LAURA;I think we should just ask him.
 162;LIAM;-- next to Clarota, push the dwarf against the wall, and say, our friend here is not as patient as I am. We want to know about this K'varn, and we want you and all your men, all your little mates here, to throw your weapons into the chasm, you can go fuck off, but we want to know everything. And this is your last chance. Right now, right here. Talk.
@@ -171,13 +171,13 @@
 169;TRAVIS;Thank you.
 170;ASHLEY;Yeah, me too.
 171;MARISHA;It's starting to become a thing now. I'm just saying.
-172;MATT;"""K'varn was responsible for forging the alliance. For centuries and generations, his people and mine killed and fought. It wasn't until K'varn came that we decided to work together for a common cause. Expansion, unification, dominion over this land and these mountains. Divided, we were weak, petty, greedy. With K'varn leading us, we have purpose, we have growth. We could take what we'd like, and I'm but one dwarf. If I fall over here, many more will take over where I fell."""
+172;MATT;"""""K'varn was responsible for forging the alliance. For centuries and generations, his people and mine killed and fought. It wasn't until K'varn came that we decided to work together for a common cause. Expansion, unification, dominion over this land and these mountains. Divided, we were weak, petty, greedy. With K'varn leading us, we have purpose, we have growth. We could take what we'd like, and I'm but one dwarf. If I fall over here, many more will take over where I fell."""""
 173;TALIESIN;Well, we can see that's obviously worked out really well for you. I think that I'm satisfied, are you satisfied?
 174;LAURA;What kind of creature is K'varn?
 175;LIAM;What is K'varn?
-176;MATT;"""I have not seen K'varn personally."""
+176;MATT;"""""I have not seen K'varn personally."""""
 177;LAURA;But you've heard rumors, though?
-178;MATT;"""What I know of K'varn-- a being of immense intelligence. A creature that needs not walk this earth, one that does not touch the land that it traverses. I know it sees all, it smiles from a toothy maw and laughs, laughs in the darkness.|Protruding from its forehead, one nasty, gnarled black horn, terrible source of its dark power.|That is what's beneath here."""
+178;MATT;"""""What I know of K'varn-- a being of immense intelligence. A creature that needs not walk this earth, one that does not touch the land that it traverses. I know it sees all, it smiles from a toothy maw and laughs, laughs in the darkness.|Protruding from its forehead, one nasty, gnarled black horn, terrible source of its dark power.|That is what's beneath here."""""
 179;LAURA;Is he telling the truth?
 180;MATT;Insight check.
 181;LIAM;Insight check for me as well.
@@ -209,7 +209,7 @@
 207;TRAVIS;Do you wanna handcuff him?
 208;ASHLEY;Take off your clothes!
 209;LAURA;Yeah, let's take his-- We take Grog's handcuffs out of his bag.
-210;MATT;"""Let me-- That was not the deal! You leave me, unspoiled, on my life, and I tell you the way into Emberhold."""
+210;MATT;"""""Let me-- That was not the deal! You leave me, unspoiled, on my life, and I tell you the way into Emberhold."""""
 211;LAURA;Well, tell us!
 212;ORION;Take the hammer. That's rough on him. Leave his armor on.
 213;LAURA;You haven't told us yet, have you?
@@ -221,15 +221,15 @@
 219;ORION, TRAVIS;Oh good, yeah.
 220;TRAVIS;Nice! Percy's fucked-up tonight, I like it.
 221;TALIESIN;I'm in a mood.
-222;MATT;"""Emberhold."""
+222;MATT;"""""Emberhold."""""
 223;LIAM;He tried to make a book out of someone's flesh once.
 224;LAURA;Wait, wait. He's telling us, shut up.
 225;LIAM;Yes, sorry.
-226;MATT;"""Emberhold is the fortress of our people, built to resist assault from all sides."""
+226;MATT;"""""Emberhold is the fortress of our people, built to resist assault from all sides."""""
 227;LIAM;Shite.
-228;MATT;"""We've an army, hiding about the outskirts of it. Kind of like an army you might have in one of yours, if you think you have a chance. However, since I don't think that's what you carry, your best bet is on the left side of the fortress.|There are two streams of molten rock that pour down the side. The smaller of those two streams covers a secret tunnel."""
+228;MATT;"""""We've an army, hiding about the outskirts of it. Kind of like an army you might have in one of yours, if you think you have a chance. However, since I don't think that's what you carry, your best bet is on the left side of the fortress.|There are two streams of molten rock that pour down the side. The smaller of those two streams covers a secret tunnel."""""
 229;LIAM;Insight check. Is he full of shit? I rolled-- Oh, nothing too hot at all. Never mind, forget it. Forget I said anything.
-230;MATT;"All right. He seems to be forthright and honest with his information. ""However, that'll take you through the lava. That's up to you. It's meant to open from the inside. A trapdoor-like mechanism that spreads the actual flow. From the outside, well, good luck.|I've done my side of the bargain. Let me free."""
+230;MATT;"All right. He seems to be forthright and honest with his information. """"However, that'll take you through the lava. That's up to you. It's meant to open from the inside. A trapdoor-like mechanism that spreads the actual flow. From the outside, well, good luck.|I've done my side of the bargain. Let me free."""""
 231;LIAM;Stepping behind, I take my knife, and I cut his belt loose and let his pants fall, and I give him a little nudge.
 232;MATT;Okay.
 233;LAURA;You're free to go. Not toward your stronghold, but towards the surface.
@@ -240,7 +240,7 @@
 238;TRAVIS;Can't we have Scanlan turn him into a porpoise?
 239;MATT;He picks up his warhammer.
 240;TRAVIS;I don't think so. No, that's mine. As a token to remember you by.
-241;MATT;"""Unspoiled was the deal."""
+241;MATT;"""""Unspoiled was the deal."""""
 242;LIAM;Wasn't the deal.
 243;TRAVIS;No, it's great. You can really argue all you want to, or I'll just smash your fucking head in.
 244;LIAM;Wasn't the deal!
@@ -317,7 +317,7 @@
 315;MARISHA;To not be an oathbreaker.
 316;TALIESIN;Know when you've lost your clothes.
 317;LAURA;Was that actually, like, a meal for you?
-318;MATT;"As you're looking, you can see there's that kind of weird purplish crimson around his tendrils, as he kinda wipes it off with his hands, and goes, ""It's enough to sustain me a while. I was getting hungry."""
+318;MATT;"As you're looking, you can see there's that kind of weird purplish crimson around his tendrils, as he kinda wipes it off with his hands, and goes, """"It's enough to sustain me a while. I was getting hungry."""""
 319;LAURA;Well. Better him than us, I say.
 320;TRAVIS;Right. Me, I'm just an appetizer.
 321;ORION;Yes, indeed.
@@ -371,11 +371,11 @@
 369;ASHLEY;Or it's just-- it's gone after that.
 370;TRAVIS;The warhammer--
 371;LIAM;Sh!
-372;MATT;"""There are residual memories, thoughts. It's delicious."" And you can see, there's this almost rapturous look in his face you haven't seen before. For a moment, Clarota looks a little younger, a little stronger, a little more dangerous. And you're put off a little bit by it."
+372;MATT;"""""There are residual memories, thoughts. It's delicious."""" And you can see, there's this almost rapturous look in his face you haven't seen before. For a moment, Clarota looks a little younger, a little stronger, a little more dangerous. And you're put off a little bit by it."
 373;TRAVIS;Clarota is Dracula.
 374;MATT;But there's kind of this momentary kind of relishing in the moment and--
 375;MARISHA;Do we need to give you a moment alone? We can leave.
-376;MATT;"""He speaks the truth about the path into the Emberhold."""
+376;MATT;"""""He speaks the truth about the path into the Emberhold."""""
 377;LAURA;All right.
 378;LIAM;So, he spoke of some sort of trap door that's easy to open from within, but not from outside, correct?
 379;MARISHA;It was hidden by a lava flow.
@@ -486,7 +486,7 @@
 484;LAURA, TRAVIS;Natural 20.
 485;LAURA;31 for me.
 486;LIAM;29.
-487;MATT;"All right, so you all take off. As you do, you can see now, probably close to 30 or 40 duergar have now begun rushing towards the barracks in the center of that main open area where that wooden platform was, where Scanlan originally saw a mind flayer. As you rush up, you hear (speaks Undercommon). You hear it as Undercommon, screaming, ""There! Above, look!"""
+487;MATT;"All right, so you all take off. As you do, you can see now, probably close to 30 or 40 duergar have now begun rushing towards the barracks in the center of that main open area where that wooden platform was, where Scanlan originally saw a mind flayer. As you rush up, you hear (speaks Undercommon). You hear it as Undercommon, screaming, """"There! Above, look!"""""
 488;LAURA;Oh, they saw us.
 489;ASHLEY;Maybe you should scream, like, no, they went the other way!
 490;LIAM;Just keep going up, up, up.
@@ -1082,7 +1082,7 @@
 1080;LIAM;Here, sit on this, Clarota.
 1081;LAURA;If you need it.
 1082;LIAM;That'd be easier, yes.
-1083;MATT;"Clarota gets up on the carpet and-- ""Thank you."" The carpet kind of drifts alongside you guys. You guys are pushing backwards towards the cavern. The tunnel kind of begins to pinch a little bit. It gets to about a 15-foot width before it opens up again. You're about a hundred feet back. You can now see it opening into a-- what looks like an extension of the war camp.|(all groan)"
+1083;MATT;"Clarota gets up on the carpet and-- """"Thank you."""" The carpet kind of drifts alongside you guys. You guys are pushing backwards towards the cavern. The tunnel kind of begins to pinch a little bit. It gets to about a 15-foot width before it opens up again. You're about a hundred feet back. You can now see it opening into a-- what looks like an extension of the war camp.|(all groan)"
 1084;LAURA;We should've gone down! What were we thinking?
 1085;MATT;Go ahead and make a perception check.
 1086;LIAM;That guy was lying.
@@ -1105,9 +1105,9 @@
 1103;LIAM;Clarota, do you know anything about these passages?
 1104;LAURA;Do you remember anything?
 1105;MARISHA;Wait, why did he say that? Why did you say that?
-1106;MATT;"'Cause they're both kind of left. It's a joke. Clarota takes a moment and kind of looks at you, kind of-- his breath. ""I've not been this far up these tunnels. It's too dangerous this close to the war camp. I would've been killed in a second."""
+1106;MATT;"'Cause they're both kind of left. It's a joke. Clarota takes a moment and kind of looks at you, kind of-- his breath. """"I've not been this far up these tunnels. It's too dangerous this close to the war camp. I would've been killed in a second."""""
 1107;LAURA;What about the general's memory? Anything there?
-1108;MATT;"He kind of closes his eyes for a second.|""One of these leads below, one of them leads to the surface. I can't recall which."""
+1108;MATT;"He kind of closes his eyes for a second.|""""One of these leads below, one of them leads to the surface. I can't recall which."""""
 1109;LAURA;Can we go up and--
 1110;TRAVIS;Let's split up!
 1111;LAURA;No, can we go next to the one on the far left and see if I sense any like wind coming down, is there--
@@ -1769,22 +1769,22 @@
 1767;MARISHA;It sounds amazing, that doesn't sound shitty.
 1768;MATT;As you start to mention that now, Clarota kind of nods and says,
 1769;LIAM;It feels a bit-- broken glass.
-1770;MATT;"""Aye, that's where the colony resides."""
+1770;MATT;"""""Aye, that's where the colony resides."""""
 1771;LAURA;Your colony?
-1772;MATT;"""Our great city."""
+1772;MATT;"""""Our great city."""""
 1773;LIAM;In which of those places? In the--
 1774;LAURA;In the fungal city.
 1775;LIAM;Fungal.
-1776;MATT;"""Amongst the ruins of jade and glass."""
+1776;MATT;"""""Amongst the ruins of jade and glass."""""
 1777;LAURA;(whispers) Jade.
 1778;ORION;Is that where we should go?
 1779;MARISHA;That's Yug'Voril?
-1780;MATT;"""Surrounded by the forest."""
+1780;MATT;"""""Surrounded by the forest."""""
 1781;MARISHA;That's Yug'Voril?
-1782;MATT;"""The city below Yug'Voril, that is where the temple resides, where K'varn holds the Elder Brain."""
+1782;MATT;"""""The city below Yug'Voril, that is where the temple resides, where K'varn holds the Elder Brain."""""
 1783;LAURA;Ah.
 1784;ORION;Ah, this is where we need to go, I'm assuming.
-1785;MATT;"""Ah, yes."""
+1785;MATT;"""""Ah, yes."""""
 1786;LIAM;He sounds like a real fun-guy.
 1787;TRAVIS;Oh god.|(all groan)
 1788;TALIESIN;Trip him again, trip him again.
@@ -1796,9 +1796,9 @@
 1794;LIAM;What is that? Wisdom?
 1795;MATT;Yes.
 1796;LIAM;12.
-1797;MATT;"Okay, you feel a mental slap as Clarota glares at you from across the tunnel.|""There'll be none of that in my presence."""
+1797;MATT;"Okay, you feel a mental slap as Clarota glares at you from across the tunnel.|""""There'll be none of that in my presence."""""
 1798;TRAVIS;You got bitch-slapped.
-1799;MATT;"""I hate puns."" (all laugh)"
+1799;MATT;"""""I hate puns."""" (all laugh)"
 1800;TRAVIS;(high-pitched voice) I hate puns.
 1801;LIAM;Noted, noted.
 1802;LAURA;So I bet, first fortress you saw, I bet the one of obsidian was where--
@@ -1809,9 +1809,9 @@
 1807;LAURA;I bet that's the one, because he mentioned molten lava or something. So she's being held there and then further in is K'varn.
 1808;ASHLEY;Yeah.
 1809;ORION;So get there, get K'varn.
-1810;MATT;"""Yes, Emberhold, yes."""
+1810;MATT;"""""Yes, Emberhold, yes."""""
 1811;LAURA;Emberhold, yes. Is that an obsidian fortress?
-1812;MATT;"""It is black and jagged, I think, yes."""
+1812;MATT;"""""It is black and jagged, I think, yes."""""
 1813;LAURA;Well, let's keep going that way.
 1814;MARISHA;So the ultimate question is, are we heading the right way? Are we heading the right way, Pike, do you know?
 1815;ASHLEY;Can I perception check? (all laugh)
@@ -3453,7 +3453,7 @@
 3451;MARISHA;Can I-- While I see it real quick, I'm going to go ahead and channel and cast Beast Sense through it.
 3452;MATT;Nothing bestial of it. This is not a natural creature.
 3453;MARISHA;Good to know.
-3454;MATT;"Clarota once again whispers to the rest of you, ""Stay at bay. The Aboleth is dangerous."""
+3454;MATT;"Clarota once again whispers to the rest of you, """"Stay at bay. The Aboleth is dangerous."""""
 3455;LAURA;Aboleth?
 3456;MARISHA;Aboleth.
 3457;MATT;You all step back and turn now into the the tunnel that extends further into the heart of this mountain. You see streams of lava pouring from the top occasionally, and one central flow of molten rock tends to fill half of the cavern, like a small river heading down into the base of the mountain. This is very familiar to you, as it's the path that your dream took you.

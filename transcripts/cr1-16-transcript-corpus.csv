@@ -101,7 +101,7 @@
 99;TRAVIS;Oh, we look right, you look left.
 100;TRAVIS, MATT;No.
 101;MATT;They look right. Everyone looks right.
-102;MARISHA;"Everyone looks right? So if we're looking this way, ""Hi, Matt!"""
+102;MARISHA;"Everyone looks right? So if we're looking this way, """"Hi, Matt!"""""
 103;MATT;And I disapprovingly look to my left. There you go.
 104;ASHLEY;Are we still on?
 105;MARISHA;Yeah.
@@ -334,12 +334,12 @@
 332;SAM;Pike.
 333;ASHLEY;Oh. (laughs) Oh, wow. It's like you have a halo.
 334;ORION;It is fancy.
-335;SAM;"It's like a halo. Like your god has smiled on me, maybe, and said, ""He's cool. Go for it."""
+335;SAM;"It's like a halo. Like your god has smiled on me, maybe, and said, """"He's cool. Go for it."""""
 336;ASHLEY;Oh, wow. Well, I don't know if that's what it means.
 337;SAM;Well. You know, religion is up to interpretation, so I interpret it that way.
 338;ASHLEY;It is very cool-looking.
 339;SAM;Thank you, Pike.
-340;TRAVIS;"(laughs) So casual, her god. ""It's cool.|Go for it."""
+340;TRAVIS;"(laughs) So casual, her god. """"It's cool.|Go for it."""""
 341;MATT;(laughs) Sarenrae. The she-bro you never had.|(laughter)
 342;SAM;Sarenrae's my wingman.
 343;ASHLEY;We cool, Sarenrae.
@@ -418,7 +418,7 @@
 416;MARISHA;I barely remember her.
 417;TRAVIS;Do you think there's a chance of when we visit this place, we might have to defend ourselves?
 418;MARISHA;No. No. I wouldn't think so.
-419;ORION;"Which means ""of course."""
+419;ORION;"Which means """"of course."""""
 420;LAURA;It's not like your family, Grog. They're actually nice.
 421;MARISHA;Yeah, we're pretty-- we're cool.
 422;TRAVIS;Look, my family is nice, too. We just share love with fists.
@@ -451,16 +451,16 @@
 449;MARISHA;-- you know, go.
 450;TRAVIS;Absolutely.
 451;LAURA;Give a little hello.
-452;MATT;"""Land sighted!"" A voice breaks out from the side of the ship's bow."
+452;MATT;"""""Land sighted!"""" A voice breaks out from the side of the ship's bow."
 453;ORION;Ooh.
 454;MATT;You guys glance over quickly to the edge of the skyship, and you see, right over the edge of Deera, what looks to be this ominous continent slowly approaching. Through the mists, the low clouds of this area, you can make out what looks to be a fairly heavily wooded and overgrown landscape. You can see dark forest peppered with a little bit of snowfall across the top.
 455;LAURA;My kind of place.
 456;MATT;Occasional mountaintops and peaks breaking through the canopy of the distant forest.
 457;LAURA;Look, Trinket! Home.
-458;MATT;"Trinket looms up to the side and looks a bit chilly and shakes it off. At which point, Kima comes up and joins the rest of you. Puts her elbows over and looks off wistfully for a second and goes, (sighs) ""It's been some time. Welcome to Othanzia, folks. It's an interesting place."""
+458;MATT;"Trinket looms up to the side and looks a bit chilly and shakes it off. At which point, Kima comes up and joins the rest of you. Puts her elbows over and looks off wistfully for a second and goes, (sighs) """"It's been some time. Welcome to Othanzia, folks. It's an interesting place."""""
 459;TRAVIS;It is, isn't it?
 460;LAURA;We'll follow your lead.
-461;MATT;"She points off, says, ""This forest here we refer to as the Vesper Timberland, and it goes for miles and miles and miles before bleeding into endless tundra to the north, so let's hopefully not travel that far."" (sighs) ""This'll be interesting."" And she turns around and heads back down into the ship. As you continue--"
+461;MATT;"She points off, says, """"This forest here we refer to as the Vesper Timberland, and it goes for miles and miles and miles before bleeding into endless tundra to the north, so let's hopefully not travel that far."""" (sighs) """"This'll be interesting."""" And she turns around and heads back down into the ship. As you continue--"
 462;LAURA;Good talk!
 463;MARISHA;Why did she say that? (laughs) I know!
 464;ORION;Who was that person?
@@ -471,14 +471,14 @@
 469;MARISHA;A siege.
 470;MATT;-- any sort of a siege or onslaught.
 471;LAURA;Does it look like it's suffered a lot of sieges? I mean, is there battle damage to the--
-472;MATT;"It's hard to tell from this distance. You're just starting to pick up details as the ship slowly descends into the city of Vasselheim proper. But from what you can tell, there are scars across some of the larger buildings. Some of the walls look like they have sections that have been knocked down and then rebuilt and then knocked down and then rebuilt. This is a very, very old, old city. Slowly, the ship descends towards what looks like a smoothed-out, flattened platform on top of some mill of some kind. It doesn't look like it's built for skyship purposes, more than it's been haphazardly put together to receive a skyship should it come to the city. But it looks like that type of travel doesn't come to this area too often. At this point in time, you can see now, the crew is gathering their ropes, they're getting ready to go ahead and lower it down. Captain Damon is slowly steering and shouting directions back and forth to his deckhands. The Scalebearers and Kima come up to the top of the ship, carrying the box that contains the Horn of Orcus, as well. As the ship slowly makes its way to dock on the top of this mill, Kima, who has all of her materials over her shoulder, says, ""All right, so. It's everyone's first time here in the city?"""
+472;MATT;"It's hard to tell from this distance. You're just starting to pick up details as the ship slowly descends into the city of Vasselheim proper. But from what you can tell, there are scars across some of the larger buildings. Some of the walls look like they have sections that have been knocked down and then rebuilt and then knocked down and then rebuilt. This is a very, very old, old city. Slowly, the ship descends towards what looks like a smoothed-out, flattened platform on top of some mill of some kind. It doesn't look like it's built for skyship purposes, more than it's been haphazardly put together to receive a skyship should it come to the city. But it looks like that type of travel doesn't come to this area too often. At this point in time, you can see now, the crew is gathering their ropes, they're getting ready to go ahead and lower it down. Captain Damon is slowly steering and shouting directions back and forth to his deckhands. The Scalebearers and Kima come up to the top of the ship, carrying the box that contains the Horn of Orcus, as well. As the ship slowly makes its way to dock on the top of this mill, Kima, who has all of her materials over her shoulder, says, """"All right, so. It's everyone's first time here in the city?"""""
 473;SAM;Yes.
 474;TRAVIS;Yeah.
 475;SAM;Yeah, well. Keyleth?
 476;ORION;I've never been here.
 477;MARISHA;No.
 478;SAM;Okay. Yes.
-479;MATT;"""All right."""
+479;MATT;"""""All right."""""
 480;ORION;And there's enough in the interim for a short rest from us getting from there to the last day to where we're at?
 481;MATT;Yeah, yeah.
 482;TRAVIS;A day's rest? All right.
@@ -537,10 +537,10 @@
 535;MARISHA;He's happy.
 536;ASHLEY;And you're so well-girded.
 537;SAM;I'm girded and I've got a shiny head.
-538;MATT;"Eventually the ship comes to a stop. You feel a little bit of a lurching sensation as the ship suddenly halts its advancing. All the ropes get dropped off the sides. They start bringing what looks to be some sort of a haphazard crane also, in preparation for Trinket to be lowered off the ship. You can see, there's a look of-- I can't describe it better than anxiousness to Kima. She says, ""If you have any questions about the city, just speak up and I'll do my best."""
+538;MATT;"Eventually the ship comes to a stop. You feel a little bit of a lurching sensation as the ship suddenly halts its advancing. All the ropes get dropped off the sides. They start bringing what looks to be some sort of a haphazard crane also, in preparation for Trinket to be lowered off the ship. You can see, there's a look of-- I can't describe it better than anxiousness to Kima. She says, """"If you have any questions about the city, just speak up and I'll do my best."""""
 539;LAURA;Where do we take the Horn?
 540;SAM;(laughs) That's a good question.|(laughter)
-541;MATT;"""I believe--"" And she looks over the edge of the ship. ""I believe our escorts will be happy to guide us."""
+541;MATT;"""""I believe--"""" And she looks over the edge of the ship. """"I believe our escorts will be happy to guide us."""""
 542;LAURA;Our escorts?
 543;LIAM;I'd like to do an insight check before we hustle off.
 544;MATT;On?
@@ -553,22 +553,22 @@
 551;LIAM;Why does she seem anxious? Does she seem different? Does her demeanor seem different, or does she just seem in a hurry?
 552;MATT;You can probably take it as a little bit of being in a hurry, but you also get the feeling like-- there's a nervousness to her that stems-- it's hard to really tell where it comes from, but there is a nervousness to her.
 553;LAURA;Kima, when was the last time you were with your Order?
-554;MATT;"""Proper? That would be eight years."""
+554;MATT;"""""Proper? That would be eight years."""""
 555;LAURA;Oh.
 556;ORION;That's a long time to be out of Order.
-557;MATT;"""Of which-- we are about to meet them."""
+557;MATT;"""""Of which-- we are about to meet them."""""
 558;ORION;Sorry.
 559;SAM;High five.
 560;LAURA;Do you get along well with them?
-561;MATT;"""Yes. Yes. They're just, well."" (laughs) ""You'll see."" And she leaps over the side of the ship, grabbing the rope, and lowers herself down, as do the rest of the-- the two Scalebearers come down in tandem, clutching the chain on the sides of the box, bringing it down almost like a big Jacob's ladder."
+561;MATT;"""""Yes. Yes. They're just, well."""" (laughs) """"You'll see."""" And she leaps over the side of the ship, grabbing the rope, and lowers herself down, as do the rest of the-- the two Scalebearers come down in tandem, clutching the chain on the sides of the box, bringing it down almost like a big Jacob's ladder."
 562;TRAVIS;(quietly) I love you.
-563;MATT;"Eventually, you all make your way onto the platform, and they're waiting for you. You see there's a cluster of well-armored men and women, wearing semi-matching gray tabards over patchwork and plated armor. They look like a really rough-and-tumble militia, but they all stand firm and as you guys walk up, they give a nod of respect and understanding. Amongst them, you see one gentleman, an elderly gentleman with no hair, completely bald, thick spectacles on the tip of his nose, wearing the same silver and blue robes as the envoys that met you at the Council of Tal'Dorei, the ones that are carrying the box. As you all approach, Kima steps out ahead and says, ""Yonn. It's been a while."""
+563;MATT;"Eventually, you all make your way onto the platform, and they're waiting for you. You see there's a cluster of well-armored men and women, wearing semi-matching gray tabards over patchwork and plated armor. They look like a really rough-and-tumble militia, but they all stand firm and as you guys walk up, they give a nod of respect and understanding. Amongst them, you see one gentleman, an elderly gentleman with no hair, completely bald, thick spectacles on the tip of his nose, wearing the same silver and blue robes as the envoys that met you at the Council of Tal'Dorei, the ones that are carrying the box. As you all approach, Kima steps out ahead and says, """"Yonn. It's been a while."""""
 564;SAM;Yonn.
-565;MATT;"The old man steps forward. ""It has been, indeed, Kima. It has, indeed. And that's Scalebearer Yonn, if you don't mind--"""
+565;MATT;"The old man steps forward. """"It has been, indeed, Kima. It has, indeed. And that's Scalebearer Yonn, if you don't mind--"""""
 566;TRAVIS;Scalebearer.
-567;MATT;"""I would prefer in mixed company the proper niceties of our presentation."""
+567;MATT;"""""I would prefer in mixed company the proper niceties of our presentation."""""
 568;LAURA;Oh, we're no proper company. It's all right.
-569;MATT;"""Hm. And you are?"""
+569;MATT;"""""Hm. And you are?"""""
 570;SAM;We are--
 571;ORION;I'm Tiberius Stormwind, and we are Vox Machina. Everybody has names, too.
 572;LAURA;Hmm.
@@ -577,11 +577,11 @@
 575;SAM;I'm Ioun Stone-bearer Scanlan.|(laughter)
 576;MATT;He cocks his head curiously.
 577;SAM;You can call me Kingslayer.|I also did that.
-578;MATT;"""Very well."" Percy introduces himself, as well."
+578;MATT;"""""Very well."""" Percy introduces himself, as well."
 579;TRAVIS;I have a beard.|(laughter)
-580;MATT;"He gives you the most curious look of all, which is hard to follow off of Scanlan over here.|""And I'm to understand these are the bearers of the artifact?"" Kima gives a nod. ""Yes, and I think we should be on our way quickly."" ""Yes, yes, of course. Please. These are our escorts. Follow suit. We will bring you onward to the Platinum Sanctuary proper to dispose of this thing."""
+580;MATT;"He gives you the most curious look of all, which is hard to follow off of Scanlan over here.|""""And I'm to understand these are the bearers of the artifact?"""" Kima gives a nod. """"Yes, and I think we should be on our way quickly."""" """"Yes, yes, of course. Please. These are our escorts. Follow suit. We will bring you onward to the Platinum Sanctuary proper to dispose of this thing."""""
 581;SAM;How far is the Platinum Sanctuary?
-582;MATT;"""No more than a 25-minute walk."""
+582;MATT;"""""No more than a 25-minute walk."""""
 583;LAURA, SAM;Oh.
 584;ASHLEY;May I insight-check Yonn?
 585;MATT;You may.
@@ -601,26 +601,26 @@
 599;SAM;Well, unless someone--
 600;LAURA;So we'll just be aware there's a huge envoy.
 601;MARISHA;I mean, we can only assume-- Yonn?
-602;MATT;"""Yes?"""
+602;MATT;"""""Yes?"""""
 603;MARISHA;How many people in this city are aware of this Horn being brought here?
-604;MATT;"""Well, up until now, other than myself, you travelers, and the Highbearer Vord himself, no one else."""
+604;MATT;"""""Well, up until now, other than myself, you travelers, and the Highbearer Vord himself, no one else."""""
 605;ORION;Hm.
 606;MARISHA;Highbearer Vor-- his name is Vord?
-607;MATT;"""Vord. The Highbearer of the Platinum Dragon."""
+607;MATT;"""""Vord. The Highbearer of the Platinum Dragon."""""
 608;LAURA;What kind of man is he?
 609;MATT;You hear when he mentions Vord, Kima twitches a little bit, and you remember Kima's official title is Lady Kima of Vord.
 610;LAURA, ORION;Hm.
 611;SAM;Her ex?
 612;TRAVIS;Is that her pops? Her pops?
 613;ORION;Vonn. Yonn?
-614;MATT;"""Scalebearer Yonn, yes."""
+614;MATT;"""""Scalebearer Yonn, yes."""""
 615;ORION;Oh, Scalebearer Yonn, that's a fun name.|(clears throat) As we travel through town, if you could point me to any place that would have a sigil of arcane-ness--
 616;SAM;Arcane-iosity is what he's trying to say.
-617;MATT;"""There are none."""
+617;MATT;"""""There are none."""""
 618;ORION;Oh.
-619;MATT;"""This city, arcane magic for the most part, is not allowed within consistent practice. This is a divine, a holy place."""
+619;MATT;"""""This city, arcane magic for the most part, is not allowed within consistent practice. This is a divine, a holy place."""""
 620;ORION;Ah.
-621;MATT;"""And the arcane tends to, ah. How do you say, when unwatched, corrupt and destroy from the inside. """
+621;MATT;"""""And the arcane tends to, ah. How do you say, when unwatched, corrupt and destroy from the inside. """""
 622;LIAM;Oh shit, Tiberius.
 623;ORION;No, I'm fine! He's talking about other people.
 624;TRAVIS;You don't have any arcane abilities anyway, right?
@@ -629,7 +629,7 @@
 627;SAM;Ix-nay.
 628;TRAVIS;Wink wink, nudge nudge.
 629;ORION;No, no, I think he-- sure.
-630;MATT;"""This here in Vasselheim, the cradle of faith, the Dawn City, of once all civilization and current faith once stemmed from. There is no way in but by foot. It is a pilgrimage, a journey for each to come here, and those that stay, stay of their own will and divine right."" And as he refers to the guards, each guard you see now has around their neck a very visibly shown holy symbol of some kind of deity. Most seem to fall--"
+630;MATT;"""""This here in Vasselheim, the cradle of faith, the Dawn City, of once all civilization and current faith once stemmed from. There is no way in but by foot. It is a pilgrimage, a journey for each to come here, and those that stay, stay of their own will and divine right."""" And as he refers to the guards, each guard you see now has around their neck a very visibly shown holy symbol of some kind of deity. Most seem to fall--"
 631;MARISHA;We've basically walked into the Crucible.
 632;ORION;It's fine.
 633;MATT;-- into the realm of Arathis, Avandra, Melora, and a couple with Bahamut. None of--
@@ -641,21 +641,21 @@
 639;LIAM;Sa-REN-rae! (laughter)
 640;ASHLEY;Sarenrae!
 641;ORION;I'm going to take it you don't see very many dragonborn in these parts.
-642;MATT;"""No, and frankly you're making me a bit nervous."""
+642;MATT;"""""No, and frankly you're making me a bit nervous."""""
 643;ORION;Oh.
-644;MATT;"""However, as we ourselves are followers of the Platinum Dragon, we understand that it is dragonkind at the heart of it, the metallics, that bring life and civilization and order to this world."""
+644;MATT;"""""However, as we ourselves are followers of the Platinum Dragon, we understand that it is dragonkind at the heart of it, the metallics, that bring life and civilization and order to this world."""""
 645;ORION;Yes.
-646;MATT;"""Your color I find off-putting."""
+646;MATT;"""""Your color I find off-putting."""""
 647;ORION;It's--
 648;LAURA;I've always noticed a fine metallic sheen coming from your red scales.
 649;ORION;No, I'm of the chromatic nature, I'm a bit of an anomaly in my family, they're all of the metallic brand, I assure you. The Stormwind name runs true and wide throughout Draconia, but--
-650;MATT;"""I have heard of the Stormwinds, yes."""
+650;MATT;"""""I have heard of the Stormwinds, yes."""""
 651;ORION;I cast Alter Self real quick and I turn myself into, I believe, gold. Because that's the red-- equivalent of red. On the metallic scale.
 652;MATT;Okay. He gives you a curious look and goes--
 653;ORION;I think that would be better for everyone involved.
-654;MATT;"""I would be mindful to not do such things so openly in public in the future."""
+654;MATT;"""""I would be mindful to not do such things so openly in public in the future."""""
 655;ORION;Oh, sorry.
-656;MATT;"""Ahem."" And he kind of adjusts his robe.|""This way please, follow me."" And Scalebearer Yonn leads you--"
+656;MATT;"""""Ahem."""" And he kind of adjusts his robe.|""""This way please, follow me."""" And Scalebearer Yonn leads you--"
 657;LAURA;You look very nice, Tiberius.
 658;ASHLEY;You look really great in gold.
 659;ORION;Thank you, thank you.
@@ -732,7 +732,7 @@
 730;LAURA;There were some sapphires in there, too, some blue sapphires, I remember.
 731;MATT;Yes, yes.
 732;MARISHA;Is it sticking out like a sore thumb?
-733;MATT;"Best you can tell, there are people taking notice of it, but none that like stop and gawk, they just kind of, ""huh."" Keep walking."
+733;MATT;"Best you can tell, there are people taking notice of it, but none that like stop and gawk, they just kind of, """"huh."""" Keep walking."
 734;MARISHA;Damn, maybe we should've thrown a blanket or something over it.
 735;MATT;You could if you want to, now.
 736;TRAVIS;Can we, though?
@@ -745,7 +745,7 @@
 743;MATT;Certain words in Draconic--
 744;MARISHA;Percy, you've been so quiet here lately.
 745;TALIESIN;I don't want to talk about it.
-746;MATT;"You see phrases emblazoned on the side of this giant temple that say things like ""honor, justice."" Various, very old base Draconic stuff.|The current language is a more refined version.|This is a very, very ancient basis of that language."
+746;MATT;"You see phrases emblazoned on the side of this giant temple that say things like """"honor, justice."""" Various, very old base Draconic stuff.|The current language is a more refined version.|This is a very, very ancient basis of that language."
 747;ORION;See that, Scanlan? That says something like Apollo Justice something.
 748;SAM;It's Phoenix something.
 749;ORION;It's maybe the rise of the justice of the phoenix.
@@ -828,7 +828,7 @@
 826;MARISHA;Okay, I'll do that.
 827;MATT;Which you do, and as you do, you come right into the face of a spear right there--
 828;LAURA;(gasps) You should have transformed into a fly.
-829;MATT;"-- as another one of the Platinum Dragon guards says, ""Who goes there?"""
+829;MATT;"-- as another one of the Platinum Dragon guards says, """"Who goes there?"""""
 830;SAM;Oh boy.
 831;MARISHA;Hi. Hi.
 832;MATT;Another guard begins to approach from the side.
@@ -851,11 +851,11 @@
 849;LAURA;Oh no!
 850;SAM;Keyleth's dead.
 851;ORION;(whispers) No, they'll probably just put her in prison.
-852;MATT;"The guy holding the spear to you keeps it there. The other guy walks up behind and says, ""Let me see your hands."""
+852;MATT;"The guy holding the spear to you keeps it there. The other guy walks up behind and says, """"Let me see your hands."""""
 853;LAURA;(gasps)
 854;LIAM;Shit.
 855;MARISHA;Why?
-856;MATT;"""Let me see your hands."" He takes your hands, pulls out a set of shackles--"
+856;MATT;"""""Let me see your hands."""" He takes your hands, pulls out a set of shackles--"
 857;LAURA;(gasps)
 858;ASHLEY;Oh no.
 859;MATT;-- and locks them on.
@@ -876,9 +876,9 @@
 874;TRAVIS;No, we don't know who she is.
 875;TALIESIN;Actually, can we have a few minutes to discuss this?
 876;MARISHA;Shut up, Grog!
-877;MATT;"At this point, Kima turns and says, ""She's with me."""
+877;MATT;"At this point, Kima turns and says, """"She's with me."""""
 878;LAURA;Oh.
-879;MATT;"And both the Scalebearers go, ""Lady Kima, I am so sorry."" And they go ahead and take the cuffs off real fast and pull the spear back and step back."
+879;MATT;"And both the Scalebearers go, """"Lady Kima, I am so sorry."""" And they go ahead and take the cuffs off real fast and pull the spear back and step back."
 880;ASHLEY;Wow.
 881;LAURA;Yeah, you listen to Lady Kima.
 882;ORION;The classic.
@@ -925,7 +925,7 @@
 923;ASHLEY;I think I'm okay to keep going.
 924;LAURA;All right.
 925;ASHLEY;But maybe later. We'll see. If I get a little tired.
-926;MATT;"At which you feel a nudge at your side and it's an armored elbow from Kima, saying, ""If you wouldn't mind holding off on the fraternizing in the temple of Bahamut, I would really appreciate it."""
+926;MATT;"At which you feel a nudge at your side and it's an armored elbow from Kima, saying, """"If you wouldn't mind holding off on the fraternizing in the temple of Bahamut, I would really appreciate it."""""
 927;MARISHA;Oh, that's right.
 928;SAM;Message understood.
 929;MATT;At which point Scalebearer Yonn is now at the second set of double doors and he presents his holy symbol above his chest, it glows a second, and what was originally just smooth stone doors, you see a divine glow and the symbol of Bahamut you saw at the front of the temple appear for a moment, and then as it vanishes the two doors open on their own into a central worship chamber. This is a much larger domed room. It looks like it goes up about 80 feet to the top of the ceiling, and the dome itself has what looks like an extremely ancient, detailed drawing, like Sistine Chapel-style, the tale of the entirety of creation. You see all the elemental planes represented in the corners, the theoretical corners, where corners would be in a domed room.|You can see a crude representation of how all the planes lay over each other, you can see the Astral Plane, you can see where the Nine Hells would exist, and the Abyss itself, and in the center there's the Prime Material Plane, and across it you see a giant image of the great platinum dragon Bahamut drawn in all of his glory, currently snapping down on one of the throats of a multi-headed dragon. This other dragon, with five different heads of five different chromatic colors, and this struggle between what you know to be Bahamut and Tiamat.
@@ -956,31 +956,31 @@
 954;MATT;Now, the floor of this chamber, which is a very simple stone, you can see there are small sculptures, each one representing some sort of a humanoid entity dressed in similar robes to the other envoys and members of this temple that you've encountered thus far. Some of them are in full armor, some are wearing just robes, and they're very, very old. Some of them seem a little more recent, and you gather these each have some sort of cultural or religious significance to this temple. However, one of these is not a statue. In the center of this worship chamber, which is strangely, eerily quiet, there is one humanoid that turns to the rest of you. What you see before you is a slender, elven male draped in long, white robes that drag a few feet behind his form across the ground. He has jet-- not jet, stark-white hair that is slicked back against his head, no facial hair, frail but very handsome features. Elves, when they age, they age very gracefully--
 955;LAURA;Yeah we do.
 956;MARISHA;Yeah.
-957;MATT;"-- and from the look of most elves you've seen, this is a very old elf that has aged very gracefully. He turns to the rest of you and you see across his neck a very, very well-crafted, intricate series of draconic symbols that finishes with a giant emblem of Bahamut himself. His voice rings out and echoes throughout the hallway as you approach, each footstep echoing as you get closer.|""Welcome, everyone, to the Platinum Sanctuary. I am called Highbearer Vord."""
+957;MATT;"-- and from the look of most elves you've seen, this is a very old elf that has aged very gracefully. He turns to the rest of you and you see across his neck a very, very well-crafted, intricate series of draconic symbols that finishes with a giant emblem of Bahamut himself. His voice rings out and echoes throughout the hallway as you approach, each footstep echoing as you get closer.|""""Welcome, everyone, to the Platinum Sanctuary. I am called Highbearer Vord."""""
 958;LAURA;Oh, right.
-959;MATT;"""Keeper of this most holy of places. I received word from a disciple of mine--"" At which Kima has now stepped forward, and bows, kneels before him and says, ""Your holiness."" At which he looks down with a smile. ""Ah, Kima. I am pleased to see you. It has been a long time, my disciple."" He looks up to the rest of the group. ""I understand you carry something of terrible omen.|Let us discuss how to be rid of it. Please.|Present the container."""
+959;MATT;"""""Keeper of this most holy of places. I received word from a disciple of mine--"""" At which Kima has now stepped forward, and bows, kneels before him and says, """"Your holiness."""" At which he looks down with a smile. """"Ah, Kima. I am pleased to see you. It has been a long time, my disciple."""" He looks up to the rest of the group. """"I understand you carry something of terrible omen.|Let us discuss how to be rid of it. Please.|Present the container."""""
 960;LAURA;Right here?
-961;MATT;"The Scalebearers step forward and set the container on the ground. They go to reach for it and he goes, ""No no no. Do not open it."" And he kind of takes a second and holds his symbol to his chest and closes his eyes, and you can see this kind of divine glow pulse off of him for a second."
+961;MATT;"The Scalebearers step forward and set the container on the ground. They go to reach for it and he goes, """"No no no. Do not open it."""" And he kind of takes a second and holds his symbol to his chest and closes his eyes, and you can see this kind of divine glow pulse off of him for a second."
 962;MARISHA;Kima, what's happening?
-963;MATT;"She goes, ""Shh, shh."""
+963;MATT;"She goes, """"Shh, shh."""""
 964;MARISHA;Okay.
-965;MATT;"The box begins to pulse with the divine light as well, and then suddenly vanishes and he kind of (gasps) catches his breath. ""It is as you said. This must be sealed immediately."""
+965;MATT;"The box begins to pulse with the divine light as well, and then suddenly vanishes and he kind of (gasps) catches his breath. """"It is as you said. This must be sealed immediately."""""
 966;ORION;Well, yes.
 967;MARISHA;Yeah-huh. We could have just told you that.
-968;MATT;"He gives a look to the rest of the group here, and you can see there's a noticeable bead of sweat he kind of wipes off his forehead. ""I just needed to confirm that this was not some haphazardly constructed fake or some other artifact mistaken for such a horn, but we indeed have within our presence one of the Horns of Orcus, and this does not bode well."""
+968;MATT;"He gives a look to the rest of the group here, and you can see there's a noticeable bead of sweat he kind of wipes off his forehead. """"I just needed to confirm that this was not some haphazardly constructed fake or some other artifact mistaken for such a horn, but we indeed have within our presence one of the Horns of Orcus, and this does not bode well."""""
 969;LAURA;(whistles)
-970;MATT;"""Thankfully--"""
+970;MATT;"""""Thankfully--"""""
 971;LAURA;Are you guys-- oh, sorry.
-972;MATT;"""No, please. What do you want to say?"""
+972;MATT;"""""No, please. What do you want to say?"""""
 973;LAURA;I was just wondering. You've had one of these before, yes?
-974;MATT;"""No, but we know that these exist. A few of us do; the knowledge itself has been lost to time intentionally. It was brought to my attention, and through discussions with the Council that sent you on this journey, that this would be the safest place to seal such an artifact, and amongst all our other options, as of this time, I see no other choice. So. What's been proposed. Allow me to explain to you the plan. One of our most divine relics of our most beloved protector Bahamut was kept deep beneath this temple, within the mountain we rest against. The Star of Exaltation, a crystal born from the tear Bahamut shed for the sacrifices his first devoted made in the Great War of the Beginnings, the Dawn War. This item was unfortunately lost nearly 300 years ago, giving the last of its power to protect this very Vasselheim. The intervention it brought from our great deity expended and left the artifact destroyed. Since the chamber that held this Star, a blessed and ever-watched nexus beneath the gaze of the Great Platinum Dragon Himself, has gone empty, we've tended to it. We've kept it fairly well-watched and in the state it was originally constructed for. And we think no greater location to seal such a deeply-rooted evil exists within our spheres of influence or any other.|Unfortunately, the last time the chamber was cleansed and prepared was some 15 years ago.|Our curate tasked one of our own Scalebearers--"" And he looks over towards Yonn, who sheepishly backs away. ""-- was tasked with preparing it for your arrival, and the artifact's, and it was found that the lower chambers have been infested with some manner of foul subterranean spider creature."""
+974;MATT;"""""No, but we know that these exist. A few of us do; the knowledge itself has been lost to time intentionally. It was brought to my attention, and through discussions with the Council that sent you on this journey, that this would be the safest place to seal such an artifact, and amongst all our other options, as of this time, I see no other choice. So. What's been proposed. Allow me to explain to you the plan. One of our most divine relics of our most beloved protector Bahamut was kept deep beneath this temple, within the mountain we rest against. The Star of Exaltation, a crystal born from the tear Bahamut shed for the sacrifices his first devoted made in the Great War of the Beginnings, the Dawn War. This item was unfortunately lost nearly 300 years ago, giving the last of its power to protect this very Vasselheim. The intervention it brought from our great deity expended and left the artifact destroyed. Since the chamber that held this Star, a blessed and ever-watched nexus beneath the gaze of the Great Platinum Dragon Himself, has gone empty, we've tended to it. We've kept it fairly well-watched and in the state it was originally constructed for. And we think no greater location to seal such a deeply-rooted evil exists within our spheres of influence or any other.|Unfortunately, the last time the chamber was cleansed and prepared was some 15 years ago.|Our curate tasked one of our own Scalebearers--"""" And he looks over towards Yonn, who sheepishly backs away. """"-- was tasked with preparing it for your arrival, and the artifact's, and it was found that the lower chambers have been infested with some manner of foul subterranean spider creature."""""
 975;MARISHA;Oh, man.
-976;MATT;"""Our Scalebearer fled."" At which point Yonn leaves the entire conversation and exits the room."
+976;MATT;"""""Our Scalebearer fled."""" At which point Yonn leaves the entire conversation and exits the room."
 977;ASHLEY;(quietly) Excuse me.
 978;SAM;Yonn.
-979;MATT;"You hear Kima kind of give a spit in his direction.|""But not before initiating the vault's defenses."" (sighs) ""So thus, I ask you to complete your journey into the Hall of the Exalt below, clear out these meager beasts, and guide your reliquary into the vault chamber to seal it for good."""
+979;MATT;"You hear Kima kind of give a spit in his direction.|""""But not before initiating the vault's defenses."""" (sighs) """"So thus, I ask you to complete your journey into the Hall of the Exalt below, clear out these meager beasts, and guide your reliquary into the vault chamber to seal it for good."""""
 980;ORION;Will we have to contend with the defense systems as well?
-981;MATT;"""Not all of them, but apparently in his haste to escape and defend himself, he set a few of them to aid his escape."""
+981;MATT;"""""Not all of them, but apparently in his haste to escape and defend himself, he set a few of them to aid his escape."""""
 982;LAURA;Great. (shouts) Good job, Yonn!
 983;MARISHA;Thanks, Yonn.
 984;MATT;You hear no response other than the pitter-patter of steps.
@@ -989,55 +989,55 @@
 987;ORION;(laughs) Very good question.
 988;TALIESIN;Would you like to speak to his manager?
 989;SAM;Does he have tenure or something? Is it a union thing?
-990;MATT;"""He's been with us for many, many years, and he has great heart and devotion. Though addled may be his mind, he does bring much to the temple."""
+990;MATT;"""""He's been with us for many, many years, and he has great heart and devotion. Though addled may be his mind, he does bring much to the temple."""""
 991;MARISHA;He has seniority.
 992;SAM;All right.
 993;MARISHA;So wait, you said you lost the Crystal of Exaltation during the War of--
-994;MATT;"""It was destroyed during a siege of the city."""
+994;MATT;"""""It was destroyed during a siege of the city."""""
 995;MARISHA;During the War of what? Beginnings?
-996;MATT;"""The War of the Beginnings."""
+996;MATT;"""""The War of the Beginnings."""""
 997;MARISHA;The War of the Beginnings.
 998;TALIESIN;That was close.
 999;MARISHA;And how long ago was this War of the Beginnings?
-1000;MATT;"""Well that, oh, I'm sorry. It was created in the War of the Beginnings."""
+1000;MATT;"""""Well that, oh, I'm sorry. It was created in the War of the Beginnings."""""
 1001;MARISHA;It was created then?
-1002;MATT;"""It was lost in a battle, a siege of the city of Vasselheim 300 years ago."""
+1002;MATT;"""""It was lost in a battle, a siege of the city of Vasselheim 300 years ago."""""
 1003;LAURA;300 years?
 1004;MARISHA;Called what? During what war?
 1005;TALIESIN;The Siege of the Metal Champions.
-1006;MATT;"""That had no particular name."""
+1006;MATT;"""""That had no particular name."""""
 1007;MARISHA;Oh.
 1008;LAURA;Oh.
 1009;MARISHA;Just a siege.
 1010;LAURA;It was just a thing?
-1011;MATT;"""It was one of the sieges and there was--"""
+1011;MATT;"""""It was one of the sieges and there was--"""""
 1012;SAM;The Battle Where the Thing Was Lost.
 1013;MATT;Yes. There it is.
 1014;ORION;Right.|(laughter)
 1015;LIAM;Vord. Hi. Question, please. We'll clear out your basement, that's not a problem. I'd like to understand how you plan to protect this horn, how you plan to keep it out of the hands of entities who would use it for ill--
 1016;LAURA;That big scary creature living out in the woods. Sorry, brother.
 1017;LIAM;Then how-- that's fine.
-1018;MATT;"He glances towards you and says, ""Oh, that is but one of many."""
+1018;MATT;"He glances towards you and says, """"Oh, that is but one of many."""""
 1019;LAURA;Huh.
-1020;MATT;"""Let it be known that this temple is extremely well-guarded. It is continuously under the gaze of our patron deity and while some of the defenses have been put in place for your arrival, if the entirety of the vault is triggered, there is nothing that will make its way there unannounced."""
+1020;MATT;"""""Let it be known that this temple is extremely well-guarded. It is continuously under the gaze of our patron deity and while some of the defenses have been put in place for your arrival, if the entirety of the vault is triggered, there is nothing that will make its way there unannounced."""""
 1021;TRAVIS;Good sell.
 1022;SAM;Are we to carry the box down as we journey into the dungeons below, or are we to leave it here while we go clear out the basement?
-1023;MATT;"""The Scalebearers will bring it with you."""
+1023;MATT;"""""The Scalebearers will bring it with you."""""
 1024;SAM;Okay.
-1025;MATT;"""Keep them safe."""
+1025;MATT;"""""Keep them safe."""""
 1026;SAM;Keep them safe? Oh. All right. We've got enough to worry about keeping ourselves safe.
 1027;MARISHA;So just to get one thing clear, and I mean no (clears throat) disrespect, but how was the crystal lost 300 years ago, if it was in this chamber? So this chamber has been broken into before?
-1028;MATT;"""We can enter the chamber under very specific circumstances. We, at the time, requested the use of the Star of Exaltation as a divine focus--"""
+1028;MATT;"""""We can enter the chamber under very specific circumstances. We, at the time, requested the use of the Star of Exaltation as a divine focus--"""""
 1029;MARISHA;Oh.
-1030;MATT;"""-- a ritual that required the intervention of Bahamut to keep the city safe."""
+1030;MATT;"""""-- a ritual that required the intervention of Bahamut to keep the city safe."""""
 1031;MARISHA;Oh, so someone brought it out and then was clumsy and lost it.
 1032;LAURA;And then it was lost.
 1033;SAM;And you know what--
-1034;MATT;"""It wasn't clumsy and lost. It was used as a focus in the ritual."""
+1034;MATT;"""""It wasn't clumsy and lost. It was used as a focus in the ritual."""""
 1035;MARISHA;Oh.
-1036;MATT;"""It was by the will of Bahamut Himself that the Star no longer was required to exist on this plane."""
+1036;MATT;"""""It was by the will of Bahamut Himself that the Star no longer was required to exist on this plane."""""
 1037;ORION;She gets it. She gets it.
-1038;MATT;"""It served its purpose."""
+1038;MATT;"""""It served its purpose."""""
 1039;MARISHA;So it was destroyed.
 1040;LAURA;Lost, as in--
 1041;ORION;Like not around.
@@ -1062,9 +1062,9 @@
 1060;TRAVIS;There's nothing down there, right?
 1061;LAURA;Yeah? I mean, you want us to do it now, yeah?
 1062;TALIESIN;I'm not-- I haven't been paying attention.
-1063;MATT;"""Lest this artifact be left longer in the open, which I would not be comfortable with."""
+1063;MATT;"""""Lest this artifact be left longer in the open, which I would not be comfortable with."""""
 1064;LAURA;No, neither would I.
-1065;MATT;"""I would prefer this be taken care of immediately."""
+1065;MATT;"""""I would prefer this be taken care of immediately."""""
 1066;TRAVIS;Yeah, we'll do it now.
 1067;SAM;Let's go do it.
 1068;TALIESIN;We've got a bear.
@@ -1082,13 +1082,13 @@
 1080;LAURA;The holiest place?
 1081;SAM;Haggle with the pope.
 1082;TALIESIN;Shaking down the pope.
-1083;MATT;"""You want a monetary reward--"""
+1083;MATT;"""""You want a monetary reward--"""""
 1084;LAURA;I was just wondering.
-1085;MATT;"""-- for your aid."""
+1085;MATT;"""""-- for your aid."""""
 1086;LAURA;I'm not asking.
-1087;MATT;"""The temple can provide a sum of three thousand gold pieces."""
+1087;MATT;"""""The temple can provide a sum of three thousand gold pieces."""""
 1088;LAURA;Per party member, yes?
-1089;MATT;"""Entirely. Three thousand gold pieces for your trouble on this journey."" At which Kima steps forward and says, ""Highbearer, we do not need to take money from--"""
+1089;MATT;"""""Entirely. Three thousand gold pieces for your trouble on this journey."""" At which Kima steps forward and says, """"Highbearer, we do not need to take money from--"""""
 1090;LAURA;We don't want money, of course not. I mean, I--
 1091;SAM;But think of the good we could do with that money, giving alms to the poor back home where we are.
 1092;LAURA;Yes, spreading the word of Bahamut where we go.
@@ -1117,28 +1117,28 @@
 1115;TRAVIS;Oh my god.
 1116;MARISHA;You should lie more. It's good.
 1117;TALIESIN;Lie to me, Pinocchio. Lie to me.
-1118;MATT;"""Three thousand gold, at your disposal, to bring about and to share in the prosperity of your people back home."""
+1118;MATT;"""""Three thousand gold, at your disposal, to bring about and to share in the prosperity of your people back home."""""
 1119;SAM;Amen.|(laughter)
-1120;MATT;"""Once the artifact is delivered and sealed."""
+1120;MATT;"""""Once the artifact is delivered and sealed."""""
 1121;SAM;From one holy man to another, I think we've struck a deal. Let's go.
 1122;ORION;Burt Reynolds, you've done it again.
 1123;TRAVIS;Amen.|(laughter)
-1124;MATT;"As you all turn, Kima goes, ""I'll show you to the vault room."""
+1124;MATT;"As you all turn, Kima goes, """"I'll show you to the vault room."""""
 1125;LAURA;Are you going to come with us, Kima?
-1126;MATT;"""Yes, I'm coming with you."""
+1126;MATT;"""""Yes, I'm coming with you."""""
 1127;LAURA;Oh, good.
-1128;MATT;"She glances over at you. (sarcastically) ""Shall we, holy man?"" (laughter)"
+1128;MATT;"She glances over at you. (sarcastically) """"Shall we, holy man?"""" (laughter)"
 1129;SAM;Why yes, my sister, lead the way.
 1130;MARISHA;Sister.|(laughter)
-1131;MATT;"As you guys are walking out of the chamber, the doors close behind, she turns to you and says, ""Is that why you were blessed with such a temporarily swollen appendage before?"""
+1131;MATT;"As you guys are walking out of the chamber, the doors close behind, she turns to you and says, """"Is that why you were blessed with such a temporarily swollen appendage before?"""""
 1132;SAM;I don't know how the lord works, it's mysterious.|(laughter)
-1133;MATT;"""Let us be on our way."" She kind of walks off, flustered and frustrated. You guys are led down two layers. This actual temple recedes further and further into the mountain, until you're led into what seems to almost be a storage basement. It's a very musty smell. It's old earth--"
+1133;MATT;"""""Let us be on our way."""" She kind of walks off, flustered and frustrated. You guys are led down two layers. This actual temple recedes further and further into the mountain, until you're led into what seems to almost be a storage basement. It's a very musty smell. It's old earth--"
 1134;ORION;It's dank down here.
 1135;MATT;Yeah, it kind of has that moldy scent to it.|There are five guards stationed in this storage vicinity, and as you approach, they all stand up.|They're all still wearing ceremonial armor, two of which you can see are really well-armed, one with a greatsword and one with a longsword at the side.|They look pretty prestigious to be assigned to a basement this terrible.
 1136;LAURA;At ease, soldiers.
-1137;MATT;"""Of course, of course.""|And they step aside. Kima steps forward and takes her holy symbol and removes it from around her neck. She looks at the wall for a second, then places it into what you didn't see before was some sort of a slight recess in the wood. It flashes with divine energy, and suddenly the wood illusion is dispelled and what you see before you is a stone doorway that begins to slowly shift to the side and open up into a staircase."
+1137;MATT;"""""Of course, of course.""""|And they step aside. Kima steps forward and takes her holy symbol and removes it from around her neck. She looks at the wall for a second, then places it into what you didn't see before was some sort of a slight recess in the wood. It flashes with divine energy, and suddenly the wood illusion is dispelled and what you see before you is a stone doorway that begins to slowly shift to the side and open up into a staircase."
 1138;LAURA;Are we going to find any of these defenses right away, or what?
-1139;MATT;"Kima kind of gives you a look, shrugs, and, ""To be perfectly honest, I have not been within the vault."""
+1139;MATT;"Kima kind of gives you a look, shrugs, and, """"To be perfectly honest, I have not been within the vault."""""
 1140;TALIESIN;Well.
 1141;ASHLEY;Okay.
 1142;MARISHA;Huh. Is there a blueprint somewhere?
@@ -1342,7 +1342,7 @@
 1340;LAURA;Are you kidding me?!
 1341;ORION;What are you doing?
 1342;TRAVIS;No, no, let him do it! Let him do it.
-1343;MATT;"So as you guys are about to go, ""Wait!"", Vax is already off. Clicks the boots. The arcane magic of the Boots of Haste kick into his body. He leaps forward. Make an acrobatics check."
+1343;MATT;"So as you guys are about to go, """"Wait!"""", Vax is already off. Clicks the boots. The arcane magic of the Boots of Haste kick into his body. He leaps forward. Make an acrobatics check."
 1344;LIAM;Okay. 22.
 1345;TRAVIS;I hope you get your eyebrows burned off.
 1346;MATT;All right. You leap forward. Your hand touches the first circle in the room. As it does, there's suddenly a large shift in the room. All of a sudden, the hand which you had purchase on slides out from underneath you. You catch yourself on your feet, but now suddenly there's a loud grinding sound and the entire room seems to be shifting, moving, spinning in its own right, and you instinctually feel something moving towards you very quickly. Make a dexterity saving throw, Liam.
@@ -1634,7 +1634,7 @@
 1632;MATT;You manage to push through and cut through, but it gets to the point where it's just so matted you guys are having to bushwhack your way through as if you had a machete.
 1633;TALIESIN;I'm not taking off my mask.
 1634;TRAVIS;Can I turn to one of those (clears throat) Scalebearers and ask if they've ever dealt with any umber-hulks in this region.
-1635;MATT;"Scalebearer Vorak gives kind of a curious look to your question. Scalebearer Desona looks to you and says, ""No, I don't believe they exist in this region. Nor this close to the surface, as far as I know."""
+1635;MATT;"Scalebearer Vorak gives kind of a curious look to your question. Scalebearer Desona looks to you and says, """"No, I don't believe they exist in this region. Nor this close to the surface, as far as I know."""""
 1636;TRAVIS;Right. That's important, isn't it.
 1637;ORION;Are the spiderwebs-- are they becoming more as we traverse--
 1638;MATT;Yes, they're getting thicker and thicker.
@@ -2261,9 +2261,9 @@
 2259;MATT;Grog, for a moment there, you recess into your old hunter training when you were traveling with your barbarian tribe and you take in the darkness around you and walk, fleet of foot, to the edge of it, not making a single sound. You're damn proud of yourself.
 2260;TRAVIS;I am.
 2261;TALIESIN;(whispers) Quietly.
-2262;MATT;"So as you tell this to Kima, she goes, (whispers) ""What? Spiders?"""
+2262;MATT;"So as you tell this to Kima, she goes, (whispers) """"What? Spiders?"""""
 2263;LAURA;(whispers) Lots and lots of spiders. Is that going to make noise?
-2264;MATT;"(whispers) ""I don't know. I haven't been in this chamber before."""
+2264;MATT;"(whispers) """"I don't know. I haven't been in this chamber before."""""
 2265;LAURA;Perhaps we should deal with the spiders before we make noise, or maybe just be prepared.|In fact, you know what? I'm going to cast Spike Growth on the ground in between where they're going to have to walk through.
 2266;MARISHA;Ooh, good. Smarty-pants.
 2267;LAURA;Because they can't freaking see it right now, can they?
@@ -2352,7 +2352,7 @@
 2350;ORION;And they're positioned right before the messes of each side.
 2351;MATT;Like right there.
 2352;ORION;Yeah.
-2353;MATT;"All righty. Kima's now sitting there like, (whispers) ""Put the key in now?"""
+2353;MATT;"All righty. Kima's now sitting there like, (whispers) """"Put the key in now?"""""
 2354;SAM;No, no, do it.
 2355;TALIESIN;Yes, yes, go.
 2356;MARISHA;Okay, you're good. Go for it, yeah.
@@ -2383,7 +2383,7 @@
 2381;SAM;Clang, clang, clang.
 2382;MATT;So you step into the chamber, losing your footing for a moment on the smooth, kind of platinum-like ridges across the ground, and you kind of catch yourself, your plate hitting the ground with a loud (ting) sound, at which point the two Scalebearers kind of look at you--
 2383;ASHLEY;(whispers) Sorry! Sorry!
-2384;MATT;"With a heavy sigh, and Kima goes, ""Go, go, go!"" They both step forward and take and place the box into the center of the room on top of the dais. As they both release the chains, the box seems to levitate on its own to the center of the room, much like how the Horn itself ascended and was kept aloft in the center of the box. The box lifts up and slowly begins to rotate on its own.|As it does, you can see the sapphire bits that are ingrained on this box flash with a bright blue light and all of a sudden the blue energy spreads into the ceiling and the floor of this room and all of the blue and silver veins that are carved into this begin to glow with a similar blue light."
+2384;MATT;"With a heavy sigh, and Kima goes, """"Go, go, go!"""" They both step forward and take and place the box into the center of the room on top of the dais. As they both release the chains, the box seems to levitate on its own to the center of the room, much like how the Horn itself ascended and was kept aloft in the center of the box. The box lifts up and slowly begins to rotate on its own.|As it does, you can see the sapphire bits that are ingrained on this box flash with a bright blue light and all of a sudden the blue energy spreads into the ceiling and the floor of this room and all of the blue and silver veins that are carved into this begin to glow with a similar blue light."
 2385;SAM;Cool.
 2386;MARISHA;Cool.
 2387;ORION;I love light.
@@ -2436,7 +2436,7 @@
 2434;TRAVIS;We've got to go. We've got to go.
 2435;MATT;One of them suddenly flashes, dislodges, and (whoosh, thud), squashing the spider in the process.|(yelling)
 2436;MARISHA;What is that?
-2437;MATT;"Just (spider screech, croak) screeching sound, the spider slowly tries to curl in place, the giant platinum golem now slamming on top and squishing on top. You see as it slowly comes to stand, each hand holding these giant platinum cleavers. You suddenly hear a voice ringing through your heads collectively: ""Get out."""
+2437;MATT;"Just (spider screech, croak) screeching sound, the spider slowly tries to curl in place, the giant platinum golem now slamming on top and squishing on top. You see as it slowly comes to stand, each hand holding these giant platinum cleavers. You suddenly hear a voice ringing through your heads collectively: """"Get out."""""
 2438;LAURA;(whispers) We should get out!
 2439;ORION;You heard the man! You heard him! You heard him! The earrings, everybody heard him.
 2440;SAM;Wait, can we just leave the thing here with the golem?
@@ -2553,14 +2553,14 @@
 2551;ORION;We're leaving! What are you doing?!
 2552;MARISHA;Yeah, go home! Go home! Bad golem.
 2553;TALIESIN;I take a--
-2554;MATT;"Kima takes out her holy symbol and holds it aloft in front of her and says under her breath (murmurs), at which point it begins to glow with this extremely vibrant glow. As it does, you see a symbol emblazoned on the front of the golem and it flashes with light as it stops and just kind of holds its place-- and waits. And Kima looks at the symbol like ""I wasn't sure that was going to work."" She takes--"
+2554;MATT;"Kima takes out her holy symbol and holds it aloft in front of her and says under her breath (murmurs), at which point it begins to glow with this extremely vibrant glow. As it does, you see a symbol emblazoned on the front of the golem and it flashes with light as it stops and just kind of holds its place-- and waits. And Kima looks at the symbol like """"I wasn't sure that was going to work."""" She takes--"
 2555;ORION;Tell it to go kill the spider.
 2556;MATT;She takes the symbol and puts it back in the side of the stone door that originally was closed.|The doors slowly seal shut once again. She pulls the symbol out-- and she falls to her knees, breathing heavily.
 2557;SAM;Oh, Kima.
 2558;MARISHA;We did it!
 2559;TRAVIS;Next time, lead with that.
 2560;ORION;I agree, Grog. Very well said.
-2561;MATT;"""It kind of happened very quickly, I'm sorry."""
+2561;MATT;"""""It kind of happened very quickly, I'm sorry."""""
 2562;ASHLEY;All right, do some people need to be healed?
 2563;TALIESIN;Oh, dear.
 2564;LAURA;Yeah.
@@ -2574,11 +2574,11 @@
 2572;ORION;It's okay, big fella.
 2573;MATT;You make your way back up to the main chamber, where High Bearer Vord is currently waiting for you.
 2574;SAM;Oh, this guy.
-2575;MATT;"He turns to you as you enter. ""So I am to assume that your journey was a success?"""
+2575;MATT;"He turns to you as you enter. """"So I am to assume that your journey was a success?"""""
 2576;ORION;Yes, surprisingly so. It went off without a hitch. Well, no.
 2577;LAURA;You've got some good security down there.
 2578;MARISHA;Very good.
-2579;MATT;"""I told you. Once it's instilled, it will be safe."""
+2579;MATT;"""""I told you. Once it's instilled, it will be safe."""""
 2580;LAURA;A little warning next time would be great.
 2581;ASHLEY;25 points of healing.
 2582;MATT;There you go.
@@ -2590,14 +2590,14 @@
 2588;LAURA;Yeah.
 2589;TALIESIN;That could've gone worse.
 2590;MARISHA;It could have gone worse.
-2591;MATT;"At which point, the High Bearer Vord kind of raises his hand. ""Yonn, if you do not mind."" And Yonn kind of shuffles forward."
+2591;MATT;"At which point, the High Bearer Vord kind of raises his hand. """"Yonn, if you do not mind."""" And Yonn kind of shuffles forward."
 2592;SAM;Yonn.
 2593;ORION;Such a bore.
 2594;MARISHA;Yawn.
-2595;MATT;"""Excuse me, I'm right here."""
+2595;MATT;"""""Excuse me, I'm right here."""""
 2596;ORION;It was a play on words. Your name also means something that you do when you're tired.
 2597;MARISHA;Yeah!
-2598;MATT;"""I don't like you."" (laughter)|He reaches out and puts a big old sack of coins in your hands."
+2598;MATT;"""""I don't like you."""" (laughter)|He reaches out and puts a big old sack of coins in your hands."
 2599;LAURA;Oh! I'll hold onto that.
 2600;ORION;Of course.
 2601;TALIESIN;We should mention, you may have to have one of the rooms repaired.
@@ -2617,38 +2617,38 @@
 2615;LAURA;It looks pretty good.
 2616;MATT;It is not the same.
 2617;LAURA;Dang it.
-2618;MATT;"At which point, the High Bearer turns to you, Pike. ""Mighty cleric, I see this meeting, though it escaped my vision before, that you bear the holy sigil of the Dawnflower, the Lady of Redemption Herself. While we may walk under different stars, I offer these words that caught my ear naught but a week ago. In an excavation beneath the toppled tower of Syrac, the long-cursed ruin that sat like a blemish upon this city for hundreds of years, it was revealed that perhaps the five holy paths that began here at Vasselheim, there may indeed now be a sixth."""
+2618;MATT;"At which point, the High Bearer turns to you, Pike. """"Mighty cleric, I see this meeting, though it escaped my vision before, that you bear the holy sigil of the Dawnflower, the Lady of Redemption Herself. While we may walk under different stars, I offer these words that caught my ear naught but a week ago. In an excavation beneath the toppled tower of Syrac, the long-cursed ruin that sat like a blemish upon this city for hundreds of years, it was revealed that perhaps the five holy paths that began here at Vasselheim, there may indeed now be a sixth."""""
 2619;SAM;What?
-2620;MATT;"""A forgotten temple to Sarenrae has been uncovered. Crumbled, lost, and without light, it sat, forever and a day, and few are around in this city of her guiding flame to recover and restore its glory. Perhaps you should look into it."""
+2620;MATT;"""""A forgotten temple to Sarenrae has been uncovered. Crumbled, lost, and without light, it sat, forever and a day, and few are around in this city of her guiding flame to recover and restore its glory. Perhaps you should look into it."""""
 2621;ASHLEY;I will gladly look into it.
-2622;MATT;"""The ruin lies to the west of here, at the base of the city's mountain. Look for the dark stone ruin. Nevertheless, I thank you for your time. Kima, if you wouldn't mind, we have some things to discuss as well."""
+2622;MATT;"""""The ruin lies to the west of here, at the base of the city's mountain. Look for the dark stone ruin. Nevertheless, I thank you for your time. Kima, if you wouldn't mind, we have some things to discuss as well."""""
 2623;MARISHA;Oh, quick, Vorg--
-2624;MATT;"""Vord. High Bearer Vord."""
+2624;MATT;"""""Vord. High Bearer Vord."""""
 2625;MARISHA;Vord.
 2626;TALIESIN;Vord.
 2627;LAURA;Highbearer Vord.
-2628;MATT;"""Was that so hard? Yes?"""
+2628;MATT;"""""Was that so hard? Yes?"""""
 2629;MARISHA;Vord? You wouldn't have happened to hear of maybe a druid tribe called the Fire Ashari? They call their little hometown Pyrah. Do you happen to know, maybe?
-2630;MATT;"He gives you a keen look and says, ""There has been talk of a rogue band of druids, not more than two day's travel, in the-- let's see, where did I put the maps here?"" He thinks to himself for a moment, considering it. ""Towards the Sunder Peak Mountain Range. Dangerous territory, fraught with volcanic activity. Yet these folks seem to call it home."""
+2630;MATT;"He gives you a keen look and says, """"There has been talk of a rogue band of druids, not more than two day's travel, in the-- let's see, where did I put the maps here?"""" He thinks to himself for a moment, considering it. """"Towards the Sunder Peak Mountain Range. Dangerous territory, fraught with volcanic activity. Yet these folks seem to call it home."""""
 2631;MARISHA;Is Sunder Peak like west or east to where we--
-2632;MATT;"""Southwest of the city. It's hard to miss."""
+2632;MATT;"""""Southwest of the city. It's hard to miss."""""
 2633;MARISHA;Southwest.
-2634;MATT;"""Look for the plumes of sulfurous smoke."""
+2634;MATT;"""""Look for the plumes of sulfurous smoke."""""
 2635;LAURA;Is the temple to Sarenrae on the way to the--
-2636;MATT;"""The temple to Sarenrae is on the same mountain that this temple is built on."""
+2636;MATT;"""""The temple to Sarenrae is on the same mountain that this temple is built on."""""
 2637;LAURA;Oh.
-2638;MATT;"""To the west of here. Follow the mountain base."""
+2638;MATT;"""""To the west of here. Follow the mountain base."""""
 2639;MARISHA;Oh. So we can stop there first?
 2640;ORION;Yes, it's close, it seems.
 2641;LAURA;All of us can--
 2642;ORION;Before we part, you seem to be quite learned about many things that I am not. Have you ever heard of anything called the God's Hammer or the Pale Stone? Or any particular artifact, Ropes of Mercy, perhaps?
-2643;MATT;"""I can't say I have, unfortunately."""
+2643;MATT;"""""I can't say I have, unfortunately."""""
 2644;ORION;Of course.
-2645;MATT;"""But I shall keep this in mind, should the information come my way."""
+2645;MATT;"""""But I shall keep this in mind, should the information come my way."""""
 2646;ORION;Thank you. I bow.
-2647;MATT;"He gives you a look, a quick glance, and notes: ""For the record, while your color is not what it was when you first entered, know that the great Platinum Dragon sees through this guise to the heart beneath."""
+2647;MATT;"He gives you a look, a quick glance, and notes: """"For the record, while your color is not what it was when you first entered, know that the great Platinum Dragon sees through this guise to the heart beneath."""""
 2648;ORION;Yes, thank you for noticing. I agree with the same sentiment. And I bow in the Draconic fashion.
-2649;MATT;"""Well, Kima. Business. Thank you all very much."" And he kind of lends his hands out. As he extends his hand, the doors on the opposite side of the room open up."
+2649;MATT;"""""Well, Kima. Business. Thank you all very much."""" And he kind of lends his hands out. As he extends his hand, the doors on the opposite side of the room open up."
 2650;LAURA;Magic. Thought it was banned.
 2651;MATT;For the sake of brevity, because we have people who have to leave on this, very soon, it doesn't take you long to find your way across the city. You find some of the city's Bastions standing guard on the outskirts of this crumpled tower ruin. It's like, black and soot-covered stone that looks like a plot of land that has been left untouched. Like, once it fell, no one wanted anything to do with it. You speak with the Bastions and they eventually let you through, especially given the aid of those you've walked with since arrival. You come to the ruin and you can see there's about a 40-foot gap in this pile of stone that is a recess in the ground, almost like a small sinkhole. It looks like there is some sort of excavation that has been set here. Very haphazard. There is very simple wood boards that have been placed into the side of this small sinkhole to allow relatively comfortable, though a bit rickety, descent into the structure. As you make your way down, your eyes adjust to the little bit of daylight that spills into this dark subterranean cavern. There before you, you see a surprisingly glorious sight: a simple structure of brass and polished limestone, ancient as the day is long. One of the walls has partially collapsed, and you see what looks like three figures rummaging through the debris. An older human woman, who is being helped by two others: a young man of blond hair and simple clothes and an older gnome that's carrying a crutch under his arm.|They're all in the process of collecting and setting aside and cleaning up various things that have been recovered from this temple. You immediately see against the brass structure the very simplified symbol of the wings of Sarenrae, multiple times across the structure in various incarnations. This is very much indeed a lost temple of Sarenrae.
 2652;LAURA;(whispers) Wow, Pike.
@@ -2656,11 +2656,11 @@
 2654;SAM;So, when you've fully excavated it, you can come back and check it out.
 2655;ASHLEY;Yes...
 2656;ORION;Or you can stay here and restore it.
-2657;MATT;"At which point, the older woman sees you guys walk down and says, ""Please! There's nothing to take. Nothing but history and rock, I guarantee you. Bandits are not welcome here."""
+2657;MATT;"At which point, the older woman sees you guys walk down and says, """"Please! There's nothing to take. Nothing but history and rock, I guarantee you. Bandits are not welcome here."""""
 2658;ASHLEY;No no no! I take out my symbol and I say, no no no, I'm here to help.
-2659;MATT;"You can hear an audible gasp from her. She says, ""My eyes don't deceive. Oh my, I am sorry.|My name is Gesyra, a simple painter, but one of, as far as I know, the three devoted to the Lady of the Everlight here in Vasselheim. And now a fourth. I don't know where you came from, but would you stay with us for a bit and help us rebuild? Bring her name into the light amongst the others here in Vasselheim? Restore it to its glory?"""
+2659;MATT;"You can hear an audible gasp from her. She says, """"My eyes don't deceive. Oh my, I am sorry.|My name is Gesyra, a simple painter, but one of, as far as I know, the three devoted to the Lady of the Everlight here in Vasselheim. And now a fourth. I don't know where you came from, but would you stay with us for a bit and help us rebuild? Bring her name into the light amongst the others here in Vasselheim? Restore it to its glory?"""""
 2660;ASHLEY;(tearfully) Yes. Oh, man, I don't want to leave you guys.
-2661;MATT;"""It shouldn't take long, especially with your help. And we can bring the light into the heart of others."" And you can see the two other kind of joined her at the side and they all look at you with this look of hope that you can probably tell from the crinkles in their face they haven't had in quite some time. And they look up to you in their simple clothes as the first true strong bastion for Sarenrae that they've seen in a long time.|With that, Pike, you get to turn to the rest of the group."
+2661;MATT;"""""It shouldn't take long, especially with your help. And we can bring the light into the heart of others."""" And you can see the two other kind of joined her at the side and they all look at you with this look of hope that you can probably tell from the crinkles in their face they haven't had in quite some time. And they look up to you in their simple clothes as the first true strong bastion for Sarenrae that they've seen in a long time.|With that, Pike, you get to turn to the rest of the group."
 2662;ASHLEY;Well, I think this is a pilgrimage I have to take. So, Vox Machina, keep your eyes out. I will contact you every once in a while if I can, and we will meet up once this is completed. All in.
 2663;TRAVIS;Right.
 2664;ASHLEY;Vox Machina on three. One, two, three.

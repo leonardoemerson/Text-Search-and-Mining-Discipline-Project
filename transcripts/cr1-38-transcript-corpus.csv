@@ -33,7 +33,7 @@
 31;MATT;Boom. Done.
 32;LIAM;Wyrmwood Gaming, everyone!
 33;TRAVIS;Wyrmwood!
-34;LIAM;"Wyrmwood Gaming, if you use the code ""critrole,"" you'll get free shipping! Free shipping."
+34;LIAM;"Wyrmwood Gaming, if you use the code """"critrole,"""" you'll get free shipping! Free shipping."
 35;MARISHA;So stylish.
 36;MATT;Mine says 'storyteller'.
 37;SAM;Wyrmwood Gaming?
@@ -86,13 +86,13 @@
 84;TALIESIN;We're Reservoir Dogging it.
 85;LAURA;'Sup.
 86;TALIESIN;Walking really slow.
-87;MATT;"At this point the sun is setting, it's probably getting close to dusk. You guys stroll up and the two guards approach immediately. ""Can I ask you what you're doing here? You've got someone--"""
+87;MATT;"At this point the sun is setting, it's probably getting close to dusk. You guys stroll up and the two guards approach immediately. """"Can I ask you what you're doing here? You've got someone--"""""
 88;LAURA;We have a present for Uriel. Open the gates.
-89;MATT;"""Well, what's the present?"""
+89;MATT;"""""Well, what's the present?"""""
 90;LAURA;Are you questioning part of the council at this moment?
-91;MATT;"""No, if there is business to be done I have to go ahead and put it up the chain of command to make sure that I'm doing my job so I don't end up being lashed for my--"""
+91;MATT;"""""No, if there is business to be done I have to go ahead and put it up the chain of command to make sure that I'm doing my job so I don't end up being lashed for my--"""""
 92;LAURA;Of course, darling, and you're doing a wonderful job of it.
-93;MATT;"""Well, I appreciate that and I'd appreciate you helping me do my job, if that's all right."""
+93;MATT;"""""Well, I appreciate that and I'd appreciate you helping me do my job, if that's all right."""""
 94;LAURA;We have a present for Uriel. Open the gates. Send it up the chain of command.
 95;MATT;Turns around and walks back, the other guy looks back awkwardly and follows him. He gives a couple hand motions and the gates open up to the inside of the Cloudtop District.
 96;TRAVIS;He's on the back of the bear, right?
@@ -142,67 +142,67 @@
 140;MATT;What's your strength?
 141;LAURA;Very low.
 142;MARISHA;We should've played our theme music over that.|(laughter)
-143;MATT;"So, pushing towards the central palace, the guards approach once again. These ones a little more stern than the ones you met on the outside of the district. ""What's your business at the palace?"""
+143;MATT;"So, pushing towards the central palace, the guards approach once again. These ones a little more stern than the ones you met on the outside of the district. """"What's your business at the palace?"""""
 144;SAM;Again?
 145;LAURA;"We, look, we have a body over this bear! Let us through to Uriel; he's been looking for this man. Super important."
 146;MATT;The guards look over at the bear.
 147;SAM;They know this man. They should know this man.
-148;MATT;"""You found Riskel Daxio?"""
+148;MATT;"""""You found Riskel Daxio?"""""
 149;LAURA;Of course we did!
-150;MATT;"""All right, men!"""
+150;MATT;"""""All right, men!"""""
 151;MARISHA;But don't tell him! It's a surprise.|It's a present.
-152;MATT;"The other guards begin to step forward like, ""We'll take it from here."""
+152;MATT;"The other guards begin to step forward like, """"We'll take it from here."""""
 153;LAURA;No no no. No, you won't.
 154;TRAVIS;The fuck you will.
 155;TALIESIN;We would like to deliver this personally as we don't know if he has any co-conspirators, so it would be best if he didn't leave our immediate vicinity.
 156;MARISHA;And we really want to see his face when he opens it. That's the best part of giving a gift.
-157;MATT;"The guard raises his hand and the guards stop. ""Very well. Proceed inward."" Steps aside, the guards separate and you can see they're all looking a little nervous that they basically had their job done for them. It's not going to do well down the chain of command in the very near future.|You guys step into the palace, make your way to the main hallway that leads to the central throne chambers. Uriel is not there at the moment. The guards ask you to wait. You wait about five to ten minutes or so before the doors open again and Uriel is hastily walking in, sitting down on his throne. The rest of the council isn't present for this. It's just him currently, and I believe Tofor Brotorus, the female dragonborn on the council, with you guys.|So, as you approach, Uriel sits down, his robes swishing about him. ""All right, it hasn't been too long. You requested my presence. And I am here.|What do you need?"""
+157;MATT;"The guard raises his hand and the guards stop. """"Very well. Proceed inward."""" Steps aside, the guards separate and you can see they're all looking a little nervous that they basically had their job done for them. It's not going to do well down the chain of command in the very near future.|You guys step into the palace, make your way to the main hallway that leads to the central throne chambers. Uriel is not there at the moment. The guards ask you to wait. You wait about five to ten minutes or so before the doors open again and Uriel is hastily walking in, sitting down on his throne. The rest of the council isn't present for this. It's just him currently, and I believe Tofor Brotorus, the female dragonborn on the council, with you guys.|So, as you approach, Uriel sits down, his robes swishing about him. """"All right, it hasn't been too long. You requested my presence. And I am here.|What do you need?"""""
 158;TALIESIN;Vex, this is all yours.
 159;LAURA;Oh, well, not all me. This is all of us. We found your traitor for you.
-160;MATT;"""Really?"" And he stands up and the rest of the guards that came up behind you keep an eye to make sure nothing weird goes wrong, they step forward a few steps and, ""Bring him forth. Hold him. In irons. Chains. Now."" And all the guards go and pull him off of Trinket, throw him on the ground face-first. He slaps into the marble flooring of the chamber."
+160;MATT;"""""Really?"""" And he stands up and the rest of the guards that came up behind you keep an eye to make sure nothing weird goes wrong, they step forward a few steps and, """"Bring him forth. Hold him. In irons. Chains. Now."""" And all the guards go and pull him off of Trinket, throw him on the ground face-first. He slaps into the marble flooring of the chamber."
 161;TRAVIS;Yeah.
 162;MATT;Little bit of blood smeared across the ground as his face glides--
 163;LAURA;Yeah, he's beat up pretty bad, you might not want to--
-164;MATT;"""He'll survive."" And you can see now there's a look of pained anger in Uriel's eyes at seeing the face of someone he trusted for so long. The guards take the manacles that you guys already had on him and chain his legs together. They put another set of manacles across the back of his arms so his arms are actually held in two places to the back. They lift him onto his knees and drag him up to the very bottom stair that leads up to the central dais where the thrones are on. And he's unconscious, head lolling about.|Uriel looks down and, ""Wake him up."""
+164;MATT;"""""He'll survive."""" And you can see now there's a look of pained anger in Uriel's eyes at seeing the face of someone he trusted for so long. The guards take the manacles that you guys already had on him and chain his legs together. They put another set of manacles across the back of his arms so his arms are actually held in two places to the back. They lift him onto his knees and drag him up to the very bottom stair that leads up to the central dais where the thrones are on. And he's unconscious, head lolling about.|Uriel looks down and, """"Wake him up."""""
 165;SAM;Us?
-166;MATT;"""Someone. I don't care. Wake him up."""
+166;MATT;"""""Someone. I don't care. Wake him up."""""
 167;TRAVIS;I got it! I walk over and I slap the shit out of him.
 168;SAM;You may kill him.
 169;LIAM;Oh, he's dead.
 170;MATT;With a resounding slap sound, Riskel sends a spatter of spittle and blood that coasts across the floor and his head shakes. As he looks up at you, you can see his teeth that were once white now glisten with fresh blood across the entirety of his smile.
 171;TRAVIS;Hello, gorgeous.
-172;MATT;"""Do what you will."" He looks up and sees Uriel. ""My liege, what would you have of me?"" Uriel takes a moment, intensely staring at his face. ""For so many years you played me and my family. You played the people of this city, of these lands. You've forsaken the name of your father who plucked you from nothing. How? How can you live with this?"" Riskel takes a moment, chuckles to himself, this throaty gurgle as he's still trying to breathe through the blood pooling in the back of his throat. ""Life is but a stage of our existence. And when you all will die, I will rise again. For I am his blood."""
+172;MATT;"""""Do what you will."""" He looks up and sees Uriel. """"My liege, what would you have of me?"""" Uriel takes a moment, intensely staring at his face. """"For so many years you played me and my family. You played the people of this city, of these lands. You've forsaken the name of your father who plucked you from nothing. How? How can you live with this?"""" Riskel takes a moment, chuckles to himself, this throaty gurgle as he's still trying to breathe through the blood pooling in the back of his throat. """"Life is but a stage of our existence. And when you all will die, I will rise again. For I am his blood."""""
 173;SAM;You are his blood?
-174;MATT;"Uriel steps back up on his throne and sits down. ""Riskel Daxio, you have been found guilty of treason by the peoples of Tal'Dorei. I command that your sentence of death be held immediately."""
+174;MATT;"Uriel steps back up on his throne and sits down. """"Riskel Daxio, you have been found guilty of treason by the peoples of Tal'Dorei. I command that your sentence of death be held immediately."""""
 175;TRAVIS;Yes!
 176;SAM;Sovereign, if I may, can we ask him a few questions before you do what you gonna do?
-177;MATT;"""Quickly."""
+177;MATT;"""""Quickly."""""
 178;SAM;He's talking crazy, we should find out why, right?
 179;TRAVIS;Who's talking crazy?
-180;SAM;"He said, ""I am born of his blood."" What blood?"
+180;SAM;"He said, """"I am born of his blood."""" What blood?"
 181;LAURA;Are you one of Vecna's children? Are you one of his priests? Are you one of his--
 182;LIAM;You're the chatty Cathy. Get with the talking.
 183;SAM;I don't know what I'm asking.
 184;TRAVIS;You never do.
-185;MATT;"As you ask him that, ""There are many parts to our one to him. I'm but his blood, but there are many, many, different pieces that make the whole."""
+185;MATT;"As you ask him that, """"There are many parts to our one to him. I'm but his blood, but there are many, many, different pieces that make the whole."""""
 186;SAM;Where are these pieces located?
 187;LAURA;Everywhere. Good answer.
 188;MARISHA;So when you say you are his blood you actually mean more literally for once? Is that what I'm getting?
 189;SAM;No.
 190;TRAVIS;Good question.
-191;MATT;"His eyes narrow and he looks for a moment almost disappointed in confusion. ""Just kill me now. I grow impatient with this existence."""
+191;MATT;"His eyes narrow and he looks for a moment almost disappointed in confusion. """"Just kill me now. I grow impatient with this existence."""""
 192;TRAVIS;That's not a problem. Is there somewhere where you would like to go after you die? Or are you going to wake up right after you die?
-193;MATT;"""I guess we'll find out."""
+193;MATT;"""""I guess we'll find out."""""
 194;MARISHA;Yeah, and are you going to wake up like a baby so we have like 20 years before we have to worry about you again?
 195;LAURA;Or are you like a zombie, straight, straight away up and at 'em?
 196;TRAVIS;He might come back as like a dog.
-197;MATT;"""Please, please, kill me now. End this paltry existence."""
+197;MATT;"""""Please, please, kill me now. End this paltry existence."""""
 198;LAURA;What if you come back as like a fish and then you're screwed and stuck in the water?
 199;TRAVIS;Yeah, or like a penguin, so he's like a bird that can't fly and he can only swim.
 200;LAURA;And he's stuck waddling around. That'd be so sad.
 201;LIAM;Uriel. As thanks for bringing you this gift, we need to run Grog out once in a while. Might he have the honor of removing this shitstain from the world?
 202;LAURA;Unless, of course, you'd like to do it yourself.
-203;MATT;"Uriel contemplates for a moment. ""He's at your disposal. I only ask that you do it soon and in my sight."""
+203;MATT;"Uriel contemplates for a moment. """"He's at your disposal. I only ask that you do it soon and in my sight."""""
 204;SAM;Are you sure there's no more useful information we can get from this man?
 205;LIAM;So, Riskel, Grog can do it kind of quickish or take a very long time. I've seen him do it.
 206;TRAVIS;And I start stretching.
@@ -219,11 +219,11 @@
 217;TALIESIN;I've wanted to make this pun my entire life.
 218;LIAM;Intimidation, you said. Oh, hell, I'm using Luck in case I can do better. No, 17.
 219;TALIESIN;He taint intimidated. Got to get it out of my system. I'm so sorry.
-220;MATT;"You can see his eyes begin to roll back in his head. ""Do what you must."" Begins to fade back into unconsciousness."
+220;MATT;"You can see his eyes begin to roll back in his head. """"Do what you must."""" Begins to fade back into unconsciousness."
 221;LAURA;No, no, no. Wake up, wake up, wake up.|What's the marble? What's the little ball? What's it do?
-222;MATT;"""I don't know what you're talking about."""
+222;MATT;"""""I don't know what you're talking about."""""
 223;LAURA;Oh, then you're not very knowledgeable, are you? I guess Vecna didn't tell you of his plans.|Not very important. Blood?
-224;MATT;"""The deal with my master is power through not knowing. He is the one who knows all. The fact that he keeps it from us means that he trusts us."""
+224;MATT;"""""The deal with my master is power through not knowing. He is the one who knows all. The fact that he keeps it from us means that he trusts us."""""
 225;LAURA;That's the stupidest thing I've ever heard.
 226;LIAM;All right, Grog, take off his little marble please.
 227;SAM;Wait, wait, wait, wait. We're not going to get any information out of him?
@@ -231,7 +231,7 @@
 229;LAURA;That's a good idea! Pike, why don't you bless him? Why don't you make him holy?
 230;MATT;His eyes dart around for a moment with a look of sudden curiosity and worry.
 231;ASHLEY;Oh, I think that would be fun!
-232;MATT;"""That's not possible."""
+232;MATT;"""""That's not possible."""""
 233;LAURA;Yes, it is. Sarenrae could always use new servants. Right, Pike?
 234;ASHLEY;Yes, of course!
 235;TALIESIN;I've seen her regrow a foot. It's amazing.
@@ -241,13 +241,13 @@
 239;LAURA;Aw, that's not the good one. 11. Do I get advantage because Pike is helping?
 240;MATT;Because she is helping with it and she is the source of it, I'd say sure. Go ahead and roll with advantage.
 241;LAURA;Haha! That's much better. 23!
-242;MATT;"23. Okay. You can see now at this point, his breathing is quickened and he's swallowing more regularly. There's a look of sincere nervousness in his eyes. ""His power is great. There is nothing this paltry little child of a being can do to keep his will from his promise."""
+242;MATT;"23. Okay. You can see now at this point, his breathing is quickened and he's swallowing more regularly. There's a look of sincere nervousness in his eyes. """"His power is great. There is nothing this paltry little child of a being can do to keep his will from his promise."""""
 243;LIAM;Oh, you shithead.
 244;ASHLEY;Well, maybe we'll just give it a try.
 245;TRAVIS;Do it! Do it!
 246;ASHLEY;Okay, well, I'm going to walk over to him.|Just stay still. It's better on the light side, so hold on.
 247;TALIESIN;It worked for me. It was really quite an experience.
-248;MATT;"""Master have mercy."""
+248;MATT;"""""Master have mercy."""""
 249;TRAVIS;You're looking in the wrong direction.
 250;LAURA;I mean, do you know-- Unless you have something to share with us. Do you know of his awakening?
 251;TRAVIS;We could just let you go to him.
@@ -259,12 +259,12 @@
 257;ASHLEY;Okay. Wait. Am I doing Greater Restoration?
 258;MATT;If you want to. It's whatever you want to try.
 259;ASHLEY;Let's try it!
-260;MATT;"Okay! So as you pull out your symbol of Sarenrae, your metallic clinks of your feet across the sparse marble flooring. You approach as the symbol glows. You can see in Pike's eyes, her pupils go white as the energy of Sarenrae's holy blessing begins to spill out the sides. At each step, Riskel begins to twitch and pull away. He's glancing about, looks towards you, Grog, with a look of ""please, have pity."" As Pike reaches out to touch him, he goes, ""I know little. It is the nature of his being. The ritual was once attempted before. I know not if it worked. I was not there.|You rushed in. It was not time. """
+260;MATT;"Okay! So as you pull out your symbol of Sarenrae, your metallic clinks of your feet across the sparse marble flooring. You approach as the symbol glows. You can see in Pike's eyes, her pupils go white as the energy of Sarenrae's holy blessing begins to spill out the sides. At each step, Riskel begins to twitch and pull away. He's glancing about, looks towards you, Grog, with a look of """"please, have pity."""" As Pike reaches out to touch him, he goes, """"I know little. It is the nature of his being. The ritual was once attempted before. I know not if it worked. I was not there.|You rushed in. It was not time. """""
 261;LAURA;What did it need? What would have made it time?
-262;MATT;"""The Winter's Crest. The festival marks a time where the barrier between the realms is thin.|Where the magic ley lines across this world cross and swell. You forced our hand. I was not there. I do not know the answer and I hope it was enough."""
+262;MATT;"""""The Winter's Crest. The festival marks a time where the barrier between the realms is thin.|Where the magic ley lines across this world cross and swell. You forced our hand. I was not there. I do not know the answer and I hope it was enough."""""
 263;LAURA;It probably wasn't.
 264;SAM;Are there plans to attempt this at the next Winter's Crest that you know of?
-265;MATT;"At this point you can see now this look of despair hits his eyes, and then resolve. He goes from this fearful moment to the realization that he has already expressed more than he should. But hopefully it's not too much to fall out of the favor of his lord. And a smile creeps across his face for the first time since this whole thing and he grins. ""It is time."" And he leans forward and puts his neck out."
+265;MATT;"At this point you can see now this look of despair hits his eyes, and then resolve. He goes from this fearful moment to the realization that he has already expressed more than he should. But hopefully it's not too much to fall out of the favor of his lord. And a smile creeps across his face for the first time since this whole thing and he grins. """"It is time."""" And he leans forward and puts his neck out."
 266;LAURA;Vecna's going to be so pissed at you.
 267;MARISHA;Have we tried to Restoration him first?
 268;SAM;Oh, yeah. She didn't do it yet.
@@ -274,7 +274,7 @@
 272;MARISHA;Yeah.
 273;ASHLEY;Should I do it?
 274;SAM;Why not? We'll see what happens.
-275;LIAM;"So I crouch down, take two fingers and I get him by the nostrils and pull back the top of his head and say, ""Do it, Pike. Pour in your holy light right in his mouth. Give it all to him."""
+275;LIAM;"So I crouch down, take two fingers and I get him by the nostrils and pull back the top of his head and say, """"Do it, Pike. Pour in your holy light right in his mouth. Give it all to him."""""
 276;MATT;Pike, as you reach forward, you take the Sarenrae symbol and you jam it into his open mouth. As it does-- yeah, just like that. A burst of divine light comes spewing out the sides, and you see him choking on some unseen force.
 277;MARISHA;A holy dick.
 278;MATT;Probably a combination of him swallowing his own tongue, but as you pull the symbol back, completing the spell of restoration, you can see the energy pour through his body and he's shaking out of fear. His eyes begin to roll back, and from the sound of it he's actually swallowing his own tongue.
@@ -286,7 +286,7 @@
 284;LAURA;I know. I know.
 285;TALIESIN;That's a big hand to get in there, man.|That's really uncomfortable.
 286;LIAM;He earned this grief.
-287;MATT;"You hear Uriel's voice behind you say, ""Enough. Get it over with."" (laughter)"
+287;MATT;"You hear Uriel's voice behind you say, """"Enough. Get it over with."""" (laughter)"
 288;LAURA;Sorry. Sorry.
 289;SAM;All right. Good try, Pike. That was really good.
 290;LAURA;That was really awesome, Pike.
@@ -302,13 +302,13 @@
 300;SAM;I don't know if you should be smiling this much. You just killed a man. Have a little respect.
 301;TRAVIS;Yeah, but he was evil. Not happy time?
 302;TALIESIN;Quiet happy time.
-303;MATT;"Uriel stands up. ""Guards, have this mess cleaned. Burn the body. Thank you very much."""
+303;MATT;"Uriel stands up. """"Guards, have this mess cleaned. Burn the body. Thank you very much."""""
 304;TALIESIN;Really quickly, have we looted the body already?
 305;LAURA;I feel like I did, didn't I? When he was in--
 306;MATT;You did, you already looted the body.
 307;MARISHA;We did. We already got the skull with the missing eye.
 308;TRAVIS;Can I turn to the side and go, how was that?
-309;MATT;"You hear the voice creep up and say, ""Now we see eye to eye."""
+309;MATT;"You hear the voice creep up and say, """"Now we see eye to eye."""""
 310;TRAVIS;I don't see you anywhere? (laughter)
 311;MATT;The aura of the shadow from the blade retracts, and the blade becomes an onyx blade. It appears to have rescinded his presence.
 312;TRAVIS;He's shy.
@@ -316,13 +316,13 @@
 314;SAM;Craven Edge and Grog!
 315;ASHLEY;Oh man, I so badly want to fix that sword to save Grog, but at the same time, I don't! (laughter)
 316;SAM;Sovereign?
-317;MATT;"""Yes?"""
+317;MATT;"""""Yes?"""""
 318;SAM;You know, I know we just talked earlier today and everything, but it feels like we should get some sort of reward or something for capturing this guy, doesn't it? I mean is that impolite to ask?
 319;TRAVIS;We did do it pretty expediently.
 320;SAM;It was the same day, wasn't it?
-321;MATT;"""It was."" And he sits there for a second and nods his head. ""Very well. We were prepared to put out a bounty for his arrest, and I feel it would only be fair to provide you with this bounty."" He snaps his fingers. A guard comes up and he whispers to him for a second. As he walks away, ""You will have a sum of 5,000 gold pieces delivered to Greyskull Keep this evening."""
+321;MATT;"""""It was."""" And he sits there for a second and nods his head. """"Very well. We were prepared to put out a bounty for his arrest, and I feel it would only be fair to provide you with this bounty."""" He snaps his fingers. A guard comes up and he whispers to him for a second. As he walks away, """"You will have a sum of 5,000 gold pieces delivered to Greyskull Keep this evening."""""
 322;SAM;Thank you.
-323;MATT;"""I appreciate it. Now please, be on your way. I have business to attend to. Thank you very much."""
+323;MATT;"""""I appreciate it. Now please, be on your way. I have business to attend to. Thank you very much."""""
 324;TALIESIN;Good evening, your lordship.
 325;MATT;He gets up and walks away.
 326;TRAVIS;5,000?
@@ -382,7 +382,7 @@
 380;TRAVIS;You can't really do this wrong.
 381;MATT;You'd be surprised.|(laughter)|Over the next couple hours, you meander a while through Abdar's Promenade, there are a couple dives, but the clientele doesn't seem very jovial.
 382;LAURA;This is the worst pub crawl ever! This took two hours?
-383;MATT;"Yeah. You find about four different establishments, but most of them appear to be less of the ""party hardy"" crowd and more of the ""my life sucks, I need alcohol"" crowd."
+383;MATT;"Yeah. You find about four different establishments, but most of them appear to be less of the """"party hardy"""" crowd and more of the """"my life sucks, I need alcohol"""" crowd."
 384;TALIESIN;Scanlan? Scanlan? I feel we need you.|I'm still recovering my spirit here.
 385;SAM;All right.|Do you need me to yelp it again? All right, I will roll an investigation.
 386;TALIESIN;It couldn't hurt.
@@ -392,7 +392,7 @@
 390;MATT;Something off the beaten path. Word of mouth type place. Okay. Let's see.
 391;LAURA;Oh! I like that he's checking out his Yellow Pages.
 392;LIAM;Matt's thinking about all the battle maps he drew over the last week, and we're doing a pub crawl.
-393;TALIESIN;"It's like, ""Fine. We're doing a pub crawl."""
+393;TALIESIN;"It's like, """"Fine. We're doing a pub crawl."""""
 394;MATT;Hey, man. Nothing wrong with that.
 395;SAM;Or just a place that comes highly recommended.
 396;TALIESIN;Or poorly recommended.
@@ -403,13 +403,13 @@
 401;LIAM;He just made it up. We've not been there.
 402;MARISHA;Like Woolworth's, but Halworth's?
 403;MATT;Sure.
-404;ASHLEY;"Like ""Hogwarts"" without the G?"
+404;ASHLEY;"Like """"Hogwarts"""" without the G?"
 405;MATT;I guess you'd say. Howarth's. When you get there, it appears to be more of a textile business, but from what you've heard, it's more a business that runs the front, and then the real company is in the back.
 406;LAURA;Nice.
 407;TALIESIN;Textiles and beer?
 408;MATT;Yes.
 409;TALIESIN;Okay.
-410;MATT;"So as soon as you guys approach, the guy who's running the front, who's this weaselly-looking, mousy gentleman in his late 40s, thin John Waters mustache, gives you a nod and says, ""I take it you're not here for the-- yeah.|Just around the corner. Back room."" Points you over. As you guys walk in, there's a pretty happening establishment in here. There's a harp player on the far edge of the room on the stage, who's playing a very beautiful piece. Even though she's just playing the harp, it's almost emanating the sound of multiple instruments. There's probably about ten or so people in here. It's not extremely crowded, but everyone in there appears to be rather upper crust folks that either have descended from the Cloudtop District to rub shoulders with the less elite of the town and a few wealthy merchants. It's a pretty decent place for rabble rousers who have some coin to spend."
+410;MATT;"So as soon as you guys approach, the guy who's running the front, who's this weaselly-looking, mousy gentleman in his late 40s, thin John Waters mustache, gives you a nod and says, """"I take it you're not here for the-- yeah.|Just around the corner. Back room."""" Points you over. As you guys walk in, there's a pretty happening establishment in here. There's a harp player on the far edge of the room on the stage, who's playing a very beautiful piece. Even though she's just playing the harp, it's almost emanating the sound of multiple instruments. There's probably about ten or so people in here. It's not extremely crowded, but everyone in there appears to be rather upper crust folks that either have descended from the Cloudtop District to rub shoulders with the less elite of the town and a few wealthy merchants. It's a pretty decent place for rabble rousers who have some coin to spend."
 411;TRAVIS;That's us.
 412;SAM;Let's get a round, shall we?
 413;LAURA;Yeah. Oh, I would say you could buy, Scanlan, but you have no money.
@@ -434,9 +434,9 @@
 432;LAURA;Oh god, that's so loud.
 433;LIAM;We need to keep drinking, but also eating, so where's the closest place to do that?
 434;MARISHA;Yes!
-435;MATT;"""At this hour?"" And the gentleman who's talking to you now, his chin appears to have been broken at some point in his life so as he talks the jaw swivels from side to side in an awkward, old Disney cartoon way. It's hard to really put into words. His hair is spotty in places, it's thinning in the front, but he's well-dressed. It's one of those things where the outfit does not match the persona. But he looks over to you and, ""Well, sir, at this point in the evening, food might be a little hard to procure, unfortunately."""
+435;MATT;"""""At this hour?"""" And the gentleman who's talking to you now, his chin appears to have been broken at some point in his life so as he talks the jaw swivels from side to side in an awkward, old Disney cartoon way. It's hard to really put into words. His hair is spotty in places, it's thinning in the front, but he's well-dressed. It's one of those things where the outfit does not match the persona. But he looks over to you and, """"Well, sir, at this point in the evening, food might be a little hard to procure, unfortunately."""""
 436;LAURA;Oh, really?
-437;MATT;"""As far as I know."""
+437;MATT;"""""As far as I know."""""
 438;MARISHA;Guys, there's got to be like some street vendors. Come on.
 439;TALIESIN;I'm going to find the most interesting, boisterous clientele in the bar and I'm going to approach them.
 440;TRAVIS;Yeah, we getting in a fight?
@@ -449,18 +449,18 @@
 447;SAM;Don't worry. We have servants.
 448;MARISHA;We have servants. It's fine.
 449;TRAVIS;Drink more.
-450;MATT;"So you glance towards the door and an individual walks in that definitely matches the expectation of what you're looking for. A familiar individual. A gentleman of purple-gold trimmed robes, a darkish complexion, a tied goatee, and a smile on his face. And it suddenly makes complete sense this is the kind of place that Gilmore would go to drink.|(cheering)|As he comes strolling in, he has a smile on his face. You can see a bit of sweat on his brow.|He's had a long day and is in a rush here, looks over, and immediately sees all of you there.|""Well, isn't this the luckiest day for me!"""
+450;MATT;"So you glance towards the door and an individual walks in that definitely matches the expectation of what you're looking for. A familiar individual. A gentleman of purple-gold trimmed robes, a darkish complexion, a tied goatee, and a smile on his face. And it suddenly makes complete sense this is the kind of place that Gilmore would go to drink.|(cheering)|As he comes strolling in, he has a smile on his face. You can see a bit of sweat on his brow.|He's had a long day and is in a rush here, looks over, and immediately sees all of you there.|""""Well, isn't this the luckiest day for me!"""""
 451;TALIESIN, MARISHA;Gilmore!
 452;LIAM;Look at this motherfucker right here!
-453;MATT;"""Vax'ildan!"" He runs up and grabs you and (kiss kiss)."
+453;MATT;"""""Vax'ildan!"""" He runs up and grabs you and (kiss kiss)."
 454;LIAM;Oh, I lift him. I lift him in the air and twirl him around and I put him down on a bar stool and I give him a playful slap on the cheek. Not that hard, but like. How are you? It's so good to see you! God, you look good.
-455;MATT;"""You as well, my friend, you as well."""
+455;MATT;"""""You as well, my friend, you as well."""""
 456;MARISHA;Gilmore! Gilmore. What are you drinking? We're buying. What are you drinking?
-457;MATT;"""Oh, obviously whatever she's having."""
+457;MATT;"""""Oh, obviously whatever she's having."""""
 458;LIAM;Do you have any food? They don't have any.
-459;MATT;"""They don't have any. They would not serve food here. No, it's a finer establishment."""
+459;MATT;"""""They don't have any. They would not serve food here. No, it's a finer establishment."""""
 460;LAURA;Where can we go for food, Gilmore?
-461;MATT;"""Um."" And he thinks for a second. He reaches back into a small satchel he has at his side and he pulls out a little pouch. He opens the pouch, and he reaches out and he pulls out a small wooden domino, like in size. ""If you wouldn't mind clearing some of these tables for me?"""
+461;MATT;"""""Um."""" And he thinks for a second. He reaches back into a small satchel he has at his side and he pulls out a little pouch. He opens the pouch, and he reaches out and he pulls out a small wooden domino, like in size. """"If you wouldn't mind clearing some of these tables for me?"""""
 462;SAM;Oh sure, sure. Grog?
 463;TRAVIS;Not a problem. Stand up, you lot!
 464;MATT;(laughs) Unnecessarily knocking over the drinks off the table of one of the nearby individuals, but they don't argue with the goliath.
@@ -469,19 +469,19 @@
 467;SAM;Gilmore!
 468;MARISHA;These things are not cheap.
 469;ASHLEY;Gilmore!
-470;MATT;"You can see in his other hand the gem-encrusted chalice from the middle of his pouch dissipates in the arcane energy. He says, ""Well, I figured it was a special occasion."""
+470;MATT;"You can see in his other hand the gem-encrusted chalice from the middle of his pouch dissipates in the arcane energy. He says, """"Well, I figured it was a special occasion."""""
 471;LAURA;Darling.
 472;SAM;Wow, Gilmore, this is too much! Really. This is amazing. You're such a kind, generous soul.
-473;MATT;"""Actually, I've gotten word that you've been spreading the wonders of my brand, though--"""
+473;MATT;"""""Actually, I've gotten word that you've been spreading the wonders of my brand, though--"""""
 474;TRAVIS;(laughs) That's true.
 475;LAURA;Everywhere we go.
-476;MATT;"""That's not true, but you've been doing it a bit, which is more than I expected, to be honest.|So I appreciate that, I really do."""
+476;MATT;"""""That's not true, but you've been doing it a bit, which is more than I expected, to be honest.|So I appreciate that, I really do."""""
 477;SAM;Not only that, we've, I don't know if word has reached you yet, but in Whitestone we're working towards establishing a Gilmore-themed library for the people with your name attached to it.
-478;MATT;"""Well."""
+478;MATT;"""""Well."""""
 479;SAM;Something respectable for a change!
-480;MATT;"""Oh, I don't know about that. I've still got to finish building my shop in Westruun, but when that is done, I'll be more than happy to look into it."""
+480;MATT;"""""Oh, I don't know about that. I've still got to finish building my shop in Westruun, but when that is done, I'll be more than happy to look into it."""""
 481;SAM;If you need any help, count on us.
-482;MATT;"""Whitestone. Whitestone. Hmm. Place has been kind of dour as of late."""
+482;MATT;"""""Whitestone. Whitestone. Hmm. Place has been kind of dour as of late."""""
 483;LAURA;Up-and-coming. I tell you that much.
 484;TALIESIN;Really turning around. Really turning around.
 485;LIAM;You can turn a coin and do right by the world. They are in need, and that place is going to explode, I'm telling you. Can I get another drink, please?
@@ -500,36 +500,36 @@
 498;SAM;I go and challenge Grog to a dart game.
 499;TRAVIS;Yes.
 500;LAURA;Gilmore?
-501;MATT;"""Yes, my dear?"""
+501;MATT;"""""Yes, my dear?"""""
 502;LAURA;We ran into a really weird thing in Whitestone, and I bet you know some shit about it, because you know shit about everything.
-503;MATT;"""Weird things in particular, is that what you're insinuating?"""
+503;MATT;"""""Weird things in particular, is that what you're insinuating?"""""
 504;LAURA;Kind of, yeah.
-505;MATT;"""All right, fair enough."""
+505;MATT;"""""All right, fair enough."""""
 506;LAURA;Vecna?
-507;MATT;"The moment you say that, you see his jovial exterior harden for a second, and his eyes close and he goes, ""That's a strange name to bring up this late in the evening."""
+507;MATT;"The moment you say that, you see his jovial exterior harden for a second, and his eyes close and he goes, """"That's a strange name to bring up this late in the evening."""""
 508;LAURA;Bad news bears, right?
-509;MATT;"""Yeah."""
+509;MATT;"""""Yeah."""""
 510;LAURA;Yeah. Yeah. I kind of almost died. (laughs) Because of him, I guess.
-511;MATT;"""Almost is better than actually, so congratulations."""
+511;MATT;"""""Almost is better than actually, so congratulations."""""
 512;LAURA;Thank you. But yeah. There's a spinning ball of death, really. An orb that sucks things into it. It's black. It's underground. We don't know what to do with it really and I'm kind of worried, I guess, about it.
-513;MATT;"""Spinning black orb of death..."""
+513;MATT;"""""Spinning black orb of death..."""""
 514;LAURA;They were trying to wake him up, but they said it was too early. They did it before Winter's Crest.
-515;MATT;"He thinks for a second and says, ""The only orb of spinning death I'm familiar with is a Sphere of Annihilation, but those are generally a bit larger than what you're describing to me, at the very least."""
+515;MATT;"He thinks for a second and says, """"The only orb of spinning death I'm familiar with is a Sphere of Annihilation, but those are generally a bit larger than what you're describing to me, at the very least."""""
 516;LAURA;Well, I feel like maybe they wanted it to get bigger? I don't know. Oh! Oh! There was a hand, and an eye, and--
-517;MATT;"""Those generally follow around the phrase 'Vecna'."""
+517;MATT;"""""Those generally follow around the phrase 'Vecna'."""""
 518;LAURA;Oh, really?
-519;MATT;"""I don't know too much other than what I've been told historically, and bits of information that I've picked up through the years. Vecna..."" And he thinks for a second, he starts looking about if anyone else is near the table, you guys are off and throwing darts."
+519;MATT;"""""I don't know too much other than what I've been told historically, and bits of information that I've picked up through the years. Vecna..."""" And he thinks for a second, he starts looking about if anyone else is near the table, you guys are off and throwing darts."
 520;TALIESIN;I'm listening in.
 521;MATT;Okay.
 522;TALIESIN;Pike, I don't know where you are, but I assume you're still--
 523;ASHLEY;I'm listening. I'm listening.
-524;MATT;"Okay. ""Vecna. He has many names historically. The Archlich. The Whispered One. The Dying King. The Lord of the Rotted Tower. The Undying King. Gods like titles, it seems. A bit arrogant, in my opinion. From what I heard, he was born a mortal. Used his capabilities to attempt to cheat death in every way possible, and then once that was acquired, naturally went on to the next great endeavor: becoming a god. He attempted to ascend six hundred years ago. But in that time his cult expanded across the rebuilding civilization.|Nearly achieved it until it seemed that the remnants of good in society went and followed him to his place of worship and thwarted his ritual.|He was slain, but as you've seen, when entities of such power get to a certain point, death is but a hurdle. You have enough individuals that believe you're a god, that willpower is strong enough to keep you enduring. So his influence exists and has for many years. I don't know if he's a god per se, not yet, but there are those that treat him as such, and that in itself is dangerous because that means he's probably still out there. And I'm pretty sure he's very interested in finishing what he couldn't before."""
+524;MATT;"Okay. """"Vecna. He has many names historically. The Archlich. The Whispered One. The Dying King. The Lord of the Rotted Tower. The Undying King. Gods like titles, it seems. A bit arrogant, in my opinion. From what I heard, he was born a mortal. Used his capabilities to attempt to cheat death in every way possible, and then once that was acquired, naturally went on to the next great endeavor: becoming a god. He attempted to ascend six hundred years ago. But in that time his cult expanded across the rebuilding civilization.|Nearly achieved it until it seemed that the remnants of good in society went and followed him to his place of worship and thwarted his ritual.|He was slain, but as you've seen, when entities of such power get to a certain point, death is but a hurdle. You have enough individuals that believe you're a god, that willpower is strong enough to keep you enduring. So his influence exists and has for many years. I don't know if he's a god per se, not yet, but there are those that treat him as such, and that in itself is dangerous because that means he's probably still out there. And I'm pretty sure he's very interested in finishing what he couldn't before."""""
 525;LAURA;What was he-- Just trying to be a god, is it?
-526;MATT;"""That's all I've heard. Not a scholar of the religious rites, and for the most part a lot of his history's been, well, destroyed and kept secret. It's his bailiwick."""
+526;MATT;"""""That's all I've heard. Not a scholar of the religious rites, and for the most part a lot of his history's been, well, destroyed and kept secret. It's his bailiwick."""""
 527;LAURA;It's his thing. Well.
-528;MATT;"""But anyway. If you've indeed come across any of this foul business, I recommend you stay far away. Far away! Bad news."""
+528;MATT;"""""But anyway. If you've indeed come across any of this foul business, I recommend you stay far away. Far away! Bad news."""""
 529;LAURA;Bad news.
-530;MATT;"""Yes. Anyway, sorry, dour subject. Didn't mean to bring the mood down on that one."""
+530;MATT;"""""Yes. Anyway, sorry, dour subject. Didn't mean to bring the mood down on that one."""""
 531;LAURA;Don't worry. It helped. Helped us.
 532;SAM;Well, it's been a fun night, guys, but I'm tired of letting Grog beat me at darts.
 533;TRAVIS;You really suck. I don't know if it's because you're so tiny--
@@ -551,7 +551,7 @@
 549;TALIESIN;I was going to encourage. No. I'm going to encourage this now. I think this is a great idea.
 550;TRAVIS;Listen, listen. Only because I'm identifying with your need for revelry, why don't you and I go do four shots back to back to back to back?
 551;MARISHA;Let's do it!
-552;MATT;"As you guys stand up and walk away, Gilmore looks to you and goes, ""I like her much better this way."""
+552;MATT;"As you guys stand up and walk away, Gilmore looks to you and goes, """"I like her much better this way."""""
 553;MARISHA;Gilmore, I love you too!
 554;TRAVIS;Actually, you stay here. I'll bring it to the table. And I go and get the shots.
 555;MATT;All of your drinks for the evening are paid for, Gilmore takes care of the tab.
@@ -611,16 +611,16 @@
 609;SAM;I'm not going near that shit.
 610;MATT;All right. Vax is staying, and Pike? You're staying?
 611;ASHLEY;Yeah.
-612;MATT;"All right. As this is happening, Gilmore sits up and begins to finish off his drink. ""Ah, it's good to see friends."""
+612;MATT;"All right. As this is happening, Gilmore sits up and begins to finish off his drink. """"Ah, it's good to see friends."""""
 613;SAM;You too, Gil.
-614;MATT;"""Well."""
+614;MATT;"""""Well."""""
 615;LIAM;You aren't going, are you?
-616;MATT;"""It's getting very late. I've only been back a few days and I have a lot of business to attend to in the morning."""
+616;MATT;"""""It's getting very late. I've only been back a few days and I have a lot of business to attend to in the morning."""""
 617;LIAM;I'm sure you do. Could I borrow your ear for a few minutes?
-618;MATT;"""Certainly. It would be my absolute pleasure."""
+618;MATT;"""""Certainly. It would be my absolute pleasure."""""
 619;SAM;You want some privacy?
 620;LIAM;In private.
-621;MATT;"""Oh. Far be me to stand in a way of a private conversation."" And he stands up for a second and walks over to the far table in the corner, right by the stage where the harpist was playing but is no longer on the stage. He sits down expectantly, waiting."
+621;MATT;"""""Oh. Far be me to stand in a way of a private conversation."""" And he stands up for a second and walks over to the far table in the corner, right by the stage where the harpist was playing but is no longer on the stage. He sits down expectantly, waiting."
 622;LAURA;Can I watch this conversation from the doorway?
 623;MATT;Well, if you guys are-- the doorway leads into the textile portion, so if you guys aren't leaving the place entirely--
 624;MARISHA;Well, I figured we were just outside the door.
@@ -640,21 +640,21 @@
 638;TALIESIN;I know. You'll be even sorrier in the morning. It's all right.
 639;MARISHA;Grog said it would make me stay up.
 640;TALIESIN;It's okay. It's okay.
-641;MATT;"As you sit down. ""Yes, Vax'ildan, darling?"""
+641;MATT;"As you sit down. """"Yes, Vax'ildan, darling?"""""
 642;LIAM;We've known each other a long time.
-643;MATT;"""Yeah."""
+643;MATT;"""""Yeah."""""
 644;LIAM;Long time, yeah? And I have a lot of love for you. You are an amazing man.
-645;MATT;"""Well. Not disagreeing with you there."""
+645;MATT;"""""Well. Not disagreeing with you there."""""
 646;LIAM;That is part of your charm. I don't even know what I'm saying. I feel I need to be honest with you. There's no question you and I have danced around each other a bit in the past few years, and I have been curious.
-647;MATT;"""Well. Curiosity is the spark of arcane pursuits and knowledge. Among many other things."""
+647;MATT;"""""Well. Curiosity is the spark of arcane pursuits and knowledge. Among many other things."""""
 648;LIAM;I've come close many times to going further than I have. You are a charming man. But I respect you very much. And I need to tell you that I can't do the dance anymore. I am in love with someone I don't think loves me, but all the same, it wouldn't be fair to you to think that we might dally, and I don't want to be a liar, so I won't be.
-649;MATT;"""Well, I certainly appreciate your honesty, and, well, I would be lying if I didn't say I was a little disappointed, but at the same time, the heart wants what the heart wants, and I've enjoyed our flirtation. Perhaps our paths aren't meant to be quite so entwined. Such is the flow of fate, my friend."" (sighs) And he gives a little sigh of digesting heartbreak a little bit, but, you know, there's a nod to him of understanding and acceptance, and he looks up to you again with that whipcrack of a Gilmore smile and says, ""I wish you luck. The path of an uncertain heart is never an easy one, and should you ever need an ear to bend or a shoulder to cry on, well, you know where I am, and if I'm not there, you know how to get hold of me."""
+649;MATT;"""""Well, I certainly appreciate your honesty, and, well, I would be lying if I didn't say I was a little disappointed, but at the same time, the heart wants what the heart wants, and I've enjoyed our flirtation. Perhaps our paths aren't meant to be quite so entwined. Such is the flow of fate, my friend."""" (sighs) And he gives a little sigh of digesting heartbreak a little bit, but, you know, there's a nod to him of understanding and acceptance, and he looks up to you again with that whipcrack of a Gilmore smile and says, """"I wish you luck. The path of an uncertain heart is never an easy one, and should you ever need an ear to bend or a shoulder to cry on, well, you know where I am, and if I'm not there, you know how to get hold of me."""""
 650;LIAM;I reach out, hand behind his head, and I say, you are a beautiful arcane bastard, and I kiss him full on the lips.
 651;LAURA;Vax getting all the kisses.
 652;LIAM;I pat him on the shoulder. Thank you.
-653;MATT;"""Now you're just being a tease."" (laughter)|He takes his cup, which is empty and holds it up to the last drop. It puddles out. (sighs) ""Good night to you, Vax'ildan."""
+653;MATT;"""""Now you're just being a tease."""" (laughter)|He takes his cup, which is empty and holds it up to the last drop. It puddles out. (sighs) """"Good night to you, Vax'ildan."""""
 654;LIAM;Good night, Gil.
-655;MATT;"Walks out into the night. As Gilmore walks by you guys, he looks over at Keyleth and goes, ""Get her some water."""
+655;MATT;"Walks out into the night. As Gilmore walks by you guys, he looks over at Keyleth and goes, """"Get her some water."""""
 656;TALIESIN;Oh, yes.
 657;MARISHA;Why does my mouth keep producing saliva?
 658;TRAVIS;Yeah, I'll get her water. I'll get her a little jug of the firewater. It'll wash out her mouth.
@@ -689,18 +689,18 @@
 687;MARISHA;I made it outside.
 688;LAURA;Kick some dirt over her puke.
 689;LIAM;It's just twigs and berries, anyway.
-690;MATT;"You guys make your way back to Greyskull Keep. As you approach the front gate of your establishment, you see Cordell and Shayne keeping their evening watch over the gate. Cordell shouts down to the rest of you guys, ""You've got guests waiting for you!"""
+690;MATT;"You guys make your way back to Greyskull Keep. As you approach the front gate of your establishment, you see Cordell and Shayne keeping their evening watch over the gate. Cordell shouts down to the rest of you guys, """"You've got guests waiting for you!"""""
 691;LAURA, SAM;Oh, shit.
 692;LAURA;How long have they been here?
-693;MATT;"He looks to Shayne. Shayne looks to him, counts in her head. ""I think probably at least two hours."""
+693;MATT;"He looks to Shayne. Shayne looks to him, counts in her head. """"I think probably at least two hours."""""
 694;LAURA;(splutters) How many times have we told you? Don't let guests in when we're not here!
-695;MATT;"""They had your permission."""
+695;MATT;"""""They had your permission."""""
 696;LAURA;Oh, jeez. Who is it?
-697;MATT;"""Oh, it's a bunch of them."""
+697;MATT;"""""Oh, it's a bunch of them."""""
 698;SAM;Oh, it's my friends! This is why I wanted to come home!
 699;LAURA;Oh, Jesus.
 700;MARISHA;The party keeps going! Cordell! Cordell, open another bottle!
-701;MATT;"He looks over at Shayne, who goes, ""Don't do that, Cordell."""
+701;MATT;"He looks over at Shayne, who goes, """"Don't do that, Cordell."""""
 702;MARISHA;God damn it, Cordell, we pay you!
 703;SAM;It's okay, ignore her. Let's go in.
 704;MATT;The gate opens. You guys come inside, and you find, as you enter the keep, the smell of a recently cooked meal is permeating the air of the keep. You hear laughter and a little bit of music in the distance.
@@ -711,17 +711,17 @@
 709;LAURA;Can I walk up to him?
 710;MATT;Yes. Samson right now, by the way, is asleep on a table. It's way past his bedtime. He's on the edge there.
 711;LAURA;I nudge him awake. Hey, Sticky Fingers.
-712;MATT;"""Hello, miss."""
+712;MATT;"""""Hello, miss."""""
 713;LAURA;Hey. So I saw you at the bar, getting things off of people pockets. Off of people pockets?
-714;MATT;"""They told me they wouldn't miss them."""
+714;MATT;"""""They told me they wouldn't miss them."""""
 715;LAURA;No, it's totally fine. I don't care. You haven't done that here, have you?
-716;MATT;"""No."""
+716;MATT;"""""No."""""
 717;LAURA;No.
-718;MATT;"""No, not unless he tells me to."" And points to Dr. Dranzel, who at this point has been like, ""Scanlan! Finally."" (chuckles)"
+718;MATT;"""""No, not unless he tells me to."""" And points to Dr. Dranzel, who at this point has been like, """"Scanlan! Finally."""" (chuckles)"
 719;SAM;Lovely to see you.
 720;MATT;You can see now, there's three bottles of wine they've been drinking that are open and about.
 721;SAM;Did you bring those?
-722;MATT;"""No! But they were provided, and I'm not one to not drink when it's not provided."""
+722;MATT;"""""No! But they were provided, and I'm not one to not drink when it's not provided."""""
 723;SAM;Well, thank you.
 724;MARISHA;Oh, good. Cordell! Cordell, I'm sorry.|You opened wine, and I yelled at you. I'm sorry.
 725;MATT;Cordell's at the front gate.
@@ -731,35 +731,35 @@
 729;MATT;The Lesser Restoration didn't have quite as strong an effect on reversing the alcohol, but she's not puking, so that's good.
 730;MARISHA;I'm still drunk.
 731;SAM;Doctor, thank you for coming over and bringing the gang. It's so great to see you again tonight.
-732;MATT;"""Oh, you guys as well."" You can see the rest of the people are watching. Zed's fallen asleep.|Eselmyr's in the back corner, watching everyone."
+732;MATT;"""""Oh, you guys as well."""" You can see the rest of the people are watching. Zed's fallen asleep.|Eselmyr's in the back corner, watching everyone."
 733;SAM;Is that the singer?
-734;MATT;"Yeah, she's the older, mature elven woman who's keeping an eye. Kaylie is there, sitting next to Dranzel, and Kent Plucker has a lute he's (musical note) on. ""Well, come! Sit.|Unless it's too late in the night, I have a conversation I'd like to have."""
+734;MATT;"Yeah, she's the older, mature elven woman who's keeping an eye. Kaylie is there, sitting next to Dranzel, and Kent Plucker has a lute he's (musical note) on. """"Well, come! Sit.|Unless it's too late in the night, I have a conversation I'd like to have."""""
 735;SAM;Oh, please. Lay it on us. Anyone want to go to bed?
 736;MARISHA;No!
-737;MATT;"(chuckles) ""I like her!"""
+737;MATT;"(chuckles) """"I like her!"""""
 738;TALIESIN;Yes, but let's do this anyway.
 739;SAM;All right. Laina, bring around some meats! Wait, we already ate.
 740;LAURA;We already ate. We're fine. We're so full.
 741;SAM;All right. Laina, go back to sleep.
-742;MATT;"(laughing) She looks tired. She's like, (whimpering) ""More meats? Okay. Is it all right if I go to bed?"""
+742;MATT;"(laughing) She looks tired. She's like, (whimpering) """"More meats? Okay. Is it all right if I go to bed?"""""
 743;ALL;Yes.
-744;MATT;"""Sleep well. Glad you made it home safe."" She wanders back off, bags under her eyes. Dr.|Dranzel waves you all in. ""So, that little proposition that we talked about at the bar earlier today? The old man who didn't need his fortune?"""
+744;MATT;"""""Sleep well. Glad you made it home safe."""" She wanders back off, bags under her eyes. Dr.|Dranzel waves you all in. """"So, that little proposition that we talked about at the bar earlier today? The old man who didn't need his fortune?"""""
 745;MARISHA;Oh.
-746;MATT;"""Allow me to elaborate a bit in a more private setting, if you don't mind."""
+746;MATT;"""""Allow me to elaborate a bit in a more private setting, if you don't mind."""""
 747;LIAM;More private than our house?
-748;MATT;"""This is the more private."""
+748;MATT;"""""This is the more private."""""
 749;LIAM;Ah. Cin-cin, everybody. Cin-cin.
 750;SAM;Is that lipstick on your face, Vax?
 751;LIAM;Maybe it is. I don't know where it would have come from, though. This is a land of magic and mystery. Who knows?
-752;MATT;"As Dranzel holds out his mug, he goes, ""Now, when we arrived to come play the Winter's Crest festival here in Emon, one of my contacts, we'll say an old client of mine last year in Emon, right around the same time mentioned a peculiar thing.|Apparently, a wealthy lord here vanished about a year ago. His estate was sold to a private collector. Apparently, this collector keeps his name off the books, and he couldn't really find out any information about who he was or what his business is, but he acquired the entire estate.|People were curious as to what his business was, as the previous individual was rather well known and the circumstances rather dubious in disappearance, but I don't know really how that all went together. Anyway! This older collector was fairly active at this estate until a few months ago. The windows have darkened and stayed as such. No furniture touched, the interior elements unpacked or moved. Just went away. So I'm thinking either this fellow has kicked the final bucket, met his end, or is off on some extended business trip, leaving his acquisition and all of its contents ripe for the picking. Problem is, we can't get into the Cloudtop District. Kent and Kaylie have tried numerous times. Almost got arrested."" And you can see, Kaylie gives a nod with her shoulders, shrugging. ""Still got a few things to learn, apparently."""
+752;MATT;"As Dranzel holds out his mug, he goes, """"Now, when we arrived to come play the Winter's Crest festival here in Emon, one of my contacts, we'll say an old client of mine last year in Emon, right around the same time mentioned a peculiar thing.|Apparently, a wealthy lord here vanished about a year ago. His estate was sold to a private collector. Apparently, this collector keeps his name off the books, and he couldn't really find out any information about who he was or what his business is, but he acquired the entire estate.|People were curious as to what his business was, as the previous individual was rather well known and the circumstances rather dubious in disappearance, but I don't know really how that all went together. Anyway! This older collector was fairly active at this estate until a few months ago. The windows have darkened and stayed as such. No furniture touched, the interior elements unpacked or moved. Just went away. So I'm thinking either this fellow has kicked the final bucket, met his end, or is off on some extended business trip, leaving his acquisition and all of its contents ripe for the picking. Problem is, we can't get into the Cloudtop District. Kent and Kaylie have tried numerous times. Almost got arrested."""" And you can see, Kaylie gives a nod with her shoulders, shrugging. """"Still got a few things to learn, apparently."""""
 753;LAURA;Did you try winking?
-754;MATT;"""It's the first thing I threw out there, dear."" He goes back. ""So, seeing as how you folks have got some pull in the town, I was thinking you could either find a way to get us in quietly, carefully. Let us do our work, give us some tips on the best way to stay out of sight. Or you could go in, grab a few things, come back here with the spoils, and we'll take our cut."" His eyes look over to you. ""I get the feeling that this kind of work is not unfamiliar."""
+754;MATT;"""""It's the first thing I threw out there, dear."""" He goes back. """"So, seeing as how you folks have got some pull in the town, I was thinking you could either find a way to get us in quietly, carefully. Let us do our work, give us some tips on the best way to stay out of sight. Or you could go in, grab a few things, come back here with the spoils, and we'll take our cut."""" His eyes look over to you. """"I get the feeling that this kind of work is not unfamiliar."""""
 755;LAURA;It's certainly things we've done in the past.
 756;SAM;Didn't we discuss this and assume that this is a house we'd been in once before?
 757;LAURA;Are we talking about General Krieg's house, or are we talking about the guy that we first came into his house in Emon, remember? The diplomat.
 758;TRAVIS;We don't know either way.
 759;SAM;Do you know who used to reside there, Doctor?
-760;MATT;"(sighs) ""The name escapes me."""
+760;MATT;"(sighs) """"The name escapes me."""""
 761;SAM;What about a position?
 762;MATT;You do recall, the Cloudtop District was not at your disposal when you first came here.
 763;SAM;So this is a new place?
@@ -772,7 +772,7 @@
 770;LAURA;It could be a different house.
 771;TALIESIN;This was a while ago.
 772;LAURA;Does it sound like General Krieg's place? Did you get a description of the place?
-773;MATT;"""Yes. Red brick building, iron fence surrounding the outside--"""
+773;MATT;"""""Yes. Red brick building, iron fence surrounding the outside--"""""
 774;LIAM;That's it.
 775;LAURA;That's like every house, though.
 776;MATT;Actually, no. Most of the houses there have various colors. Krieg's was built more utilitarian and was very minimalistic in its interior decor.|In fact, most of it seemed unused from what you saw, other than the manservant that lived there.|The house, for the most part, the bedroom, everything that you searched, seemed like it was barely touched.
@@ -781,24 +781,24 @@
 779;LAURA;Was that his house, that he's describing?
 780;MATT;It seems pretty damn close to the description that you recall.
 781;LIAM;If we were to be interested, it's true that you are pointing us in the direction of this place, but we would be doing all the work. We would need a very high percentage.
-782;MATT;"""I'd previously discussed a 60-40 split."""
+782;MATT;"""""I'd previously discussed a 60-40 split."""""
 783;LIAM;I know that's what you said. I said high.
-784;MATT;"""70-30."""
+784;MATT;"""""70-30."""""
 785;LIAM;80-20, or I'm not doing shit. You can send him in.
 786;SAM;Hey. This is my friend.
-787;MATT;"(sighs) ""A tough bargain, but 80-20 it is."""
+787;MATT;"(sighs) """"A tough bargain, but 80-20 it is."""""
 788;MATT, LIAM;(spitting noises)
-789;MATT;"""All righty."""
+789;MATT;"""""All righty."""""
 790;LAURA;We haven't agreed to it.
-791;MATT;"""You just did!"""
+791;MATT;"""""You just did!"""""
 792;LAURA;We agreed to give you a cut if we go in.
-793;MATT;"""Fair enough."""
+793;MATT;"""""Fair enough."""""
 794;LAURA;Here's the thing. If you haven't noticed, we have a keep. An embassy. We're known around town. We're council members. We can't go stealing things from people's houses.
-795;MATT;"""Well, that's unfortunate. We'll have to find somebody else."""
+795;MATT;"""""Well, that's unfortunate. We'll have to find somebody else."""""
 796;TRAVIS;Well, hold on. He made a deal with you. If he doesn't do it, we'll find somebody that will. He's a man of his word, and we'll back it up. You don't have to do it.
 797;SAM;You know, Vex, we have sort of told the sovereign that we are interested keenly in the security of this area, and if this is an unsecured house, we could just be going in to try to secure it.
 798;TRAVIS;Excellent point.
-799;MATT;"""See? Thinking of the people. That's the Scanlan Shorthalt I know."""
+799;MATT;"""""See? Thinking of the people. That's the Scanlan Shorthalt I know."""""
 800;TRAVIS;And remember, there were dangerous things in that house. We can make sure that it's safe now, protecting the, you know--
 801;SAM;Yes. God forbid a child wanders in there.
 802;TRAVIS;God forbid.
@@ -807,19 +807,19 @@
 805;MARISHA;Oh, are we talking about General Krieg?
 806;LAURA;He was so dreamy. Do you remember him?
 807;MARISHA;He was so dreamy!
-808;MATT;"""Krieg. I've heard that name. I think that may be the gentleman."""
+808;MATT;"""""Krieg. I've heard that name. I think that may be the gentleman."""""
 809;MARISHA;Oh, you know Krieg?
-810;MATT;"""Well, I don't know him."""
+810;MATT;"""""Well, I don't know him."""""
 811;TALIESIN;Perhaps we should at least take a look to see if there was something else down there that was dangerous.
 812;TRAVIS;She said fine! I heard her. She said fine.
 813;SAM;Let's do this. Tomorrow, we'll set off to do this. In the meantime, we invite you to stay at our keep. Drink of our wine, eat of our food.
 814;MARISHA;Yeah, more wine!
 815;SAM;Please, make yourselves at home.
-816;MATT;"""Is this not the greatest bard to have lived?"""
+816;MATT;"""""Is this not the greatest bard to have lived?"""""
 817;SAM;(chuckles) Yes.
 818;TRAVIS;We think so.
 819;SAM;Thank you.
-820;MATT;"""Scanlan, you humble us all. We're happy to do so. And thank you very much for your fine hospitality."""
+820;MATT;"""""Scanlan, you humble us all. We're happy to do so. And thank you very much for your fine hospitality."""""
 821;TALIESIN;You humble us all by comparison.
 822;LAURA;We have one room, in addition to what we stay in. Would all of you be staying in the same one, or would you want to stay in the temple?
 823;SAM;We have a couple of rooms.
@@ -831,13 +831,13 @@
 829;TRAVIS;What, are you really cock-blocking right now?
 830;LIAM;Did you just say that out loud?
 831;TRAVIS;Are you cock-blocking in the keep?
-832;MATT;"As you're saying this, Kaylie is watching this with a smirk on her face. ""Well, I'm not one to turn down a soft bed for an evening."""
+832;MATT;"As you're saying this, Kaylie is watching this with a smirk on her face. """"Well, I'm not one to turn down a soft bed for an evening."""""
 833;TRAVIS;Yeah! Can't wreck that game! (laughter)
-834;MATT;"Dranzel glances over. (laughs) ""Good luck."""
+834;MATT;"Dranzel glances over. (laughs) """"Good luck."""""
 835;TALIESIN;We can also put some beds out in the workshop which has now been vacated.
 836;SAM;Grog, carry some beds around.
 837;MARISHA;How long are you guys staying?
-838;MATT;"Zed sits up, the large, bearded gentleman.|He's like, ""I'm happy to sleep here. This is fine by me. Just give me a flat surface."" He goes over to one of the tables and--"
+838;MATT;"Zed sits up, the large, bearded gentleman.|He's like, """"I'm happy to sleep here. This is fine by me. Just give me a flat surface."""" He goes over to one of the tables and--"
 839;SAM;Is that Zed the drummer?
 840;MATT;Yeah, he's the drummer.
 841;SAM;Okay.
@@ -860,15 +860,15 @@
 858;LAURA;She's going to rob you blind.
 859;MATT;As you all go to your various rooms, Kaylie pulls out the chair and the table at the far end of your bedroom. Sets down and begins to pour glasses of wine and sits across. You guys have drinks and begin various conversations about-- (flute music) (laughter)|She's that good of a flute player. She asks you about your history and your travels and how you met Dr. Dranzel, and everything.
 860;SAM;I tell her all the best parts, and leave out the naughty bits.
-861;MATT;"""Interesting tale."""
+861;MATT;"""""Interesting tale."""""
 862;SAM;Kingslayer.
-863;MATT;"""Right, right."""
+863;MATT;"""""Right, right."""""
 864;SAM;Leader of the rebellion.
-865;MATT;"""So you've said, a number of times, aye."" She drinks a little bit more of the wine, sets it down. ""I guess I should tell you a bit more about myself, then."""
+865;MATT;"""""So you've said, a number of times, aye."""" She drinks a little bit more of the wine, sets it down. """"I guess I should tell you a bit more about myself, then."""""
 866;SAM;Yes, please, I'm fascinated.
-867;MATT;"""Well, I grew up in Kymal, mostly, before moving to Westrunn to train at the College of the White Duke. Finest of the bards, he was."""
+867;MATT;"""""Well, I grew up in Kymal, mostly, before moving to Westrunn to train at the College of the White Duke. Finest of the bards, he was."""""
 868;SAM;Yes, yes he--
-869;MATT;"""My mom gave all her savings to put me up there. Now, I only joined the troop about six months back. It was my third year at the Duke's when the good doctor came through and, well, I seized the opportunity. Now, to be perfectly honest up-front, I've already heard a bit about your tales, Shorthalt. (chuckles) The Charming of the Pauper Prince, your rendition of the Summer Sunder, the Cliffs of Dagger Bay. I've been hoping our paths would cross."""
+869;MATT;"""""My mom gave all her savings to put me up there. Now, I only joined the troop about six months back. It was my third year at the Duke's when the good doctor came through and, well, I seized the opportunity. Now, to be perfectly honest up-front, I've already heard a bit about your tales, Shorthalt. (chuckles) The Charming of the Pauper Prince, your rendition of the Summer Sunder, the Cliffs of Dagger Bay. I've been hoping our paths would cross."""""
 870;MARISHA;(laughing) Wait--
 871;TRAVIS;You're not there, Drunky.
 872;LAURA;You're drunk, go to sleep.
@@ -877,31 +877,31 @@
 875;MARISHA;Yeah? (laughter)|Go ahead.
 876;LAURA;(laughing) What?
 877;SAM;Well, I'm flattered, and, you have quite talent for-- quite a lot of talent for just been playing with the troop for six months. I was impressed by that.
-878;MATT;"""Thank you very much. You know where I've heard most of these stories? My mother, Sybil."""
+878;MATT;"""""Thank you very much. You know where I've heard most of these stories? My mother, Sybil."""""
 879;SAM;Who?
-880;MATT;"""Sybil. A fine gnomish lass, it was some years ago, she came across a smooth, silver-tongued flautist who blew through like the wind and disappeared."" (gasping)|""Took her innocence with a promise, then vanished just as suddenly. Left her a child to raise on the income of a quilter, she did. Now growing up, I heard tale and tale of your musical feats as my mother took on a third job to support us through bad harvests, just south of Silvercut.|Being the only tiny, female fair folk in such a rural town means being preyed upon, so I learned to use a blade quickly, and to wield my charm just as viciously. Seems that runs in the family, aye?"""
+880;MATT;"""""Sybil. A fine gnomish lass, it was some years ago, she came across a smooth, silver-tongued flautist who blew through like the wind and disappeared."""" (gasping)|""""Took her innocence with a promise, then vanished just as suddenly. Left her a child to raise on the income of a quilter, she did. Now growing up, I heard tale and tale of your musical feats as my mother took on a third job to support us through bad harvests, just south of Silvercut.|Being the only tiny, female fair folk in such a rural town means being preyed upon, so I learned to use a blade quickly, and to wield my charm just as viciously. Seems that runs in the family, aye?"""""
 881;SAM;I-- oh, I-- (laughter)
-882;MATT;"""I practiced. I stole. Lied about my age and eventually paid my way into the Duke's College so I could find you. Prove you a scoundrel."" At this point, you see her stand up, and she begins to draw a small blade from her side."
+882;MATT;"""""I practiced. I stole. Lied about my age and eventually paid my way into the Duke's College so I could find you. Prove you a scoundrel."""" At this point, you see her stand up, and she begins to draw a small blade from her side."
 883;SAM;She's going to fight me!
 884;MARISHA;Oh my god!
-885;MATT;"Her face is hardened and still as she stares at you. You see a slight tremble in her hand.|""This day, Scanlan Shorthalt, I beat you at your own song. Now I come to take your dignity. Now take up your sword."""
+885;MATT;"Her face is hardened and still as she stares at you. You see a slight tremble in her hand.|""""This day, Scanlan Shorthalt, I beat you at your own song. Now I come to take your dignity. Now take up your sword."""""
 886;TRAVIS;(whispering) Holy shit--
 887;SAM;First of all, Kaylie, it's so wonderful to meet you.
-888;MATT;"""Don't try that with me."""
+888;MATT;"""""Don't try that with me."""""
 889;SAM;I didn't know! Listen, I have my faults, for sure, but (stammers) I didn't know that you existed! I would have, I would have come to visit, I would have come to meet you-- how can you fault me for something that I did not know about?
-890;MATT;"""Do you even remember Sybil?"""
+890;MATT;"""""Do you even remember Sybil?"""""
 891;SAM;I mean, could you describe her a little more detailed? (laughter)
 892;MATT;Make a wisdom check. Roll a d20, add your wisdom modifier.
 893;SAM;Okay, wisdom? Which is a negative two. 16.
 894;MATT;16. You vaguely recall Sybil. She-- golden hair, very eager to escape her simple beginnings, and very clingy very quickly. You jumped out of there very fast, from your perspective.
 895;SAM;Ah yes, Sybil. She was passionate, intelligent-- (laughter)|She really, lot of-- hands-y, sort of, I mean, I think I remember her quite well. And she was a wonderful person, and you should be honored to have such a wonderful person as your parent, and not someone like me, because I was a scoundrel, you're right.
-896;MATT;"""You are a scoundrel."""
+896;MATT;"""""You are a scoundrel."""""
 897;SAM;I have been, in past moments in my life, a scoundrel, I've--
-898;MATT;"""Do you even realize you nearly invited your daughter up to sleep with you?"" (laughter)"
+898;MATT;"""""Do you even realize you nearly invited your daughter up to sleep with you?"""" (laughter)"
 899;SAM;I mean...
-900;MATT;"""You don't care."""
+900;MATT;"""""You don't care."""""
 901;SAM;I feel like I wouldn't have let it go that far? I--
-902;MATT;"""You have no boundaries. You take what you like and you keep walking on. You trick folk. Now draw your blade."""
+902;MATT;"""""You have no boundaries. You take what you like and you keep walking on. You trick folk. Now draw your blade."""""
 903;SAM;I don't want to fight you, if that's what you're insinuating. Listen, I know that I've made mistakes in my life. I've admitted as much before, and I don't know why I'm this way. I must need to do a lot of soul-searching to come up with an answer, but there is a woman who I love very dearly and who I would do anything for, and I'm trying to be a better person. I haven't been to a whorehouse in months! That's a big step for me. A bit step. I know that sounds callous and crude, but I've tried to be a better person. If you're here to fight me, I'm afraid you're going to be terribly disappointed, because I will just let you kill me, if that's what it takes. I didn't know you existed, and my heart is breaking a hundred times now for not knowing it. Every year that you've been alive is a year I could have been a better person and known someone who could have made me a better person, and I'm only sorry that I didn't know it. If there's anything I can do for you from now on-- if you are truly my blood, I will, because among my many faults, ego is certainly one of them, and knowing you're part of me makes me love you even more.|(laughter)
 904;MATT;Make a persuasion check. With advantage, for that speech.
 905;SAM;Persuasion?
@@ -914,15 +914,15 @@
 912;SAM;Oh, shit. She's big.
 913;MARISHA;A bard.
 914;MATT;As she stands there with her blade out, staring at you, you can see the veins in her neck tensing.
-915;SAM;"I slowly unbutton my shirt and show her my chest and say, ""Stab me right here, if you'd like, and I will not resist. You've earned it. Take me."""
+915;SAM;"I slowly unbutton my shirt and show her my chest and say, """"Stab me right here, if you'd like, and I will not resist. You've earned it. Take me."""""
 916;MATT;You see the tear begin to roll down her cheek as her jaw clenches.|(grunts) And she thrusts forward-- -- and rolls a natural one.
 917;SAM;A natural one?
 918;LAURA;Aw, a natural one.
 919;MATT;As she goes to strike towards you, even in that moment, her will falters and the blade falls limp. It hits your chest, and you feel the piercing of something pushing into your flesh, but no more than maybe half an inch, as there's no real force behind the blade. As the hand releases her weapon, it clatters to the ground as her momentum carries her arms around your shoulders.
 920;ALL;Oh!
-921;MATT;"As she holds you there, her tousled, short pixie brown hair, you can feel the wetness across the back of your neck, and you hear her voice trembling in your ear say, ""Why? Why can't I do it? All the years building up to this and I have the chance, and I can't do it."""
+921;MATT;"As she holds you there, her tousled, short pixie brown hair, you can feel the wetness across the back of your neck, and you hear her voice trembling in your ear say, """"Why? Why can't I do it? All the years building up to this and I have the chance, and I can't do it."""""
 922;SAM;I'm sorry. I'm sorry, I'm so sorry that you're going through this, and I'm more sorry that you're going through this by yourself, but I think deep down you're a Shorthalt, and there's something that you have that's connected to me and I to you, and perhaps I misread that as some sort of-- ugh-- icky attraction, and I apologize, but I've known for a while now that something is missing in my life, some sort of focus, and some sort of moral compass. Maybe it's just arrived at my doorstep?
-923;MATT;"You say that and her arms tense for a minute, involuntary, trying to pull you closer, then they relax, and she steps away, averting her gaze, keeping her head down. She bends down and picks up her blade. Doesn't sheathe it, just holds it limply at her side. She begins to walk to the door. She opens the door and looks back at you, her eyes finally meeting yours. You can see the wet stains across her cheeks. ""You're still a scoundrel. It's what's kept you alive this long.|In some ways, it's what's kept me alive this long. I've got a lot to think about. I'm going to go for a walk. (sighs) I need some fresh air."" And she closes the door behind her."
+923;MATT;"You say that and her arms tense for a minute, involuntary, trying to pull you closer, then they relax, and she steps away, averting her gaze, keeping her head down. She bends down and picks up her blade. Doesn't sheathe it, just holds it limply at her side. She begins to walk to the door. She opens the door and looks back at you, her eyes finally meeting yours. You can see the wet stains across her cheeks. """"You're still a scoundrel. It's what's kept you alive this long.|In some ways, it's what's kept me alive this long. I've got a lot to think about. I'm going to go for a walk. (sighs) I need some fresh air."""" And she closes the door behind her."
 924;SAM;I sit for a moment and think about everything, try to remember more about Sybil.
 925;MATT;There's a lot of faces blurring, this is-- You worked your way through a lot of Tal'Dorei in those days, you--
 926;SAM;Yes. She was, she was. Yes, I think, yeah.|She wasn't that giant. No, she was. Okay. And I have a very restless night thinking about everything.
@@ -941,23 +941,23 @@
 939;LAURA;Just to tell him to keep an eye on the rooms and everything. Because, you know, I'm sure they're all great people, but-- I know they have some shady practices, so. I just want to make sure that--
 940;SAM;That's my daughter you're talking about, by the way.
 941;TRAVIS;We don't know that yet.
-942;MATT;"""I'm happy to take care of this for you."" He loads his crossbow and plops himself down at the edge of the hall where he has a view of every single door at the south end of the keep. And he's, like, perched and ready. All right. You guys come to consciousness the next morning, more hungover than others, depending on the individual. Come down, breakfast has already been prepared and waiting. (laughs) Poor Laina's been trying to keep it warm for you, and part of it's already being eaten by your guests, who, half of them fell asleep in the actual dining room. Nevertheless, all of you come down. Scanlan, you eventually come out of your confused reverie. Not a lot of good sleep throughout the evening and Kaylie never came back throughout the night."
+942;MATT;"""""I'm happy to take care of this for you."""" He loads his crossbow and plops himself down at the edge of the hall where he has a view of every single door at the south end of the keep. And he's, like, perched and ready. All right. You guys come to consciousness the next morning, more hungover than others, depending on the individual. Come down, breakfast has already been prepared and waiting. (laughs) Poor Laina's been trying to keep it warm for you, and part of it's already being eaten by your guests, who, half of them fell asleep in the actual dining room. Nevertheless, all of you come down. Scanlan, you eventually come out of your confused reverie. Not a lot of good sleep throughout the evening and Kaylie never came back throughout the night."
 943;SAM;Mm. Is Dr. Dranzel around?
 944;MATT;Yeah. As you head down to the main dining area, Dranzel is there and he's a little hungover himself and enjoying the remnants of his meal.|Poor Laina is not designed to produce breakfast for over 11 people in a morning.
 945;SAM;Old friend, a quick word.
-946;MATT;"""Yes. Good morning, Scanlan."""
+946;MATT;"""""Yes. Good morning, Scanlan."""""
 947;SAM;Good morning-- Well, morning to you as well.|Did you know?
-948;MATT;"""About?"""
+948;MATT;"""""About?"""""
 949;SAM;Did you know? About the girl?
-950;MATT;"""What did she do?"""
+950;MATT;"""""What did she do?"""""
 951;SAM;All right.
-952;MATT;"""What did she do?"" And you can see, he looks a little worried now. He's checking his pockets."
+952;MATT;"""""What did she do?"""" And you can see, he looks a little worried now. He's checking his pockets."
 953;SAM;Does he seem-- Can I insight check him?
 954;MATT;Yeah, make an insight check.
 955;SAM;Does he seem genuine? Oh, boy.|(laughter)|Three.
-956;MATT;"Three. Seems pretty genuine. Yeah, he's hard to read beyond hung over and mildly confused. And you spent a lot of time with him, so you know his demeanor pretty well. But yeah, he seems genuinely like (stutters) ""If she's done anything wrong, let me know. She's part of my troupe. I take responsibility for her."""
+956;MATT;"Three. Seems pretty genuine. Yeah, he's hard to read beyond hung over and mildly confused. And you spent a lot of time with him, so you know his demeanor pretty well. But yeah, he seems genuinely like (stutters) """"If she's done anything wrong, let me know. She's part of my troupe. I take responsibility for her."""""
 957;SAM;No, no. She's a fine player and a fine, upstanding person, and you should take special interest in her. She's a good one. Please, if she continues on with your troupe, take good care of her, all right?
-958;MATT;"""Of course. As long as she keeps bringing in the change and doesn't piss me off, I think we're good."""
+958;MATT;"""""Of course. As long as she keeps bringing in the change and doesn't piss me off, I think we're good."""""
 959;SAM;She might. All right.
 960;MATT;Takes his hat and puts it on, finishes his breakfast.
 961;LAURA;Can I check around? Look around the keep and make sure-- I mean in the general area and see if anything's missing?
@@ -974,47 +974,47 @@
 972;MATT;-- and Natibe, yes. You took notes.
 973;SAM;I wrote them down, it's not a big deal.
 974;LIAM;You pulled a rabbit out of a hat.
-975;MATT;"But yeah, as they're changing over, you walk over and ask them. And Shayne goes, ""Yeah, no, we had a messenger come by and drop something off for you guys."""
+975;MATT;"But yeah, as they're changing over, you walk over and ask them. And Shayne goes, """"Yeah, no, we had a messenger come by and drop something off for you guys."""""
 976;LAURA;Where is it?
-977;MATT;"""Well, we gave it to Erwen and he brought it inside, but you guys weren't home."""
+977;MATT;"""""Well, we gave it to Erwen and he brought it inside, but you guys weren't home."""""
 978;LAURA;What did it look like?
-979;MATT;"""A small wooden thing, right?"""
+979;MATT;"""""A small wooden thing, right?"""""
 980;LAURA;Where did Erwen put it?
-981;MATT;"Cordell's like, ""Yeah, it was like a small wooden case."""
+981;MATT;"Cordell's like, """"Yeah, it was like a small wooden case."""""
 982;LAURA;Where did you put it? Where did you put it?
-983;MATT;"""Erwen took it in."""
+983;MATT;"""""Erwen took it in."""""
 984;LAURA;Where's Erwen?
-985;MATT;"They both look at each other. ""Look, our shift's over."""
+985;MATT;"They both look at each other. """"Look, our shift's over."""""
 986;LAURA;Just tell me where the fuck Erwen is.
-987;MATT;"""Probably inside the keep! I don't watch your little old man-servant. I'm sorry. I'm supposed to watch the front of the gate."""
+987;MATT;"""""Probably inside the keep! I don't watch your little old man-servant. I'm sorry. I'm supposed to watch the front of the gate."""""
 988;LAURA;Fuck. I go inside to find Erwen.
-989;MATT;"Okay. Erwen, who's dressed up in his proper servant attire now that he has to entertain guests. His hair is slicked back and is a scoop of a balding male dome. ""Yes, Vex'ahlia. May I be of service to you this morning?"""
+989;MATT;"Okay. Erwen, who's dressed up in his proper servant attire now that he has to entertain guests. His hair is slicked back and is a scoop of a balding male dome. """"Yes, Vex'ahlia. May I be of service to you this morning?"""""
 990;LAURA;You look wonderful today.
-991;MATT;"""Oh, you."""
+991;MATT;"""""Oh, you."""""
 992;LAURA;Box, box, box, where did it go, box? The box that came last night.
-993;MATT;"""Oh! Oh yes! No, there was a delivery."""
+993;MATT;"""""Oh! Oh yes! No, there was a delivery."""""
 994;LAURA;Yes.
-995;MATT;"""I was looking for you all, but no one was home. So I asked around if anyone had seen you and your guests said that you would be coming and that they would hold it for you until you arrived."""
+995;MATT;"""""I was looking for you all, but no one was home. So I asked around if anyone had seen you and your guests said that you would be coming and that they would hold it for you until you arrived."""""
 996;LAURA;Our guests did?
 997;SAM;(laughing) Shit.
 998;LAURA;Our guests did? I go storming into the breakfast area. Dr. Dre!
 999;SAM;Dra.
 1000;LAURA;Dr. Dra. Hey!
-1001;MATT;"He's stood up and put his hat on. ""Ah, yes!"""
+1001;MATT;"He's stood up and put his hat on. """"Ah, yes!"""""
 1002;LAURA;Yes. You had the best night's sleep here, I bet? So comfortable? Lots of wine? That box, give it to me now.
-1003;MATT;"""Oh! (laughs) Yes, we were making sure that it wasn't pilfered by any untrustworthy types. Of course, of course."""
+1003;MATT;"""""Oh! (laughs) Yes, we were making sure that it wasn't pilfered by any untrustworthy types. Of course, of course."""""
 1004;LAURA;That's so kind of you.
-1005;MATT;"""We're more than happy to help. You being such fine hosts to us, it's the least we could do."" And he leans over to Kent. (murmurs something) You can read lips."
+1005;MATT;"""""We're more than happy to help. You being such fine hosts to us, it's the least we could do."""" And he leans over to Kent. (murmurs something) You can read lips."
 1006;LAURA;I can read lips. What did he say? (laughter)
-1007;MATT;"As he leans over, he says, ""Kent, you better go get the box."""
+1007;MATT;"As he leans over, he says, """"Kent, you better go get the box."""""
 1008;LAURA;Okay.
-1009;MATT;"""Right, okay."" Steps away, runs up to the guest room that they were staying, comes back down carrying the small chest."
+1009;MATT;"""""Right, okay."""" Steps away, runs up to the guest room that they were staying, comes back down carrying the small chest."
 1010;LAURA;Thank you so much! I open it up and count it.
-1011;MATT;"Okay. (laughs) It'll take you a little while. It's a lot of coin. You get, for about the next 30-ish minutes or so, you're counting through and you're starting to get towards the bottom of it and you've gotten to about roughly the 3,500-4,000 gold section, before Kent comes up to you behind and takes a small satchel and empties it into the chest as well and goes, ""And that as well, sorry. Keeping it separate, so in case--"""
+1011;MATT;"Okay. (laughs) It'll take you a little while. It's a lot of coin. You get, for about the next 30-ish minutes or so, you're counting through and you're starting to get towards the bottom of it and you've gotten to about roughly the 3,500-4,000 gold section, before Kent comes up to you behind and takes a small satchel and empties it into the chest as well and goes, """"And that as well, sorry. Keeping it separate, so in case--"""""
 1012;LAURA;In case we got robbed.
-1013;MATT;"""Right, you wouldn't lose everything."""
+1013;MATT;"""""Right, you wouldn't lose everything."""""
 1014;LAURA;That's so kind of you.
-1015;MATT;"""Thinking ahead."""
+1015;MATT;"""""Thinking ahead."""""
 1016;LAURA;What nice friends you have, Scanlan.
 1017;SAM;Well, you know.
 1018;LAURA;They're so giving.
@@ -1047,7 +1047,7 @@
 1045;SAM;I think maybe.
 1046;MATT;Yeah. No, Scanlan seemed pretty honest, if guarded.
 1047;ASHLEY;Okay. Okay.
-1048;MATT;"At this point, Dr. Dranzel is like, ""Speaking of which, where is Kaylie? I haven't seen her all morning."""
+1048;MATT;"At this point, Dr. Dranzel is like, """"Speaking of which, where is Kaylie? I haven't seen her all morning."""""
 1049;SAM;I don't know. She ran off last night. But we should find her.
 1050;MARISHA;You scared another one away?
 1051;SAM;You could say that.
@@ -1062,10 +1062,10 @@
 1060;MARISHA;Grog.
 1061;TRAVIS;What?
 1062;TALIESIN;You had a very good time.
-1063;TRAVIS;"You were very passionate. You were like, ""I need fire water,"" I said, ""okay."""
+1063;TRAVIS;"You were very passionate. You were like, """"I need fire water,"""" I said, """"okay."""""
 1064;MARISHA;That sounds like something I'd do.
 1065;TALIESIN;And then we planned to investigate a house and possibly pilfer.
-1066;MATT;"""Yes, yes!"""
+1066;MATT;"""""Yes, yes!"""""
 1067;MARISHA;Wait, we did what?
 1068;SAM;Yes, we're going to go do that today.
 1069;TALIESIN;We're going to investigate a house.
@@ -1091,7 +1091,7 @@
 1089;TRAVIS;Yeah.
 1090;MARISHA;What do you all want in the house?
 1091;SAM;We don't know. We don't know what's in the house. It's a mysterious thing to be happening in this town.
-1092;MATT;"""Yeah, just an investigation."""
+1092;MATT;"""""Yeah, just an investigation."""""
 1093;SAM;We're going to check it out. We won't do anything untoward.
 1094;MARISHA;This sounds like nothing we would ever agree to. Ever. We would never agree to investigate a house with nothing.
 1095;TRAVIS;Well, somebody said that they were afraid that bad things were coming out of it.
@@ -1099,15 +1099,15 @@
 1097;TALIESIN;We--
 1098;MARISHA;Percy, tell me.
 1099;TALIESIN;We agreed to take a look inside this house and if there was anything valuable we would liberate it.
-1100;MATT;"""And while you guys do that, we'll wait here and eagerly keep an eye out for Kaylie and--"""
+1100;MATT;"""""And while you guys do that, we'll wait here and eagerly keep an eye out for Kaylie and--"""""
 1101;SAM;Yes, please do. And keep a good eye out for her.
-1102;MATT;"""Sure."""
+1102;MATT;"""""Sure."""""
 1103;SAM;And if you have a gig tonight-- Do you have a gig tonight anywhere?
-1104;MATT;"""Not this evening, no."""
+1104;MATT;"""""Not this evening, no."""""
 1105;SAM;All right. You can use our place as a base of operations, but please try not to steal anything else.
-1106;MATT;"""I wouldn't dream of it, Scanlan."""
+1106;MATT;"""""I wouldn't dream of it, Scanlan."""""
 1107;SAM;Well, you would dream of it. You'd absolutely dream of it. Just don't do it.
-1108;MATT;"Tips his hat a little. ""Understood."""
+1108;MATT;"Tips his hat a little. """"Understood."""""
 1109;LIAM;Maybe we could pay Jarett a little overtime.
 1110;LAURA;I fully, fully intend--
 1111;MATT;And as you turn and look over at the door, Jarett's there with his crossbow, still over on the side, looking in. He glances over.
@@ -1140,9 +1140,9 @@
 1138;MARISHA;Vex.
 1139;LAURA;I don't want to steal anything either.
 1140;TALIESIN;We should take a look.
-1141;MATT;"At this point, Zedd, the rather rotund drummer, has finished eating his breakfast. He's got bits of egg in his beard. He spins around and goes, ""You're more than welcome to stay here with us."""
+1141;MATT;"At this point, Zedd, the rather rotund drummer, has finished eating his breakfast. He's got bits of egg in his beard. He spins around and goes, """"You're more than welcome to stay here with us."""""
 1142;LAURA;Yes, she is, because it's our house.
-1143;MATT;"""Right."""
+1143;MATT;"""""Right."""""
 1144;TALIESIN;The faster we do this, the faster they leave, at the very least.
 1145;MARISHA;I don't even know what we're doing.
 1146;TALIESIN;It'll be fine. We'll explain it on the way.
@@ -1197,7 +1197,7 @@
 1195;LAURA;Can I ask you guys, before we do anything, maybe it would be best to tell the guards that we're investigating a disappearance? We've heard things about the house and we need to check inside.
 1196;SAM;What guards?
 1197;MARISHA;I agree.
-1198;LAURA;"It's obviously shady if we go sneaking in, but if we say, ""We're going in the house, because we worry for it,"" then it's okay."
+1198;LAURA;"It's obviously shady if we go sneaking in, but if we say, """"We're going in the house, because we worry for it,"""" then it's okay."
 1199;TRAVIS;Should we tell them when we go to the bathroom, too?
 1200;LAURA;Maybe, Grog.
 1201;SAM;We're above them in rank.
@@ -1242,7 +1242,7 @@
 1240;SAM;Yeah, rolling wardrobe racks
 1241;LIAM;Yeah. It's on wheels, it's on wheels. It's functional.
 1242;TRAVIS;It bobbles on the cobblestones.
-1243;MATT;"You're going, ""Shh! Follow me."" (squeaking sound) (laughter)"
+1243;MATT;"You're going, """"Shh! Follow me."""" (squeaking sound) (laughter)"
 1244;LIAM;They smoosh up to about the size of a cabbage. It's really all right.
 1245;LAURA;So you have a very wrinkly red cloak on right now.
 1246;LIAM;You know what? Never mind! I think, what I think is that Grog and Pike should lead the way, stealth in, pick all the locks, and I think everything will go really well.
@@ -1384,7 +1384,7 @@
 1382;SAM;12.
 1383;MATT;(laughs) Okay, as you all step across, there's a sudden smell of-- you've smelled it before-- it's the fresh strike of a lightning bolt or something that has burned in the atmosphere.|You look over at Percy and both of you feel this slight bit of tension and energy in the room and you dodge out of the way. At which point, suddenly, there is a burst of force energy from the center of the room that surrounds Scanlan, blasting him in the process and you feel like you're lifted off your feet but instead of being thrown upwards, you slam into what feels like a roof that's far too low for the one you've seen.|You go ahead and take 16 points of force damage and you land (impact) on the ground, prone.|You look up around you and there is a cage of arcane force energy right now that is holding you in place in a ten by ten foot area.|(crackling).
 1384;LIAM;They didn't make it out of the room, right? This is in the room that we're all in?
-1385;MATT;"This is in the foyer. You guys just now went, ""All right, we're doing this, go!"" (impact) It's not even two steps into your plan."
+1385;MATT;"This is in the foyer. You guys just now went, """"All right, we're doing this, go!"""" (impact) It's not even two steps into your plan."
 1386;MARISHA;So we're all still there, we can see him?
 1387;MATT;Yeah, you all see Scanlan currently now trapped in this force cage.
 1388;TALIESIN;Full on Ghostbuster-ing. Don't mime, don't mime.
@@ -1432,7 +1432,7 @@
 1430;TRAVIS;Are there any, like, sculptures? Or pieces of art downstairs? Or desks?
 1431;MATT;Actually, there are a number of rather garish tapestries around. A number of them are of different animals running and hunting and chasing, not in a very beautiful way, but the kind that you'd, you know, find at an airport.
 1432;TRAVIS;Like the Denver airport?
-1433;MATT;"You know, like Kinkade ""Burst of Light."""
+1433;MATT;"You know, like Kinkade """"Burst of Light."""""
 1434;TALIESIN;Wow, you paint a picture there.
 1435;MATT;Yeah. They're all thematic and similar and none of them seem to have any other theme other than whoever ordered them seems to like animals.
 1436;TALIESIN;No historical acts, no mythology, nothing like that?
@@ -1529,7 +1529,7 @@
 1527;TALIESIN;Oh god, it's going to talk to me, isn't it?
 1528;MATT;There's a part of you that-- like a slight cold chill runs down your spine.
 1529;TALIESIN;A recognizable cold chill, or a brand-new cold chill?
-1530;MATT;"No, just like every person has that little part in the back of their head that says, ""This probably isn't a good idea, but whatever."" (laughter)"
+1530;MATT;"No, just like every person has that little part in the back of their head that says, """"This probably isn't a good idea, but whatever."""" (laughter)"
 1531;TALIESIN;I hate you so much!
 1532;MATT;So, you're holding it in your hand, what do you want to do?
 1533;LIAM;You're like a magnet for evil.
@@ -1585,7 +1585,7 @@
 1583;TALIESIN;I would recommend that if we are going to... purloin things, we should do it on the way out rather than the way in.
 1584;LAURA;Oh. Yeah, definitely.
 1585;TRAVIS;All right, are the dominoes just like on a table?
-1586;MATT;"Yeah, some of them are set on the side, there's a stack, and then a few of them are set up-- it's literally placed in like a nice presentational like QVC style ""turn it and look at all the cool dominoes"" type."
+1586;MATT;"Yeah, some of them are set on the side, there's a stack, and then a few of them are set up-- it's literally placed in like a nice presentational like QVC style """"turn it and look at all the cool dominoes"""" type."
 1587;TRAVIS;I grab the table and I shake it.
 1588;MATT;Okay. All the dominoes (scattering sound) scatter and fall off the sides, (clatter sounds) and clinking on the ground, some of the ivory chips a little bit on some of the corners.
 1589;ASHLEY;Grog.

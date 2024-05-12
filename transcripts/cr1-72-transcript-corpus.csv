@@ -98,7 +98,7 @@
 96;TALIESIN;We'll find something.
 97;LAURA;I'll take off on the broom after Grog.
 98;LIAM;Just scooping up Pike into a bit of a piggy back ride and carrying her inside and we're going to rest.
-99;MATT;"Okay. She's thoroughly hurt, but you still have the entrance to the mansion. Yeah, so you guys pull into there to rest for the moment. While Grog, as you're running, this eagle comes up to your side, is gaining on you a bit. As you come over the top of this one little ridge area, as the ravine begins to widen and head towards the lair portion that Vorugal was using, you see before you a group of about 22 or so armored dragonborn that are currently jogging up the ramp in your direction. As soon as you cross over the top they come to a slower point, with their weapons out, and you see one of them raise its hand. You recognize Skork, who you met earlier, who goes, ""We've come to aid you!"""
+99;MATT;"Okay. She's thoroughly hurt, but you still have the entrance to the mansion. Yeah, so you guys pull into there to rest for the moment. While Grog, as you're running, this eagle comes up to your side, is gaining on you a bit. As you come over the top of this one little ridge area, as the ravine begins to widen and head towards the lair portion that Vorugal was using, you see before you a group of about 22 or so armored dragonborn that are currently jogging up the ramp in your direction. As soon as you cross over the top they come to a slower point, with their weapons out, and you see one of them raise its hand. You recognize Skork, who you met earlier, who goes, """"We've come to aid you!"""""
 100;TRAVIS;I'm still raging using Persistent Rage and I point over my shoulder and yell, Dragon that way! And I keep running past them.
 101;MATT;All right! They pick up their weapons and keep running past you as you [whoosh] through them, the eagle following closely after.
 102;SAM;Is Tooma with them?
@@ -117,15 +117,15 @@
 115;MATT;They nod and Skork gives a respectful nod and they all approach the dragon's corpse and start hacking into it.
 116;MARISHA;Oh no, wait, no. Hold on.
 117;TALIESIN;No. I'm going to point at all-- you all, sun goes down, all of us drink back there.|Go back. Everything's fine.
-118;MATT;"Skork takes two steps forward and goes, ""I understand this speak."""
+118;MATT;"Skork takes two steps forward and goes, """"I understand this speak."""""
 119;TALIESIN;Oh, why didn't you say something? You're standing there making us very nervous.
-120;MATT;"(disgruntled grunt) ""Look. We have to come to aid you in the battle as promised. You have seemingly done well without our presence. So let's all harvest the uses of what remains of this beast."""
+120;MATT;"(disgruntled grunt) """"Look. We have to come to aid you in the battle as promised. You have seemingly done well without our presence. So let's all harvest the uses of what remains of this beast."""""
 121;TALIESIN;I'm fair with that, all right. Harvest gently. We're trying to keep as much of it--
 122;MARISHA;Yes, I'm working right here on this area and Vex wants a claw.
-123;MATT;"""Take what you wish. We are interested in hide and meat."""
+123;MATT;"""""Take what you wish. We are interested in hide and meat."""""
 124;TALIESIN;And we are interested in scale, tooth, and claw, and maybe some eyeballs, so that works out very well.
 125;MARISHA;And blood.
-126;MATT;"""Perhaps some teeth and claws as well. We shall trade."" (speaks Draconic) All of them rush up and start hacking into the soft portions of the underbelly, where it's been exposed from where you guys have left large wounds and such and basically start to carve huge bits of dragon meat off the body."
+126;MATT;"""""Perhaps some teeth and claws as well. We shall trade."""" (speaks Draconic) All of them rush up and start hacking into the soft portions of the underbelly, where it's been exposed from where you guys have left large wounds and such and basically start to carve huge bits of dragon meat off the body."
 127;TALIESIN;Mind the tree. Mind the tree.
 128;MATT;One of them was going for the tree and stops like-- And then looks very confused that the tree wasn't piercing through the dragon, but was rooted inside of it. They all take a moment to start carving around it. It's a very awkward. They don't know what the hell happened and it looks very strange from an outsider's perspective, but they're trying to adjust best they can.
 129;TRAVIS;New town square will be built around it.
@@ -133,41 +133,41 @@
 131;LAURA;I shout out, don't go up there!
 132;MATT;You shout that and there's a moment of pause. Then, all of them turn and look in your direction.
 133;LAURA;I fly down close to Tooma and say quietly, Thordak has means of seeing through the stones up there. If you go up top, it's possible he'll be able to know that Vorugal has fallen. He might already know.
-134;MATT;"""This is good to know."" (speaks Draconic) And the dragonborn around slowly pull backwards.|You understand her saying, ""Hold off. Words of warning."" They all pull back and gather around you, and stand, awaiting what this conversation is going to entail as Tooma steps forward to you. ""So am I to understand, then, that the dragon has fallen?"""
+134;MATT;"""""This is good to know."""" (speaks Draconic) And the dragonborn around slowly pull backwards.|You understand her saying, """"Hold off. Words of warning."""" They all pull back and gather around you, and stand, awaiting what this conversation is going to entail as Tooma steps forward to you. """"So am I to understand, then, that the dragon has fallen?"""""
 135;LAURA;(laughing) Yes.
 136;SAM;I'll drop my form and throw the scale in front of her. It's done. There's your fucking dragon.
-137;MATT;"She looks over at the rest of the people who are all looking towards her for confirmation. She goes, ""You came to us with words. You stood behind them. You displayed honor and honesty, things we find rare in supply outside of our people. Us, the Ravenites, survivors of chain and frost, are now truly free. We thank you."""
+137;MATT;"She looks over at the rest of the people who are all looking towards her for confirmation. She goes, """"You came to us with words. You stood behind them. You displayed honor and honesty, things we find rare in supply outside of our people. Us, the Ravenites, survivors of chain and frost, are now truly free. We thank you."""""
 138;LAURA;And we thank you.
 139;SAM;But we'll need something more than just thanks. We have two requests to make of you. One, this is not the final fight. There will be more, and unlike this fight, we would expect your aid in the next one. Is that something you can guarantee us?
-140;MATT;"""I am curious as to what you require from us."""
+140;MATT;"""""I am curious as to what you require from us."""""
 141;SAM;We don't know yet, but you have many men, and they seem like good fighters, so we may call upon you in the future.
-142;MATT;"""Against what foe?"""
+142;MATT;"""""Against what foe?"""""
 143;LAURA;Thordak the Ancient. He was commander of all of these dragons.
 144;MATT;You see her face immediately goes from that calm, welcoming, elated expression she had a moment ago to this guarded, retracted position where she shifts her weight onto the back leg and--
 145;LAURA;You are not beholden to us. We ask this of your own free will. All of Tal'Dorei is at risk.
-146;MATT;"""We are not an army. We wish to help in this fight, for we had a stake in it, both of us. This was a mutual arrangement. You owe us nothing. We owe you nothing. But we are not ready to continue the fight immediately with a more dangerous foe than this one."""
+146;MATT;"""""We are not an army. We wish to help in this fight, for we had a stake in it, both of us. This was a mutual arrangement. You owe us nothing. We owe you nothing. But we are not ready to continue the fight immediately with a more dangerous foe than this one."""""
 147;SAM;Hopefully, it won't be immediately. And might I remind you that you did not help us in this fight. We did it all by ourselves.
-148;MATT;"""Who do you think arranged, through previous conversation, to send the dragon your way into the trap that you had sprung? At my suggestion of the place of proper, and most conventional and helpful circumstances?"""
+148;MATT;"""""Who do you think arranged, through previous conversation, to send the dragon your way into the trap that you had sprung? At my suggestion of the place of proper, and most conventional and helpful circumstances?"""""
 149;LAURA;It's true, Scanlan, they did help a lot in that regard.
-150;MATT;"""We may not have the might to finish the dragon--"""
+150;MATT;"""""We may not have the might to finish the dragon--"""""
 151;SAM;You told us that you would have men there to help us, and there was nothing. We almost died.
-152;MATT;"""We sent men your way!"""
+152;MATT;"""""We sent men your way!"""""
 153;SAM;You knew when the fight was.
-154;MATT;"""We knew when to begin the fight, but we do not have means of travelling as fast as a dragon!"""
+154;MATT;"""""We knew when to begin the fight, but we do not have means of travelling as fast as a dragon!"""""
 155;TRAVIS;I'm running around like a cracked-out PCP addict in the background. Just looking on the ground for booty, that's all.
 156;MATT;Perception check.
 157;TRAVIS;One.|(laughter)
 158;MATT;There is snow and ice and it's pissing you off!
 159;TRAVIS;I'm doing the dog thing.
-160;MATT;"More snow. More and more snow. In the middle of this conversation, some of it starts spattering the side of Vex. You're like, ""Stop it!"" Angrily rage-looting nothing. (laughs)"
+160;MATT;"More snow. More and more snow. In the middle of this conversation, some of it starts spattering the side of Vex. You're like, """"Stop it!"""" Angrily rage-looting nothing. (laughs)"
 161;LAURA;Draconia has had a history of separating itself from the rest of Tal'Dorei. This is an opportunity for you to welcome other communities, to become part of the rest of the world.
-162;MATT;"""You are right. [no audio] And from this, I think we could try to rebuild, a new home for the dragonborn of Wildemount. Learn from the mistakes of our predecessors and our oppressors. We are no majestic mage nation by any means, but we can learn."""
+162;MATT;"""""You are right. [no audio] And from this, I think we could try to rebuild, a new home for the dragonborn of Wildemount. Learn from the mistakes of our predecessors and our oppressors. We are no majestic mage nation by any means, but we can learn."""""
 163;LAURA;You are strong.
-164;MATT;"""They are strong. My time is nearly up. But what time I have left, I fully intend to make sure that there is a future for my people. For the Ravenites."""
-165;SAM;"One more request, before we go. Once we're long gone, you can feel free to inspect this hill where the dragon slept, and be very careful in disarming any traps that you might find there. I would ask you one favor for us: we lost a friend in this fight, a dragonborn. He's buried near here. We'll tell you where. We would like a proper tomb for him on this hill, where the dragon slept.|Could you build a statue, a fine statue, a handsome statue of Tiberius Stormwind, and bury him underneath it. And on the pedestal, could you please write, ""I encourage peace."""
-166;MATT;"She looks over at one of the nearby dragonborn. ""This is Korsa. He is our finest stonesmith. I will see to it that it is done."""
+164;MATT;"""""They are strong. My time is nearly up. But what time I have left, I fully intend to make sure that there is a future for my people. For the Ravenites."""""
+165;SAM;"One more request, before we go. Once we're long gone, you can feel free to inspect this hill where the dragon slept, and be very careful in disarming any traps that you might find there. I would ask you one favor for us: we lost a friend in this fight, a dragonborn. He's buried near here. We'll tell you where. We would like a proper tomb for him on this hill, where the dragon slept.|Could you build a statue, a fine statue, a handsome statue of Tiberius Stormwind, and bury him underneath it. And on the pedestal, could you please write, """"I encourage peace."""""
+166;MATT;"She looks over at one of the nearby dragonborn. """"This is Korsa. He is our finest stonesmith. I will see to it that it is done."""""
 167;SAM;Teach your people of him, your offspring, that he was a brave dragonborn that wanted to unify all of your peoples.
-168;MATT;"""This can be done. (sighs) This mound represents the spoils of the remains of Draconia the dragon greedily stole, hoarded, and forced us to gather at the base of its icy seat. This will be the beginning of our new nation, and with this, we will make sure this statue comes to bear."""
+168;MATT;"""""This can be done. (sighs) This mound represents the spoils of the remains of Draconia the dragon greedily stole, hoarded, and forced us to gather at the base of its icy seat. This will be the beginning of our new nation, and with this, we will make sure this statue comes to bear."""""
 169;SAM;Good luck.
 170;TRAVIS;Where the fuck is it?! That's all you hear me say.|(laughter)
 171;SAM;What are you looking for?
@@ -232,7 +232,7 @@
 230;MATT;Yeah, you can start scooping bits.
 231;LAURA;You might want to ask Tooma if she has a problem with you taking all of Draconia's gold.
 232;TRAVIS;You saw what his face did, didn't you? Tooma, we are about to unsheathe and reveal a great fortune, of which we have very little interest because honestly it weighs us down.|We're, like, plenty loaded already. However, it is a tradition to take little bits here and there as keepsakes.
-233;MATT;"""The spoils here were largely collected from the wreckage of our captors and much of the gold here was earned through our blood and turmoil.|However, we were able to free ourselves and have access to this fortune a great deal thanks to your aid. We are more than willing to divide this between your folk and ours."""
+233;MATT;"""""The spoils here were largely collected from the wreckage of our captors and much of the gold here was earned through our blood and turmoil.|However, we were able to free ourselves and have access to this fortune a great deal thanks to your aid. We are more than willing to divide this between your folk and ours."""""
 234;TRAVIS;That sounds most generous. Shall we look for specifically interesting little bits, or just grab the platinum?
 235;SAM;Just grab whatever's closest and leave.
 236;TRAVIS;Are there any interesting-looking weapons or unique items that are out of the ordinary?
@@ -279,7 +279,7 @@
 277;TALIESIN;Lava lamp.
 278;MATT;Kind of. Underneath that vial, you see a very beautiful--
 279;LAURA;Ooh, sheets of paper!
-280;TRAVIS;"I love this shit. It's like walking into a Toys 'R' Us. It's the fucking best. It's like, ""Which way do I go?!"""
+280;TRAVIS;"I love this shit. It's like walking into a Toys 'R' Us. It's the fucking best. It's like, """"Which way do I go?!"""""
 281;LIAM;Find the Plate of the Dawnmartyr.
 282;SAM;That was easy!
 283;MATT;There you go! You find a gold and platinum band that is two separate bands that are woven together like a braid in a band.
@@ -335,18 +335,18 @@
 333;SAM;We might need her to restart civilization.
 334;TRAVIS;True, true.
 335;LAURA;Oh, you know what? Let's go back. You lost me. I'm out.|(laughter)
-336;LIAM;"Meanwhile, for the last twenty minutes, I've been combing blood out of Pike's hair, and we've been having god talk, and as I put little fun buns in Pike's hair I say, ""You know, sometimes I feel like she is right there with me. I ask questions and I know the answers, but most of the time I don't know anything. Does the balance ever shift?"""
-337;MATT;"""No, not really. It's part of what's great about it, is you put your trust into them and everything turns out okay."""
+336;LIAM;"Meanwhile, for the last twenty minutes, I've been combing blood out of Pike's hair, and we've been having god talk, and as I put little fun buns in Pike's hair I say, """"You know, sometimes I feel like she is right there with me. I ask questions and I know the answers, but most of the time I don't know anything. Does the balance ever shift?"""""
+337;MATT;"""""No, not really. It's part of what's great about it, is you put your trust into them and everything turns out okay."""""
 338;LIAM;That is so cool.
-339;MATT;"""You saw her, she punched a dragon for me!"""
+339;MATT;"""""You saw her, she punched a dragon for me!"""""
 340;LIAM;We've got to find Larkin though, what do we do about Larkin?
 341;LAURA;Okay, all right.
 342;LIAM;You're not here!
-343;MATT;"""I didn't like Larkin very much. It's probably for the best."""
+343;MATT;"""""I didn't like Larkin very much. It's probably for the best."""""
 344;LIAM;Aye, but he's out here on his own in the cold. Ravenites everywhere!
-345;MATT;"""Dwarves are made of hardy stuff, I'm sure he'll be okay."""
+345;MATT;"""""Dwarves are made of hardy stuff, I'm sure he'll be okay."""""
 346;LIAM;You're probably right. Let me even you off.
-347;MATT;"(pained) ""Thank you."""
+347;MATT;"(pained) """"Thank you."""""
 348;MARISHA;What did we find? (laughter)
 349;SAM;Ten dragon scales, the end.
 350;MATT;All right, come back to you guys. So Vorugal is butchered in the center of the snow here.|Strangely, as you begin to carve, the air, as freezing as it is, actual touch on the skin of Vorugal is colder, and there's a few moments where your fingers begin to adhere to the cold and you have to pull back a bit. But you do manage to carve from the hide, if you can carry it properly, about 150 pounds of dragon hide.
@@ -372,7 +372,7 @@
 370;TRAVIS;Half of that body part stuff came out as gelatinous poo.
 371;MATT;Yeah, it's the gamiest of gamey meat you've ever touched.
 372;TRAVIS;Just strings of-- You pull it up and you got to wrap it up in the string and toss it.
-373;MATT;"It is why I love the word ""slough."" (disgusted groaning)|You guys pull away portions of that, Kima helping out where she can. The sweat beads on her forehead; even among the cold exterior, she's a workhorse. You also manage to pry from Vorugal's mouth 20 individual dragon teeth that are harvestable outside of the ones the other Ravenites take for themselves. You manage to get six dragon talons pulled from the whole body, and about-- let's see, with all the destruction of the outside, and there is this creeping ice that's beginning to freeze the body from the inside, post-death-- the hide includes the scales, you have to pull off the scales and destroy the hide, and any other organs? You said the eyes, you were thinking about taking?"
+373;MATT;"It is why I love the word """"slough."""" (disgusted groaning)|You guys pull away portions of that, Kima helping out where she can. The sweat beads on her forehead; even among the cold exterior, she's a workhorse. You also manage to pry from Vorugal's mouth 20 individual dragon teeth that are harvestable outside of the ones the other Ravenites take for themselves. You manage to get six dragon talons pulled from the whole body, and about-- let's see, with all the destruction of the outside, and there is this creeping ice that's beginning to freeze the body from the inside, post-death-- the hide includes the scales, you have to pull off the scales and destroy the hide, and any other organs? You said the eyes, you were thinking about taking?"
 374;MARISHA;Blood. Eyes.
 375;MATT;Do you have any more empty vials?
 376;TALIESIN;Empty vials? I'm out of vials.
@@ -500,10 +500,10 @@
 498;SAM;Got some meat tenderizer on that?
 499;LIAM;Couple of chickens on it?
 500;TRAVIS;Stop what you're doing. I want you to get your hands on this big, beautiful bastard. And I hand her the greatsword.
-501;MATT;"""Where the heck did you get this?"""
+501;MATT;"""""Where the heck did you get this?"""""
 502;TRAVIS;I could tell you, but I don't remember.
-503;MATT;"""Give me a little bit of time, I need to see if I can make this part of my communion. Hold on a second."" And she walks away, staring at the blade.|Without leaving her eyes from the scrolling on the side, walks quietly past all of you in the center of the foyer, sits down with it and starts meditating over the blade."
-504;TRAVIS;"I walk over and go, ""Before you hit anything with it, you come talk to--"""
+503;MATT;"""""Give me a little bit of time, I need to see if I can make this part of my communion. Hold on a second."""" And she walks away, staring at the blade.|Without leaving her eyes from the scrolling on the side, walks quietly past all of you in the center of the foyer, sits down with it and starts meditating over the blade."
+504;TRAVIS;"I walk over and go, """"Before you hit anything with it, you come talk to--"""""
 505;MATT;(shushing)
 506;TRAVIS;I leave.
 507;TALIESIN;Anything else interesting?
@@ -671,7 +671,7 @@
 669;MARISHA;What'd she get?
 670;LAURA;Did you just give away something amazing?
 671;SAM;We can always take it back.
-672;MATT;"As she stands up she takes the blade and swings it. It hits the ground, and when she hits you can see a spark of divine energy from the impact. She looks at her maul and goes, ""Sorry, old friend. You'll find a good new home. But I'd say this Holy Avenger is going to do me quite well."""
+672;MATT;"As she stands up she takes the blade and swings it. It hits the ground, and when she hits you can see a spark of divine energy from the impact. She looks at her maul and goes, """"Sorry, old friend. You'll find a good new home. But I'd say this Holy Avenger is going to do me quite well."""""
 673;MARISHA;What's it do, Kima?
 674;MATT;To give you specifics, it requires attunement by a paladin.
 675;LAURA;Oh, so it has to be a paladin.
@@ -679,15 +679,15 @@
 677;TRAVIS;Kima is now an associate member of Vox Machina.
 678;SAM;Provisional.
 679;TRAVIS;Provisional, yeah. That's amazing. So the maul-- Kima, because I want to respect your weapon, what does the maul do?
-680;MATT;"""Oh, you want the maul?"""
+680;MATT;"""""Oh, you want the maul?"""""
 681;TRAVIS;What? No, I'm just saying, what it does, or does it just beat the shit out of people beautifully by itself?
-682;MATT;"""It's my Holy Thunder Maul. It deals additional thunder damage when I hit something.|That's about it."""
+682;MATT;"""""It's my Holy Thunder Maul. It deals additional thunder damage when I hit something.|That's about it."""""
 683;TRAVIS;Cool. You want me to hold onto it for you, or are you cool?
 684;MATT;(thunk) I'm good for now.
 685;TRAVIS;Boss. Total boss moment.
 686;LAURA;She can do 100 push-ups.
 687;TRAVIS;That's true. Enjoy that.
-688;MATT;"""Oh, I shall."""
+688;MATT;"""""Oh, I shall."""""
 689;MARISHA;I run downstairs to the training area with my staff.
 690;TRAVIS;Anything from the war mask?
 691;MATT;No, but it is worth 750 gold.
@@ -728,7 +728,7 @@
 726;SAM;It's constantly aerating.|(swirling)|Inside joke. I'm being teased right now for owning and using a wine aerator.
 727;TRAVIS;Whoever sold you that and said it was an aerator is laughing their happy asses off.
 728;SAM;I appreciate fine things, and I'm not going to apologize for that.
-729;TRAVIS;"Some guy broke that off of his kid's toys and was like ""It's an aerator!"""
+729;TRAVIS;"Some guy broke that off of his kid's toys and was like """"It's an aerator!"""""
 730;LAURA;So yes, that's where we'll go. We're going to go to the wine room.
 731;MATT;All right, you guys find your way to the wine room. Scanlan, what are you doing?
 732;SAM;A whole lot of nothing. I'll go down and watch the show, I guess. I'll watch the training show.
@@ -1007,7 +1007,7 @@
 1005;MARISHA;Big money, no whammies!
 1006;TALIESIN;That's a 26.
 1007;MATT;26? Yeah, without an issue you manage to apply the mask onto the back of the helmet after looking at some brief glances at the shape of Grog's head, making sure that it has a hinge so if he leans forward, it doesn't restrict or press into his back if he looks up. It is a functional backmask onto his delightful pointed helmet.
-1008;TALIESIN;"I've also carved, in Elven, in the inside, ""Kick Me."""
+1008;TALIESIN;"I've also carved, in Elven, in the inside, """"Kick Me."""""
 1009;MATT;On the inside of the mask?
 1010;TALIESIN;Yeah. So it's there.
 1011;MARISHA;It's magnificent.
@@ -1229,7 +1229,7 @@
 1227;SAM;I'll give you a book later.
 1228;LAURA;Oh, yeah! You have a book?
 1229;SAM;I have a few. I have a library.
-1230;LIAM;"Oh, gosh! Neither Vax nor Liam knew there was anything other than little cute hair buns-- Fun buns. What is a ""fun bun"" besides a fun bun? MATT:	Ask Larkin.|You guys! We got to find Larkin!"
+1230;LIAM;"Oh, gosh! Neither Vax nor Liam knew there was anything other than little cute hair buns-- Fun buns. What is a """"fun bun"""" besides a fun bun? MATT:	Ask Larkin.|You guys! We got to find Larkin!"
 1231;MATT;Okay. All right, so you guys take your long rest. You regain your spells, you're all full hit points, you regain half your max hit dice. So if you spent more than half of your hit dice, you still--
 1232;LAURA;Do we keep our hit dice from our Heroes' Feast? If we never got rid of them? Or are they gone?
 1233;MATT;No. By the time you'd wake up, they'd be gone, probably.
@@ -1282,7 +1282,7 @@
 1280;MATT;"The weather has cleared up. There's breaks in the clouds. It's still mostly cloud-covered, but you do see glimpses of blue sky here and there. Still cold, still see your breath out in the air. But the temperature does feel slightly warmer than it was the day before. You begin to walk down to the ravine center on the north side of the ravine where Vorugal's lair once resided.|You can see hundreds of footprints, up and down, through the snow, through the ravine; looks like there's been a lot of foot traffic to and from while you guys were resting. You make your way to the ice throne of Vorugal and you see a portion of it has collapsed inward. But you also see a lot of foot traffic around, most of the ice spires that remained up there have been broken. The remaining Draconian corpses that were adorning them were taken down, or aren't in sight. And you can see there are a few remaining dragonborn Ravenites that are stepping in and out of the cavern-like chamber that you largely punched through and they continued to excavate it into the night."
 1281;TALIESIN;If you could let them know that we're going to make one last venture into the ship and then we'll be on our way.
 1282;LAURA;I walk up to one of the guys going in, and say in Draconic, have you unearthed the giant ship yet?
-1283;MATT;"He looks for a second and says, ""It is nothing for us. But we've worked around it."" He points down, and you can see the portion of it that has collapsed, filled in part at the side and shoveled out in these large chunks of ice that are sitting outside of this cavern area. Parts of the ship have been moved around-- it looks like it's been somewhat damaged. It's not a full ship. It's a large portion of a ship. It looks like in whatever battle or attack that Vorugal took this ship, it destroyed a huge portion of it in doing so and took the rest of it with it, in pieces. And it is a very pretty ship. It looks like it may have been the jewel of a navy somewhere. And here it resides.|However, it does appear like the ship has seen many moons since it was originally taken, if that makes any sense. Like, it wasn't brought directly here. It looks like almost a keepsake that Vorugal has moved from lair to lair."
+1283;MATT;"He looks for a second and says, """"It is nothing for us. But we've worked around it."""" He points down, and you can see the portion of it that has collapsed, filled in part at the side and shoveled out in these large chunks of ice that are sitting outside of this cavern area. Parts of the ship have been moved around-- it looks like it's been somewhat damaged. It's not a full ship. It's a large portion of a ship. It looks like in whatever battle or attack that Vorugal took this ship, it destroyed a huge portion of it in doing so and took the rest of it with it, in pieces. And it is a very pretty ship. It looks like it may have been the jewel of a navy somewhere. And here it resides.|However, it does appear like the ship has seen many moons since it was originally taken, if that makes any sense. Like, it wasn't brought directly here. It looks like almost a keepsake that Vorugal has moved from lair to lair."
 1284;LIAM;(whispers) Oh, that's legit!
 1285;MATT;Has some sort of sentimental value.
 1286;LAURA;Oh, wow! It had some engraving on it. You speak a lot of languages, right?
@@ -1300,7 +1300,7 @@
 1298;TRAVIS;I speak Dwarvish, but I can't read.
 1299;MATT;That is a problem.
 1300;TRAVIS;I have a belt, yeah.
-1301;MATT;"It is Dwarven, and as Pike begins reading around it, this-- it's the name of the ship across the mast, which is ""The Floebreaker."" This ship appears to have been, at least in some way, shape, or form, designed as a means of travelling through very far north icy regions, meant to break through elements of heavy glacier flows and such. The construction of it, as you get closer to the actual bit of the ship that is there, you can see it's very heavily reinforced with metal and has a very rigid structure to it. The fine scrolling that you saw before, it looks to be partially filled with ice at times. So as soon as it broke away, you could see it's actually more of a harsh, broken Dwarvish runic writing to it. The ship has definitely seen a lot of wear and tear. That's about as much you can make out of it."
+1301;MATT;"It is Dwarven, and as Pike begins reading around it, this-- it's the name of the ship across the mast, which is """"The Floebreaker."""" This ship appears to have been, at least in some way, shape, or form, designed as a means of travelling through very far north icy regions, meant to break through elements of heavy glacier flows and such. The construction of it, as you get closer to the actual bit of the ship that is there, you can see it's very heavily reinforced with metal and has a very rigid structure to it. The fine scrolling that you saw before, it looks to be partially filled with ice at times. So as soon as it broke away, you could see it's actually more of a harsh, broken Dwarvish runic writing to it. The ship has definitely seen a lot of wear and tear. That's about as much you can make out of it."
 1302;LAURA;Can we get inside of it? Is there anything to see inside of it?
 1303;MATT;You can attempt to climb inside if you want to.
 1304;MARISHA;How much is exposed right now?
@@ -1377,7 +1377,7 @@
 1375;TRAVIS;Yeah, guns and ships.
 1376;LAURA;He was a nautical kind of guy.
 1377;MARISHA;Right, yeah.
-1378;TRAVIS;"(hums the intro of ""Alexander Hamilton"")"
+1378;TRAVIS;"(hums the intro of """"Alexander Hamilton"""")"
 1379;LIAM;While we're all standing here with our thumbs in our butts, could I look around and see if I see a little stone, a little palantir?
 1380;MATT;Make a investigation check.
 1381;SAM;Where are you standing?
@@ -1431,43 +1431,43 @@
 1429;LAURA;I go find Tooma.
 1430;MATT;The handful of dragonborn that were there, after the collapse, were walking back to the internal cavern area. As you head back, a large portion of Ravenites have all come out of their caves, and right now are in the process of scouring the ruins. Some of them are putting armaments away. Tooma is out there, currently conversing with a number of the other community leaders that are deciding what the next steps are.
 1431;MARISHA;I approach Tooma. (clears throat) Tooma, it's time that we make our departure very soon.
-1432;MATT;"""Very well."""
+1432;MATT;"""""Very well."""""
 1433;MARISHA;I want to thank you so much for everything that you provided and everything that your people have done.
-1434;MATT;"""I wish to thank you for your sticking to your word."""
+1434;MATT;"""""I wish to thank you for your sticking to your word."""""
 1435;MARISHA;Of course. I would love to help and leave some parting gift in any way that I can.
-1436;MATT;"""The riches from the hoard will provide enough for us. You need not worry."""
+1436;MATT;"""""The riches from the hoard will provide enough for us. You need not worry."""""
 1437;MARISHA;What was your land like before Vorugal got here? I know it wasn't as icy and as frigid.
-1438;MATT;"""It was without snow. We are at the south side of Wildemount. I hope this fades with time, we are not bound for snow people."""
+1438;MATT;"""""It was without snow. We are at the south side of Wildemount. I hope this fades with time, we are not bound for snow people."""""
 1439;MARISHA;I can attempt to maybe revitalize your plant life as much as I can before I leave.
-1440;MATT;"""You can do this?"""
+1440;MATT;"""""You can do this?"""""
 1441;MARISHA;I can.
-1442;MATT;"""By all means. We would appreciate it."""
+1442;MATT;"""""By all means. We would appreciate it."""""
 1443;MARISHA;You have a good, strong people and I want to see your recovery. Just like I hope the same with mine.
-1444;MATT;"""Me too."""
+1444;MATT;"""""Me too."""""
 1445;MARISHA;Anything that I can do.
 1446;LAURA;Tooma?
-1447;MATT;"""Yes?"""
+1447;MATT;"""""Yes?"""""
 1448;LAURA;You know the stones we talked about?
-1449;MATT;"""Yes."""
+1449;MATT;"""""Yes."""""
 1450;LAURA;Yeah, they got jostled.
-1451;MATT;"""Why?"""
+1451;MATT;"""""Why?"""""
 1452;LAURA;It looks like that ice wasn't super-strong, and it collapsed.
 1453;TALIESIN;The ice was going to collapse eventually, anyway.
-1454;MATT;"""What does this mean?"""
+1454;MATT;"""""What does this mean?"""""
 1455;LAURA;Not sure exactly.
-1456;MATT;"""Okay."""
+1456;MATT;"""""Okay."""""
 1457;LAURA;But you should keep an eye on the sky. If you see something red, maybe hide. Just for a while.|Thordak doesn't know what was here. But if he realizes Vorugal's been killed, he'll come looking. Potentially.
-1458;MATT;"""But you're going to kill this Thordak, yes?"""
+1458;MATT;"""""But you're going to kill this Thordak, yes?"""""
 1459;LAURA;Oh, yeah! With your help, I think. Just in case he comes before we get to him.
-1460;MATT;"""You should get to him quickly, then."""
+1460;MATT;"""""You should get to him quickly, then."""""
 1461;LAURA;Good plan.
-1462;MATT;"""Good."""
+1462;MATT;"""""Good."""""
 1463;LIAM;The whole time she's been talking, her braid has been going like a magical jump rope because I'm standing here doing this with it.
 1464;LAURA;Not. The time.
 1465;TALIESIN;If you find something--
 1466;LAURA;(whispers) Fucking dick! Stop it!
 1467;TALIESIN;If you find an ice weapon in that ship beneath the throne-- anything magical, some sort of ice power, we may need it. That may be useful.
-1468;MATT;"""Keep in mind for it."""
+1468;MATT;"""""Keep in mind for it."""""
 1469;MARISHA;I go up to the group. Percy, Vax, I need to take time with this, so are you all all right spending the rest of the day here while I help them?
 1470;LAURA;Of course.
 1471;TALIESIN;Yeah.
@@ -1489,9 +1489,9 @@
 1487;MARISHA;Okay. Well, I talked to Tooma and find out where she--
 1488;MATT;Actually, no, all plants in a half-mile radius are--
 1489;MARISHA;That's what I thought, yeah. In the eight hour one that's like, crazy.
-1490;MATT;"I should have kept reading. Okay, so yeah.|You talk to her about it, and she tells you, ""The ravine itself does not have the nutrients to support crops, but we had farmland right above the ravine."""
+1490;MATT;"I should have kept reading. Okay, so yeah.|You talk to her about it, and she tells you, """"The ravine itself does not have the nutrients to support crops, but we had farmland right above the ravine."""""
 1491;MARISHA;All right. Do you plan to still reside there?
-1492;MATT;"""Once the snow melts, yes."""
+1492;MATT;"""""Once the snow melts, yes."""""
 1493;MARISHA;I'll do what I can. And I go there.
 1494;MATT;Okay. You get there, and through the use of your elemental magics, you easily cast aside the snow. And from underneath, you can see where once there was a heavy amount of cropland that has all died off because of the recent freeze that came with Vorugal. You take the eight hours to concentrate and as you, do you enrich the land. You can watch as many of these dead seeds come to life with green once more. Suddenly, you see sprouting bits of delicious cabbages and other forms of produce begin to spring to life and grow nutrient rich. As this happens, you can see a few of the Ravenites who followed you to watch this are taken aback and excitedly rush down to tell the rest of the people. The rest of you are bored out of your mind for the next eight hours.
 1495;TRAVIS;Kima and I are sparring.
@@ -1555,11 +1555,11 @@
 1553;TALIESIN;I recently-- I will say, before death-- had a bit of an epiphany, and have been trying-- not always succeeding, but trying-- not to dwell on such things.
 1554;LAURA;That's actually what I wanted to talk to you about. In the fight with Ripley.
 1555;TALIESIN;Yes.
-1556;LAURA;"Your last words to her were, ""I forgive you."""
+1556;LAURA;"Your last words to her were, """"I forgive you."""""
 1557;TALIESIN;Yes.
 1558;LAURA;It was such a surprise.
 1559;TALIESIN;Yes.
-1560;LAURA;"I pull out Fenthras and I show him what I've carved onto it, it's ""sinaeth."" Do you know that word?"
+1560;LAURA;"I pull out Fenthras and I show him what I've carved onto it, it's """"sinaeth."""" Do you know that word?"
 1561;TALIESIN;How common is that word?
 1562;MATT;You know the word.
 1563;TALIESIN;I would know the word.

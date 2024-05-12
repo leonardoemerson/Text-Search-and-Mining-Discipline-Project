@@ -206,12 +206,12 @@
 204;SAM;Can you unstone Kima now or?
 205;ASHLEY;I can, but then I wouldn't have another 5th level.
 206;ORION;(Dwarven accent) Clarota, what do you think we should do?
-207;MATT;"Clarota, who is currently like staring at the statue of Kima, you can see there's a brief bead of thought behind Clarota's eyes and the voice sinks into the rest of your minds simultaneously. ""We may be able to leave her here for safekeeping."""
+207;MATT;"Clarota, who is currently like staring at the statue of Kima, you can see there's a brief bead of thought behind Clarota's eyes and the voice sinks into the rest of your minds simultaneously. """"We may be able to leave her here for safekeeping."""""
 208;ORION;I knew you were going to say that. A different option. Oh, and thank you, Pike.
 209;ASHLEY;You're welcome, Tiberius.|(all laugh)
-210;MATT;"""If you insist on bringing her, then we should do it soon. We should not be leaving anything behind. Trace of our passage."""
+210;MATT;"""""If you insist on bringing her, then we should do it soon. We should not be leaving anything behind. Trace of our passage."""""
 211;LIAM;Where did your kin take our big friend?
-212;MATT;"Clarota thinks for a second and says, ""It was not my kin that took him but the duergar. If anything, I imagine he might be residing within that infernal city, though if they've taken him elsewhere I do not know the way of the ash-skins."""
+212;MATT;"Clarota thinks for a second and says, """"It was not my kin that took him but the duergar. If anything, I imagine he might be residing within that infernal city, though if they've taken him elsewhere I do not know the way of the ash-skins."""""
 213;ORION;But Kima does.
 214;LAURA;We should wake her up.
 215;ORION;Pike, you can do it one more time and take a little rest, right?
@@ -226,17 +226,17 @@
 224;MATT;However, it does (ping) into the side of your shield and you deflect the blow and you see Kima for a second is like, (panting slowing to normal breathing).
 225;LIAM;Easy! Easy!
 226;ASHLEY;Calm down!
-227;MATT;"She throws the blade down on the ground and goes, ""I am so sorry."""
+227;MATT;"She throws the blade down on the ground and goes, """"I am so sorry."""""
 228;ASHLEY;It's okay! You were mid-swing, I get it.|We are fine it was just a shield. We're fine.
-229;MATT;"She reaches around and she pulls her symbol of Bahamut out from her around her neck and just clutches it for a second and says, ""What happened?"""
+229;MATT;"She reaches around and she pulls her symbol of Bahamut out from her around her neck and just clutches it for a second and says, """"What happened?"""""
 230;LAURA;You were turned to stone, the king got killed, the queen took Grog, we don't know where.
 231;SAM;And Clarota was really helpful to us.
 232;LAURA;Actually, Clarota got you out of that castle alive.
 233;MATT;She turns around and glares at Clarota briefly with a look of confusion and mistrust and Clarota just goes-- (all laugh)
 234;LIAM;You honestly would not be here if it weren't for the illithid. It's true.
-235;MATT;"She glances back at you and gives under her breath, ""And there's a good chance none of us may be here if it gets its way down the road. (louder) Nevertheless, I thank you. It is good to know at least we took one of their top champions down. The fact that the queen still exists is worrisome, as at least from what I seemed to gather she had the true reign over most of the duergar down here."""
+235;MATT;"She glances back at you and gives under her breath, """"And there's a good chance none of us may be here if it gets its way down the road. (louder) Nevertheless, I thank you. It is good to know at least we took one of their top champions down. The fact that the queen still exists is worrisome, as at least from what I seemed to gather she had the true reign over most of the duergar down here."""""
 236;ORION;Do you know where she would be at?
-237;MATT;"""Where did she escape? How did she take him?"""
+237;MATT;"""""Where did she escape? How did she take him?"""""
 238;LIAM;She disappeared with our goliath friend.
 239;LAURA;(gasps) Oh my gosh. Wait, did I Hunter's Mark the queen?
 240;LIAM;Yes, you did.
@@ -322,7 +322,7 @@
 320;SAM;Grog will be fine.
 321;ASHLEY;He's at a two!
 322;MARISHA;I'm so mad at him. Why'd he get stolen?
-323;MATT;"Kima comes over, Kima puts her hand out a little bit and says, ""It's all right, he's a strong one, he can handle himself. If I could survive what I've been through, he can do far better than that. Rest is good. I think we need to take some time, discuss our plan of attack, our current direction, and decide on how we'll move forward."" She glances briefly over at Clarota, who's now further back towards the wall just sitting in this meditative state.|""So. Let us rest."""
+323;MATT;"Kima comes over, Kima puts her hand out a little bit and says, """"It's all right, he's a strong one, he can handle himself. If I could survive what I've been through, he can do far better than that. Rest is good. I think we need to take some time, discuss our plan of attack, our current direction, and decide on how we'll move forward."""" She glances briefly over at Clarota, who's now further back towards the wall just sitting in this meditative state.|""""So. Let us rest."""""
 324;TALIESIN;Brilliant idea.
 325;LIAM;One last thing before we lay our heads down for the night. Pike, do you have any salve or anything you could help me put on my foot, or could your god help with my little toe?
 326;MARISHA;I could help you with some natural mediciney stuff, maybe.
@@ -392,9 +392,9 @@
 390;MARISHA;Or a brass claw toe. That's fun. Maybe we could get you a raptor claw. That's cool.
 391;TALIESIN;Let's sleep.
 392;SAM;Before we go to sleep, I go over to Kima and I say to her, Lady Kima, I think we're all going to take a rest and you as well, correct?
-393;MATT;"""I think I should."""
+393;MATT;"""""I think I should."""""
 394;SAM;We can trust you while we're all asleep not to do anything to any of our companions, correct?
-395;MATT;"""If you're worried about the mind flayer, I'll be keeping an eye, but nothing beyond that.|Remember: he has to make the side-step, the wrong step, before I take any action. Trust and know that if I were to strike a blow, it's at his own poor choice and actions."""
+395;MATT;"""""If you're worried about the mind flayer, I'll be keeping an eye, but nothing beyond that.|Remember: he has to make the side-step, the wrong step, before I take any action. Trust and know that if I were to strike a blow, it's at his own poor choice and actions."""""
 396;ORION;That first part of what you said rhymed.
 397;SAM;Does she seem to be telling the truth?
 398;MATT;Make an insight check.
@@ -408,62 +408,62 @@
 406;SAM;(laughs) Oh my god, what if they start fucking? (all laugh)
 407;TALIESIN;So it's going to be that sort of evening, excellent.
 408;LIAM;Rated M, for mature.
-409;MATT;"Clarota says, ""Should you insist."" And Clarota's image shimmers and vanishes."
+409;MATT;"Clarota says, """"Should you insist."""" And Clarota's image shimmers and vanishes."
 410;ORION;Sweet.
 411;TALIESIN;I'm falling asleep.
-412;MATT;"As you guys are all going to sleep, Kima's still sharpening her sword and she stops for a second and goes, ""Everyone, I'm sorry you've lost your friend. If he lives, we shall find him."""
+412;MATT;"As you guys are all going to sleep, Kima's still sharpening her sword and she stops for a second and goes, """"Everyone, I'm sorry you've lost your friend. If he lives, we shall find him."""""
 413;LAURA;He will live.
 414;TALIESIN;And we will find him.
 415;ASHLEY;No, he will, Scanlan! You just calm down.
-416;MATT;"""But if they have indeed taken him prisoner and Emberhold is lost, there is only one place they would bring him: Yug'Voril."""
+416;MATT;"""""But if they have indeed taken him prisoner and Emberhold is lost, there is only one place they would bring him: Yug'Voril."""""
 417;LAURA;(gasps) With the dude with the black horn.
-418;MATT;"""Considering the mess that you've made since entering their realm of living and work, you'd make for a great gift to their current standing demigod. If we aren't able to find him within the city, I think that may be the next place to look."""
+418;MATT;"""""Considering the mess that you've made since entering their realm of living and work, you'd make for a great gift to their current standing demigod. If we aren't able to find him within the city, I think that may be the next place to look."""""
 419;MARISHA;Once again, are you afraid they're going to take him while we're asleep? Is this a genuine concern? Is this something we should move on now?
-420;MATT;"""Not as long as you're keeping concentration, we should be fine."""
+420;MATT;"""""Not as long as you're keeping concentration, we should be fine."""""
 421;LAURA;I'm concentrating so hard.|(all laugh)
 422;LIAM;We're busted up.
 423;TALIESIN;There's legitimately nothing to be done.
-424;MATT;"There's a softness that hits Kima's face and you can see a bit of a quiver to her chin and she goes, ""The guilt I feel for unknowingly putting you all in danger for my sake is immense. It's because of me and my actions that you even delved this far and nearly lost life and limb, merely at the behest of Allura and... I want you all to know that I appreciate it. I really, truly do."""
+424;MATT;"There's a softness that hits Kima's face and you can see a bit of a quiver to her chin and she goes, """"The guilt I feel for unknowingly putting you all in danger for my sake is immense. It's because of me and my actions that you even delved this far and nearly lost life and limb, merely at the behest of Allura and... I want you all to know that I appreciate it. I really, truly do."""""
 425;ORION;That's great. If you can mention that to Allura, that'd be wonderful.
-426;MATT;"""I would really appreciate it to speak to Tiberius."""
+426;MATT;"""""I would really appreciate it to speak to Tiberius."""""
 427;ORION;(mumbles, makes spell sounds, returns to normal voice) I would really appreciate it if you mentioned that to Allura. I'm trying to get into her good graces and whatnot.
-428;MATT;"She chuckles a moment and says, ""All right.|Allura is a good friend. Well we've known each other for... gods, 15 years now. Since we defeated the Scourged Rider, together. But she has always had more of a political mind than I do, so, when we were both offered a seat on the council of Tal'Dorei and Emon she stayed, and I... I'm a woman of action, and I knew my destiny was out in the world."""
+428;MATT;"She chuckles a moment and says, """"All right.|Allura is a good friend. Well we've known each other for... gods, 15 years now. Since we defeated the Scourged Rider, together. But she has always had more of a political mind than I do, so, when we were both offered a seat on the council of Tal'Dorei and Emon she stayed, and I... I'm a woman of action, and I knew my destiny was out in the world."""""
 429;ORION;We share something in common, Lady Kima. I, too, have left my home and land because I did not want to sit on the council of Draconia. With blessings from my father and such, I gained ambassadorship on a mission for them, but really, just so I could--
 430;MATT;Her eyes have glazed over and are staring off into the distance.|(all laugh)
 431;ORION;To get all the things out, and I saw this wonderful lamb in this field one time--
-432;MATT;"""I was speak to Allura of your honor and deeds, Tiberius. We try to have drinks and swap stories every few months. She's a good one."""
+432;MATT;"""""I was speak to Allura of your honor and deeds, Tiberius. We try to have drinks and swap stories every few months. She's a good one."""""
 433;ORION;Yes, I think so.
-434;MATT;"She takes a moment to herself and looks around at the rest of you and says, ""The cruel king. Who dealt the final blow?"""
+434;MATT;"She takes a moment to herself and looks around at the rest of you and says, """"The cruel king. Who dealt the final blow?"""""
 435;SAM;(clears throat) That would be the kingslayer. Me.
 436;MATT;She steps up and walks over to you and puts a hand on your shoulder and gives you a stern look in the eye and shakes your shoulder. She's a halfling, so she's not too much taller than you.|(all laugh)
 437;SAM;(laughing) Oh, okay.
-438;MATT;"""Good. The cruel king is down, and I thank you for that."" She walks back to the little perch on the rock at the side of the wall and says, ""He tried to break me. Relish in his false superiority. Dragging hooks across my flesh, underestimating the will of a servant of Bahamut."""
+438;MATT;"""""Good. The cruel king is down, and I thank you for that."""" She walks back to the little perch on the rock at the side of the wall and says, """"He tried to break me. Relish in his false superiority. Dragging hooks across my flesh, underestimating the will of a servant of Bahamut."""""
 439;MARISHA;Are you congratulating us for being murderers? Is that what you're doing right now?
-440;MATT;"""Murder and justice are two entirely different things and the deities of all good saw to it that this King's time was limited."""
+440;MATT;"""""Murder and justice are two entirely different things and the deities of all good saw to it that this King's time was limited."""""
 441;MARISHA;Are you suggesting now that we control the wills of the deities?
-442;MATT;"""No, but we enact them, as long as we work within your plans to keep us safe."""
+442;MATT;"""""No, but we enact them, as long as we work within your plans to keep us safe."""""
 443;MARISHA;That's mighty bold and presumptuous of you.
-444;MATT;"""My life has been given to guidance of the platinum dragon, who has not seen nothing but the positive direction for all of your species, mine and the rest of humanity, that exists in the material plane. You would do well to not disrespect one who looks out for you, even though you may not look up to him for guidance. The reason these lands that you grew up in are safe and free, as much as they are, are because of the sacrifices of my brethren who came before me under his light and guidance. I'm not saying you to worship him-- each one has their own gods of choice. I just say, show some respect."""
+444;MATT;"""""My life has been given to guidance of the platinum dragon, who has not seen nothing but the positive direction for all of your species, mine and the rest of humanity, that exists in the material plane. You would do well to not disrespect one who looks out for you, even though you may not look up to him for guidance. The reason these lands that you grew up in are safe and free, as much as they are, are because of the sacrifices of my brethren who came before me under his light and guidance. I'm not saying you to worship him-- each one has their own gods of choice. I just say, show some respect."""""
 445;MARISHA;I do show respect, Lady Kima. I show respect when I feel that respect has been earned.
 446;ORION;She's royalty, you have to understand.
 447;SAM;We're all a bit cranky. Maybe we should just turn in.
-448;MATT;"""I watched as they executed my companions! The wondrous men and women who came down to these caverns at my sides with my coin in their pockets, with the promise of justice. And they laughed as they cut their throats before me, hoping it would be able to crack me. It was Bahamut's strength that held me there."""
+448;MATT;"""""I watched as they executed my companions! The wondrous men and women who came down to these caverns at my sides with my coin in their pockets, with the promise of justice. And they laughed as they cut their throats before me, hoping it would be able to crack me. It was Bahamut's strength that held me there."""""
 449;MARISHA;Lady Kima, I am not saying that what we are doing here is not just. I only wish that you understand-- and I humbly thank you for your appreciation and thanks for coming down here to rescue you. But you are correct. We have lost a friend. Someone who we have been through a lot with, way more than we have been with you. So.|Before we start boasting congratulations and you start thanking us, why don't you wait? And we'll see what happens when we all get out of here first.
 450;LIAM;She's suffering from PTSD. Why are you poking the badger?
 451;LAURA;Maybe we should just calm down and go to sleep.
 452;MATT;Kima takes a step forward towards Keyleth.|And as you look up at her face, there's a tension, but you can see now that she's stepped near in to you, towards what little bit of light seems to cascade through this cavern, there are tears streaking down her face.
 453;LAURA;How do you feel now? (all laugh)
-454;MATT;"""They tried all they could to break me, but I knew my destiny would not end here. I have a destiny that does not end here."""
+454;MATT;"""""They tried all they could to break me, but I knew my destiny would not end here. I have a destiny that does not end here."""""
 455;ASHLEY;I reach out really slowly and give her a handkerchief.|(all laugh)|And then retreat.
 456;TALIESIN;Lady Kima, as I'm sure you know, grief speaks before sense.
 457;MARISHA;All I'm saying, Lady Kima, is that after what we have done and what we have been through and the lives and the blood that even I have on my hands, you had better be worth it.
 458;TALIESIN;Let us wait for talk of worth and talk of might until we are reunited.
-459;MATT;"She puts a hand up towards you. ""Child, let me explain to you why we are here. As while you may have stepped into the pretense of keeping me out of harm's way, there is a purpose that I and now all of us serve, here in the Underdark. Now, I've been on this journey for more than a year, traveling wherever the wind took me, finding where my gift would find an end to suffering, justice to the wicked and comfort to the downtrodden. I'd just returned from the frozen tundra northeast of these Cliffkeep mountains, heading to meet with Allura, the same friend who brought you here."""
+459;MATT;"She puts a hand up towards you. """"Child, let me explain to you why we are here. As while you may have stepped into the pretense of keeping me out of harm's way, there is a purpose that I and now all of us serve, here in the Underdark. Now, I've been on this journey for more than a year, traveling wherever the wind took me, finding where my gift would find an end to suffering, justice to the wicked and comfort to the downtrodden. I'd just returned from the frozen tundra northeast of these Cliffkeep mountains, heading to meet with Allura, the same friend who brought you here."""""
 460;ORION;I pop out of my sleep. Did you say Allura again?
-461;MATT;"""Shh."""
+461;MATT;"""""Shh."""""
 462;ORION;I'm sorry.
 463;LAURA;Tiberius. Shh.
-464;MATT;"""My vision came to me. I'm sure you're familiar with visions. The great platinum dragon bestowed upon my humble self a dream. I saw an ancient vision of the great and terrible god of undeath himself: Orcus. His crimson, leathery skin and endless wings rumbling through the Abyss itself. He had chosen a champion, one that would unite the material world and the heart of the Abyss, bringing a doorway of oblivion to our world. He cut from his own head two of his terrible black horns, placing them upon the brow of this chosen warrior, his avatar to these realms, granting him power no mortal should ever have.|I saw heroes, long forgotten, rise up to destroy this shadow champion, losing much in the ensuing battle. Loss, far more than you or I will ever know. The body of the avatar was burned away, but the horns of Orcus remained. Untouched by flame, blade, nor divine judgement. These keepers of the horns had a title that time has taken and the whereabouts of the artifacts that had been, thankfully, lost as well.|Until the next dream dispelled my confusion. I felt a cackling entity of immense power, who had discovered one of the holding vaults, never meant to be found. This creature obsessed, spent all their attention to unlock the promised treasure within and over time, they did. One of the two horns had found a new champion, one who now resides deeper within the Underdark here. One we've now known to be called K'varn. This one who has united the illithid and the duergar alike under a banner of madness, expansion, and mockery of life. I've seen these experiments, as have you.|This is what I came down here to dispose of, once and for all.|Now, I hired some of the finest warriors in Kraghammer for this, all of whom have been slain or worse. That guilt weighs upon my soul. And this very quest, whoever this K'varn monstrosity, it holds the horn of Orcus upon its brow. My visions have told me that we must destroy it and must do so soon. If it had already unlocked the artifact's true potential, Kraghammer would be a ruin before you even arrived. But it's only a matter of time.|We must end K'Varn and retrieve this horn and return it to the Tal'Dorei council to discuss how to seal it once more, hopefully for all of eternity.|Your friend's loss is a terrible thing, but we will try to find him and should we not, understand that his sacrifice was not in vain. For we're here not to save one, but thousands, hundreds of thousands of lives, if we succeed. So we sleep, we rest, we find your friend and we destroy this, this abomination, this anathema."""
+464;MATT;"""""My vision came to me. I'm sure you're familiar with visions. The great platinum dragon bestowed upon my humble self a dream. I saw an ancient vision of the great and terrible god of undeath himself: Orcus. His crimson, leathery skin and endless wings rumbling through the Abyss itself. He had chosen a champion, one that would unite the material world and the heart of the Abyss, bringing a doorway of oblivion to our world. He cut from his own head two of his terrible black horns, placing them upon the brow of this chosen warrior, his avatar to these realms, granting him power no mortal should ever have.|I saw heroes, long forgotten, rise up to destroy this shadow champion, losing much in the ensuing battle. Loss, far more than you or I will ever know. The body of the avatar was burned away, but the horns of Orcus remained. Untouched by flame, blade, nor divine judgement. These keepers of the horns had a title that time has taken and the whereabouts of the artifacts that had been, thankfully, lost as well.|Until the next dream dispelled my confusion. I felt a cackling entity of immense power, who had discovered one of the holding vaults, never meant to be found. This creature obsessed, spent all their attention to unlock the promised treasure within and over time, they did. One of the two horns had found a new champion, one who now resides deeper within the Underdark here. One we've now known to be called K'varn. This one who has united the illithid and the duergar alike under a banner of madness, expansion, and mockery of life. I've seen these experiments, as have you.|This is what I came down here to dispose of, once and for all.|Now, I hired some of the finest warriors in Kraghammer for this, all of whom have been slain or worse. That guilt weighs upon my soul. And this very quest, whoever this K'varn monstrosity, it holds the horn of Orcus upon its brow. My visions have told me that we must destroy it and must do so soon. If it had already unlocked the artifact's true potential, Kraghammer would be a ruin before you even arrived. But it's only a matter of time.|We must end K'Varn and retrieve this horn and return it to the Tal'Dorei council to discuss how to seal it once more, hopefully for all of eternity.|Your friend's loss is a terrible thing, but we will try to find him and should we not, understand that his sacrifice was not in vain. For we're here not to save one, but thousands, hundreds of thousands of lives, if we succeed. So we sleep, we rest, we find your friend and we destroy this, this abomination, this anathema."""""
 465;MARISHA;Lady Kima, I only hope you do not eventually become what you fear so much.|Good night.
 466;SAM;Sleep tight.
 467;MATT;She picks up her blade, sits back down and goes back to sharpening (sounds of a sharpening stone hitting blade).
@@ -503,7 +503,7 @@
 501;LAURA;We should go that direction.
 502;MARISHA;I go and cast Pass Without a Trace on us.
 503;MATT;All right.
-504;LIAM;"This is suddenly turning into Labyrinth.|""Beyond the Goblin city..."""
+504;LIAM;"This is suddenly turning into Labyrinth.|""""Beyond the Goblin city..."""""
 505;MATT;To take back the child, which you have stolen.
 506;LAURA;You have no power over me.
 507;SAM;The way we came in the city was through the side path, right?
@@ -533,14 +533,14 @@
 531;ORION;Sorry. Pathfinder habit.
 532;MATT;I know. So moving around your head slowly.|All right, so the rest of you gather, you cast your spell Pass Without a Trace. You continue to crest along the outskirts of the cavern wall at this point. Looking over, you can see, throughout the night, most of the fortress, currently-- the lava fall that once contained it is completely cooled and is dark. It looks like their way of stopping the flow was to stop the entire magma fall. Who knows how much damage has been done, but currently the flow is halted and you can see now, there's a number of parties of duergar that are wandering out, through the cavern, presumably in search for you.
 533;LAURA;So technically, Lady Kima, we might be able to get back in eventually and get your weapon.
-534;MATT;"As you say that, she grins to herself and says, ""I would like that very much. I had some sentimental value to that equipment."""
+534;MATT;"As you say that, she grins to herself and says, """"I would like that very much. I had some sentimental value to that equipment."""""
 535;LAURA;And there's a vault.
-536;MATT;"""And there is a vault."""
+536;MATT;"""""And there is a vault."""""
 537;SAM;Unless it melted.
 538;LIAM;This will greatly enhance your ability to move forward with us, won't it?
-539;MATT;"""I think right now time is of the essence for your friend more than anything."""
+539;MATT;"""""I think right now time is of the essence for your friend more than anything."""""
 540;LAURA;We should go look for Grog.
-541;MATT;"""Besides, I highly doubt that that stronghold has been left alone, just because it's filled with rock."""
+541;MATT;"""""Besides, I highly doubt that that stronghold has been left alone, just because it's filled with rock."""""
 542;LIAM;Maybe on the way out.
 543;MATT;Okay, so as you guys progress on the side, I would like everybody to roll a stealth check, please.
 544;LAURA;Oh, I don't know which one to roll.
@@ -684,9 +684,9 @@
 682;LAURA;Oh, I can use an action to focus my awareness on a region around me and then I can sense whether-- oh, well, no. It's only certain types of creatures.
 683;MATT;Right. Which are?
 684;LIAM;Like goliath?
-685;LAURA;"Well, no. It says ""aberrations, celestials, dragons, elementals, fey, fiends, and undead""."
+685;LAURA;"Well, no. It says """"aberrations, celestials, dragons, elementals, fey, fiends, and undead""""."
 686;LIAM;That still might be useful, even if it doesn't find Grog.
-687;MATT;"What you do gather, you do sense a very strong force of aberration-based, much further, like five miles ahead, way ahead, and you have this weird, ""Okay, good to know."" You don't sense anything else, but you do sense a general presence about this entire sea of bone."
+687;MATT;"What you do gather, you do sense a very strong force of aberration-based, much further, like five miles ahead, way ahead, and you have this weird, """"Okay, good to know."""" You don't sense anything else, but you do sense a general presence about this entire sea of bone."
 688;ASHLEY;I've been here!
 689;MARISHA;What?!
 690;ASHLEY;I was here in the vision.
@@ -914,7 +914,7 @@
 912;ORION;Avoid! (whooshing sound)
 913;LIAM;Daggers out.
 914;TALIESIN;Guns out.
-915;MATT;"As you guys begin to push forward you can see two of the duergar are now backing up instinctually. One looks down at his feet now that have been grabbed, and he's being pulled under, and he just starts trying to wrestle himself free.|This blur of motion jumps off one of the platforms, spins in the air, and lands with a slam that completely splatters across the rock that he's right next to. This duergar, you can see part of his jaw go flying off to the side and silence hits him in the middle of his scream.|The last duergar there, you can see who's looking around, sees the stone platform, and goes, ""Let me on! Let me on!"" He goes running over and is trying to jump up towards the stone platform you guys are on."
+915;MATT;"As you guys begin to push forward you can see two of the duergar are now backing up instinctually. One looks down at his feet now that have been grabbed, and he's being pulled under, and he just starts trying to wrestle himself free.|This blur of motion jumps off one of the platforms, spins in the air, and lands with a slam that completely splatters across the rock that he's right next to. This duergar, you can see part of his jaw go flying off to the side and silence hits him in the middle of his scream.|The last duergar there, you can see who's looking around, sees the stone platform, and goes, """"Let me on! Let me on!"""" He goes running over and is trying to jump up towards the stone platform you guys are on."
 916;LAURA;How much does he weigh? (giggles)
 917;MATT;Well, he's going to go ahead and try and grab it with an athletics check-- he makes it! (latching noise) He gets onto the side.
 918;SAM;Kick him off!
@@ -922,7 +922,7 @@
 920;LAURA;I punch him in the face!
 921;MATT;Okay, okay. You go ahead and (punch thud noise). You just beat him in the face. He holds tight. You're not a very strong person, unfortunately.
 922;LIAM;I grab him by the cloak. What is it? What is it?
-923;MATT;"""I don't know! Get it away! Get it away!"""
+923;MATT;"""""I don't know! Get it away! Get it away!"""""
 924;MARISHA;In eagle form, I'm going to do a nice high soaring lap.
 925;SAM;We're on you!
 926;MARISHA;I know! It's okay! I'm going to use my-- I'm soaring high. It's an easy breeze. We're on the people mover. Okay. And I'm going to use my keen sight to see if I can get a good... (pew)
@@ -971,7 +971,7 @@
 969;LAURA;Ooh, I like it.
 970;MATT;There's the rest of you. Although, Trinket is a kitten.
 971;SAM;Trinket is a cat.
-972;TALIESIN;"Trinket only has the power of ""adorability."""
+972;TALIESIN;"Trinket only has the power of """"adorability."""""
 973;MATT;This is the stone slab over here that you guys have created. All right, so. Initiative rolls, everyone. Starting at... 25 to 20?
 974;LAURA;21.
 975;MATT;All right. That puts Vex at the top of the round there. And brings-- there we go. 20 to 15?
@@ -1417,7 +1417,7 @@
 1415;LIAM;It's mostly in our favor.
 1416;MATT;Yeah. So that Lightning Bolt would do 15 points of damage. With disadvantage on its save.|Still makes it, so (laughs) with a Lightning Bolt that does a grand total of seven points of damage--
 1417;LAURA;It's better than one, Clarota! It's better than one!
-1418;MATT;"Clarota looks away dejectedly. ""It was the best I could do."" All right. Keyleth, you're up."
+1418;MATT;"Clarota looks away dejectedly. """"It was the best I could do."""" All right. Keyleth, you're up."
 1419;MARISHA;All right. Seeing Lady Kima slowly getting taken under, I make eye contact with her.
 1420;MATT;All right.
 1421;MARISHA;What?
@@ -1440,7 +1440,7 @@
 1438;MATT;20. So, as the vine wraps around her and begins to pull, she reaches over and grabs the vine for extra strength, and (fwoomp) it pulls her out of the wall. She goes flying over and lands at the side of the stone with a vine that's still loosely wrapped around her, but it's definitely pulled her free of the floor.
 1439;MARISHA;Can I leave it to where it's holding her up, to where it's not touching?
 1440;MATT;Sure! Yeah. She's currently held aloft by this vine that strapped her. She's looking confused. Thankful, but also wants to be let go.
-1441;MARISHA;"Can I take a bonus action to shout at her? Be like, ""Calm down Kima! Jeez!"""
+1441;MARISHA;"Can I take a bonus action to shout at her? Be like, """"Calm down Kima! Jeez!"""""
 1442;MATT;Sure. Is that the end of your turn?
 1443;MARISHA;Yes!
 1444;MATT;Okay! As you finish casting the spell and shouting at her, you look down and notice the ground. (swish, shoosh) Begins pulling you down
@@ -1738,7 +1738,7 @@
 1736;TALIESIN;Dance.
 1737;ASHLEY, LAURA;Dance!
 1738;MATT;You've had it used on you before. It's called a Mind Blast that the mind flayers did before in a cone attack that can stun things in front of it. But everyone's been clustered around it, so Clarota can't quite get a place that doesn't affect somebody else. So instead he's going to do a tentacle attack against it. That is-- oh, wow! That's a 26. That hits! Takes 15 points of damage and is grappled by Clarota.|Clarota currently has his tentacles wrapped up onto it and is trying to pull it down with a combination of psionic energy and its tentacle grab. Keyleth, you're up!
-1739;MARISHA;"Seeing that Clarota just grappled him, I'm like, ""All right, cool. That's good."" And I'm going to use a Grasping Vine from the other stalactite and grab Trinket and see if I can--"
+1739;MARISHA;"Seeing that Clarota just grappled him, I'm like, """"All right, cool. That's good."""" And I'm going to use a Grasping Vine from the other stalactite and grab Trinket and see if I can--"
 1740;LAURA;Around his waist!
 1741;MARISHA;Okay. Around his waist.
 1742;MATT;All right. You use another 4th-level Grasping Vine?
@@ -1749,7 +1749,7 @@
 1747;MARISHA;What is it?
 1748;TALIESIN;Will.
 1749;MARISHA;Oh, will?
-1750;MATT;"For this one I think it was to try and-- wait a sec, I'm just making sure. I think it was wisdom for the-- Let me check it real fast, just to make sure. This is starting to get down to the heavy. ""Creature must make dexterity saving throw to resist pull."" Yeah, so go ahead and make a willpower check. Wisdom check, sorry."
+1750;MATT;"For this one I think it was to try and-- wait a sec, I'm just making sure. I think it was wisdom for the-- Let me check it real fast, just to make sure. This is starting to get down to the heavy. """"Creature must make dexterity saving throw to resist pull."""" Yeah, so go ahead and make a willpower check. Wisdom check, sorry."
 1751;MARISHA;20 again.
 1752;MATT;The vine wraps around Trinket and begins to pull. The bones hold tight and the body is not moving from its position.
 1753;LAURA;No!
@@ -1796,7 +1796,7 @@
 1794;MATT;All right, so Trinket comes to consciousness. (bear moan)
 1795;LAURA;Trinket!
 1796;MATT;As soon as it opens up and the first thing Trinket sees is your face, Trinket begins to lick the side of your face.
-1797;LAURA;"Oh! (sobs) Buddy! I'm crying and I'm petting him and I say, ""It's okay."""
+1797;LAURA;"Oh! (sobs) Buddy! I'm crying and I'm petting him and I say, """"It's okay."""""
 1798;MATT;Kima, Clarota, and Vax. You guys are still on the ground. You can feel the stones and bones beginning to pull up against your feet. Clarota immediately begins to lift off the ground using his Levitation ability, and pulls free of the bones, lifts there for a second. Yes?
 1799;ASHLEY;Can I keep propellering my Mace of Disruption as I walk? On the ground?
 1800;MATT;You can. As you're walking along, you're just (kssh) hitting bits of bone. As you are, they just disintegrate and turn into dust. It's leaving a track. A little bit of a groove in the ground as you do so.
@@ -1892,7 +1892,7 @@
 1890;LIAM;So 25.
 1891;MATT;25, okay. So you make your way through the darkness, around the side of the stone platform and as you crest your vision, you can see the flickering is indeed a small campfire. Not used for light, but apparently used for cooking as the scent also hits you. There is some sort of meat currently being cooked on this flame.
 1892;LIAM;Does it smell good?
-1893;MATT;"It smells pretty good. You're not quite sure what the source of the meat is. You worry for a second because you see the two duergar that are sitting there, currently holding the meat in the center of this, are staying next to a giant troll who has his hand on the side of a rickety wooden cart. On this cart, which you can see, there are two sets of wheels on each side, there is a large lumbering goliath individual currently held down with bands of iron.|Your mind for second thinks, ""Oh god, are they eating him?"" but you see he appears to be intact, though with a quick glance as you peer around the other side of the stone column, you can see his body is riddled with scratches and small wounds and incisions, and you can see where streaks of dried blood are across his entire body."
+1893;MATT;"It smells pretty good. You're not quite sure what the source of the meat is. You worry for a second because you see the two duergar that are sitting there, currently holding the meat in the center of this, are staying next to a giant troll who has his hand on the side of a rickety wooden cart. On this cart, which you can see, there are two sets of wheels on each side, there is a large lumbering goliath individual currently held down with bands of iron.|Your mind for second thinks, """"Oh god, are they eating him?"""" but you see he appears to be intact, though with a quick glance as you peer around the other side of the stone column, you can see his body is riddled with scratches and small wounds and incisions, and you can see where streaks of dried blood are across his entire body."
 1894;LAURA;They're going to try to make him into one of the stitch monsters!
 1895;MARISHA;Yes, they are.
 1896;LAURA;We're not there.
@@ -1926,45 +1926,45 @@
 1924;ASHLEY;Chat room!
 1925;LAURA;That was mean!
 1926;TALIESIN;You almost killed a bear.
-1927;ZAC;"Okay, guys. We've got a lot of these. You ready? We've got AxisOfAnarchy. ""Less than three Matt, Taliesin, Ashley, Marisha, Laura, Liam, Orion, and Sam. #FindGrog."""
+1927;ZAC;"Okay, guys. We've got a lot of these. You ready? We've got AxisOfAnarchy. """"Less than three Matt, Taliesin, Ashley, Marisha, Laura, Liam, Orion, and Sam. #FindGrog."""""
 1928;ORION;We did!
 1929;LIAM;We found him.
-1930;ZAC;"Vorack1024. ""Glad to donate every week for such a good cause. Critical Role is an inspiration to my entire D&D party, and watching helps my DMing greatly. Thank you so much."""
+1930;ZAC;"Vorack1024. """"Glad to donate every week for such a good cause. Critical Role is an inspiration to my entire D&D party, and watching helps my DMing greatly. Thank you so much."""""
 1931;ASHLEY;Oh, man. Yay, thank you!
 1932;MATT;That's awesome.
-1933;ZAC;"Meg_TheDreamer. ""#CriticalRole, thank you so much for everything with""-- oh gosh, these are so hard to read-- ""with amazing stories, adventures, and great senses of humor that brings happiness and makes me laugh and warms my heart. Thank you so much for the love, my art, oh, twitter @TheAnimeDreamer and my birthday wishes to Meghan L."""
+1933;ZAC;"Meg_TheDreamer. """"#CriticalRole, thank you so much for everything with""""-- oh gosh, these are so hard to read-- """"with amazing stories, adventures, and great senses of humor that brings happiness and makes me laugh and warms my heart. Thank you so much for the love, my art, oh, twitter @TheAnimeDreamer and my birthday wishes to Meghan L."""""
 1934;TALIESIN;Oh, Meghan! Yay!
 1935;MARISHA;Thanks for all your art, Meghan. Your art's great.
-1936;ZAC;"ZandorInvictus. ""Made the easy decision to skip the midnight showing of Avengers to catch the show. #LessThanThree."""
+1936;ZAC;"ZandorInvictus. """"Made the easy decision to skip the midnight showing of Avengers to catch the show. #LessThanThree."""""
 1937;MATT;Aw!
 1938;TALIESIN;Easy decision!
 1939;ZAC;You're a better man than Grog! I also suggest all of you guys hit up Twitter and give Travis some shit.
 1940;MATT;Playfully loving shit because the movie's awesome and it's great.
 1941;LAURA;Yeah, loving shit.
 1942;ORION;Follow us on Twitter, and then help us.
-1943;ZAC;"Let him know that Overlord says he's in trouble. BeansyMccoy. ""No, but seriously, I need a shirt that says 'how do you want to do this?'"""
+1943;ZAC;"Let him know that Overlord says he's in trouble. BeansyMccoy. """"No, but seriously, I need a shirt that says 'how do you want to do this?'"""""
 1944;ASHLEY;I know.
 1945;SAM;We're working on it.
 1946;ORION;Yeah, we're working on it.
-1947;ZAC;"OutdatedReference. ""About to run my first session of D&D this Sunday. Thanks to you guys for the inspiration, so excited."" (all cheer)"
+1947;ZAC;"OutdatedReference. """"About to run my first session of D&D this Sunday. Thanks to you guys for the inspiration, so excited."""" (all cheer)"
 1948;MATT;Make it happen!
 1949;ORION;Good luck!
 1950;MATT;May your dice roll 20s and TPK your party.
-1951;ZAC;"WTSFox, thank you. TonyLoneFight. ""You are all so amazing, thank you so much for sharing this, I hope this donation helps."""
+1951;ZAC;"WTSFox, thank you. TonyLoneFight. """"You are all so amazing, thank you so much for sharing this, I hope this donation helps."""""
 1952;MARISHA;It does. Thank you Tony!
 1953;ZAC;UselessRogue--
 1954;MATT;UselessRogue, yeah! What's up?
 1955;ASHLEY;Hey! You're not useless!
 1956;MARISHA;(shouting) UselessRogue!
-1957;MATT;"""Assuaging my guilt over my vote in the straw-poll tonight."" I thought you chose well.|That was a fun fight."
-1958;ZAC;"Yeah. SilentKagosha. ""Critical Role: adding a cave-effect to the audio when you are in the cave adds an interesting atmosphere to the show."""
+1957;MATT;"""""Assuaging my guilt over my vote in the straw-poll tonight."""" I thought you chose well.|That was a fun fight."
+1958;ZAC;"Yeah. SilentKagosha. """"Critical Role: adding a cave-effect to the audio when you are in the cave adds an interesting atmosphere to the show."""""
 1959;MATT;Awesome! Thank you!
-1960;ZAC;"That's what they did. He kept saying that in the chatroom and I was like, ""I wish I could do that for you but I can't do anything about that."" Too much work! BrrCold donated. ""For Zac Eubank and all that he does."" Aw, thanks, Curt! Appreciate that."
+1960;ZAC;"That's what they did. He kept saying that in the chatroom and I was like, """"I wish I could do that for you but I can't do anything about that."""" Too much work! BrrCold donated. """"For Zac Eubank and all that he does."""" Aw, thanks, Curt! Appreciate that."
 1961;ASHLEY;Thanks Curt!
-1962;ZAC;"G1BigDaddyHef. ""Working retail can be draining and I want to thank you so much for inspiring me and brightening my day. Currently working on creating a new campaign to try and get my coworkers involved in. I'm happy to lend some money to help out the 826LA charity."""
+1962;ZAC;"G1BigDaddyHef. """"Working retail can be draining and I want to thank you so much for inspiring me and brightening my day. Currently working on creating a new campaign to try and get my coworkers involved in. I'm happy to lend some money to help out the 826LA charity."""""
 1963;MATT;Aw, thank you so much!
 1964;MARISHA;We've been there in retail, and we feel your pain
-1965;ZAC;"Kedofett101. ""If I can help such a great cause with a donation, the way..."" Gosh, it's a lot, sorry. ""If I can help with such a great cause with a donation, the way you wonderful people help me, then I'll give what I can. Thank you so much for bringing a smile to my face with your amazing work and the awesomeness that is Critical Role.|Love you guys."""
+1965;ZAC;"Kedofett101. """"If I can help such a great cause with a donation, the way..."""" Gosh, it's a lot, sorry. """"If I can help with such a great cause with a donation, the way you wonderful people help me, then I'll give what I can. Thank you so much for bringing a smile to my face with your amazing work and the awesomeness that is Critical Role.|Love you guys."""""
 1966;MATT;Thank you so much.
 1967;ORION;Thanks bud, I'll take all the credit for that one.
 1968;TALIESIN;Yeah.
@@ -1973,39 +1973,39 @@
 1971;MARISHA;CritKarma!
 1972;ZAC;KatyaisaLie. Thank you.
 1973;ORION;Thank you, Katya.
-1974;ZAC;"VerCatJoel. ""You guys are amazing. Thanks for making this week more fun and wanting to help kids."""
+1974;ZAC;"VerCatJoel. """"You guys are amazing. Thanks for making this week more fun and wanting to help kids."""""
 1975;MATT;Thank you, VerCatJoel.
-1976;ZAC;"GeoNerd79. ""I love you guys. So many emotions."""
+1976;ZAC;"GeoNerd79. """"I love you guys. So many emotions."""""
 1977;MATT;I feel you, GeoNerd!
 1978;MARISHA;(laughs) Thanks, GeoNerd!
 1979;MATT;I feel you.
-1980;ZAC;"Poltergeist123. ""#Lessthan3."""
+1980;ZAC;"Poltergeist123. """"#Lessthan3."""""
 1981;MATT;Thank you, Poltergeist.
 1982;MARISHA;Thanks, Poltergeist.
 1983;ORION;Thank you.
-1984;ZAC;"And we're reloading to see who all has donated since. Okay, some more. HomeGrownHero. ""I just got here. I missed everything. Can I watch tonight's show somewhere?"" Yeah! If you're a sub, it'll be up immediately. If you're not a sub, we'll do a rebroadcast, and if you wait (whistles) four hours from now, it'll probably be back in the rotation, and by tomorrow afternoon it'll be up on the website."
+1984;ZAC;"And we're reloading to see who all has donated since. Okay, some more. HomeGrownHero. """"I just got here. I missed everything. Can I watch tonight's show somewhere?"""" Yeah! If you're a sub, it'll be up immediately. If you're not a sub, we'll do a rebroadcast, and if you wait (whistles) four hours from now, it'll probably be back in the rotation, and by tomorrow afternoon it'll be up on the website."
 1985;MARISHA;Geekandsundry.com.
-1986;ZAC;"Correct. WheelyFactoids. ""Liam, do you prefer single- or double-edged blade, and Laura, what color is Trinket?"""
+1986;ZAC;"Correct. WheelyFactoids. """"Liam, do you prefer single- or double-edged blade, and Laura, what color is Trinket?"""""
 1987;LAURA;Trinket is brown.
 1988;LIAM;Double-edged.
-1989;ZAC;"Bam! Factoids! Zofer. ""Amazing show, and a worthy cause."""
+1989;ZAC;"Bam! Factoids! Zofer. """"Amazing show, and a worthy cause."""""
 1990;MATT;Awesome. Thank you, Zofer.
-1991;ZAC;"Aldowin. ""Keep up the awesome work you're doing."""
+1991;ZAC;"Aldowin. """"Keep up the awesome work you're doing."""""
 1992;MATT;Thank you Aldowin!
 1993;ORION;Thanks Aldowin.
 1994;TALIESIN;Thank you.
-1995;ZAC;"TheFallenTitan: ""Loving CritRole, keep it up."" Also, ""Oh-ree-awn, are you going to make any more music videos with Alex Lewis?"""
+1995;ZAC;"TheFallenTitan: """"Loving CritRole, keep it up."""" Also, """"Oh-ree-awn, are you going to make any more music videos with Alex Lewis?"""""
 1996;ORION;It's Orion, Zac.
 1997;ZAC;Orion!
 1998;ORION;Chatroom, accost him for that, please.
 1999;ZAC;(whispering) They spelled it wrong and I just read it.
 2000;ORION;(laughing) Yeah! Actually, me and Alex Lewis / I8athumbtack are doing more music videos and funny stuff. Thank you for asking.
 2001;MARISHA;Yes.
-2002;ZAC;"CheeseBug88 ""LessThanThree."""
+2002;ZAC;"CheeseBug88 """"LessThanThree."""""
 2003;MATT;CheeseBug!
 2004;MARISHA;CheeseBug!
 2005;ASHLEY;CheeseBug!
-2006;ZAC;"ACrazyNexy ""LessThanThree to the Critical Role team."""
+2006;ZAC;"ACrazyNexy """"LessThanThree to the Critical Role team."""""
 2007;MATT;Aw, thank you, CrazyNexy.
 2008;ZAC;Thank you guys so much. Just because we didn't get a chance to read, please don't stop donating. All you've got to do is scroll down to donate to 856LA or they'll link it in the chat room. Tune in tomorrow. We have Felicia Day stopping by to play Lady Games, so everyone will be dressed up in suits.
 2009;SAM;I'll be watching that! It's my favorite.

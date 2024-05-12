@@ -103,7 +103,7 @@
 101;ORION;Hey! Hi Guys!
 102;TALIESIN;Science.
 103;LIAM;We are the coolest.
-104;ORION;"I was like that's, ""That's Laura's voice, where the hell is that coming from?"""
+104;ORION;"I was like that's, """"That's Laura's voice, where the hell is that coming from?"""""
 105;ASHLEY;At least we think we're cool.
 106;MARISHA;At least we think we're cool.
 107;ORION;Travis is there too! Sorry!
@@ -130,7 +130,7 @@
 128;KEYLETH;(laughs)
 129;TIBERIUS;We have trained and tamed wyverns which we have utilized and they are part of our culture.
 130;PERCY;I've never seen a skinned one.
-131;TIBERIUS;"Yes. And so I went to the local ""shoppe"" and purchased a bag of holding because I realized that I did not hold my own wheel of mending for a long time."
+131;TIBERIUS;"Yes. And so I went to the local """"shoppe"""" and purchased a bag of holding because I realized that I did not hold my own wheel of mending for a long time."
 132;PERCY;That was frustrating you, wasn't it?
 133;TIBERIUS;It was extremely frustrating.|Especially because it's my artifact.|Yes.
 134;KEYLETH;Well that's good.|It's probably good to have a second one of those.|And it comes with water, how handy.
@@ -227,25 +227,25 @@
 225;PERCY;Yeah.
 226;ASHLEY;Yeah.
 227;MATT;So you guys trek your way towards the northern edge of the Cloudtop District.|You round about the series of very nice, fine marbled houses, finely crafted stone.|This is the affluent area of Emon proper.|It's in the secondary city wall, which of course the upper echelon of merchants and those who have money are offered the secondary form of defense against the town being sieged at all.|You come around the corner on the fine kind of yellowish cobblestone road, turn, and you get to the point where you can see to the left of you is the giant courtyard that surrounds the outskirts of the palace proper.|With the giant steps that lead up to the darkened purple marble that the entire structure is made out of.|To your right, there's a few buildings and the white ivory tower that Allura lives in.|You approach, the front door is closed.|It still remains that giant iron knocker on the front that hangs loosely, like a giant wishbone that you slam into the front of the wooden doorway.|Give it a couple hits? (Vax nods)|You can hear it echo throughout the interior of the tall standing tower.|A few moments pass, you hear the movement of chain.|A creaking of metal and then a -- some sort of large shifting of a wood platform or plank.|The door then creaks open and there standing, a little bleary eyed, slept-in a bit, but in the process of getting ready, you see before you Arcanist Allura.|Her long blonde hair is half braided.|She's in her darkened blue robes.|You're used to seeing her in and see -- She opens the door, the sunlight hitting her eye.|She protects her vision for a second before they focus on the rest of the group and she goes,
-228;ALLURA;"""My lord, you've all arrived! You've all arrived!"""
+228;ALLURA;"""""My lord, you've all arrived! You've all arrived!"""""
 229;MATT;And she swings the door opens and runs forward immediately to you, the first person that's there and she gives you a big hug.|She holds back and gives you a look over.|Her eyes are opened.|You can see how honestly eager and happy to see that everyone's here safe.
 230;LIAM;I look over at Tiberius and just short of sheepishly shrug.
 231;TIBERIUS;I'm used to it, it's fine.
 232;MATT;She turns over to give Pike a big hug.|She makes her way around the rest of the group.
-233;ALLURA;"""You're all... I'm so glad to see you're all back.|I've heard there was some difficulties happening in Kraghammer at the time you arrived."""
+233;ALLURA;"""""You're all... I'm so glad to see you're all back.|I've heard there was some difficulties happening in Kraghammer at the time you arrived."""""
 234;MATT;She turns around and takes your hands, Keyleth, into her own and gives you a nod and a small hug.|Goes to Percy and gives you a hug.|Goes to Tiberius and gives you a big warm hug.|She slowly pulls away.|She acquiesces to your longer hug...|And then... pushes away.
 235;TIBERIUS;It is nice to see you again.
-236;ALLURA;"""The pleasure is mine."""
+236;ALLURA;"""""The pleasure is mine."""""
 237;VEX;(sings) Awkward.|Everyone: (laughs)
-238;ALLURA;"""The pleasure is mine, Tiberius."""
+238;ALLURA;"""""The pleasure is mine, Tiberius."""""
 239;MATT;And as she turns around, she sees standing behind the rest of you, there's Kima.|There in her now freshly cleaned golden armor that she polished over the evening so she doesn't smell of Duergar sweat and blood anymore.
 240;VAX;We've brought you a present.
 241;MATT;There's this moment where they both look at each other quietly.|And then Allura steps forward and says,
-242;ALLURA;"""Kima. Welcome back."""
+242;ALLURA;"""""Kima. Welcome back."""""
 243;MATT;And they both just run and give this big embracing bear hug.|She lifts Kima up and there's a slow spin.|You can see this very very strong bond of friendship before she eventually puts Kima down and takes a little bit, she holds her hands for a second.|You can see a tear running down Allura's cheek.
-244;ALLURA;"""I was so worried about you."""
+244;ALLURA;"""""I was so worried about you."""""
 245;MATT;And Kima sheepishly turns her eyes to the side and says,
-246;KIMA;"""Sorry for the all the trouble."""
+246;KIMA;"""""Sorry for the all the trouble."""""
 247;TIBERIUS;Story of my life.|(all laugh)
 248;ORION;Seriously Matthew?! Come on!
 249;MATT;What?! (all laugh)|They're good friends.
@@ -257,21 +257,21 @@
 255;TALIESIN;That's great.
 256;LIAM;Come correct. Don't mug yourself.
 257;MATT;(laughs)|They take a moment to just nod at each other.|She reaches her hand out in front of Kima's head and rustles her hair for a second and says,
-258;ALLURA;"""You had many of us worried sick you can't keep running off like that."""
+258;ALLURA;"""""You had many of us worried sick you can't keep running off like that."""""
 259;MATT;And Kima says,
-260;KIMA;"""I know, I know."""
+260;KIMA;"""""I know, I know."""""
 261;MATT;Then Allura turns to the rest of the group and says,
-262;ALLURA;"""Thank you all so, so very much.|You've done the realm and myself a great service in bringing her back."""
+262;ALLURA;"""""Thank you all so, so very much.|You've done the realm and myself a great service in bringing her back."""""
 263;MATT;At which point, Kima says,
-264;KIMA;"""Bring me back? They helped me complete my quest! You've made some strong allies, Allie."""
+264;KIMA;"""""Bring me back? They helped me complete my quest! You've made some strong allies, Allie."""""
 265;MATT;And Allura starts heading back into her tower and says,
 266;KEYLETH;Allie?
 267;MATT;And Allura starts heading back into her tower and says,
-268;ALLURA;"""Well? Come. Enter. I have tea ready."
+268;ALLURA;"""""Well? Come. Enter. I have tea ready."
 269;VEX;I like it.
-270;ALLURA;"""Well? Come. Enter. I have tea ready.|""Well? Come. Enter. I have tea ready.|You all look like you could use it to be honest."""
+270;ALLURA;"""""Well? Come. Enter. I have tea ready.|""""Well? Come. Enter. I have tea ready.|You all look like you could use it to be honest."""""
 271;PIKE;Yeah.
-272;ALLURA;"""Come. Please."""
+272;ALLURA;"""""Come. Please."""""
 273;PERCY;Well, all right.
 274;TIBERIUS;I love tea.
 275;PERCY;We have a moment we can spend.
@@ -285,7 +285,7 @@
 283;LAURA;We shouldn't tell her about the rug.
 284;MARISHA;Don't tell her about the rug.
 285;MATT;You guys step into the center of the room and she's talking to herself for a moment, saying
-286;ALLURA;"""Things have been a bit crazy here, obviously.|Now that the floodgates have opened as far as discussions with the council and people who have maintained a backlog for a while. It's been a bit busy.|But, this is a wonderful moment to respite.|I'm greatly enjoying the company to be honest.|Come."""
+286;ALLURA;"""""Things have been a bit crazy here, obviously.|Now that the floodgates have opened as far as discussions with the council and people who have maintained a backlog for a while. It's been a bit busy.|But, this is a wonderful moment to respite.|I'm greatly enjoying the company to be honest.|Come."""""
 287;MATT;She guides you all to the center of the chamber.|Once again, there's that large stone platform in the center that has a number of the inert runes carved into the stonework.|As you all step onto it, she taps her heel against the bottom of it for a second.|As she does, all the runes glow with a bright flash of blue and a familiar sensation as that circular platform begins to lift like an arcane elevator, up the center of the tower, going up one, two, three stories.|And as you're going up you're seeing certain sections of wooden library shelves set up at odd angles along the top of the arcane tower itself.|You can see there are small stairways that lead off into doorways that seem to almost exit into the sky.|You've gotten into the idea that a lot of these powerful mage-built towers, the inner workings don't really match the outer exterior look.|And there are rooms that shouldn't exist at certain points as you lift up.
 288;LIAM;I'd like to make a perfunctory insight check just to see if there's anything hinky.
 289;ORION;I'd like to google perfunctory real quick.
@@ -294,11 +294,11 @@
 292;MATT;On Allura?
 293;LIAM;Yeah, everything's probably fine.|That's an 18.
 294;MATT;Best that you can gather, she looks like she's a bit groggy, having slept in recently.|But she seems extremely excited you've all returned and seems eager to catch up as far as what has transpired since last you met her.|The platform continues before it reaches the topmost floor of the tower before the slowing of the stone platform eventually comes to a halt with a slight jostling.|The runes fade and you're all on the top floor of the tower once again.|This is her main chamber.|You can see across the way there is her large cush canopy bed in the far corner.|There are a number of desks.|There's a small arcane laboratory on the far side.|Looks like it's in a bit of disarray, as she's probably in the middle of a project.|You do hear, as soon as you arrive, it sounds like the whistle of a tea kettle in the distance.|At which point, she says,
-295;ALLURA;"""Ah! Allow me."""
+295;ALLURA;"""""Ah! Allow me."""""
 296;MATT;And she begins to walk over.|She lifts her hand and you see a small drift of arcane energy as her mage hand goes and lifts, takes the water off of it's burner, and begins to absent mindedly mage-hand various teacups out of a large cabinet above the little kitchenette area.
 297;ASHLEY;That's awesome.|(all laugh)
 298;MATT;At which point, everyone's looking around, Kima, amongst the rest of you guys, says,
-299;KIMA;"""It's been awhile since I've been here.|Everything's as grandiose and unnecessarily dressed as it always is.|I'm glad you got rid of that old rug though."""
+299;KIMA;"""""It's been awhile since I've been here.|Everything's as grandiose and unnecessarily dressed as it always is.|I'm glad you got rid of that old rug though."""""
 300;LAURA;(laughs) (scattered coughing)
 301;VAX;Sorry.
 302;LIAM;(coughs)
@@ -313,7 +313,7 @@
 311;PERCY;Not here.
 312;MATT;Allura, who is now in the process of pulling chairs over and setting up a small sitting arrangement, a semi-circle, and says,
 313;KEYLETH;It’s so cute.
-314;ALLURA;"""The last time the tower collapsed and I was so rudely assaulted in my living quarters, it appears my rug went missing. It's all right.|I've kept my eye out for a new one for some time."""
+314;ALLURA;"""""The last time the tower collapsed and I was so rudely assaulted in my living quarters, it appears my rug went missing. It's all right.|I've kept my eye out for a new one for some time."""""
 315;TIBERIUS;That was unfortunate.
 316;VAX;Magic, it's tricky.
 317;TIBERIUS;I had no idea. I jumped out when that happened.
@@ -323,22 +323,22 @@
 321;PERCY;You're going to try and feng shui the tower, is that what you--
 322;KEYLETH;Well, why not.
 323;PERCY;I don't know.
-324;ALLURA;"""That's not a bad idea. Perhaps we'll discuss this."""
+324;ALLURA;"""""That's not a bad idea. Perhaps we'll discuss this."""""
 325;VAX;This is silly.|Allura, it's a long story. Lot of deurgar, lot of mindflayer, lot of mindflayers, and an evil god?
 326;PERCY;A beholder.
 327;TIBERIUS;Yes, moreover, a beholder.
 328;VAX;Yes, but who was pulling the strings behind the beholder.
 329;KEYLETH;He thought he was an evil god.|A beholder with a god complex?
-330;ALLURA;"""Curious."""
+330;ALLURA;"""""Curious."""""
 331;MATT;At which point, as you say that, she does this with her fingers, and all the chairs rush in underneath you guys.|And you're put into a sitting position.|As you all sit, she begins to slowly mage-hand over each one of you a freshly poured cup of tea.|A look of concern comes across her face.
-332;ALLURA;"""So you found your way beneath the city, I assume based on the denizens you've mentioned, into the underdark proper.|A beholder you say? Mindflayers you say?"""
+332;ALLURA;"""""So you found your way beneath the city, I assume based on the denizens you've mentioned, into the underdark proper.|A beholder you say? Mindflayers you say?"""""
 333;PERCY;Yes.
-334;ALLURA;"""I first off must apologize, I was not aware I was putting you into such dangerous territory."""
+334;ALLURA;"""""I first off must apologize, I was not aware I was putting you into such dangerous territory."""""
 335;TIBERIUS;Ha! It was really dangerous! It was nothing, filled with just buttholes everywhere.|Terrible.
-336;ALLURA;"""That sounds like a terrible city."""
+336;ALLURA;"""""That sounds like a terrible city."""""
 337;TIBERIUS;Mhm..
 338;MARISHA;(laughs)
-339;ALLURA;"""Well, first and foremost, I apologize for that.|I am incredibly grateful you're all seemingly healthy and still here.|And you've brought Kima back to us which is very important.""|""Well, I guess this is in order."""
+339;ALLURA;"""""Well, first and foremost, I apologize for that.|I am incredibly grateful you're all seemingly healthy and still here.|And you've brought Kima back to us which is very important.""""|""""Well, I guess this is in order."""""
 340;MATT;And she sits up for a second and walks over.|And you can see she looks back at the rest of you and brushes her hand for a second.|A sphere of darkness appears in the corner of the room where you can not see an entire part of the room.|And she sits there and hovers.|Just a little pocket of darkness.
 341;MARISHA;Aw, man.
 342;PIKE;What's that?
@@ -347,52 +347,52 @@
 345;MATT;You hear some rustling.|You hear some rustling.|The sphere of darkness finishes and you see she's holding a sack of coins, that you don't know where she picked them up from.
 346;KEYLETH;Oh!
 347;MATT;She steps back over to her chair, sits down, and says,
-348;ALLURA;"""Just a precaution, I like to keep my private things private.|But, a deal is a deal and you've done as you've asked.|So as we've discussed, 10,000 gold pieces, to the lot of you, and my greatest thanks."""
-349;LAURA;"I take that.|""to the lot of you, and my greatest thanks."" (all laugh)"
+348;ALLURA;"""""Just a precaution, I like to keep my private things private.|But, a deal is a deal and you've done as you've asked.|So as we've discussed, 10,000 gold pieces, to the lot of you, and my greatest thanks."""""
+349;LAURA;"I take that.|""""to the lot of you, and my greatest thanks."""" (all laugh)"
 350;MATT;She hands it out to Vex's eager palm.|It's very heavy.
 351;LAURA;Good thing I'm strong then, huh?
 352;MATT;With her 9 strength, it sags.
 353;LAURA;Sorry about the hand gesture there, stop it.|(all laugh)
 354;MATT;Internet.|She sits back down, says,
-355;ALLURA;"""You tell me what else if anything has transpired, and I'll let you know what you've missed."""
+355;ALLURA;"""""You tell me what else if anything has transpired, and I'll let you know what you've missed."""""
 356;PIKE;Well.
 357;TIBERIUS;We have Orcus's horn. So that's a thing.
 358;MATT;There's a slight pause before the actual sound of breaking glass hits your ears as the teacup that she's holding shatters across the stonework on the floor.|Allura, still sitting in her chair, hands in place and says
-359;ALLURA;"""I'm sorry, what did you say?"""
+359;ALLURA;"""""I'm sorry, what did you say?"""""
 360;TIBERIUS;Yes, that beholder butthole that we had to fight, that we had no idea we had to fight, had this Orcus horn on his head.|So we took it off and we kept it safe.|That's what you wanted I'm assuming, to destroy it.
 361;VEX;But we haven't touched it though.
 362;TIBERIUS;No.
-363;ALLURA;"""All right."""
+363;ALLURA;"""""All right."""""
 364;MATT;She looks over to Kima, who does this with her shoulders up.|Kima gives her a nod and says,
-365;KIMA;"""To be honest, I wasn't sure that was the end of my journey.|But it seems that great evil I talked about before, we killed it and took its source of power.|Now we're figuring out what to do with it."""
+365;KIMA;"""""To be honest, I wasn't sure that was the end of my journey.|But it seems that great evil I talked about before, we killed it and took its source of power.|Now we're figuring out what to do with it."""""
 366;MATT;She gives a sheepish grin and a slight shrug in her armor.|Allura looks to the ground for a moment and says,
-367;ALLURA;"""I don't know much of this object you say, but if it was the source of the creature's power, and it carries with it the connotations of Orcus, then this is a very, very ill omen indeed."""
+367;ALLURA;"""""I don't know much of this object you say, but if it was the source of the creature's power, and it carries with it the connotations of Orcus, then this is a very, very ill omen indeed."""""
 368;TIBERIUS;Yes.
-369;ALLURA;"""This must be brought before the council immediately."""
+369;ALLURA;"""""This must be brought before the council immediately."""""
 370;TIBERIUS;Wait.
 371;KEYLETH;The council?
 372;TIBERIUS;The council?
-373;ALLURA;"""The council of Tal'Dorei, the council you are part of."""
+373;ALLURA;"""""The council of Tal'Dorei, the council you are part of."""""
 374;TIBERIUS;That helps.
 375;PIKE;Are you going there, right now, also?
-376;ALLURA;"""Yes, I was summoned to it."""
+376;ALLURA;"""""Yes, I was summoned to it."""""
 377;PIKE;We were as well.
 378;TIBERIUS;Here's the thing.|Sorry, Pike.|The thing with this particular item is, the more people know about it, the more dangerous it actually becomes.|The fact that we even share this information with Kima and with you is a very dangerous thing to begin with.
-379;ALLURA;"""I agree."""
+379;ALLURA;"""""I agree."""""
 380;TIBERIUS;Are the council trustworthy?
-381;ALLURA;"""Those who currently reside on the council are trustworthy, I assure you this.|I've done my work with them for many years, and those that have passed have been replaced with equally trustworthy individuals.|And, rest assured, I have my checks and balances in place as well."""
+381;ALLURA;"""""Those who currently reside on the council are trustworthy, I assure you this.|I've done my work with them for many years, and those that have passed have been replaced with equally trustworthy individuals.|And, rest assured, I have my checks and balances in place as well."""""
 382;VAX;I think what we're worried about most is the corrupting nature of this thing.|And while the council may have good intentions, I think more than a few of us are somewhat nervous.|What effect it might have on them, on us.
-383;ALLURA;"""Can you assess what the mistrust would be to not bring this before the sovereign and the council?"""
+383;ALLURA;"""""Can you assess what the mistrust would be to not bring this before the sovereign and the council?"""""
 384;TIBERIUS;Namely, if the immediate want is for it to be immediately destroyed, because that's what needs to happen with anything from Orcus, as you very well know.
-385;ALLURA;"""I understand, and I don't think you'll find anyone who disagrees.|But I also don't think you should sow mistrust with the council by keeping any of this information from them."""
+385;ALLURA;"""""I understand, and I don't think you'll find anyone who disagrees.|But I also don't think you should sow mistrust with the council by keeping any of this information from them."""""
 386;KEYLETH;It's not about trust.
 387;VEX;Uriel has been corrupted once already.
 388;KEYLETH;Exactly.
-389;ALLURA;"""This is true, and was it not by your hand that he was freed and his family kept safe? Understand, that this is a man that owes you him and his family's life.|I think he would take in to you, his ear bent in your direction quite strongly."""
+389;ALLURA;"""""This is true, and was it not by your hand that he was freed and his family kept safe? Understand, that this is a man that owes you him and his family's life.|I think he would take in to you, his ear bent in your direction quite strongly."""""
 390;KEYLETH;Correct, but couldn't you also safely say that he is therefore fairly easy corruptible? If he had been corrupted before, even not if subconsciously, I'm not saying intentionally, but he clearly...
-391;ALLURA;"""You would know best what was responsible for corrupting our sovereign, as you did fight and one was felled, by it's own strength."""
+391;ALLURA;"""""You would know best what was responsible for corrupting our sovereign, as you did fight and one was felled, by it's own strength."""""
 392;KEYLETH;I'm saying Lady Allura, that there is essences, there seems to be magical properties to this horn that corrupt even some of the strongest willed individuals.
-393;ALLURA;"""Then we must be rid of it quickly.|And I think we need to at least discuss this with the council, if not present it.|Bring it to their attention.|There are ways, arcane...|not very approved ways, of nullifying targeted memories."" ""The rest of the arcana pentsafocal have banned the use of such magics but if we could have approval, understanding the safety concerns of this object from the council we could override the arcana pentsafocal and I could employ some of these magics to make sure that once this artifact is destroyed or taken somewhere to never be found again, we ourselves perhaps would not recall it ever existed.|And that itself is the safest course of action."""
+393;ALLURA;"""""Then we must be rid of it quickly.|And I think we need to at least discuss this with the council, if not present it.|Bring it to their attention.|There are ways, arcane...|not very approved ways, of nullifying targeted memories."""" """"The rest of the arcana pentsafocal have banned the use of such magics but if we could have approval, understanding the safety concerns of this object from the council we could override the arcana pentsafocal and I could employ some of these magics to make sure that once this artifact is destroyed or taken somewhere to never be found again, we ourselves perhaps would not recall it ever existed.|And that itself is the safest course of action."""""
 394;TIBERIUS;I agree.
 395;VAX;I think that we trust you.|And you trust the council. That's enough for me.
 396;PERCY;That's enough for me as well.
@@ -415,12 +415,12 @@
 413;KEYLETH;Okay. Would you care to elaborate, Tiberius?
 414;TIBERIUS;I'm sorry.|This part of the thing I wanted to tell all of you at breakfast.|The idea is, with some research I've come to find that if anything is in a bag of holding, and the bag of holding itself is destroyed, the items or whatever go into a somewhat void, that cannot be retrieved by any one particular thing.|If we are to have our memories erased, as you say, then it would guarantee that when we place the thing in a bag of holding and destroy that bag, it will then be dissipated into that void.
 415;MATT;At which point, Allura raises her hand and says,
-416;ALLURA;"""Tiberius. You, as a very trained sorcerer, have some knowledge in this regard.|I've been crafting bags of holding since I was a child as a way of keeping my weekends busy.|I have to notify you that should such a pocket of interdimensional arcane space is disrupted in this way, it doesn't send it into a void.|It jettisons the contents into the Astral Sea.|The Astral Sea which has many denizens that could come across this object.|Githyanki themselves and their great ships."""
+416;ALLURA;"""""Tiberius. You, as a very trained sorcerer, have some knowledge in this regard.|I've been crafting bags of holding since I was a child as a way of keeping my weekends busy.|I have to notify you that should such a pocket of interdimensional arcane space is disrupted in this way, it doesn't send it into a void.|It jettisons the contents into the Astral Sea.|The Astral Sea which has many denizens that could come across this object.|Githyanki themselves and their great ships."""""
 417;TIBERIUS;I hate yankees.
-418;ALLURA;"""Gith --nevermind."""
+418;ALLURA;"""""Gith --nevermind."""""
 419;PIKE;So it could be bad.
 420;TIBERIUS;There are things --
-421;ALLURA;"""There are many things that exist in the Astral Sea that could recover this item.|I'm not saying there isn't merit to this, but I think it would be best we put it somewhere where at least we know for certain no one will find it, as opposed to just hoping it disappears somewhere."""
+421;ALLURA;"""""There are many things that exist in the Astral Sea that could recover this item.|I'm not saying there isn't merit to this, but I think it would be best we put it somewhere where at least we know for certain no one will find it, as opposed to just hoping it disappears somewhere."""""
 422;TIBERIUS;But the memory thing is crucial.
 423;KEYLETH;What about those who might be uncomfortable with toying around with my memories and tramping along around in my head, I don't really want --
 424;VAX;Why don't you think about it for a while?
@@ -430,9 +430,9 @@
 428;KEYLETH;How many lessons have we learned in just the time.|Wouldn't we have to erase all memories surrounding it? We wouldn't even remember our trip into the underdark?
 429;PERCY;I think we could perhaps just erase the memory of where we put it.
 430;TIBERIUS;That is what I assume will happen.
-431;ALLURA;"""That is possible.|Like I've said, these magics have not been tampered with in nearly 200 years."""
+431;ALLURA;"""""That is possible.|Like I've said, these magics have not been tampered with in nearly 200 years."""""
 432;KEYLETH;So we're gonna break the seal on some untampered-with magics and just experiment.
-433;ALLURA;"""I am part of a group that oversees civilization.|I can't go into too much detail but they are responsible for keeping such ancient magics, long forgotten magics such as this.|I would have to meet with and discuss and gain approval for its use.|But for an item as dangerous as what you say, perhaps this is one of those special occasions."""
+433;ALLURA;"""""I am part of a group that oversees civilization.|I can't go into too much detail but they are responsible for keeping such ancient magics, long forgotten magics such as this.|I would have to meet with and discuss and gain approval for its use.|But for an item as dangerous as what you say, perhaps this is one of those special occasions."""""
 434;LIAM;She's working for the Illuminati and we're basically the A-team, so I think she might know a little better.
 435;TALIESIN;The A-team?
 436;KEYLETH;What do you think, Pike?
@@ -441,23 +441,23 @@
 439;PIKE;And I do trust Allura.|So I feel like if we just go check it out.|I don't really know what our other option is.|That was a good one.
 440;VAX;And if we don't like it we can step.
 441;PERCY;And if we don't like it we can keep thinking of something else.|We have time.
-442;ALLURA;"""This is true. And who knows what wisdom the rest of the council might have in their midst as well.|""They have members from all across the world.|We'll see which resources they have at their disposal."""
+442;ALLURA;"""""This is true. And who knows what wisdom the rest of the council might have in their midst as well.|""""They have members from all across the world.|We'll see which resources they have at their disposal."""""
 443;PERCY;I'm sure they're waiting for us.
-444;ALLURA;"""I am glad to be free of my usual business.|Are you guys familiar with the Wilder Fens?"""
+444;ALLURA;"""""I am glad to be free of my usual business.|Are you guys familiar with the Wilder Fens?"""""
 445;VAX;Sorry? The Wilder Fens?
-446;ALLURA;"""The Wilder Fens? They're a bloody merchant guild.|They've left our chambers in shambles.|Look, since you've been gone and the council map has been brought brought up to speed once more, we've had to deal with the backlog of all the various council meetings that have been pushed back and pushed back for months and months.|It's been rather nightmarish.|So this, all dangerous as it is, I'm taking it as a nice change from the usual, pardon my speaking, political bullshit I've been dragged into on a weekly basis.|Between Wilder Fens, and there was the Cortigian League from Wildmount, and they just tore through Emon with a caravan of partying gypsies that destroyed everything in their path."""
+446;ALLURA;"""""The Wilder Fens? They're a bloody merchant guild.|They've left our chambers in shambles.|Look, since you've been gone and the council map has been brought brought up to speed once more, we've had to deal with the backlog of all the various council meetings that have been pushed back and pushed back for months and months.|It's been rather nightmarish.|So this, all dangerous as it is, I'm taking it as a nice change from the usual, pardon my speaking, political bullshit I've been dragged into on a weekly basis.|Between Wilder Fens, and there was the Cortigian League from Wildmount, and they just tore through Emon with a caravan of partying gypsies that destroyed everything in their path."""""
 447;KEYLETH;Who?
 448;TIBERIUS;Damn gypsies.
-449;ALLURA;"""The Cortian League."""
+449;ALLURA;"""""The Cortian League."""""
 450;MARISHA;The Cortian League.
-451;ALLURA;"""From Wildmount, the north."""
+451;ALLURA;"""""From Wildmount, the north."""""
 452;PERCY;We fought stitch monsters, that was mostly what we...|it was guns and swords and...
-453;ALLURA;"""It's far more interesting.|Most of our guests have been a bit rough around the edges.|Although I would say we did manage to meet with Syldor of Syngorn.|We have some business there getting Syngorn situated."""
+453;ALLURA;"""""It's far more interesting.|Most of our guests have been a bit rough around the edges.|Although I would say we did manage to meet with Syldor of Syngorn.|We have some business there getting Syngorn situated."""""
 454;VEX;Oh, Syldor!
-455;ALLURA;"""And Lord and Lady Briarwood were rather nice to us when they came into the town.|So, business has been... fair."""
+455;ALLURA;"""""And Lord and Lady Briarwood were rather nice to us when they came into the town.|So, business has been... fair."""""
 456;PERCY;Shall we take this to the council then?
 457;VAX;Yes, we have pressing matters.|We'll get to that later.
-458;ALLURA;"""All right. Let's go to the council then."""
+458;ALLURA;"""""All right. Let's go to the council then."""""
 459;MATT;As you guys make your way back down through the tower, you eventually venture through the castletop district in front of the palace.|The guards stand there with their long, red, velvet cloaks and their brass breastplates.|They recognize both Allura and you as you approach.|They step aside, put their spears toward the steps, and give you a grand entrance to the front of the palace.|As you step up, the front doors open on their own with a large heavy shaking of the wood.|As the palace doors open, you are led into the central chambers of the main palace walkway which splits to the right and left, and then across leads into the main throne room.|However, you guys are meeting in the council room which is to the left. You've been there twice before.|So you're led over to the council chambers, which, as you enter the main circular room, you're brought into the nice hardwood floors, the dark forest green colored walls, these long tapestries which recall various battles of history and broad mountainous landscapes showing settlers making their way across dangerous terrain.|You can see various weapons from different civilizations that were brought up as gifts to Emon that have been mounted on the walls as presentory atmospheric decor.|And in the central room, you can see what currently stands, the entirety of the Tal'Dorei council, in a hushed discussion.|The council, of course, has at the center, across the table from you, Sovereign Uriel Tal'Dorei the Second himself.|The leader of Emon and the current Sovereign of all of Tal'Dorei, this section of the continent.|You see him with his characteristic dark hair, with greying sides, cut shorter than you recall.|Looks like he recently got a trim and some very well kept facial hair.|He's wearing his ceremonial robes which are the same gold and red color as the armored soldiers that greeted you at the front of the palace.|Next to him, you see Lord Riskell Daxio, the elven male who helped you guys handle the purchasing of the keep when you were awarded that at the end of your last journey.|He's the Master of Trade currently within Emon.|You can see he has long strawberry blonde hair that is pulled into a tight ponytail to the back.|He wears darker clothing, more for decoration than actual use.|His armor seems to be loose and more decorative.|Next to him is Guardian Tofor Brotorus, which you've heard of but have not met before.|A female dragonborn paladin.
 460;MARISHA;Say that one more time? Guardian who's a what now?
 461;MATT;Guardian Tofor Bratoras.
@@ -465,23 +465,23 @@
 463;MATT;T-O-F-O-R.|Bratoras. Her name's been mentioned before but this is the first time you guys have actually seen her in person.
 464;ASHLEY;It's a girl?
 465;MATT;It's a female dragonborn paladin.|She is adorned in full, silvered platinum plate.|That has currently carved multiple symbols of Bahamut, the Platinum Dragon.|As she looks up and notices, you can see she gives a hand up, a symbol of greetings towards Kima.|As Kima also gives her hand up and they both touch the front of their armor in a symbolic holy way, they both being followers of Bahamut.|You immediately make that religious connection between the two of them.|She looks across at the rest of the group there that she doesn't seem to notice, eyes meeting with Tiberius.|This is strange.|You haven't seen very many dragonborn at all within Emon, and as soon as she meets your gaze, she gives you a look of deep, deep stinkeye.
-466;TIBERIUS;"Hello. My name is Tiberius Stormwind.|Of House Stormwind, from Draconia.|Tofor: ""From Draconia, you say?""|Yes. I'm sure you've heard of my father Kravanas, my mother Penelope? Tofor: ""And perhaps you should close that trap and sit across the table as far from me as possible. """
+466;TIBERIUS;"Hello. My name is Tiberius Stormwind.|Of House Stormwind, from Draconia.|Tofor: """"From Draconia, you say?""""|Yes. I'm sure you've heard of my father Kravanas, my mother Penelope? Tofor: """"And perhaps you should close that trap and sit across the table as far from me as possible. """""
 467;MATT;She seems to spit the words almost, and sits back in her chair.
 468;TIBERIUS;Mind your tongue.
 469;MATT;The rest of the council's talking amongst themselves and hearing this slight discussion.|Next to her there is a halfling male, in a ranger-ish garb, wearing what looks like some really fine chain shirt, with a thick dark black cloak.|He is shaved bald with tattoos on one side of his face, and he introduces himself.
-470;MALE;"""I'm terribly, sorry. I did not mean for there to be any sort of misunderstanding here."""
+470;MALE;"""""I'm terribly, sorry. I did not mean for there to be any sort of misunderstanding here."""""
 471;MATT;He gives a slight nudge to Tofor.
-472;MALE;"""I do not believe we've met at this time.|My name is Seeker Asum Emring.|I am the master of secrets here within the council."""
+472;MALE;"""""I do not believe we've met at this time.|My name is Seeker Asum Emring.|I am the master of secrets here within the council."""""
 473;MATT;He extends his hand towards you, almost like alleviating the tension.
-474;TIBERIUS;"Hi. Stormwind here.|Seeker Asum: ""I assume you're the ones we're waiting for, please have a seat."""
+474;TIBERIUS;"Hi. Stormwind here.|Seeker Asum: """"I assume you're the ones we're waiting for, please have a seat."""""
 475;MATT;At which the sovereign finishes discussion with another human which you have not met.|He is a built and armored individual, stands probably the tallest of the entire group, thick square jaw, unshaven.|At which point he puts his hand on the sovereign's shoulder and says,
-476;MALE;"""I suppose I should introduce myself as well.|I've heard much about you, Vox Machina.|I am Arbiter Braum Goldhand.|I have recently taken up as of three months ago the position that General Kreig once held within the city.|Since he was unfortunately lost to us, there was a need for a new master of law.|As since I've had a lot to keep up on.|Unable to meet you personally until now, but it is a pleasure.|I've heard nothing but great things."""
+476;MALE;"""""I suppose I should introduce myself as well.|I've heard much about you, Vox Machina.|I am Arbiter Braum Goldhand.|I have recently taken up as of three months ago the position that General Kreig once held within the city.|Since he was unfortunately lost to us, there was a need for a new master of law.|As since I've had a lot to keep up on.|Unable to meet you personally until now, but it is a pleasure.|I've heard nothing but great things."""""
 477;MATT;He sits down in his chair.|Allura finds her side of the table and gestures the rest of you.
-478;ALLURA;"""Please, have a seat."""
+478;ALLURA;"""""Please, have a seat."""""
 479;TIBERIUS;I stand. I don't sit.
 480;MATT;All right.|The overeign finishes writing some papers, rolls them up, snaps twice, and a gentleman comes by.|He hands him the papers and says,
-481;URIEL TALDOREI;"""Get this to Lady and Lord Briarwood as soon as possible, thank you."""
-482;URIEL;"""All right.|First of all, I want to welcome you all back.|It's been a few weeks since we've seen each other.|I've been recently given word that you unceremoniously appeared in the center of the Lyceum not but twelve hours ago, worse for wear.|So I would like to know, first off, why you've returned in the center of our city.|And I want to see how you've all been these past few weeks.|I apologize if I'm a bit scattered I’ve had a few things on my mind as of late.|But yes, how is Vox Machina."""
+481;URIEL TALDOREI;"""""Get this to Lady and Lord Briarwood as soon as possible, thank you."""""
+482;URIEL;"""""All right.|First of all, I want to welcome you all back.|It's been a few weeks since we've seen each other.|I've been recently given word that you unceremoniously appeared in the center of the Lyceum not but twelve hours ago, worse for wear.|So I would like to know, first off, why you've returned in the center of our city.|And I want to see how you've all been these past few weeks.|I apologize if I'm a bit scattered I’ve had a few things on my mind as of late.|But yes, how is Vox Machina."""""
 483;VAX;If I may.|We didn't choose to dump ourselves right in the middle of the city.|That was born out of necessity, not out of choice.|The task we set out to finish proved a lot more complicated than originally perceived.|Frankly, I worry about the safety of the city of Kraghammer.|Underneath their home down in the bowels of the earth, I'm don't know how much the council knows about the race of the illithid.|We stumbled into a veritable hornets' nest of them below the city.
 484;MATT;Most faces are blank.|Allura has her hands on the table, listening intently.|As you say illithid, you do notice that Seeker Asum Emring, the halfling, immediately sits back in his chair with a look of 'oh, snap'.
 485;VAX;I see a lot of blank stares at this table.|I wasn't very familiar with them either.|There is an entire city in the underdark beneath Kraghammer.|And...|... in their midst was a beholder that was controlling the entire city.|We ended up destroying it, barely escaping with our lives.|Fleeing the city... destroying a god? I think.
@@ -497,36 +497,36 @@
 495;ORION;It absolutely has -- Remember, it laughed at me when I tried to crush it --
 496;LIAM;--is what I'm saying.
 497;MATT;Allura looks at you strangely.
-498;ALLURA;"""Tiberius, you sound different."""
+498;ALLURA;"""""Tiberius, you sound different."""""
 499;ORION;I was talking to --
 500;MATT;I know.
 501;VAX;Be that as it may we riled up a city of --
 502;PERCY;Mind flayers.
 503;VAX;Buttholes as Tiberius would call them.|-- very unhappy race of things below the surface of the earth.|Now, we're here today because Tiberius, crafty as he is, was able to flee ahead of us and create a portal back here.|We ended up falling ass over tea kettle in the Lyceum, so here we are.
-504;URIEL;"""Well, welcome back."""
+504;URIEL;"""""Well, welcome back."""""
 505;VAX;Thank you.
-506;URIEL;"""It's glad to see you're safe."""
+506;URIEL;"""""It's glad to see you're safe."""""
 507;VAX;We've brought a little bit of the evil with us.
 508;MATT;At which point the table gets extremely uncomfortable, suddenly.|As everyone steps back, Kima steps forward.|She's kept to the back at this point, and says,
-509;KIMA;"""It's all right.|I will speak for this group as you also know of their exploits and their abilities.|They saved me from what was probably certain death and torture and aided me in stopping what darkness was beneath Kraghammer.|At least what we could.|But, listen to what they have to say and understand they are as trustworthy as they come."""
+509;KIMA;"""""It's all right.|I will speak for this group as you also know of their exploits and their abilities.|They saved me from what was probably certain death and torture and aided me in stopping what darkness was beneath Kraghammer.|At least what we could.|But, listen to what they have to say and understand they are as trustworthy as they come."""""
 510;MATT;At which point the sovereign lifts a hand up to her and says,
-511;URIEL;"""Well Kima, your word is trusted and I appreciate you also have returned to us healthy.|So. What is this evil you bring with you?"""
+511;URIEL;"""""Well Kima, your word is trusted and I appreciate you also have returned to us healthy.|So. What is this evil you bring with you?"""""
 512;VAX;We have it stored safely away.
 513;KEYLETH;Yes.
 514;VAX;But this beholder...|... was using an artifact, a horn.|Emanating darkness and shit.|And Tiberius, in the heat of the battle, ripped it from its pate.|And we brought it back with us.
 515;KEYLETH;It is one of the two horns of Orcus.
-516;MATT;"At that notification, you say the name Orcus, and you can see there's a whole energy shift in the room at which point.|A lot of furrowed brows drop to intense.|The actual air of the room seems to go still for a moment.|From what you can see, Seeker Asum and Tofor both grit their teeth and lean forward as you say this.|Tofor says, Tofor: ""You said Orcus?"""
+516;MATT;"At that notification, you say the name Orcus, and you can see there's a whole energy shift in the room at which point.|A lot of furrowed brows drop to intense.|The actual air of the room seems to go still for a moment.|From what you can see, Seeker Asum and Tofor both grit their teeth and lean forward as you say this.|Tofor says, Tofor: """"You said Orcus?"""""
 517;PERCY;Yes.
 518;TIBERIUS;Are you deaf?
 519;KEYLETH;Tiberius.
 520;PERCY;Manners.
-521;VAX;"We see the apprehension written on your faces and we are nervous as well.|But the alternative was leaving the horn with these illithid.|Hundreds if not thousands of illithid.|We had to make a judgement call rather quickly, and...|... frankly leaving it there with them seemed like it wasn't an option.|Tofor: ""You've done right in bringing it here.|This has to be destroyed.|Sent as far away-- If this is indeed an artifact of Orcus, it cannot exist on this plane."""
+521;VAX;"We see the apprehension written on your faces and we are nervous as well.|But the alternative was leaving the horn with these illithid.|Hundreds if not thousands of illithid.|We had to make a judgement call rather quickly, and...|... frankly leaving it there with them seemed like it wasn't an option.|Tofor: """"You've done right in bringing it here.|This has to be destroyed.|Sent as far away-- If this is indeed an artifact of Orcus, it cannot exist on this plane."""""
 522;PERCY;Plans must be drawn up.
 523;KEYLETH;That's kind of what we thought.
 524;TIBERIUS;Yes we knew this already.
 525;MATT;At which point Kima steps forward and says
-526;KIMA;"""Now, understand this is not something you can lock in a box, or put some guards around it.|There was a reason this was forgotten and needs to be again.|With the proper surrounding strength and formidable individuals, I can take it to the grand chantry in Osthania where the High Paladin Archibald will reseal it.|Far away from the eyes and minds of the world.|Lest we can come up with some sort of way to destroy this item."""
-527;MATT;"At which point the Arbiter, Braum, steps forward.|Arbiter Braum: ""If you think there's possibly a way to destroy this, we need to discover this here.|We cannot allow it outside of the midst of this, to some chaotic winds and whim of the world around us.|We have the walls of Emon to keep it safe.|Why not take it to the Lyceum."""
+526;KIMA;"""""Now, understand this is not something you can lock in a box, or put some guards around it.|There was a reason this was forgotten and needs to be again.|With the proper surrounding strength and formidable individuals, I can take it to the grand chantry in Osthania where the High Paladin Archibald will reseal it.|Far away from the eyes and minds of the world.|Lest we can come up with some sort of way to destroy this item."""""
+527;MATT;"At which point the Arbiter, Braum, steps forward.|Arbiter Braum: """"If you think there's possibly a way to destroy this, we need to discover this here.|We cannot allow it outside of the midst of this, to some chaotic winds and whim of the world around us.|We have the walls of Emon to keep it safe.|Why not take it to the Lyceum."""""
 528;VAX;I want to make an insight check on the whole table.
 529;TRAVIS;Dang.
 530;TALIESIN;I want to also double-check, who was it that handed off the letter to the Briarwoods?
@@ -578,11 +578,11 @@
 576;GROG;We are not leaving the horn here.
 577;VEX;No..
 578;PERCY;We would have to leave you here.
-579;MATT;"As Grog speaks up for the Arbiter, he says, Arbiter Braum: ""I'm not saying we leave it here.|I'm saying that while we have it here, we have it studied.|Bring it to the Lyceum.|The headmaster and his entire research facility could possibly find a way to destroy it.|There is no finer arcane focus than that lyceum in the city.|They're responsible for the construction of our sky ships.|And the crystals that keep them elevated."""
+579;MATT;"As Grog speaks up for the Arbiter, he says, Arbiter Braum: """"I'm not saying we leave it here.|I'm saying that while we have it here, we have it studied.|Bring it to the Lyceum.|The headmaster and his entire research facility could possibly find a way to destroy it.|There is no finer arcane focus than that lyceum in the city.|They're responsible for the construction of our sky ships.|And the crystals that keep them elevated."""""
 580;TIBERIUS;I love skyships.
-581;VEX;"I believe the power would be too great.|It will corrupt.|People will want to take it for  themselves.|Arbiter Braum: ""Then it has to be taken elsewhere and sealed.|Like Kima was requesting."""
+581;VEX;"I believe the power would be too great.|It will corrupt.|People will want to take it for  themselves.|Arbiter Braum: """"Then it has to be taken elsewhere and sealed.|Like Kima was requesting."""""
 582;KEYLETH;So you're saying essentially our two options are we can either keep it here and study it to try and figure out a way to destroy it and have all of the risks of this horn being inside the city or we take the other massive risks of trying to ship it off somewhere and hope that it gets sealed away?
-583;MATT;"At which point, Tofor the female dragonborn sits up in her chair and says, Tofor: ""Regardless. It should not stay here in my opinion.|Understand the longer it resides within Emon, the more word will spread.|And more despots will be drawn to our city to claim it.|Do you wish to have all the darkness of this land slowly swarm in on the city?"""
+583;MATT;"At which point, Tofor the female dragonborn sits up in her chair and says, Tofor: """"Regardless. It should not stay here in my opinion.|Understand the longer it resides within Emon, the more word will spread.|And more despots will be drawn to our city to claim it.|Do you wish to have all the darkness of this land slowly swarm in on the city?"""""
 584;VAX;I think we're of a like mind.
 585;TIBERIUS;Yes.
 586;VAX;I think we should take it from the city.
@@ -592,22 +592,22 @@
 590;ORION;Looking at Tofor.
 591;TIBERIUS;I agree with the peasant.|That we should get it out of here immediately.
 592;MATT;At which point the sovereign who's been kinda quiet this moment, says,
-593;URIEL;"""Well. Best I can tell at this point, it should not stay in Emon.|We've had enough trouble in this city and enough issues here that we're having to deal with in the aftermath of the attack on my family.|We do not have the mental will nor the ability to withstand any sort of assault either from the inside or the outside of the city.|If we are to take it elsewhere I trust the opinion of you, of Kima, and Allura."""
+593;URIEL;"""""Well. Best I can tell at this point, it should not stay in Emon.|We've had enough trouble in this city and enough issues here that we're having to deal with in the aftermath of the attack on my family.|We do not have the mental will nor the ability to withstand any sort of assault either from the inside or the outside of the city.|If we are to take it elsewhere I trust the opinion of you, of Kima, and Allura."""""
 594;MATT;At which point Allura takes a moment and says,
-595;ALLURA;"""Just the knowledge of such a thing existing, let alone two, in this world is dangerous.|Who knows what horrors an individual could achieve should they find both horns.|Now, wherever this gets taken, the knowledge that all of us know that these exist now, and anyone else beyond this, means that that's a leak.|That's a weakness.|Now I've heard of some magics that can erase selective memories permanently.|Ancient magics."""
+595;ALLURA;"""""Just the knowledge of such a thing existing, let alone two, in this world is dangerous.|Who knows what horrors an individual could achieve should they find both horns.|Now, wherever this gets taken, the knowledge that all of us know that these exist now, and anyone else beyond this, means that that's a leak.|That's a weakness.|Now I've heard of some magics that can erase selective memories permanently.|Ancient magics."""""
 596;MATT;At which point as she starts saying this, the rest of the room shifts uncomfortably.|You can see Tofor begins to raise her hand to protest.|Allura shuts her down and says,
-597;ALLURA;"""But, I'd not employ these unless they were absolutely necessary.|I need to speak with the Arcana Pentsafocal and see if this is such a strange and necessary circumstance to allow the use of such magics.|That will take me some time to get the entire conclave to agree, but I think it's possible.|It may be the only way, if we can not destroy this, to make sure that the rest of this world never knows that it existed.|I think that's the safest route.|As for getting it out of the city I feel that we have two individuals here, two followers of Bahamut, both the deity that saw the deity, brought the vision to Kima, and presented, whether in a roundabout way, the power and strength of these individuals to eventually retrieve it and prevent it from being an artifact that instrumentally destroyed the dwarven city and quite possibly all of Tal'Dorei.|So I think if there was a god whose guidance we can look into, I would put my trust in the clergy of Bahamut."""
+597;ALLURA;"""""But, I'd not employ these unless they were absolutely necessary.|I need to speak with the Arcana Pentsafocal and see if this is such a strange and necessary circumstance to allow the use of such magics.|That will take me some time to get the entire conclave to agree, but I think it's possible.|It may be the only way, if we can not destroy this, to make sure that the rest of this world never knows that it existed.|I think that's the safest route.|As for getting it out of the city I feel that we have two individuals here, two followers of Bahamut, both the deity that saw the deity, brought the vision to Kima, and presented, whether in a roundabout way, the power and strength of these individuals to eventually retrieve it and prevent it from being an artifact that instrumentally destroyed the dwarven city and quite possibly all of Tal'Dorei.|So I think if there was a god whose guidance we can look into, I would put my trust in the clergy of Bahamut."""""
 598;MATT;She looks to Kima. Kima nods her head.
 599;TIBERIUS;Of course we'd agree with such sentiments as well.
 600;MATT;Kima raises her maul and says,
-601;KIMA;"Well then, if that's to be the case, ""I'll send word over to the rest of my temple.|We'll send over our finest paladins, clerics, and guardians.|Prepare a box for travel. We'll take it across the sea.|Then we shall seal this bastard."""
+601;KIMA;"Well then, if that's to be the case, """"I'll send word over to the rest of my temple.|We'll send over our finest paladins, clerics, and guardians.|Prepare a box for travel. We'll take it across the sea.|Then we shall seal this bastard."""""
 602;TIBERIUS;Kima.
 603;GROG;Yeah! Oh. Sorry.|(all laugh)
 604;TIBERIUS;Kima, when you do approach your king, propose because Orcus's horn is pure black evil, perhaps the side of light can help as well.|The blessing of Sarenrae and other light sources, divine powers, could be helpful as well.
-605;KIMA;"""The horn will remain here until the vessel is brought over.|But we have holy vessels specifically designed for the keeping of remains or things that are of great evil.|We would gladly welcome the blessing of something from Sarenrae as well.|After all, there is nothing wrong with more positive energy instilled to maintain such a negative force."""
+605;KIMA;"""""The horn will remain here until the vessel is brought over.|But we have holy vessels specifically designed for the keeping of remains or things that are of great evil.|We would gladly welcome the blessing of something from Sarenrae as well.|After all, there is nothing wrong with more positive energy instilled to maintain such a negative force."""""
 606;KEYLETH;I personally don't trust this horn travelling anywhere without at least one of our supervision.
 607;MATT;At which point the sovereign speaks up and says,
-608;URIEL;"""And to be completely honest, we are very grateful you've brought the horn here.|But you are a motley crew.|Who is to say any of you are also immune to this corruption as well? Who's to say you eight carry the mental willpower to withstand this darkness any better than a group of paladins designed and trained their entire lives to withstand and destroy this evil.|What assurance do I have that your attachment to nature will not become some dark, brambled, twisted, thing in the proximity of this artifact? None.|Just keep that in mind."""
+608;URIEL;"""""And to be completely honest, we are very grateful you've brought the horn here.|But you are a motley crew.|Who is to say any of you are also immune to this corruption as well? Who's to say you eight carry the mental willpower to withstand this darkness any better than a group of paladins designed and trained their entire lives to withstand and destroy this evil.|What assurance do I have that your attachment to nature will not become some dark, brambled, twisted, thing in the proximity of this artifact? None.|Just keep that in mind."""""
 609;ORION;I look to the group and do this to Scanlan.|(all laugh)
 610;TALIESIN;Taking quite advantage of his current state of mind.
 611;ORION;You have no idea what I'm going to do for the rest of this game.
@@ -617,9 +617,9 @@
 615;MATT;Wet willy. To our little gnome bard.
 616;ORION;(laughs)
 617;MATT;We miss you Sam.|Uriel looks around.
-618;URIEL;"""Well, given the circumstance I would say that our best bet now is to have Kima and Tofor reach out to the grand chambers of Bahamut.|Have them bring a vessel and seal it somewhere that they find fit for an object of this dark presence.|Is the council in agreement of this? Unless some other, better means arises.|How long will it take for this vessel to arrive?"""
+618;URIEL;"""""Well, given the circumstance I would say that our best bet now is to have Kima and Tofor reach out to the grand chambers of Bahamut.|Have them bring a vessel and seal it somewhere that they find fit for an object of this dark presence.|Is the council in agreement of this? Unless some other, better means arises.|How long will it take for this vessel to arrive?"""""
 619;MATT;At which point, Kima scratches her chin for a second.
-620;KIMA;"""By the fastest ships, especially if we're using some of your fancy sky dinghies.|I can't imagine more than two weeks?"""
+620;KIMA;"""""By the fastest ships, especially if we're using some of your fancy sky dinghies.|I can't imagine more than two weeks?"""""
 621;KEYLETH;Two weeks?!
 622;MATT;At which point --
 623;TIBERIUS;That's 14 days, your highness.
@@ -627,38 +627,38 @@
 625;VEX;That was adorable.
 626;PIKE;A fortnight?
 627;MATT;At which point Allura stands forward and says,
-628;ALLURA;"""It's in the means of --"""
+628;ALLURA;"""""It's in the means of --"""""
 629;KEYLETH;You guys don't have any holy ships here.|You don't have like a ship dock?
 630;TIBERIUS;I'm sure if they did they would probably use that one.
 631;TALIESIN;But I'm using it.|(all laugh)
 632;MATT;At this point Allura sits forward and to the rest of the group, says,
-633;ALLURA;"""To be fair Kima, in my experience and knowledge, ships function well for the movement of goods and large objects.|The speed of this requires some expediting and I happen to have a friend who is over in Osthania, probably not far from your clergy.|Perhaps we can facilitate a two-day travel?"""
+633;ALLURA;"""""To be fair Kima, in my experience and knowledge, ships function well for the movement of goods and large objects.|The speed of this requires some expediting and I happen to have a friend who is over in Osthania, probably not far from your clergy.|Perhaps we can facilitate a two-day travel?"""""
 634;MATT;At which point the group leans back for a second and Kima goes,
-635;KIMA;"""Well fine. Yeah, I guess."""
+635;KIMA;"""""Well fine. Yeah, I guess."""""
 636;MATT;Shoots a dirty look a little bit to --
 637;MARISHA;Can I do an insight check on Allura really quick?
 638;MATT;Sure.
 639;LIAM;She's saying a ship will be ready in two days or take two days to travel?
 640;MATT;Allura's saying,
-641;ALLURA;"""Depending on the size of this vessel, why do we even need a ship? We have the ability to transport between the cities.|If we can pool our resources, there's no reason why we can't bring them here nearly instantaneously."""
+641;ALLURA;"""""Depending on the size of this vessel, why do we even need a ship? We have the ability to transport between the cities.|If we can pool our resources, there's no reason why we can't bring them here nearly instantaneously."""""
 642;MARISHA;Thirteen.
 643;MATT;Thirteen? Best you can tell, Allura's really hard to read.|She keeps up her smile but she definitely has her intense face on.|She's deep in the moment.|No real gives one way or the other.|The rest of the group looks around and Arcanist in the silence goes,
-644;ALLURA;"""Well then, I think that me and Kima and Tofor, if you'd like, we can designate a way of bringing this relic container as fast as possible so we can get this going.|I wish not to keep this within our presence much longer.|Do we agree to that?"""
+644;ALLURA;"""""Well then, I think that me and Kima and Tofor, if you'd like, we can designate a way of bringing this relic container as fast as possible so we can get this going.|I wish not to keep this within our presence much longer.|Do we agree to that?"""""
 645;TIBERIUS;Yes.
 646;PERCY;Yes.
 647;VAX;I think we would feel comfortable going along for the ride and seeing this thing through to the end.
 648;MATT;She glances over to the sovereign.|The sovereign nods.
-649;URIEL;"""Very well. Very well, I'll allow it.|I may have some business for you coming soon so try not to be gone too long.|Although this is much more important business, I do agree."""
+649;URIEL;"""""Very well. Very well, I'll allow it.|I may have some business for you coming soon so try not to be gone too long.|Although this is much more important business, I do agree."""""
 650;MATT;Then he gives a laugh and smile to raise a bit of levity in the room that nobody seems to respond to.
-651;URIEL;"""But nevertheless if you wish to travel and see this through I don't see there would be any complaint."""
+651;URIEL;"""""But nevertheless if you wish to travel and see this through I don't see there would be any complaint."""""
 652;MATT;He looks to Lady Kima and Kima says,
-653;KIMA;"""No, not at all.|We've gotten along swimmingly so far.|Mostly.|Very well.|I'm bad at this political stuff."""
-654;MATT;"Kima steps back a little bit, Kima: ""I defer to the rest of you.""|Puts her maul on the ground and awkwardly looks away.|The sovereign goes,"
-655;URIEL;"""Very well. It is settled.|Reach out to your clergy. Bring the vessel.|Allura, facilitate its arrival.|We will get this artifact as far away from Emon as possible.|This is adjourned.|Thank you all very much for coming to this council meeting."""
+653;KIMA;"""""No, not at all.|We've gotten along swimmingly so far.|Mostly.|Very well.|I'm bad at this political stuff."""""
+654;MATT;"Kima steps back a little bit, Kima: """"I defer to the rest of you.""""|Puts her maul on the ground and awkwardly looks away.|The sovereign goes,"
+655;URIEL;"""""Very well. It is settled.|Reach out to your clergy. Bring the vessel.|Allura, facilitate its arrival.|We will get this artifact as far away from Emon as possible.|This is adjourned.|Thank you all very much for coming to this council meeting."""""
 656;KEYLETH;Okay.
 657;TALIESIN;I'm going to catch the sovereign on his way out.
 658;MATT;All right.|At which point everyone gathers the rest of their papers, their parchments, they're rolling up scrolls.|The Arbiter gets up and lumbers his way out of the room.|The seeker, Asum, steps up to the rest of you with a final handshake.
-659;SEEKER ASUM;"""A pleasure to meet you all, once again, I've heard so much. You're doing fine work."""
+659;SEEKER ASUM;"""""A pleasure to meet you all, once again, I've heard so much. You're doing fine work."""""
 660;MATT;He seems strangely nervous. But in a weird way, he's a gentle hint of fanboy.
 661;TRAVIS;Oh.
 662;LAURA;I wink at him.|(all laugh)
@@ -675,15 +675,15 @@
 673;VAX;That's a little harsh.
 674;MATT;Allura stands up and begins to leave.|The sovereign stands up and as he stands up the guards come out and they come to his side.
 675;PERCY;Good Sovereign, if I can have a moment? Did I hear correctly that Lord and Lady Briarwood were in town?
-676;URIEL;"""They were but a week ago."""
+676;URIEL;"""""They were but a week ago."""""
 677;PERCY;They were but a week ago? And they've left, have they?
-678;URIEL;"""Yes. Do you know of Lord and Lady Briarwood?"""
+678;URIEL;"""""Yes. Do you know of Lord and Lady Briarwood?"""""
 679;PERCY;Just in passing.|Did they have business in town? Was there something in particular? I'm just curious. It doesn't really matter.|I mean it does matter but not particularly.
-680;URIEL;"""It was relatively routine, we're establishing an official trade route through the northeast.|Spanning the Boreal Plane to Whitestone."""
+680;URIEL;"""""It was relatively routine, we're establishing an official trade route through the northeast.|Spanning the Boreal Plane to Whitestone."""""
 681;PERCY;Oh.
-682;URIEL;"""They inherited the region after the unfortunate demise of the Derolo family."""
+682;URIEL;"""""They inherited the region after the unfortunate demise of the Derolo family."""""
 683;PERCY;Yes.
-684;URIEL;"""However our ambassador has noted that they've rebuilt rather well and honored the memory of the family and they're really committed to reestablishing the foothold of Whitestone in the north.|So they came here on a diplomatic mission to open trade."""
+684;URIEL;"""""However our ambassador has noted that they've rebuilt rather well and honored the memory of the family and they're really committed to reestablishing the foothold of Whitestone in the north.|So they came here on a diplomatic mission to open trade."""""
 685;PERCY;That's nice.|I would love to. Please, keep it quiet, but if I could be notified if they're coming through again.|I would like very much to surprise them, if that would be possible.
 686;ORION;Am I standing next to Percy? Am I hearing this?
 687;MATT;Yes.
@@ -696,12 +696,12 @@
 694;MARISHA;On the new pretty die.
 695;TALIESIN;Don't fuck with me.
 696;MATT;The Sovereign gives you a look and says,
-697;URIEL;"""Certainly.|Very well, I will notify you should they come through again."""
+697;URIEL;"""""Certainly.|Very well, I will notify you should they come through again."""""
 698;PERCY;Deeply honored by your thought, sir. Thank you.
 699;ORION;At the end of this conversation I'm going to rip off a piece of the scroll of telescription and I'm going to approach.
 700;TIBERIUS;When you do, all you do is write the message to this and we will receive it.|It's an enchanted parchment.|I will receive the message.
 701;MATT;He tells you,
-702;URIEL;"""I know how these work. Yes, thank you."""
+702;URIEL;"""""I know how these work. Yes, thank you."""""
 703;MATT;As you present it, he walks by and one of his guards takes it from you and gives you a nod.|They exit the chambers.|You guys are escorted out into the main hallway of the palace.
 704;PIKE;Bye!
 705;MATT;The rest of the council|The rest of the council scatters amongst the palace proper. You are all left.|The doors close behind you and the echoing hallways towards the central left side of the palace.
@@ -719,16 +719,16 @@
 717;TIBERIUS;Very good.
 718;PERCY;This is discussion for later.|There's more important things.
 719;MATT;Kima and Allura are near you.|At which point, Kima looks at the rest of you and says,
-720;KIMA;"""I apologize, I have to figure this out now.|So I'm going to head to the nearest temple of Bahamut and see if we could reach out quickly."""
+720;KIMA;"""""I apologize, I have to figure this out now.|So I'm going to head to the nearest temple of Bahamut and see if we could reach out quickly."""""
 721;KEYLETH;What should we do?
 722;KIMA;That's up to you.
 723;MATT;She looks to Allura, questioning Allura.
-724;ALLURA;"""In the event of this blessed chamber arriving, you will be notified.|We will request your presence to bring the artifact in question, seal it, and then we will begin our journey over to its place of hopeful destruction and/or proper banishment."""
+724;ALLURA;"""""In the event of this blessed chamber arriving, you will be notified.|We will request your presence to bring the artifact in question, seal it, and then we will begin our journey over to its place of hopeful destruction and/or proper banishment."""""
 725;PIKE;Would you like anyone to go with you or you just want to go alone?
-726;ALLURA;"""To?"""
+726;ALLURA;"""""To?"""""
 727;PIKE;To work out the details of all of this?
 728;MATT;Allura says,
-729;ALLURA;"""For me, it's just preparation of the arcane transference ritual.|I'm going to go meet with a friend of mine over in Ostania."""
+729;ALLURA;"""""For me, it's just preparation of the arcane transference ritual.|I'm going to go meet with a friend of mine over in Ostania."""""
 730;PERCY;I will say we haven't replenished our potions yet.|And we could go --
 731;PIKE;Should we go to visit our old friend?
 732;KEYLETH;Gilmore?
@@ -738,7 +738,7 @@
 736;PERCY;We could go to Gilmore's.
 737;PIKE;Gilmore's Glorious Goods?
 738;KEYLETH;You essentially want us to wait?
-739;ALLURA;"""Whatever business you need to get done.|It should take no more than two days to get this taken care of."""
+739;ALLURA;"""""Whatever business you need to get done.|It should take no more than two days to get this taken care of."""""
 740;KEYLETH;You guys, we have a weekend! (all laugh)
 741;LIAM;This is Allura and Kima who are here?
 742;MATT;Yeah, they're the only two who have stayed behind with you guys outside of the council chambers.
@@ -748,53 +748,53 @@
 746;MATT;At which point-- did you wish to respond in any way?
 747;PIKE;Well, I just know that I tried to have a response from my god down below and she didn't really respond the way I would have liked for her to.|But maybe things will be different.|What were you going to say?
 748;MATT;At which point Kima looks to you, at what you just said with curious worry.
-749;KIMA;"""Well, if what you say is your faith has been shaken, there is always room at the temple of Bahamut to find redemption, strength, and guidance.|You realize the platinum --"""
+749;KIMA;"""""Well, if what you say is your faith has been shaken, there is always room at the temple of Bahamut to find redemption, strength, and guidance.|You realize the platinum --"""""
 750;MARISHA;She's trying to get you to come to her church.
 751;MATT;(laughs)
 752;PIKE;She's trying to convert.
 753;MARISHA;She's trying to convert! Get the leaflet.
-754;KIMA;"""The platinum dragon has guided much of civilization's growth, expansion, and survival for thousands of years.|The eternal battle between him and the darkness that is Tiamat and the chaos beyond that --"""
+754;KIMA;"""""The platinum dragon has guided much of civilization's growth, expansion, and survival for thousands of years.|The eternal battle between him and the darkness that is Tiamat and the chaos beyond that --"""""
 755;KEYLETH;With all due respect, Kima, I don't think that was Vax's question.
-756;KIMA;"""To get to the point, I apologize.|The gods are many and the gods have been at war for as long as we exist.|There are some that believe we are nothing but the aftermath of their squabbles.|But nevertheless, there is much good in this world that guides us to our ultimate destiny.|And if you yourself ever feel that you are lost amongst this chaos, don't ever be afraid to stop in and ask a few questions."""
+756;KIMA;"""""To get to the point, I apologize.|The gods are many and the gods have been at war for as long as we exist.|There are some that believe we are nothing but the aftermath of their squabbles.|But nevertheless, there is much good in this world that guides us to our ultimate destiny.|And if you yourself ever feel that you are lost amongst this chaos, don't ever be afraid to stop in and ask a few questions."""""
 757;VAX;I was just wondering if I could ask you to ask them, to maybe help.|I would never think to ask the gods for help if I wanted a shiny new sword or pile of riches, but this is something different.
 758;GROG;Unless they could get us a pile of riches.
 759;VEX;Or a shining sword.
 760;VAX;Good boy.|(all laugh)
 761;MATT;At which point Kima laughs to herself.
-762;KIMA;"""There are benefits to being of the order."""
+762;KIMA;"""""There are benefits to being of the order."""""
 763;MATT;Kima who does not have an accent and did not say it that way.|Too many NPCs in  my head right now. She says,
-764;KIMA;"""But, understand.|Whenever I felt lost, which was often.|It's good to have that guiding warmth to turn to.|And sometimes it brings you into a subterranean mountain being tortured by dwarves.|Sometimes it guides you to new friends and allies.|Strange the way the gods work.|But, when you put your all into it, they've kept me alive so far."""
+764;KIMA;"""""But, understand.|Whenever I felt lost, which was often.|It's good to have that guiding warmth to turn to.|And sometimes it brings you into a subterranean mountain being tortured by dwarves.|Sometimes it guides you to new friends and allies.|Strange the way the gods work.|But, when you put your all into it, they've kept me alive so far."""""
 765;PIKE;That's a really good point.|I guess that's a positive way to look at it.
 766;KEYLETH;I really like long walks in the forest when I'm feeling disconnected.
 767;PIKE;That works too, you know.
 768;GROG;Lady Kima, do the gods allow you to have relationships?
 769;MATT;Kima, you ask this and she gives you a look of confusion, and then… She already a darker complexion for a halfling but her cheeks grow noticeably ruddier.|She averts her gaze and says,
-770;KIMA;"""Well..."""
+770;KIMA;"""""Well..."""""
 771;TRAVIS;I start trying to do my best Vax wink.
 772;LAURA;I'm Vex.
 773;TRAVIS;--Vex wink.|(all laugh)
 774;MATT;She averts her gaze and goes,
-775;KIMA;"""Well, as far as I know it is not a vow of chastity within the order."""
+775;KIMA;"""""Well, as far as I know it is not a vow of chastity within the order."""""
 776;GROG;So you're saying there's a chance.
 777;MATT;She still is looking away.|She looks away and looks to the rest of you.|Looks to Allura. Looks to you again. And then goes,
-778;KIMA;"""I really have to get to work on this."""
+778;KIMA;"""""I really have to get to work on this."""""
 779;TALIESIN;You did this.
-780;KIMA;"""I really have to get to work on this."""
+780;KIMA;"""""I really have to get to work on this."""""
 781;MATT;She leaves the group and continues down the hallway.|Quick steps.
 782;PIKE;Bye, Kima! Quick steps.
 783;VAX;A lot of math involved in that equation.
 784;KEYLETH;Yeah...
 785;MATT;Allura chuckles to herself and steps into the place where she was and goes,
 786;TIBERIUS;I care not to solve the puzzle.
-787;ALLURA;"""Oh, as a note.|Be careful who you ask those questions to, you may get an earful."""
+787;ALLURA;"""""Oh, as a note.|Be careful who you ask those questions to, you may get an earful."""""
 788;MATT;And Allura smiles and motions towards Kima.
-789;ALLURA;"""Don't get me wrong, you're more than welcome to explore as you like, but that's a rabbit hole my friend."""
+789;ALLURA;"""""Don't get me wrong, you're more than welcome to explore as you like, but that's a rabbit hole my friend."""""
 790;GROG;A rabbit hole, is that what we're calling it these days?
 791;MATT;You feel a gentle slap from some unknown arcane force across your cheek Grog.|And Allura gives you a stern glare.
 792;MARISHA;Oh, don't talk about her girl that way.
 793;LIAM;Don't make me take my earrings off.
 794;MATT;Anyway.
-795;ALLURA;"""So two days.|We'll call for you when the item is to be transferred and properly brought to its destination.|In the meantime, prepare as you see fit, enjoy this well-earned rest, and we'll take it from there.|I have much travel to do myself.|See you all very soon."""
+795;ALLURA;"""""So two days.|We'll call for you when the item is to be transferred and properly brought to its destination.|In the meantime, prepare as you see fit, enjoy this well-earned rest, and we'll take it from there.|I have much travel to do myself.|See you all very soon."""""
 796;MATT;She begins to step up the hallway.|As she steps up the hallway, you can see there's a light yellowish glow about her form.|Then with a sudden flash of white light, Allura's just gone.
 797;KEYLETH;So guys. I'm thinking we take a local tour of all the historical highlights of Emon.|We've never really gone sightseeing, Then maybe we can catch a nice dinner in the city tonight.
 798;VEX;Oh, look at the time.
@@ -957,7 +957,7 @@
 955;MATT;There is a bell.
 956;LIAM;Yeah.
 957;MATT;As you hit the bell, one of the employees who is helping somebody looks around and goes,
-958;EMPLOYEE;"""I'm sorry."""
+958;EMPLOYEE;"""""I'm sorry."""""
 959;MATT;What you see is a half-elven woman with thick spectacles who is currently stepping over to try and stop you.|However, the beaded curtain swishes open with the grandiose gesture of one slightly meaty hand.|Stepping out in his fine, gold-trimmed, purple robes, his longish thick, black, coarse hair pulled into a nice ponytail.|Smoothly-shaved face with a slight hint of a braided goatee that dangles about three inches from his chin.
 960;LIAM;Will you remind me because it's been a while.|Gilmore's a good-looking man, though, isn't he?
 961;MATT;Yeah. He's handsome.
@@ -974,21 +974,21 @@
 972;MATT;It's almost like a wizard's track suit.|(all laugh)
 973;LIAM;You ruined it for me, man!
 974;TALIESIN;And it's dead.
-975;MARISHA;"Please tell me it says ""arcane"" on the butt?"
+975;MARISHA;"Please tell me it says """"arcane"""" on the butt?"
 976;MATT;No.|(all laugh)|He's very well-dressed, but his presentation is definitely a presentation.|As the hand swishes open, he goes,
-977;GILMORE;"""I'm sorry, was I being summoned?"""
+977;GILMORE;"""""I'm sorry, was I being summoned?"""""
 978;ORION;Yes.
 979;MATT;He immediately looks and goes,
-980;GILMORE;"""Oh. You've returned."""
+980;GILMORE;"""""Oh. You've returned."""""
 981;VAX;Gilmore, you glorious bastard. How have you been?
 982;MATT;He immediately rushes to the edge and leans over the counter to give you a grandiose hug and actually lifts you off your feet.|Much stronger than you anticipated. He goes,
-983;GILMORE;"""Oh, Vax'ahlia. It's been far too long."""
+983;GILMORE;"""""Oh, Vax'ahlia. It's been far too long."""""
 984;MATT;He sets you down next to him behind the counter and gives you a big hug, his strong wizard arms around you.|A scent of what's almost like fine herbs with a hint of patchouli enters your nose.
 985;TALIESIN;(laughs)
 986;VAX;You naughty man.|You just called me by my sister's name.|That is going to cost you.
 987;MARISHA;(gasps)
-988;GILMORE;"""I said Vax! What do you mean?"
-989;VAX;"I heard ""Vex'ahlia."" That's ridiculous. Preposterous."" Can we go to the videotape? Anyone?"
+988;GILMORE;"""""I said Vax! What do you mean?"
+989;VAX;"I heard """"Vex'ahlia."""" That's ridiculous. Preposterous."""" Can we go to the videotape? Anyone?"
 990;MARISHA;Instant replay!
 991;TIBERIUS;Actually, Vax, he was correct.|He said your name correctly.|I believe you owe him a little something now.
 992;KEYLETH;I think it was a little bit of combination.|A little bit of column A, a little bit of column B.|I think he called you Vex'ahlia.
@@ -998,52 +998,52 @@
 996;VAX;Shut up, you.
 997;LIAM;I lean in.
 998;MATT;He looks genuinely perturbed and embarrassed by the whole circumstance.
-999;GILMORE;"""I --"""
+999;GILMORE;"""""I --"""""
 1000;LIAM;I lean in. I pat him on the hand.
 1001;VAX;Don't you worry. We have come from far and away.|You would not believe the shit we have been through, but I don't want to talk about me.|I want to talk about you.|What has been going on in this city since we've been gone?
-1002;GILMORE;"""Well."""
+1002;GILMORE;"""""Well."""""
 1003;MATT;And he looks about the rest of you and says,
-1004;GILMORE;"""Obviously you've brought the rest of your friends here.|Come, sit! Story time, story time!"" (all laugh)|""Please sit around."""
+1004;GILMORE;"""""Obviously you've brought the rest of your friends here.|Come, sit! Story time, story time!"""" (all laugh)|""""Please sit around."""""
 1005;TIBERIUS;Fantastic.
-1006;GILMORE;"""We have been doing marvelously.|Trade has opened up wide in Emon.|We've had travelers from all over Tal'Dorei and beyond.|It's incredible."" (all giggle)|""I'm in the process of planning an expansion to another town. Perhaps even --"""
+1006;GILMORE;"""""We have been doing marvelously.|Trade has opened up wide in Emon.|We've had travelers from all over Tal'Dorei and beyond.|It's incredible."""" (all giggle)|""""I'm in the process of planning an expansion to another town. Perhaps even --"""""
 1007;VEX;Oh, my.
-1008;GILMORE;"""--perhaps even opening a second store in Westruun."""
+1008;GILMORE;"""""--perhaps even opening a second store in Westruun."""""
 1009;KEYLETH;You're going to own a chain?
 1010;TIBERIUS;Congratulations!
-1011;GILMORE;"""Perhaps."""
+1011;GILMORE;"""""Perhaps."""""
 1012;TIBERIUS;This is a big step for any businessman.
 1013;PERCY;Spectacular.
-1014;GILMORE;"""But yes. No, I have been able to take on two more arcanists.|We've been in the process of designing some more interesting, wondrous items.|We have stocked many of our recent possible and available items.|We are doing quite well for ourselves."""
+1014;GILMORE;"""""But yes. No, I have been able to take on two more arcanists.|We've been in the process of designing some more interesting, wondrous items.|We have stocked many of our recent possible and available items.|We are doing quite well for ourselves."""""
 1015;TIBERIUS;Are you looking for investors, Gilmore?
-1016;GILMORE;"""I technically am your investor, in a way."""
+1016;GILMORE;"""""I technically am your investor, in a way."""""
 1017;TIBERIUS;Oh.
 1018;VEX;He is.
 1019;KEYLETH;True, we are sponsored by him.
-1020;GILMORE;"""But. If you have the money in which to sponsor our business, that's a whole other discussion."""
+1020;GILMORE;"""""But. If you have the money in which to sponsor our business, that's a whole other discussion."""""
 1021;TIBERIUS;I just wanted you to talk to me for a little bit.|Vax, take it away.
-1022;GILMORE;"""Dragonborn.|But yes! How about yourselves? You look like you've --"""
+1022;GILMORE;"""""Dragonborn.|But yes! How about yourselves? You look like you've --"""""
 1023;MATT;He gives you all a look over.
-1024;GILMORE;"""--like you've maybe not slept in a fortnight."""
+1024;GILMORE;"""""--like you've maybe not slept in a fortnight."""""
 1025;VAX;Well. We're lucky we're not dead.|It came close a couple of times.|We were off on official business for the emperor.|We've been underground for weeks and weeks.|We've only seen the sun for a couple of days.
-1026;GILMORE;"""Oh. That kind of a weekend.|I know how that goes."""
+1026;GILMORE;"""""Oh. That kind of a weekend.|I know how that goes."""""
 1027;VAX;Needless to say, our stores are terribly depleted.|We are going to need to stock up a bit before we head out of town again.|I don't want to rush things, though.|I think my friends probably want to shop about.|My sister can probably handle things for me.|I would love to take a stroll with you around the city.|Get a bit of lunch, a bite, and hear about what's been happening.|Hear the rumors of town.|We all know nobody matches your shrewdness in business.|That's no surprise.
 1028;GILMORE;(chuckles)
 1029;VAX;But I'm wondering what you've heard.|What's on the wind? Can you take the afternoon off?
 1030;MATT;He looks over at the same half-elven woman who was trying to stop you earlier.|She gives a look like, 'what's he going to say?' No one's ever asked him this question. He goes,
-1031;GILMORE;"""For you? Of course."" (all laugh)"
+1031;GILMORE;"""""For you? Of course."""" (all laugh)"
 1032;MARISHA;Man date. Go for it!
 1033;VEX;Don't worry, Gilmore.|We'll take wonderful care of your employees.
-1034;GILMORE;"""Well if you wish to do business, why not do that now?"""
+1034;GILMORE;"""""Well if you wish to do business, why not do that now?"""""
 1035;VEX;We need to shop around first, of course.
-1036;GILMORE;"""Very well."""
+1036;GILMORE;"""""Very well."""""
 1037;PERCY;And we're so curious as to any of these interesting and fascinating things that you've developed in the several weeks it's been since we've been here.|We'd love to see what you've been working on.
-1038;GILMORE;"""Very well. Sherri!"""
+1038;GILMORE;"""""Very well. Sherri!"""""
 1039;MATT;The same woman, her shoulders droop.
-1040;SHERRI;"""Yes, Gilmore?"" (all laugh)"
-1041;GILMORE;"""Would you be so kind as to see to whatever our friends need? These are Vox Machina, by the way.|They are currently sponsored by Gilmore's Glorious Goods, Inc, and I would very much like to make sure that they are taken care of."""
-1042;SHERRI;"""Yes, sir. I'll make sure that happens."""
+1040;SHERRI;"""""Yes, Gilmore?"""" (all laugh)"
+1041;GILMORE;"""""Would you be so kind as to see to whatever our friends need? These are Vox Machina, by the way.|They are currently sponsored by Gilmore's Glorious Goods, Inc, and I would very much like to make sure that they are taken care of."""""
+1042;SHERRI;"""""Yes, sir. I'll make sure that happens."""""
 1043;MATT, TALIESIN;(laugh)
-1044;GILMORE;"""So. Shall we?"""
+1044;GILMORE;"""""So. Shall we?"""""
 1045;VAX;I think this will take a while. Let's.
 1046;VEX;Have a wonderful time, brother.
 1047;LIAM;I look to my sister as we go.
@@ -1054,65 +1054,65 @@
 1052;TRAVIS;Yes!
 1053;MARISHA;We'll leave dinner on the stove for you.
 1054;MATT;So Sherri looks at the rest of you as they leave and goes,
-1055;SHERRI;"""So you're all friends of Gilmore, then?"""
+1055;SHERRI;"""""So you're all friends of Gilmore, then?"""""
 1056;KEYLETH;Yes.
 1057;PIKE;Business friends.
 1058;SHERRI;Business friends. All right.
 1059;KEYLETH;We're mutual fans of one another, if you will.
 1060;MATT;She adjusts her glasses.
-1061;SHERRI;"""Then let's continue with the business.|What are you seeking? What do you need? What are you looking for?"""
+1061;SHERRI;"""""Then let's continue with the business.|What are you seeking? What do you need? What are you looking for?"""""
 1062;TIBERIUS;I don't know. We like all kinds of things.
 1063;KEYLETH;Well, we definitely need potions.
-1064;SHERRI;"""Potions. Those we can provide."""
+1064;SHERRI;"""""Potions. Those we can provide."""""
 1065;KEYLETH;Health potions.
-1066;SHERRI;"""Health potions, yes.|Potions of healing can be provided."""
+1066;SHERRI;"""""Health potions, yes.|Potions of healing can be provided."""""
 1067;KEYLETH;What do you have right now?
 1068;MATT;She goes behind the counter for a second and ruffles through some stuff.|Goes in the back room and comes back out with a wooden crate, pretty much.|You hear the glass jangling inside as she moves it and sets it on the counter with a ting.|They all eventually come to rest. She goes,
-1069;SHERRI;"""All right, looking through here, it looks like we have about 12 regular potions of healing.|We have six of greater healing.|And it looks like three of superior healing."""
+1069;SHERRI;"""""All right, looking through here, it looks like we have about 12 regular potions of healing.|We have six of greater healing.|And it looks like three of superior healing."""""
 1070;PIKE;What's the price on the superior healing, again?
 1071;TIBERIUS;We'll take the lot.
 1072;PIKE;What's the price on the superior healing, again?|What's the price on the superior healing, again?
-1073;SHERRI;"""Superior healing? Let's see, currently those go for about --"""
+1073;SHERRI;"""""Superior healing? Let's see, currently those go for about --"""""
 1074;MATT;She looks at the price book, going through.
-1075;SHERRI;"""Those will run you --"""
+1075;SHERRI;"""""Those will run you --"""""
 1076;MATT;As I go through my price book.
 1077;PIKE;We are sponsored.
 1078;PERCY;We do keep getting turned to stone.|This has been a problem, and it's been sticking around a bit.|I feel like we should maybe take some precautions for the inevitable next time this happens.
-1079;SHERRI;"""That will be 1500 gold pieces per superior."""
+1079;SHERRI;"""""That will be 1500 gold pieces per superior."""""
 1080;KEYLETH;Is that with our sponsorship prices?
-1081;SHERRI;"""Right, you mentioned you're sponsored.|That would be a 10% discount.|That would bring it to about 1350, should you wish to purchase them individually."""
+1081;SHERRI;"""""Right, you mentioned you're sponsored.|That would be a 10% discount.|That would bring it to about 1350, should you wish to purchase them individually."""""
 1082;PIKE;Okay.
 1083;GROG;I definitely need one of those.
 1084;VEX;Wait. How much if we're purchasing them individually?
-1085;SHERRI;"""1350 gold pieces per superior healing potion."""
+1085;SHERRI;"""""1350 gold pieces per superior healing potion."""""
 1086;TIBERIUS;How much for the lot?
 1087;VEX;And if we buy in bulk, what can you bring it down to?
-1088;SHERRI;"""If you buy all three?"""
+1088;SHERRI;"""""If you buy all three?"""""
 1089;VEX;A thousand each?
-1090;SHERRI;"""I'm sorry.|You've already been given the discount via Gilmore.|That price stands as it is.|Let's say you buy the three remaining items, I'll give you 1200 apiece.|And even that I'll probably get in trouble for, but he seems to like you."""
+1090;SHERRI;"""""I'm sorry.|You've already been given the discount via Gilmore.|That price stands as it is.|Let's say you buy the three remaining items, I'll give you 1200 apiece.|And even that I'll probably get in trouble for, but he seems to like you."""""
 1091;VEX;1200 apiece? Yes?
 1092;GROG;We'll take that.
 1093;PERCY;Sounds good.
 1094;VEX;Three superior.
-1095;SHERRI;"""Very well.|So 3600 gold pieces.|Three superior are yours."""
+1095;SHERRI;"""""Very well.|So 3600 gold pieces.|Three superior are yours."""""
 1096;MATT;She pulls them out of the crate and slides them across.|They are thick, very heavily-made glass vials with these small glass handles on the side.|You can see the interior.|The liquid itself is a reddish purple, almost blood color, but there's a gold sheen as you shake it in the light.|You can see there's a spark of divine glow to it.
 1097;MARISHA;Like Goldschlager.
 1098;TALIESIN;Classy.
 1099;MATT;Kind of. It's the worst of healing Goldschlager.
 1100;MARISHA;(laughs)
-1101;SHERRI;"""Is that all you require?"""
+1101;SHERRI;"""""Is that all you require?"""""
 1102;GROG;Do you sell any love potions?
 1103;MATT;She gives you the blank stare and goes,
-1104;SHERRI;"""No."" (all laugh)"
+1104;SHERRI;"""""No."""" (all laugh)"
 1105;GROG;Right. Sorry for asking. Jeez.
 1106;PERCY;I would also say we should take the six superior healing potions, as well.
 1107;TIBERIUS;Absolutely.
-1108;SHERRI;"""The greater ones."""
+1108;SHERRI;"""""The greater ones."""""
 1109;PERCY;Greater.
 1110;VEX;What did we just buy? We didn't buy superior?
 1111;PERCY;We bought the three superior.|We should also get the six greater.
 1112;VEX;Six greater. All right. How much is that?
-1113;SHERRI;"""Those are 500 apiece.|With your discount, that would be 450 apiece."""
+1113;SHERRI;"""""Those are 500 apiece.|With your discount, that would be 450 apiece."""""
 1114;VEX;But if we're buying all six, 400 apiece is a very good price.
 1115;ORION;Now, this is the Vex I miss.
 1116;MATT;Roll a persuasion check.
@@ -1123,33 +1123,33 @@
 1121;MARISHA;We used to take food breaks.|No!
 1122;LAURA;Fourteen.
 1123;MATT;Fourteen? She goes,
-1124;SHERRI;"""Let's call it an even 425 gold pieces each."""
+1124;SHERRI;"""""Let's call it an even 425 gold pieces each."""""
 1125;VEX;I like this. I'm comfortable with that.
-1126;SHERRI;"""All right."""
+1126;SHERRI;"""""All right."""""
 1127;TALIESIN;425 times 6...
 1128;MATT;She brings out her arcane calculator.
 1129;MARISHA;Her arcane calculator? Once again, our charity.
-1130;SHERRI;"""That’ll be 2550 gold pieces."""
+1130;SHERRI;"""""That’ll be 2550 gold pieces."""""
 1131;LAURA;All right.
 1132;MATT;And she pulls out the six that are there and she kinda slides them over the counter to you.|One tips over but she catches it, leaves it there at the far end.
 1133;GROG;Careful with those.
-1134;SHERRI;"""They’re fine, they can take a beating, they’re designed that way."""
+1134;SHERRI;"""""They’re fine, they can take a beating, they’re designed that way."""""
 1135;GROG;So can I.
 1136;MATT;She pushes her glasses up and looks vastly unimpressed at the presentation.
 1137;VEX;How much were the superiors again?
-1138;SHERRI;"""The superiors were 1500 brought down to 1200 apiece, yes."""
+1138;SHERRI;"""""The superiors were 1500 brought down to 1200 apiece, yes."""""
 1139;VEX;1200. Which came to 36?
 1140;PERCY;Thirty-six.|So do you have anything, we keep getting turned into stone, it’s been sort of a running theme.|We were hoping you might have something to help alleviate stone skin or any --
-1141;SHERRI;"""We do have potions of petrification removal."""
+1141;SHERRI;"""""We do have potions of petrification removal."""""
 1142;PERCY;Yes! Petrification removal.
 1143;SHERRI;I think. Let me check.
 1144;MATT;And she goes in the back room, rummages around for a minute, comes out and she presents two of them.|They have a clear liquid that looks almost like dirty water, and they’re like thin little vials, she goes,
-1145;SHERRI;"""These potions, when applied to the flesh, will, more of an oil I guess you would say, removes the affliction of petrification.|These do cost 750 gold apiece."""
+1145;SHERRI;"""""These potions, when applied to the flesh, will, more of an oil I guess you would say, removes the affliction of petrification.|These do cost 750 gold apiece."""""
 1146;VEX;We have greater restoration from Pike, and she can cure --
-1147;SHERRI;"""Then you’re fine."""
+1147;SHERRI;"""""Then you’re fine."""""
 1148;MATT;And she takes them --
 1149;TIBERIUS;How many potions are there?
-1150;SHERRI;"""Two."""
+1150;SHERRI;"""""Two."""""
 1151;LIAM;But in the heat of the moment.
 1152;TIBERIUS;Get them.
 1153;PERCY;In the heat of the moment, it might come quite in handy.
@@ -1171,7 +1171,7 @@
 1169;MATT;She gives you another look of like, ugh.|She adjusts her glasses.
 1170;TIBERIUS;To be fair, we are spending a lot, right? Overall, so.
 1171;PIKE;Overall.
-1172;SHERRI;"""That would come to 1350."""
+1172;SHERRI;"""""That would come to 1350."""""
 1173;PERCY;Thirteen fifty.
 1174;GROG;We’ll take it.
 1175;VEX;1300. Remember, we’re very good friends of Gilmore’s, he said to treat us well.
@@ -1180,46 +1180,46 @@
 1178;MATT;It’s awesome, thank you.
 1179;LAURA;That would be 21.
 1180;MATT;It’s a good thing.|She gives you a look and goes,
-1181;SHERRI;"""I don’t like you."" (all laugh)|""Thirteen hundred."""
+1181;SHERRI;"""""I don’t like you."""" (all laugh)|""""Thirteen hundred."""""
 1182;VEX;Thirteen hundred, lovely, thank you.
 1183;KEYLETH;Sherri? It was Sherri, right?
-1184;SHERRI;"""Yes?"""
+1184;SHERRI;"""""Yes?"""""
 1185;KEYLETH;Do you have any books on how to learn how to start making your own potions? Or do you know of any classes in town where maybe I could sign up for like a potion workshop?
-1186;SHERRI;"""Nothing here, but that’s not a bad idea, might run that past Gilmore."""
+1186;SHERRI;"""""Nothing here, but that’s not a bad idea, might run that past Gilmore."""""
 1187;PERCY;You should offer a workshop.
 1188;KEYLETH;You should absolutely offer a workshop.
-1189;SHERRI;"""That’s a good idea,"
-1190;KEYLETH;"You should absolutely offer a workshop.|""otherwise the Lyceum would be the place to look.""|The Lyceum?"
-1191;SHERRI;"""Yes."""
+1189;SHERRI;"""""That’s a good idea,"
+1190;KEYLETH;"You should absolutely offer a workshop.|""""otherwise the Lyceum would be the place to look.""""|The Lyceum?"
+1191;SHERRI;"""""Yes."""""
 1192;KEYLETH;Okay.
 1193;TIBERIUS;Do you have any potions of strength or any ability potions?
 1194;MATT;She leaves for a second, then comes back and goes,
-1195;SHERRI;"""No, I’m afraid those were all purchased.|However, we may have more in a few weeks or so.|They take some time to create and the ingredients are a little bit scarce.|However, trade is opening, perhaps --"""
+1195;SHERRI;"""""No, I’m afraid those were all purchased.|However, we may have more in a few weeks or so.|They take some time to create and the ingredients are a little bit scarce.|However, trade is opening, perhaps --"""""
 1196;KEYLETH;Someone purchased all of your potion of strength potions?
-1197;SHERRI;"""Yes."""
+1197;SHERRI;"""""Yes."""""
 1198;KEYLETH;Oh. How many did you have?
-1199;SHERRI;"""We had four, I believe.|Varying giant strength types."""
+1199;SHERRI;"""""We had four, I believe.|Varying giant strength types."""""
 1200;PIKE;One person did or it was just a bunch of people just buying.
-1201;SHERRI;"""It was a handful over the period of time."""
+1201;SHERRI;"""""It was a handful over the period of time."""""
 1202;KEYLETH;Oh.
 1203;ORION;I’m gonna hand her also a ticket, a scroll of telescription and be like,
 1204;TIBERIUS;When it comes in, please write that it has and I will be notified via this parchment.
-1205;SHERRI;"""Very well."""
+1205;SHERRI;"""""Very well."""""
 1206;MATT;She folds it and places it in a little cubby on the side.
 1207;TIBERIUS;Thank you.
-1208;SHERRI;"""Is there anything else you require? We have many magical, various armaments and/or protective items."""
+1208;SHERRI;"""""Is there anything else you require? We have many magical, various armaments and/or protective items."""""
 1209;GROG;Armaments, what kind of armaments you got?
-1210;SHERRI;"""Well, if you’ll follow me."""
+1210;SHERRI;"""""Well, if you’ll follow me."""""
 1211;MATT;She leads you up the stairway to the second floor.|The second floor itself is just a series of glass cases that are leaned at an angle.|In these cases you can see there are different items just laid out, small labels at the bottom with
 1212;GROG;Oh.|a brief description of the enchantment.
 1213;MATT;She leads you across, she goes,
-1214;SHERRI;"""Well, first we’ll start here with the ring section."""
+1214;SHERRI;"""""Well, first we’ll start here with the ring section."""""
 1215;MATT;You can see there’s a small case that has along this purplish velvet pillow, a bunch of different rings set out. She goes,
-1216;SHERRI;"""We have varying degrees of rings of protection.|These rings are designed to protect the individual who wears, we have one I believe with the basic enchantment, and one with one step higher above that."""
+1216;SHERRI;"""""We have varying degrees of rings of protection.|These rings are designed to protect the individual who wears, we have one I believe with the basic enchantment, and one with one step higher above that."""""
 1217;MATT;The equivalent of a ring of protection +2.
-1218;SHERRI;"""That ring runs 6500 gold.|We have a ring of psychic resistance that does protect yourself from various mental intrusions.|We have a ring of evasion that can be utilized three times a day, or one to three times a day.|Should one of you not be quite quick enough to avoid any sort of incoming danger.|You could allow yourself a successful escape.|That runs 4500.|We also have a ring of water walking.|This one has been popular in the past for some various traveling troupes that wish to do various performances that require defying the surface of water.|It gets a bit shifty now that I think about it, but you know, whatever folks will enjoy.|Peasantry is easily pleased.|So those are our rings at the moment.|Should any of those tickle your fancy, please do let me know.|Here --"""
+1218;SHERRI;"""""That ring runs 6500 gold.|We have a ring of psychic resistance that does protect yourself from various mental intrusions.|We have a ring of evasion that can be utilized three times a day, or one to three times a day.|Should one of you not be quite quick enough to avoid any sort of incoming danger.|You could allow yourself a successful escape.|That runs 4500.|We also have a ring of water walking.|This one has been popular in the past for some various traveling troupes that wish to do various performances that require defying the surface of water.|It gets a bit shifty now that I think about it, but you know, whatever folks will enjoy.|Peasantry is easily pleased.|So those are our rings at the moment.|Should any of those tickle your fancy, please do let me know.|Here --"""""
 1219;MATT;And she points over where there is a thick leather belt with like three straps across that looks highly well made with what looks like square runic carvings on the side.
-1220;SHERRI;"""--this is what is referred to, and this was import from Kraghammer, but we’ve had it in here for quite some time, a belt of dwarvenkind.|This belt, when adorned, does increase the physical heartiness of the individual as well as giving them positive interaction with other dwarves.|And we haven’t fully tested it yet, but apparently it also seems to resist against poison intrusion in one’s body, allows you to see better in dark places, and apparently grants you the ability of speaking, reading, and writing Dwarvish."""
+1220;SHERRI;"""""--this is what is referred to, and this was import from Kraghammer, but we’ve had it in here for quite some time, a belt of dwarvenkind.|This belt, when adorned, does increase the physical heartiness of the individual as well as giving them positive interaction with other dwarves.|And we haven’t fully tested it yet, but apparently it also seems to resist against poison intrusion in one’s body, allows you to see better in dark places, and apparently grants you the ability of speaking, reading, and writing Dwarvish."""""
 1221;VEX;Oh wow.
 1222;KEYLETH;I need that.
 1223;MATT;It is 5000 gold.
@@ -1228,16 +1228,16 @@
 1226;MARISHA;Yeah.
 1227;PIKE;What was the first ring?
 1228;GROG;Ring of protection.
-1229;SHERRI;"""The first ring was the ring of protection."""
+1229;SHERRI;"""""The first ring was the ring of protection."""""
 1230;MARISHA;Plus two, right?
 1231;MATT;It gives a plus two bonus to AC and saving throws.
 1232;MARISHA;That’s really good.
 1233;PIKE;What was the evasion one?
-1234;SHERRI;"""That one, that’s the ring of evasion."""
+1234;SHERRI;"""""That one, that’s the ring of evasion."""""
 1235;PIKE;Yes, what was that?
 1236;MATT;It has three charges and it regains 1d3 charges per day.|When you fail a dexterity saving throw while wearing it, you can use your reaction to expend a charge and auto-succeed on the saving throw instead.|Good for people who have low dexterity.
 1237;GROG;The one that protects you psychically, could you repeat that one on the menu, please?
-1238;SHERRI;"""The ring of psychic resistance --"""
+1238;SHERRI;"""""The ring of psychic resistance --"""""
 1239;TALIESIN;Oh god.
 1240;MATT;It gives you resistance to psychic damage, so anyone does damage that is psychic-based, you take half damage.
 1241;VEX;That’s not quite it.
@@ -1250,19 +1250,19 @@
 1248;SHERRI;No. No we don’t.
 1249;VEX;Any crayons so he could be occupied?
 1250;GROG;Do you have crayons?
-1251;SHERRI;"""We have colored writing implements for children, if you’d like."""
+1251;SHERRI;"""""We have colored writing implements for children, if you’d like."""""
 1252;TIBERIUS;Yes, please.
 1253;GROG;I saw a few children in town.|Maybe they would like them.
 1254;MATT;She goes back downstairs and comes back in a moment.|She presents two small boxes that contain small colored wax things. You can see on the outside it has a picture of Gilmore, and he’s doing this, and it says Gilmore’s Glorious Colored Sticks.
 1255;ORION;Of course.
-1256;SHERRI;"""These are usually reserved for the children of our customers, so if the children will enjoy it, enjoy."""
+1256;SHERRI;"""""These are usually reserved for the children of our customers, so if the children will enjoy it, enjoy."""""
 1257;GROG;I’ll take one of those, please.
 1258;KEYLETH;Yes, trust me --
 1259;GROG;The colors are quite nice.
 1260;KEYLETH;--the children will.
-1261;SHERRI;"""Five gold pieces apiece."""
+1261;SHERRI;"""""Five gold pieces apiece."""""
 1262;KEYLETH;Five gold pieces apiece? I thought they were free, like when you go to an O’Charley’s or an Applebee’s.
-1263;SHERRI;"""What’s an Applebee’s?"""
+1263;SHERRI;"""""What’s an Applebee’s?"""""
 1264;TIBERIUS;It’s a hellhole, apparently near where you used to live.
 1265;MATT;It’s one of the layers of the Abyss, it’s like around --
 1266;KEYLETH;One of the infernal layers of the Abyss.
@@ -1271,13 +1271,13 @@
 1269;PIKE;So I’ve been talking with Scanlan and I know he was interested in the plus two AC ring.
 1270;KEYLETH;I think we should pick that up for sure.
 1271;PIKE;What’s the price on that?
-1272;SHERRI;"""Sixty five hundredd gold pieces for that."""
+1272;SHERRI;"""""Sixty five hundredd gold pieces for that."""""
 1273;PIKE;Okay.
-1274;SHERRI;"""With your discount, that would bring it --"""
+1274;SHERRI;"""""With your discount, that would bring it --"""""
 1275;MATT;Goes back and looks again at her magic calculator, I’m an actor not --
 1276;LIAM;It’s an abacus.
 1277;MATT;Exactly.
-1278;SHERRI;"""That brings it to 5850."""
+1278;SHERRI;"""""That brings it to 5850."""""
 1279;PIKE;Well, he does have this amazing ruby gem.|He was maybe thinking of trading that for maybe bringing down the price?
 1280;MATT;Do we know how much that was worth?
 1281;LIAM;Uh.
@@ -1295,7 +1295,7 @@
 1293;MARISHA;This is important!
 1294;LIAM;I got it.
 1295;MARISHA;How much is the diamond worth?
-1296;SHERRI;"""Regardless.|Other things of interest, nothing that would make him smarter, that would make him quicker."""
+1296;SHERRI;"""""Regardless.|Other things of interest, nothing that would make him smarter, that would make him quicker."""""
 1297;LIAM;This is so period.|It’s just like Lord of the Rings. Beep beep beep.
 1298;MATT;Magical sending stone.
 1299;LIAM;God damn it!
@@ -1306,53 +1306,53 @@
 1304;ORION;I hate when you call and you know that they’re there and they don’t pick up.
 1305;LIAM;All right, well I’m not here anyway, so I’m just gonna keep doing this, as you were.
 1306;MATT;We’ll come to it.|so I’m just gonna keep doing this, as you were.
-1307;SHERRI;"""Regardless."""
+1307;SHERRI;"""""Regardless."""""
 1308;MARISHA;We know you’re there!
 1309;MATT;She continues on, showing you through, she goes,
-1310;SHERRI;"""Well, I don’t necessarily have anything that would make him smarter.|We do have something that would make anyone quicker."""
+1310;SHERRI;"""""Well, I don’t necessarily have anything that would make him smarter.|We do have something that would make anyone quicker."""""
 1311;MATT;She goes a second, there is a big, thick leather tome.
-1312;SHERRI;"""This is an ancient tome that was enchanted many, many generations back.|Upon properly reading and studying this tome, one would increase their physical dexterity permanently."""
+1312;SHERRI;"""""This is an ancient tome that was enchanted many, many generations back.|Upon properly reading and studying this tome, one would increase their physical dexterity permanently."""""
 1313;KEYLETH;Oh, I like that.
-1314;SHERRI;"""It only has its abilities and power once a century, so it does come quite pricey."""
+1314;SHERRI;"""""It only has its abilities and power once a century, so it does come quite pricey."""""
 1315;KEYLETH;What is that price?
-1316;SHERRI;"""Fifteen hundred gold pieces."""
+1316;SHERRI;"""""Fifteen hundred gold pieces."""""
 1317;MARISHA;We should buy that.
 1318;ASHLEY;We should probably buy it.
 1319;KEYLETH;A tome that increases your dexterity plus one.
 1320;LAURA;It’s on my phone now. We switched.
 1321;MATT;That’s okay.
-1322;SHERRI;"""So there is the manual of quickness of action, we also have the hat of disguise --"""
+1322;SHERRI;"""""So there is the manual of quickness of action, we also have the hat of disguise --"""""
 1323;MATT;And she produces this like -- (Facetime noises)|And she produces this like --|She produces this fine brass cap that has intricate swirling runes on it and what looks like a small set of ears that are pushed on the sides so when it fits on the head it looks almost like a smaller head on top of yours. She says,
-1324;SHERRI;"""This cap when worn, however, one can alter their appearance however they see fit.|We also have --"""
+1324;SHERRI;"""""This cap when worn, however, one can alter their appearance however they see fit.|We also have --"""""
 1325;MATT;She pulls out this thick, leather armor that has a brownish-blue trimmed hue to it and goes,
-1326;SHERRI;"""This is what we refer to as coldsnap leather armor.|It has an enchantment to improve one’s armor class by two.|While wearing it, you have resistance to cold damage."""
+1326;SHERRI;"""""This is what we refer to as coldsnap leather armor.|It has an enchantment to improve one’s armor class by two.|While wearing it, you have resistance to cold damage."""""
 1327;KEYLETH;Is it leather armor, you said?
-1328;SHERRI;"""Leather armor, yes."""
+1328;SHERRI;"""""Leather armor, yes."""""
 1329;KEYLETH;How much is that?
-1330;SHERRI;"""That is 7500 gold pieces.|We also have the cape of Mountebank.|It is a cape that when triggered --"""
+1330;SHERRI;"""""That is 7500 gold pieces.|We also have the cape of Mountebank.|It is a cape that when triggered --"""""
 1331;MATT;She takes it and shifts it for a second, you can see a little bit of smoke plumes off of it, smells sulfurish. She goes,
-1332;SHERRI;"""While wearing it, you can use it to teleport yourself a short distance instantaneously, once per day.|We have this --"""
+1332;SHERRI;"""""While wearing it, you can use it to teleport yourself a short distance instantaneously, once per day.|We have this --"""""
 1333;MATT;She pulls another dark cloak off the wall.|This one looks like it’s made of dark fur, but as she shakes it you can see these two little tendrils are on it. They like wiggle about, these little spiked edges to the tendrils.
-1334;SHERRI;"""This is a cloak of displacement, enchanted and taken from the body of a displacer beast.|While wearing it, it makes it so your body projects an illusion.|Anyone attempting to cause you harm has difficulty actually finding purchase on your physical form, not knowing where you truly stand."""
+1334;SHERRI;"""""This is a cloak of displacement, enchanted and taken from the body of a displacer beast.|While wearing it, it makes it so your body projects an illusion.|Anyone attempting to cause you harm has difficulty actually finding purchase on your physical form, not knowing where you truly stand."""""
 1335;TIBERIUS;I will take that cape.
-1336;SHERRI;"""It is 4500 gold pieces."""
+1336;SHERRI;"""""It is 4500 gold pieces."""""
 1337;TIBERIUS;Wonderful. Vex?
 1338;ORION;Oh, shit. She’s not here.
-1339;SHERRI;"""I’ll put this aside as a possibility.|We have a pearl of power."""
+1339;SHERRI;"""""I’ll put this aside as a possibility.|We have a pearl of power."""""
 1340;MATT;She pulls up from this small box, she opens up the top lid.
-1341;SHERRI;"""This enchanted pearl, you can use it to speak a command word and regain one expended spell slot, up to third level, that you’ve already used.|Once you’ve used the pearl, it can’t be used until the next dawn, so once per day you can just return.|It’s for your caster-types."""
+1341;SHERRI;"""""This enchanted pearl, you can use it to speak a command word and regain one expended spell slot, up to third level, that you’ve already used.|Once you’ve used the pearl, it can’t be used until the next dawn, so once per day you can just return.|It’s for your caster-types."""""
 1342;KEYLETH;A third-level spell?
-1343;SHERRI;"""Yes, up to third level, one spell slot, you can immediately restore it.|It does require attunement, however, and you can’t have more than three items attuned to you, so be aware of your limitations."""
+1343;SHERRI;"""""Yes, up to third level, one spell slot, you can immediately restore it.|It does require attunement, however, and you can’t have more than three items attuned to you, so be aware of your limitations."""""
 1344;PIKE;What’s the price on that one?
-1345;SHERRI;"""This is 550 gold pieces."""
+1345;SHERRI;"""""This is 550 gold pieces."""""
 1346;PIKE;Okay.
 1347;TIBERIUS;Pike, do you have any 3rd-level healing spells?
 1348;PIKE;Do I have 3rd-level healing spells? I do.
-1349;SHERRI;"""We’ll put it aside as a possibility. I also have --"""
+1349;SHERRI;"""""We’ll put it aside as a possibility. I also have --"""""
 1350;MATT;And you move to the side, going through the armor section as well, she goes --
-1351;SHERRI;"""I have a mithral chain shirt, as well as an enchanted mithral chain shirt, there is a plus one enchantment on it as well.|They are flexible and can be worn under normal clothing, does not impose disadvantage on dexterity or stealth checks.|It is considered light armor.|There is golden chainmail, it’s a plus one enchantment."""
+1351;SHERRI;"""""I have a mithral chain shirt, as well as an enchanted mithral chain shirt, there is a plus one enchantment on it as well.|They are flexible and can be worn under normal clothing, does not impose disadvantage on dexterity or stealth checks.|It is considered light armor.|There is golden chainmail, it’s a plus one enchantment."""""
 1352;MATT;Then she goes to what looks to be a series of weapons.|She brings forth a very fine-looking dagger, that has --
-1353;LIAM;"Everyone hears from the back, Scanlan’s voice piping up saying, ""Just buy all this shit!"""
+1353;LIAM;"Everyone hears from the back, Scanlan’s voice piping up saying, """"Just buy all this shit!"""""
 1354;MARISHA;Just buy all this shit.
 1355;ASHLEY;Buy everything.
 1356;MARISHA;How much money did we have? Didn’t we have like at least --
@@ -1374,15 +1374,15 @@
 1372;MATT;So she presents this dagger to you guys --
 1373;MARISHA;We don’t want to deplete all of our funds.
 1374;MATT;So she presents this dagger to you guys --
-1375;SHERRI;"""This is a fine dagger,"
+1375;SHERRI;"""""This is a fine dagger,"
 1376;MARISHA;We don’t want to deplete all of our funds.
-1377;SHERRI;"""This is a fine dagger, the blood runs themselves are enchanted --"""
-1378;MARISHA;"We also spent a lot on the keep, ""the blood runs themselves are enchanted --"" don’t forget that, we dumped a lot of money into the keep."
+1377;SHERRI;"""""This is a fine dagger, the blood runs themselves are enchanted --"""""
+1378;MARISHA;"We also spent a lot on the keep, """"the blood runs themselves are enchanted --"""" don’t forget that, we dumped a lot of money into the keep."
 1379;MATT;Yep, you did.
 1380;MARISHA;So we might have more like thirty.
 1381;MATT;You guys spent quite a bit on the keep.|All right.
 1382;PIKE;What’s this dagger?
-1383;SHERRI;"""This dagger actually can take the lifeforce from an enemy when delivering a very strong blow."""
+1383;SHERRI;"""""This dagger actually can take the lifeforce from an enemy when delivering a very strong blow."""""
 1384;MATT;Essentially, on a critical hit on the attack roll -- (all cheer)
 1385;ASHLEY;We got it.|(all cheer)
 1386;ORION;Here they are.|(all cheer)
@@ -1410,38 +1410,38 @@
 1408;TALIESIN;No, we haven’t gone back there.
 1409;ORION;So we’ll have to go back and get it.
 1410;TALIESIN;Eventually, yeah.
-1411;SHERRI;"""So while you --"""
+1411;SHERRI;"""""So while you --"""""
 1412;LAURA;Will you point us a little bit out so we can see --
-1413;SHERRI;"""As I was saying, this dagger, upon a very impactful wound on a foe, steals a bit of its life force, dealing an additional ten necrotic damage, and then gives the wielder ten temporary hitpoints."""
+1413;SHERRI;"""""As I was saying, this dagger, upon a very impactful wound on a foe, steals a bit of its life force, dealing an additional ten necrotic damage, and then gives the wielder ten temporary hitpoints."""""
 1414;VEX;Whoa, that’s major.
-1415;SHERRI;"""So there’s that.|We also have an enchanted heavy maul, and we have --this is quite a find here."""
+1415;SHERRI;"""""So there’s that.|We also have an enchanted heavy maul, and we have --this is quite a find here."""""
 1416;MATT;As she pulls out this wooden case, she pulls back the wooden top to it. As she does, you can see there’s a little bit of ice crystal that’s gathered along the interior of the wooden case.|There inside sits a short sword, a relatively thick short blade, but the blade itself is like a blue, almost glimmering metal, and there’s actually a rising frozen mist that drifts off the blade.
-1417;SHERRI;"""This is an enchanted frostbrand.|It acts as a shortsword.|Whenever it does damage to an enemy, it does an additional 1d6 cold damage.|And while you hold the weapon you have resistance to any fire damage you would take.|At freezing temperatures, it sheds a ten foot radius of dim light, and when you draw the weapon, you extinguish all magical flames within 30 feet of you."""
+1417;SHERRI;"""""This is an enchanted frostbrand.|It acts as a shortsword.|Whenever it does damage to an enemy, it does an additional 1d6 cold damage.|And while you hold the weapon you have resistance to any fire damage you would take.|At freezing temperatures, it sheds a ten foot radius of dim light, and when you draw the weapon, you extinguish all magical flames within 30 feet of you."""""
 1418;PERCY;Fancy.
-1419;SHERRI;"""And those are currently all the things we have at the moment.|We’re working on a few more things that will be ready in the next couple of weeks, but those are the current haul for our above-the-average consumer.|Magical creations."""
+1419;SHERRI;"""""And those are currently all the things we have at the moment.|We’re working on a few more things that will be ready in the next couple of weeks, but those are the current haul for our above-the-average consumer.|Magical creations."""""
 1420;PIKE;I have a question.
-1421;SHERRI;"""Yes."""
+1421;SHERRI;"""""Yes."""""
 1422;PIKE;Do you have anything that can make armor...|... quieter? (all laugh)|Maybe like a really heavy armor, that’s really quiet.
 1423;LIAM;That oil from the Wizard of Oz.
-1424;SHERRI;"""We don’t have anything for that, but we could have it commissioned for you if you’d like."""
+1424;SHERRI;"""""We don’t have anything for that, but we could have it commissioned for you if you’d like."""""
 1425;PIKE;I would like to see about that.
-1426;SHERRI;"""All right. I’ll have to talk to Gilmore.|That’s more in his realm of enchantment, but that is a possibility."""
+1426;SHERRI;"""""All right. I’ll have to talk to Gilmore.|That’s more in his realm of enchantment, but that is a possibility."""""
 1427;MATT;She adjusts her glasses again.
-1428;SHERRI;"""When he returns, whenever that is, we can discuss with him what you’d like, yes."""
+1428;SHERRI;"""""When he returns, whenever that is, we can discuss with him what you’d like, yes."""""
 1429;PIKE;That would be great.
-1430;SHERRI;"""All right, well."""
+1430;SHERRI;"""""All right, well."""""
 1431;PIKE;Thank you.
 1432;TIBERIUS;I will take the enchanted mithral shirt|I will take the enchanted mithral shirt and the cape, thank you very much.
-1433;SHERRI;"""All right."""
+1433;SHERRI;"""""All right."""""
 1434;MATT;And she grabs the --
 1435;TIBERIUS;But that’s not the total yet.|Vex has to talk about the rest of what we want.
 1436;PIKE;What’s the price on the dagger and the sword?
-1437;SHERRI;"""The sword is 8500 gold pieces.|The dagger is 7800 gold pieces.|This is without your discount.|The mithral chain shirt, it is medium armor, I lied.|It is 5250 gold pieces."""
+1437;SHERRI;"""""The sword is 8500 gold pieces.|The dagger is 7800 gold pieces.|This is without your discount.|The mithral chain shirt, it is medium armor, I lied.|It is 5250 gold pieces."""""
 1438;ORION;Wait, I can’t --
 1439;MATT;You can’t wear armor.
-1440;SHERRI;"""And you were looking at the pearl of power, which is 550 gold, and there is the cloak of displacement, which is 4500 gold pieces."""
+1440;SHERRI;"""""And you were looking at the pearl of power, which is 550 gold, and there is the cloak of displacement, which is 4500 gold pieces."""""
 1441;GROG;Would you be interested in a trade?
-1442;SHERRI;"""What do you have to trade?"""
+1442;SHERRI;"""""What do you have to trade?"""""
 1443;GROG;We’ve got lots of bits from dragons, lots of bits from umber hulks, and we’ve got basilisk eggs.
 1444;KEYLETH;We also have that diamond and the ruby.|Do we know how much that is?
 1445;TIBERIUS;Yes.|Do we know how much that is?
@@ -1449,58 +1449,58 @@
 1447;KEYLETH;I definitely say we pick up that ring with the AC and I wouldn’t mind having that leather --
 1448;VEX;The ring of protection?
 1449;KEYLETH;That ring of protection that gives you plus two to your AC.|That we need for somebody.|And I wouldn’t mind having that leather armor.|That adds a plus two to my AC.
-1450;SHERRI;"""Cold snap?"""
+1450;SHERRI;"""""Cold snap?"""""
 1451;MARISHA;Yup.
-1452;SHERRI;"""All right.|There are the things we are looking at currently on this table, we have the belt of dwarvenkind, the manual of quickness of action --"""
+1452;SHERRI;"""""All right.|There are the things we are looking at currently on this table, we have the belt of dwarvenkind, the manual of quickness of action --"""""
 1453;KEYLETH;We should get that too.
-1454;SHERRI;"""--cold snap leather armor --"""
+1454;SHERRI;"""""--cold snap leather armor --"""""
 1455;KEYLETH;Get that manual.
-1456;SHERRI;"""--cloak of displacement, ring of protection plus two --"""
+1456;SHERRI;"""""--cloak of displacement, ring of protection plus two --"""""
 1457;PIKE;Put the dagger and sword on the table also.|Just in case.
-1458;SHERRI;"""All right."""
+1458;SHERRI;"""""All right."""""
 1459;PIKE;Throwing it out there to see, I don’t know.
-1460;SHERRI;"""They are there on the table."""
+1460;SHERRI;"""""They are there on the table."""""
 1461;VEX;We have nowhere near enough for all of this.|We have nowhere near enough for all of this.
 1462;TIBERIUS;Let’s see what the total is.
 1463;KEYLETH;We could trade,
 1464;TIBERIUS;Let’s see what the total is.
 1465;KEYLETH;Let’s see what we can trade around maybe.
-1466;SHERRI;"""So the total for all of these items, including --"""
+1466;SHERRI;"""""So the total for all of these items, including --"""""
 1467;MATT;She starts going through her --
 1468;MARISHA;I want new stuff.|I haven’t gotten new armor since we started.
 1469;TALIESIN;I haven’t either.
 1470;ORION;You should get the mithral shirt, it adds something to your --
 1471;MARISHA;Do you wear light armor or medium armor?
 1472;TALIESIN;I would guess light armor, I imagine.
-1473;SHERRI;"""With the discount, this entire haul would come to 49,815 gold pieces."""
+1473;SHERRI;"""""With the discount, this entire haul would come to 49,815 gold pieces."""""
 1474;PIKE;What’s that, how much?
 1475;KEYLETH;50k.
-1476;SHERRI;"""49,815 gold pieces with your discount for this entire sum.|Now, would you like to pay in gold? Would you like to pay in--"""
+1476;SHERRI;"""""49,815 gold pieces with your discount for this entire sum.|Now, would you like to pay in gold? Would you like to pay in--"""""
 1477;LIAM;Get the dragon armor out.
 1478;ORION;Twenty-four total, before the dwarven--
 1479;PIKE;Maybe we can see how much we can trade of what we have, maybe we can get a little--
 1480;VEX;How much is a pound of dragon scales worth to you?
-1481;SHERRI;"""What dragon? Show me the scales."""
+1481;SHERRI;"""""What dragon? Show me the scales."""""
 1482;VEX;Blue dragon scales.
 1483;GROG;Blue dragon scales, here you go.
 1484;MATT;You pull them out of the bag of holding.|She takes a few and she takes her glasses off and then pulls out from a pocket this intricate-looking, multi-lensed tinkering viewing device and inspects it very closely.
 1485;VEX;It was a very powerful dragon.
-1486;SHERRI;"""Apparently not powerful enough if you have these."""
+1486;SHERRI;"""""Apparently not powerful enough if you have these."""""
 1487;GROG;Hey Pike, don’t take this shit.
 1488;KEYLETH;I don’t know if that was a compliment or an insult.
 1489;GROG;Hey Pike, don’t take this shit.
 1490;MATT;Puts it away in her pocket and goes,
 1491;KEYLETH;Taking it as a compliment.
 1492;MATT;Puts it away in her pocket and goes,
-1493;SHERRI;"""These are legitimate.|I won’t question how you came about them, but they are definitely legitimate.|A pound, you say?"""
+1493;SHERRI;"""""These are legitimate.|I won’t question how you came about them, but they are definitely legitimate.|A pound, you say?"""""
 1494;VEX;How much is a pound worth to you?
 1495;GROG;We have several pounds.
 1496;VEX;And I’ll tell you how much we have.|And I’ll tell you how much we have.
-1497;SHERRI;"""Say a pound of dragon scales --"""
+1497;SHERRI;"""""Say a pound of dragon scales --"""""
 1498;MATT;And the dragon scales themselves are about that big each, they’re about the size of a peach.
 1499;TRAVIS;Oh, shit.
 1500;MATT;Dragons are big, especially this one.
-1501;SHERRI;"""Blue dragon scales, I’d say a pound is maybe, guessing close to eight to ten scales.|That would be worth about, I’d put that at 1,000 gold credit for each pound provided."""
+1501;SHERRI;"""""Blue dragon scales, I’d say a pound is maybe, guessing close to eight to ten scales.|That would be worth about, I’d put that at 1,000 gold credit for each pound provided."""""
 1502;TRAVIS;I have at least 11 pounds.
 1503;LAURA;Yeah.
 1504;ORION;Perfect.
@@ -1514,7 +1514,7 @@
 1512;KEYLETH;How much?
 1513;MATT;Pulls that again, looks over it.
 1514;KEYLETH;Catch.
-1515;SHERRI;"""This ruby, probably about 500 gold pieces."""
+1515;SHERRI;"""""This ruby, probably about 500 gold pieces."""""
 1516;VEX;That’s it?
 1517;GROG;We also have three dragon teeth, fangs from the beast’s mouth.
 1518;MATT;Make a perception roll.
@@ -1547,7 +1547,7 @@
 1545;ASHLEY;Keepsake, can’t put a price on it.
 1546;LIAM;Ten. Ten, they rolled a ten.
 1547;MATT;They rolled a ten. She says,
-1548;SHERRI;"""Dragons’ teeth actually, strangely enough, are a little easier to find.|I would put, each dragon’s tooth available would probably add about 250 gold pieces to the exchange."""
+1548;SHERRI;"""""Dragons’ teeth actually, strangely enough, are a little easier to find.|I would put, each dragon’s tooth available would probably add about 250 gold pieces to the exchange."""""
 1549;TRAVIS;We’ve got three.
 1550;KEYLETH;And how about the basilisk eggs? While we’re --
 1551;LIAM;Get it out out.
@@ -1556,12 +1556,12 @@
 1554;MATT;As you pull out the basilisk eggs, you pull it out and immediately there is a stench that is emanating from these eggs that have been in your bag of holding for probably close to eight or nine months.
 1555;GROG;No, the smell means they’re good.
 1556;MATT;This is now the fourth time she’s looked at you with a deadpan glance and adjusted her glasses.
-1557;SHERRI;"""We’re not interested in the eggs, but thank you anyway."""
+1557;SHERRI;"""""We’re not interested in the eggs, but thank you anyway."""""
 1558;GROG;All right, we do have three pints of dragon’s blood.
 1559;VEX;This is super, super powerful.
 1560;GROG;It might’ve congealed a little bit actually, though.
 1561;PIKE;No, it’s absolutely just really fresh because we put it in Tupperware.
-1562;SHERRI;"""We’ll stick with the scales for now."" put it in Tupperware."
+1562;SHERRI;"""""We’ll stick with the scales for now."""" put it in Tupperware."
 1563;LAURA;You’ll stick with the scales.
 1564;GROG;Right, any chance you’d be interested in claws of an umber hulk?
 1565;LIAM;I like that the 400,000 people who saw that thing are tuning in to the shopping episode.
@@ -1573,9 +1573,9 @@
 1571;MARISHA;We do need new gear.
 1572;MATT;This has now turned into the flea-market episode.|Hey, you guys guide the story. It’s fun though.
 1573;MARISHA;You guys guide the story.|Hey, you guys guide the story. It’s fun though.
-1574;SHERRI;"""We’d say with the credit from the dragon scales, that’ll take 10,000, 11,000 away from the current pricing, that would put us at 39,815 for this batch."""
+1574;SHERRI;"""""We’d say with the credit from the dragon scales, that’ll take 10,000, 11,000 away from the current pricing, that would put us at 39,815 for this batch."""""
 1575;KEYLETH;So can we open that line of credit we were talking about?
-1576;SHERRI;"""What line of credit?"""
+1576;SHERRI;"""""What line of credit?"""""
 1577;KEYLETH;That line we’re talking about right now.|(all laugh)
 1578;TIBERIUS;Well said, your majesty.
 1579;KEYLETH;That one that I just said two seconds ago?
@@ -1592,10 +1592,10 @@
 1590;PERCY;Yes, that’s fair.
 1591;KEYLETH;So can we hold this for now?
 1592;PIKE;We’ll wait until Gilmore gets back.
-1593;SHERRI;"""Certainly."""
+1593;SHERRI;"""""Certainly."""""
 1594;PIKE;We’ll wait until Gilmore gets back.
 1595;KEYLETH;Oh, good.
-1596;SHERRI;"""If you wish."""
+1596;SHERRI;"""""If you wish."""""
 1597;MATT;Starts putting everything into a small layaway pile in the corner.
 1598;KEYLETH;So you guys. Natural history museum? Pizza and then natural history museum?
 1599;TIBERIUS;What is pizza?
@@ -1607,64 +1607,64 @@
 1605;MATT;Vax.
 1606;LIAM;In-between time.
 1607;MATT;Yes. Gilmore, who has sweeped you out into the middle of Abedar’s Promenade, takes you by the arm and begins to lead you happily up towards the Erudite Quarter of Emon, which has a secondary wall around it as well.|As he brings you along, he talks happily and loudly about how,
-1608;GILMORE;"""It’s rather wonderful the way that we were presented with this opportunity over in Westruun.|It’s magnificent, the team they’ve assembled to build this brand. I’m very excited at how they brought it to my attention. I wanted to keep things very localized, of course, but it seems--"""
+1608;GILMORE;"""""It’s rather wonderful the way that we were presented with this opportunity over in Westruun.|It’s magnificent, the team they’ve assembled to build this brand. I’m very excited at how they brought it to my attention. I wanted to keep things very localized, of course, but it seems--"""""
 1609;VAX;Will you trust the folk in Emon to handle your business or will you go between?
-1610;GILMORE;"""The folk in Westruun?"""
+1610;GILMORE;"""""The folk in Westruun?"""""
 1611;VAX;Yes.
-1612;GILMORE;"""The folk in Westruun?""|""I have a couple of friends there that will oversee the process, but I will be very involved and keeping an eye, so I’m not too terribly worried.|Besides, it’s a much smaller business we’re running there and it’ll be fine.|Oh, look ahead."
+1612;GILMORE;"""""The folk in Westruun?""""|""""I have a couple of friends there that will oversee the process, but I will be very involved and keeping an eye, so I’m not too terribly worried.|Besides, it’s a much smaller business we’re running there and it’ll be fine.|Oh, look ahead."
 1613;MATT;As you guys step into the Erudite Quarter, he’s now brought you into essentially what is an outdoor botanical garden that is just a very nice walk.|Grass across the ground, with fine well-cut bushes.|There is a canopy of beautiful trees that are arcane, through arcane means, twisted and sculpted to form this long tunnel. It’s strangely romantic.|As Gilmore begins to walk you down, there’s a fountain to the side, and he says,
-1614;GILMORE;"""What about you? How’s Vox Machina been? How’ve they been treating you? How are you, Vax?"
+1614;GILMORE;"""""What about you? How’s Vox Machina been? How’ve they been treating you? How are you, Vax?"
 1615;VAX;Well, we’re tired, to be sure.|I was not kidding before, we really are lucky to be alive.|And that’s thanks in large part to a lot of the gear you outfitted us with the last time.
-1616;GILMORE;"""Wondrous, I’m happy to help.|And have you been keeping up your end of the bargain? Have you been singing the praises of Gilmore’s Glorious Goods across Kraghammer and beyond?"""
+1616;GILMORE;"""""Wondrous, I’m happy to help.|And have you been keeping up your end of the bargain? Have you been singing the praises of Gilmore’s Glorious Goods across Kraghammer and beyond?"""""
 1617;VAX;You were mentioned in Kraghammer.|I regret to inform you, though, that we were forced to travel underground rather quickly and the duergar and the other things that we ran into were not really customers you’d want to deal with.|No, our lives were too much in harm’s way.|But now that we’re above ground, I’m looking to pick up where I left off.
-1618;GILMORE;"""Very well."" And do your shop honor."
+1618;GILMORE;"""""Very well."""" And do your shop honor."
 1619;VAX;Your contribution to what we’ve done --
 1620;LIAM;And I place my hand on his hand.
 1621;VAX;--was no small part in our survival.
 1622;LIAM;And I give it just a little squeeze.
 1623;VAX;And I want to thank you.|I don’t know that I would be standing here if not for your help.
-1624;GILMORE;"""Had it not been for Gilmore’s Glorious Goods."" (all laugh)"
+1624;GILMORE;"""""Had it not been for Gilmore’s Glorious Goods."""" (all laugh)"
 1625;MATT;He looks you deep in the eyes, pats the top of your hand, and goes,
-1626;GILMORE;"""Vax. This, that moment, that is why I do what I do."""
+1626;GILMORE;"""""Vax. This, that moment, that is why I do what I do."""""
 1627;VAX;You’re a unique man, Gilmore. No question.|Never met anyone quite like you.
-1628;GILMORE;"""Well. Would you care to share a glass of wine with a man not quite like anyone else you’ve met?"""
+1628;GILMORE;"""""Well. Would you care to share a glass of wine with a man not quite like anyone else you’ve met?"""""
 1629;VAX;Indeed. What do you recommend in the area?
-1630;GILMORE;"""Oh, please, come, there are casks that pour the finest of honeyed Syngoran wine.|I know perhaps you’ve not been home for quite some time?"""
+1630;GILMORE;"""""Oh, please, come, there are casks that pour the finest of honeyed Syngoran wine.|I know perhaps you’ve not been home for quite some time?"""""
 1631;VAX;That’s a complicated thing for me, one that I’m not really quite ready to talk about yet.
-1632;GILMORE;"""Oh."""
+1632;GILMORE;"""""Oh."""""
 1633;VAX;Maybe someday.
-1634;GILMORE;"""Maybe with enough wine."""
+1634;GILMORE;"""""Maybe with enough wine."""""
 1635;VAX;You old so-and-so.
 1636;MARISHA;You old so-and-so.
 1637;MATT;About an hour and a half, time passes before eventually there’s a loud clattering at the front of Gilmore’s Glorious Goods, where a laughing Vax and Gilmore come stumbling in, flush of face, with emptied goblets, laughing to themselves.|Is there anything specific before this moment that you wanted to ask --
 1638;VAX;I took the duergar, I was holding her right over the cliff, and I just cut, and she fell! She fell! I didn’t know what I was doing, I just did it!
-1639;GILMORE;"""You are ridiculous, Vax'ildan! Oh, it tickles me."""
+1639;GILMORE;"""""You are ridiculous, Vax'ildan! Oh, it tickles me."""""
 1640;PIKE;Hi! Hello!
-1641;GILMORE;"""Oh, good to see your friends."""
+1641;GILMORE;"""""Oh, good to see your friends."""""
 1642;PIKE;Sounds like you had fun.
 1643;VAX;Family. Family, family.|I’ve had a couple of drinks.|I’m an adult, I can do that.|What have you found? Have you guys been shopping?
 1644;KEYLETH;Well, we have!
 1645;TIBERIUS;Yes!
 1646;KEYLETH;Well, we have!|We were hoping that you and Gilmore had a wonderful time and that, we just thought we’d wait for you.|We didn’t want to make any final decisions without one of our main party members.
-1647;GILMORE;"""It was delightful.|You travel with the finest companion.|We told stories, we cried, we laughed.|It was a delight.""|""I’ve had a few."""
+1647;GILMORE;"""""It was delightful.|You travel with the finest companion.|We told stories, we cried, we laughed.|It was a delight.""""|""""I’ve had a few."""""
 1648;MATT;He collects himself for a minute.
 1649;LIAM;I pat him on the back, I do a little circle with my hand.
 1650;MARISHA;Remember, you have advantage.
-1651;GILMORE;"""I’m not as spry as I once was, unfortunately.|But yes! Business to attend. What do you need? What can we do?"""
+1651;GILMORE;"""""I’m not as spry as I once was, unfortunately.|But yes! Business to attend. What do you need? What can we do?"""""
 1652;MATT;At which point Sherri, waiting in the back, says,
-1653;SHERRI;"""Sir, they’ve requested perhaps a few things in bulk.|The current amount comes to about roughly 40,000 gold, with your discount."""
-1654;GILMORE;"""Forty thousand gold, oh, well.|Certainly. What seems to be the problem?"""
+1653;SHERRI;"""""Sir, they’ve requested perhaps a few things in bulk.|The current amount comes to about roughly 40,000 gold, with your discount."""""
+1654;GILMORE;"""""Forty thousand gold, oh, well.|Certainly. What seems to be the problem?"""""
 1655;PIKE;Well, I don’t know. We were just talking about, since we’re purchasing so many things, and since we’ve gained some popularity here in Emon, walking around, people are noticing us walking around...
 1656;ASHLEY;I shouldn’t be the one talking right now.
 1657;PIKE;Maybe we could open up a line of credit.
 1658;VAX;Obviously we’re only shopping with you, Gilmore, at this point.
 1659;MATT;He looks about the rest of the group and says,
-1660;GILMORE;"""Not everyone seems to be wearing the same patented Gilmore’s Glorious Armor that was given not too long ago. So that’s not true."""
+1660;GILMORE;"""""Not everyone seems to be wearing the same patented Gilmore’s Glorious Armor that was given not too long ago. So that’s not true."""""
 1661;TIBERIUS;We did find some off of dead things.
 1662;VAX;Yes.
-1663;GILMORE;"""And those dead things are not under the umbrella of Gilmore’s Glorious Expansion."""
+1663;GILMORE;"""""And those dead things are not under the umbrella of Gilmore’s Glorious Expansion."""""
 1664;TIBERIUS;Oh.
-1665;GILMORE;"""But should we discuss this, where would this credit be placed against, what do you have that you could ante?"""
+1665;GILMORE;"""""But should we discuss this, where would this credit be placed against, what do you have that you could ante?"""""
 1666;VAX;What have you guys been talking about? We do have a big pile of dragon’s scales and some gem --
 1667;VEX;We do.
 1668;PERCY;We also are owed money.
@@ -1672,7 +1672,7 @@
 1670;VEX;One question that
 1671;VAX;And we are owed money in Kraghammer.|Grog just whispered to me.|Yes?
 1672;VEX;How much is a platinum worth?
-1673;GILMORE;"""What is a platinum? Platinum is worth ten gold pieces."""
+1673;GILMORE;"""""What is a platinum? Platinum is worth ten gold pieces."""""
 1674;LIAM;Where we at, girl?
 1675;TIBERIUS;She is displeased.
 1676;VEX;We may have a lot more money than I thought we had, because Grog’s been hiding money in the bag of holding.|(all laugh)
@@ -1708,65 +1708,65 @@
 1706;SCANLAN;I agree. Drinks and whoring.
 1707;MATT;And smacks Grog in the side.|The two of them leave off into the evening to go ahead and make use of their return to Emon properly.
 1708;LIAM;Vax looks at Gilmore and just shakes his head.
-1709;GILMORE;"""There is business to be had, but let’s get business out of the way so we can get to pleasure."""
+1709;GILMORE;"""""There is business to be had, but let’s get business out of the way so we can get to pleasure."""""
 1710;ASHLEY;Oh, shit.
 1711;LIAM;Cheers to that.
 1712;MARISHA;Cheers to that.
 1713;TALIESIN;I have tinkering to do anyway.
 1714;VEX;What did we agree the total for everything we wanted was?
-1715;GILMORE;"""Roughly 39,500 gold pieces."""
+1715;GILMORE;"""""Roughly 39,500 gold pieces."""""
 1716;VAX;Pish-posh.
 1717;VEX;Roughly. Gilmore.
-1718;GILMORE;"""That’s with the discount! I already offered this to you, and you haven’t even kept up your end of the bargain by wearing my emblazoned symbol and my"
-1719;VEX;"Don’t you want us to advertise in Westruun for you? ""immortalized Gilmore’s Glorious Armor."""
+1718;GILMORE;"""""That’s with the discount! I already offered this to you, and you haven’t even kept up your end of the bargain by wearing my emblazoned symbol and my"
+1719;VEX;"Don’t you want us to advertise in Westruun for you? """"immortalized Gilmore’s Glorious Armor."""""
 1720;VAX;We would, Gilmore, we would be wearing that.|Again, we nearly died.|The armor that you gave me is gone, and I’m lucky to be alive today, and that armor helped me be where I am at the moment.
-1721;GILMORE;"""How much credit do you wish to open?"""
+1721;GILMORE;"""""How much credit do you wish to open?"""""
 1722;VAX;Fifty gold.
 1723;PIKE;Thousand? Fifty thousand?
 1724;VAX;Fifty, ah yes. Fifty thousand.
-1725;GILMORE;"""Because 50 gold I can definitely do."""
+1725;GILMORE;"""""Because 50 gold I can definitely do."""""
 1726;VAX;We’ve been out drinking for two hours, man.
-1727;GILMORE;"""This is true. I’m sorry."""
+1727;GILMORE;"""""This is true. I’m sorry."""""
 1728;ASHLEY;One million, please.
-1729;GILMORE;"""That’s a tough order.""|""You mentioned you had money waiting for you in Kraghammer. How much was --"""
+1729;GILMORE;"""""That’s a tough order.""""|""""You mentioned you had money waiting for you in Kraghammer. How much was --"""""
 1730;VEX;Yes, we do.
-1731;GILMORE;"""How much is waiting for you there?"""
+1731;GILMORE;"""""How much is waiting for you there?"""""
 1732;VAX;Twenty-five, wasn’t it?
 1733;VEX;It was 25,000.
-1734;GILMORE;"""How about we open a 25,000 gold piece line of credit here with Gilmore’s Glorious Goods that you only need to pay back within the next month."""
+1734;GILMORE;"""""How about we open a 25,000 gold piece line of credit here with Gilmore’s Glorious Goods that you only need to pay back within the next month."""""
 1735;VAX;That’s fair.
-1736;GILMORE;"""Giving you time to arrive. If it’s not paid, you will be hunted.|But I’m sure that won’t be a worry, will it?"""
+1736;GILMORE;"""""Giving you time to arrive. If it’s not paid, you will be hunted.|But I’m sure that won’t be a worry, will it?"""""
 1737;TIBERIUS;How far is Kraghammer from here?
 1738;PERCY;Not far.
 1739;VEX;It’s a week’s ride, isn’t it?
 1740;TIBERIUS;I can’t teleport everyone.
 1741;KEYLETH;Gilmore, question.|Maybe you should consider making little pins that we could just wear on top of our armor? Because wearing your armor, we have our own clothes that we like, so maybe like a pin.
 1742;MATT;He steps forward and says,
-1743;GILMORE;"""Oh --"""
+1743;GILMORE;"""""Oh --"""""
 1744;KEYLETH;Or like a patch?
-1745;GILMORE;"""--that’s not even a worry."""
+1745;GILMORE;"""""--that’s not even a worry."""""
 1746;MATT;He pulls out a small implement, this wand, and he flicks it over your shoulder.|And all of a sudden an arcane swirl around your armor, with a big flash of sparks and glitter almost.|You look down and there is, emblazoned upon your current armored form, a symbol of Gilmore’s Glorious Goods now permanently emblazoned on the leather.
 1747;KEYLETH;Ah!
-1748;GILMORE;"""Easy enough to fix."""
+1748;GILMORE;"""""Easy enough to fix."""""
 1749;VAX;What a good idea.
 1750;KEYLETH;I was going to put it on that leather.
 1751;PERCY;Yes.
 1752;KEYLETH;I was going to put it on that leather.|I was going to put it on that leather.|My mom gave this to me.
-1753;GILMORE;"""Well, your mother has not provided for you the means of keeping the deal we already made."""
+1753;GILMORE;"""""Well, your mother has not provided for you the means of keeping the deal we already made."""""
 1754;KEYLETH;Can you take this off when we pay you back and put it on that one?|Oh, come on.
 1755;PERCY;I think it’ll transfer when you change.
 1756;KEYLETH;Will it transfer when I change armor?
-1757;GILMORE;"""I don’t know."" (all laugh)"
+1757;GILMORE;"""""I don’t know."""" (all laugh)"
 1758;PIKE;We’ll find out.
-1759;GILMORE;"""So. Twenty-five thousand gold line of credit, within a month or you’ll be hunted."""
+1759;GILMORE;"""""So. Twenty-five thousand gold line of credit, within a month or you’ll be hunted."""""
 1760;KEYLETH;Wait, do you really have a unicorn as part of your logo?
-1761;GILMORE;"""It’s…"""
+1761;GILMORE;"""""It’s…"""""
 1762;KEYLETH;What?
-1763;GILMORE;"""It’s a creature of my creation, I designed it when I was a child --"""
+1763;GILMORE;"""""It’s a creature of my creation, I designed it when I was a child --"""""
 1764;VAX;It’s a phallic thing.
 1765;KEYLETH;Ah.
 1766;VEX;So we open the 25,000 line of credit with you and you give us all the things we want?
-1767;GILMORE;"""If that is what you want."""
+1767;GILMORE;"""""If that is what you want."""""
 1768;VAX;Don’t we have a lot of platinum? What are we dickering prices with?
 1769;VEX;Yes! Why don’t we just buy it now, and then we won’t have a line of credit with Gilmore?
 1770;GROG;(cries) and then we won’t have a line of credit with Gilmore?
@@ -1833,26 +1833,26 @@
 1831;PIKE;We’ll take it all.
 1832;VAX;The whole lot.
 1833;PIKE;And then, could I commission you, by the way, to maybe make some armor that’s really heavy armor but very quiet?
-1834;GILMORE;"""How heavy?"""
+1834;GILMORE;"""""How heavy?"""""
 1835;PIKE;How heavy can you make it?
-1836;GILMORE;"""I can work on plate armor if you’d like, but an enchantment of that magnitude would be the only enchantment it would have.|So it would be the equivalent of full plate armor and the entire enchantment would enable you to move a little more easily inside it, and that would cost, it would take about, I'd say, a month to enchant on my end and would cost about, not including the cost of the actual armor, materials and time required, I’d put it at about 8,000 gold pieces?"""
+1836;GILMORE;"""""I can work on plate armor if you’d like, but an enchantment of that magnitude would be the only enchantment it would have.|So it would be the equivalent of full plate armor and the entire enchantment would enable you to move a little more easily inside it, and that would cost, it would take about, I'd say, a month to enchant on my end and would cost about, not including the cost of the actual armor, materials and time required, I’d put it at about 8,000 gold pieces?"""""
 1837;VAX;Worth it.|We’ll fund the money.
 1838;PIKE;And it’ll just be really quiet?
-1839;GILMORE;"""It will enable you to move freer within the armor."""
+1839;GILMORE;"""""It will enable you to move freer within the armor."""""
 1840;VAX;By a turn. Is 8,000 Vox Machina’s rate, or the general rate?
-1841;GILMORE;"""That is through our friendship and our current arrangement."""
+1841;GILMORE;"""""That is through our friendship and our current arrangement."""""
 1842;VAX;Thank you. It’s appreciated.
-1843;GILMORE;"""Mm.""|""Business is business, but please don’t take this solemn,"
-1844;VAX;"Of course.|""but please don’t take this solemn, intense face to be anything other than friendship, this is just business and I run a business.""|Understood."
-1845;GILMORE;"""Good."""
+1843;GILMORE;"""""Mm.""""|""""Business is business, but please don’t take this solemn,"
+1844;VAX;"Of course.|""""but please don’t take this solemn, intense face to be anything other than friendship, this is just business and I run a business.""""|Understood."
+1845;GILMORE;"""""Good."""""
 1846;VAX;I’m not taking advantage.
-1847;GILMORE;"""All right.""|""So. To take all of these items, with the dragon scales included, bringing it down to 39,000 gold.|We’ll call it even, 39,000 gold."""
+1847;GILMORE;"""""All right.""""|""""So. To take all of these items, with the dragon scales included, bringing it down to 39,000 gold.|We’ll call it even, 39,000 gold."""""
 1848;PERCY;Fair.
 1849;VEX;That wasn’t much of a discount, Gilmore.
 1850;VAX;Hush up, Vex’ahlia.|Done, sold, thank you.|With our thanks.
-1851;GILMORE;"""So minus the platinum, that’s 22,000 gold pieces after the platinum and dragon scales."""
+1851;GILMORE;"""""So minus the platinum, that’s 22,000 gold pieces after the platinum and dragon scales."""""
 1852;KEYLETH;And we have that, right?
-1853;GILMORE;"""And you have 25,000 gold credit if you’d like."""
+1853;GILMORE;"""""And you have 25,000 gold credit if you’d like."""""
 1854;VEX;We have, hold on... gotta go away for a minute.
 1855;VAX;We’re passing on the credit, Gilmore.
 1856;VEX;We have plenty left.
@@ -1865,42 +1865,42 @@
 1863;ORION;Abacus!
 1864;VAX;You’re so dark sometimes, Vex’ahlia. I swear.
 1865;VEX;So the total was 20,000 minus the platinum and the dragon scales?
-1866;GILMORE;"""Twenty-two thousand."""
+1866;GILMORE;"""""Twenty-two thousand."""""
 1867;VEX;Yes, we still have enough, so.
-1868;GILMORE;"""All right. So a deal?"""
+1868;GILMORE;"""""All right. So a deal?"""""
 1869;KEYLETH;Deal!
 1870;PERCY;Deal.
 1871;VEX;My god, all of our money’s gone.
 1872;MATT;He snaps his fingers, Sherri comes and presents all the items that she had currently in a little stowaway bin off to the side of the desk.|Brings them out to the rest of you and places it on the counter.|Gilmore immediately snaps his fingers and a contract shows up.|He writes up the numbers exchanged, making note of his business, passes it out.
-1873;GILMORE;"""Please sign here.|Anyone that represents you and your fine Vox Machina.|Sign here and present the money."""
+1873;GILMORE;"""""Please sign here.|Anyone that represents you and your fine Vox Machina.|Sign here and present the money."""""
 1874;VEX;I guess I’ll do that.
 1875;PERCY;You do that.
-1876;GILMORE;"""Vex’ahlia."""
+1876;GILMORE;"""""Vex’ahlia."""""
 1877;MATT;He hands you a quill.|Takes your coin, slides you, and you now have this entire batch of magical items
 1878;LAURA;That’s pretty cool.
 1879;MATT;to distribute as you see fit.|to distribute as you see fit.
 1880;MARISHA;Yes! New armor!
 1881;MATT;And from that point --
 1882;LAURA;Make sure we get some of those things.
-1883;GILMORE;"""An absolute pleasure doing business with all of you. Absolutely."""
+1883;GILMORE;"""""An absolute pleasure doing business with all of you. Absolutely."""""
 1884;KEYLETH;Thank you, Gilmore.
-1885;GILMORE;"""Thank you."""
+1885;GILMORE;"""""Thank you."""""
 1886;KEYLETH;So really though. Will this transfer to that?
-1887;GILMORE;"""I have no idea."""
+1887;GILMORE;"""""I have no idea."""""
 1888;KEYLETH;I was wanting to ask you, Gilmore.|Have you considered maybe doing potion-making workshops?
-1889;GILMORE;"""Hm. I’ll put some thought to that."""
+1889;GILMORE;"""""Hm. I’ll put some thought to that."""""
 1890;KEYLETH;Okay. Let me know.
-1891;GILMORE;"""All right."""
+1891;GILMORE;"""""All right."""""
 1892;LAURA;I feel very uncomfortable and I leave.|I go outside to hang out with Trinket.
 1893;MATT;Okay.|As Gilmore takes the change behind the counter, he goes,
-1894;GILMORE;"""I’ve got a bit more business to do here.|Vax, I greatly appreciate spending the afternoon with you.|Where are you staying?"""
+1894;GILMORE;"""""I’ve got a bit more business to do here.|Vax, I greatly appreciate spending the afternoon with you.|Where are you staying?"""""
 1895;LIAM;I take him by the hand, do one of these clasps, and say,
 1896;VAX;We live here now, we’re residents.|I haven’t had time to tell you.|We have a keep, our own keep. You should come visit.|It’s on the outskirts of town. It’s called Greyskull Keep, and you’re welcome any time.|Day or night.
-1897;GILMORE;"""Good to know.|All right. To business I go. I bid you all a fine farewell."""
+1897;GILMORE;"""""Good to know.|All right. To business I go. I bid you all a fine farewell."""""
 1898;PERCY;Adieu.
 1899;KEYLETH;Bye, Gilmore.
 1900;MATT;He goes back through his beaded exit to the back room and leaves you to the rest of your-- --at which point Sherri goes,
-1901;SHERRI;"""I’ll get back to work."""
+1901;SHERRI;"""""I’ll get back to work."""""
 1902;MATT;She goes back up, leaving you guys alone in the main chamber as a couple of other customers start walking around.|I think we’ll call that the adventure for the evening.
 1903;MARISHA;Thanks for watching us shop.
 1904;ASHLEY;Thanks for watching us shop!

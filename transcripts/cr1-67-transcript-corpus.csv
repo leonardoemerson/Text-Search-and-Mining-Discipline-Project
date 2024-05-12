@@ -278,7 +278,7 @@
 276;LAURA;She's fucking finding another one.
 277;MATT;Waves seem endless around you.
 278;MARISHA;Oh no.
-279;MATT;"You emerge once more, your vision moving before, only now there's a torrential rain surrounding you, lightning, thunder clapping. You are in the center of a very, very heavy storm that is tearing across this ocean expanse. A boat creaks, ropes swing, and you hear voices yell. A crew barely holding it together. Standing on the deck, hooded, you see Ripley, calm, and looking out into the horizon. She smiles from beneath her dark leather cloak, a shimmer of blue energy dimly crackling across its inner lining. A voice yells, ""Nothing yet!"" And her eyes dart up to the crow's nest, then back down to her weapon, a handheld firearm of slick design, but familiar function.|Six barrels."
+279;MATT;"You emerge once more, your vision moving before, only now there's a torrential rain surrounding you, lightning, thunder clapping. You are in the center of a very, very heavy storm that is tearing across this ocean expanse. A boat creaks, ropes swing, and you hear voices yell. A crew barely holding it together. Standing on the deck, hooded, you see Ripley, calm, and looking out into the horizon. She smiles from beneath her dark leather cloak, a shimmer of blue energy dimly crackling across its inner lining. A voice yells, """"Nothing yet!"""" And her eyes dart up to the crow's nest, then back down to her weapon, a handheld firearm of slick design, but familiar function.|Six barrels."
 280;LIAM;Oh, snap.
 281;MATT;Lightning flashes once more in the distance, followed by a very, very nearby crack of thunder.|The boat lists for a second as a wave passes under it, and it catches itself again. She runs to the deck to look out across the crashing waves, and the vision fades back.
 282;LIAM;That was magical.
@@ -434,7 +434,7 @@
 432;LIAM;Are either of you gentlemen smart enough to do that?
 433;MARISHA;We can't tilt the camera up a little bit?
 434;MATT;No. You can, but you'll see a blurred skyline--
-435;SAM;"We can listen for clues. Maybe the crew members will shout out a, ""Oh, we're at longitude blah blah blah latitude blah blah blah!"""
+435;SAM;"We can listen for clues. Maybe the crew members will shout out a, """"Oh, we're at longitude blah blah blah latitude blah blah blah!"""""
 436;MATT;For you, when you scry on something, imagine it, like, super high depth of field, so like what you're looking at is super in-focus and most everything else is very blurred and out of focus.
 437;SAM;Okay, wait, to play this out a bit more: we know where she's going. We know where Glintshore is roughly if we got a local--
 438;LIAM;Do you know where that island is?
@@ -457,7 +457,7 @@
 455;LAURA;Into the Plane of Abyss?
 456;LIAM;Well isn't that where we have to go anyway?
 457;TRAVIS;Let's get the gun unfucked, and we'll simmer on it.
-458;SAM;"Wait, before we get the gun unfucked, is there any use to it being fucked? Like, can we have play-acting conversations around it like ""Oh, this is where we should go next, hope you're listening!"""
+458;SAM;"Wait, before we get the gun unfucked, is there any use to it being fucked? Like, can we have play-acting conversations around it like """"Oh, this is where we should go next, hope you're listening!"""""
 459;TALIESIN;That is deeply assuming that it actually conveys sound, which it may not.
 460;MARISHA;Yeah, we have no idea what it actually is, let's go get it.
 461;TALIESIN;Yeah, we're going to have to move that enchantment onto something else.
@@ -523,32 +523,32 @@
 521;LAURA;Is Treev downstairs?
 522;MATT;All right, you head down into the tavern, and at this time of day it's a little empty, a little sparse, maybe like, four patrons. Two in discussions, one that's deep in the cups and one in the midst of going through paperwork and in the far back you see Treev once again has his heavy spectacles on and is currently looking through that same book he was before, doesn't seem to pay any mind to you until you approach him.
 523;LAURA;Treev?
-524;MATT;"""Oh, aye, good to see you. What can I do for you?"""
+524;MATT;"""""Oh, aye, good to see you. What can I do for you?"""""
 525;LAURA;We need to talk to you. It's rather urgent.
-526;MATT;"""Then talk to me."" Puts his book away, glasses on it, leans forward."
+526;MATT;"""""Then talk to me."""" Puts his book away, glasses on it, leans forward."
 527;TALIESIN;There's been a complication. The mistress is-- she's been assassinated.
 528;MARISHA;We hadn't heard anything in these past few days, we decided to pay her a call.
 529;MATT;He leans forward a little bit on the bar.|Vex, Vax and Keyleth. You notice that the hooded figure, that originally delivered the note, is back in the far corner, where it was and it seems to have stepped a couple inches out of the shadows as well, paying very close attention to this conversation.
 530;TALIESIN;Did we bring the note with us? Good.
-531;MATT;"Goes, ""So you are saying that the mistress was assassinated?"""
+531;MATT;"Goes, """"So you are saying that the mistress was assassinated?"""""
 532;TALIESIN;And the cloak stolen.
-533;MATT;"""Cloak?"""
+533;MATT;"""""Cloak?"""""
 534;TALIESIN;The cloak she wore.
-535;MATT;"""And you know this how?"""
+535;MATT;"""""And you know this how?"""""
 536;LAURA;We found her body.
-537;MATT;"""Where?"""
+537;MATT;"""""Where?"""""
 538;LAURA;In her home.
 539;SCANLAN;Don't think that was her home.
 540;MARISHA;In her hideout.
 541;TALIESIN;In her room beneath the house.
-542;MATT;"""How do you know where she lived?"""
+542;MATT;"""""How do you know where she lived?"""""
 543;TALIESIN;We are very clever. But not clever enough to stop this. This appears to have happened possibly before we even-- we don't know when it happened. It happened a while ago.
 544;LAURA;About a week ago. I think.
 545;MATT;Percy, make a persuasion check.
 546;TALIESIN;13.
 547;MATT;Okay. Treev puts one hand out on the bar, he's got a big heavy coin in it, he's nervously tapping it. (few knocks on wood)
 548;TALIESIN;We think we know who did it. In fact, we are near positive we know who did it.
-549;MATT;"You hear (door closing) as the door of the tavern closes and all the patrons you saw are now standing up completely sober and they're all taking a circle to the outside of your group. He's leaning forward, going, ""All right, so you're clever. You came looking for the mistress, she suddenly winds up dead. You found her body."""
+549;MATT;"You hear (door closing) as the door of the tavern closes and all the patrons you saw are now standing up completely sober and they're all taking a circle to the outside of your group. He's leaning forward, going, """"All right, so you're clever. You came looking for the mistress, she suddenly winds up dead. You found her body."""""
 550;TALIESIN;And we tell you this as opposed to leaving.
 551;LAURA;We had nothing to do with it. We could've left town.
 552;MARISHA;Clearly we know how this looks, which is why we came to you first.
@@ -579,48 +579,48 @@
 577;MARISHA;No.
 578;MATT;Okay. At initial glance you don't see anything, because everything is close to you, it's from a top-down perspective and you're blocked from seeing anything beneath.
 579;TALIESIN;For what it's worth, we will not draw first. We want to find her. Have any of your people seen a woman with one metal arm? She's so dangerous and now so much more dangerous.
-580;MATT;"He goes ahead and puts his finger up this way and marks this direction. The figure that you're watching, Vax, steps out from the shadow and walks very calmly across the room, through all of you right to the edge of the bar by the door and goes-- not breaking eye contact with you, speaks out of the side of his mouth, Treev goes, ""Go ahead and check their story. See her abode. We're all going to wait here nice and patiently together until we figure out what the fuck is going on."""
+580;MATT;"He goes ahead and puts his finger up this way and marks this direction. The figure that you're watching, Vax, steps out from the shadow and walks very calmly across the room, through all of you right to the edge of the bar by the door and goes-- not breaking eye contact with you, speaks out of the side of his mouth, Treev goes, """"Go ahead and check their story. See her abode. We're all going to wait here nice and patiently together until we figure out what the fuck is going on."""""
 581;TRAVIS;Makes sense. Do you have any mead?
-582;MATT;"""We got mead."""
+582;MATT;"""""We got mead."""""
 583;TALIESIN;In the meantime, I'd like to at least to start to tell you what we need next, for when our story is confirmed.
-584;MATT;"""Well, you've certainly got a captive audience, so go ahead."""
+584;MATT;"""""Well, you've certainly got a captive audience, so go ahead."""""
 585;TALIESIN;This woman has been tracking us. She placed a mystical tracker upon us at some point.|We've just discovered it and we need to find a way to move it away and put it somewhere she does not suspect that we know that she placed it and does not see us coming when it's time for us to kill her.
-586;MATT;"""So you're saying this woman that you're chasing is the one that killed the mistress?"""
+586;MATT;"""""So you're saying this woman that you're chasing is the one that killed the mistress?"""""
 587;TALIESIN;Yes. We believe so.
 588;LAURA;Your mistress has-- had a very powerful item on her. It's why we sought her out as well.
-589;MATT;"""More so blinded-sided at the idea that the mistress was felled by someone. She could take care of herself and has for quite some time."""
+589;MATT;"""""More so blinded-sided at the idea that the mistress was felled by someone. She could take care of herself and has for quite some time."""""
 590;LAURA;From what I could see, her attackers were not alone. There were five of them.
 591;LIAM;They had an unfair advantage.
-592;MATT;"""Five of them and a woman, you say?"" His eyes narrow for a second. ""Describe this woman."""
+592;MATT;"""""Five of them and a woman, you say?"""" His eyes narrow for a second. """"Describe this woman."""""
 593;SAM;She disguises her appearance, so how we know her might not be how you have seen her. She has sometimes shown herself as an old woman.
-594;MATT;"""Old woman?"" And he starts describing. ""Sort of a spindly gray-blonde hair, tumbles past the shoulders, piercing blue-ish green eyes."""
+594;MATT;"""""Old woman?"""" And he starts describing. """"Sort of a spindly gray-blonde hair, tumbles past the shoulders, piercing blue-ish green eyes."""""
 595;TALIESIN;Always piercing eyes.
 596;SAM;Did she come through here?
-597;MATT;"""She was the last one to hire the mistress.|About a week before you came."""
+597;MATT;"""""She was the last one to hire the mistress.|About a week before you came."""""
 598;TALIESIN;(sighs heavily)
 599;SAM;What was the job?
-600;MATT;"""I don't know."""
+600;MATT;"""""I don't know."""""
 601;SAM;And she had some fellows traveling with her?
-602;MATT;"""She had five individuals following her, aye."""
+602;MATT;"""""She had five individuals following her, aye."""""
 603;MARISHA;What did they look like?
-604;MATT;"""Didn't get the best good look. Kept it very hush-hush between me and the lady at the table.|Rest of them stayed at the back of the bar. Then they went on their business."""
+604;MATT;"""""Didn't get the best good look. Kept it very hush-hush between me and the lady at the table.|Rest of them stayed at the back of the bar. Then they went on their business."""""
 605;SAM;Where were they staying?
-606;MATT;"""Here."""
+606;MATT;"""""Here."""""
 607;SAM;In our rooms?
-608;MATT;"""Aye."""
+608;MATT;"""""Aye."""""
 609;SAM;That gives me the heebie-jeebies.
 610;TALIESIN;That does not make me feel good. She is so dangerous.
 611;MARISHA;How was she a full week ahead of us?
 612;LAURA;Oh shit. Treev--
 613;SAM;Because we went to Draconia.
 614;LAURA;I put Dust of Tracelessness on the ground.|In her home.
-615;MATT;"""What's that mean?"""
+615;MATT;"""""What's that mean?"""""
 616;TALIESIN;It's going to obfuscate any of the scuffle. They're only going to find a body with holes in it.
-617;MATT;"""So you're telling me that you came in here with a story about a murder of one of my finest mercs."""
+617;MATT;"""""So you're telling me that you came in here with a story about a murder of one of my finest mercs."""""
 618;TALIESIN;Yes.
-619;MATT;"""And you decided upon finding this murder to get rid of all the evidence of said murder and anything that could possibly point to you not being the murderers."""
+619;MATT;"""""And you decided upon finding this murder to get rid of all the evidence of said murder and anything that could possibly point to you not being the murderers."""""
 620;TALIESIN;I did point this out to everybody before we came down here, but at the moment we were a little bit thrown by the dead woman.
-621;MATT;"""I'm not going to lie, I mean as far as--"""
+621;MATT;"""""I'm not going to lie, I mean as far as--"""""
 622;LIAM;Why would we come directly to you if that were the case? Why wouldn't we have not just left?
 623;LAURA;Plus, you know what?
 624;TALIESIN;They will be able to tell the body is at least a week old.
@@ -628,125 +628,125 @@
 626;MARISHA;I'm sure you have a cleric in the circle.|Talk to her firsthand if you have to.
 627;LIAM;I'm curious if you can imagine a reason why we would come to you with this rather than sneak away in the night.
 628;TRAVIS;Yeah, I'm just curious how much the mead is?
-629;MATT;"""On the house."" He reaches under the bar and pulls up one thick, dark, red ceramic bottle.|Cap's already off. He's plucked it off with his thumb and sets it in front of you."
+629;MATT;"""""On the house."""" He reaches under the bar and pulls up one thick, dark, red ceramic bottle.|Cap's already off. He's plucked it off with his thumb and sets it in front of you."
 630;TRAVIS;My thanks.
 631;TALIESIN;I'm so sorry.
-632;MATT;"""Guess it's possibly one of the major setbacks of this line of business. Very few grow too old and gray and get to die happy in their beds.|God knows I wasn't planning to."" There's a long, awkward pause interspersed with bits of conversation for about 15 minutes before the hooded figure returns, enters the door, comes over and whispers for a good solid minute in the ear of Treev, before stepping back and calmly walking back to its corner. Treev sits up. ""Well, parts of your story certainly hold up. The body has been there for a while, at least from before I saw you.|Mind you, I don't know when you came into town. We only met a few days ago."""
+632;MATT;"""""Guess it's possibly one of the major setbacks of this line of business. Very few grow too old and gray and get to die happy in their beds.|God knows I wasn't planning to."""" There's a long, awkward pause interspersed with bits of conversation for about 15 minutes before the hooded figure returns, enters the door, comes over and whispers for a good solid minute in the ear of Treev, before stepping back and calmly walking back to its corner. Treev sits up. """"Well, parts of your story certainly hold up. The body has been there for a while, at least from before I saw you.|Mind you, I don't know when you came into town. We only met a few days ago."""""
 633;TALIESIN;If we were smart enough to take care of her and smart enough to pull all of this off, this would be a ridiculous move.
 634;LAURA;(laughs) That we would come to hire her after we had already--
 635;MARISHA;Killed her?
 636;TALIESIN;I would beg you to explain why we're having this conversation.
-637;MATT;"""Oh, believe me. A lot of you doesn't make sense, period. So I'm just trying to figure it all out."" And he rubs the end of his long draconian snout."
+637;MATT;"""""Oh, believe me. A lot of you doesn't make sense, period. So I'm just trying to figure it all out."""" And he rubs the end of his long draconian snout."
 638;TALIESIN;The woman in question helped murder my entire family, took great pleasure and delight in it. I have been tracking her for years.
-639;MATT;"""What you plan to do when you find her, then?"""
+639;MATT;"""""What you plan to do when you find her, then?"""""
 640;TALIESIN;Kill her. That's all. I've lost my taste for anything beyond that, but she is dangerous and she is evil.
 641;LIAM;In this moment, everyone in this room wants the same thing.
 642;MARISHA;We didn't come to you because we necessarily needed to go through the proper channels, we did it because we were trying to be forthcoming. Clearly you are all a talented bunch, so are we.
 643;TALIESIN;My feelings for her have become very complex. I don't care who kills her at this point.|She just needs to be removed from the earth.
-644;MATT;"""Which one of you is your dealmaker?"""
+644;MATT;"""""Which one of you is your dealmaker?"""""
 645;LIAM;I boot Scanlan forward on the tush.
 646;SAM;Hello, hi.
-647;MATT;"""This one?"""
+647;MATT;"""""This one?"""""
 648;SAM;I make the best deals, I know the best words.
-649;MATT;"""This one?"""
+649;MATT;"""""This one?"""""
 650;SAM;Sometimes it's Vex, but many times it's me.
-651;MATT;"He leans over the bar and gets real close up to you, and takes a moment to (sniffs). ""Aye, you smell like trouble. I like that."" Make a persuasion check."
+651;MATT;"He leans over the bar and gets real close up to you, and takes a moment to (sniffs). """"Aye, you smell like trouble. I like that."""" Make a persuasion check."
 652;SAM;What am I persuading him to do?
 653;MATT;This is your essence of presence and telling him that you're the kind of person that--
 654;SAM;Oh, my general charm?
 655;MATT;Your general charm.
 656;TALIESIN;I don't know what he's wearing, but it's very nice.
 657;SAM;Persuasion, you say? 29.
-658;MATT;"""How is this for a deal? I got a nice fine look at your faces, I got friends all across these lands. If what you say is true, you go. We let you leave. You find this murdering bitch, you kill her. I want one thing, her good hand. I think that would be vengeance enough for the mistress."""
+658;MATT;"""""How is this for a deal? I got a nice fine look at your faces, I got friends all across these lands. If what you say is true, you go. We let you leave. You find this murdering bitch, you kill her. I want one thing, her good hand. I think that would be vengeance enough for the mistress."""""
 659;MARISHA;I mean, we don't have any use for it.
 660;TALIESIN;I feel very good about that deal.
 661;LIAM;Good terms.
-662;MATT;"""Not talking to you. I'm talking to you."""
+662;MATT;"""""Not talking to you. I'm talking to you."""""
 663;SAM;That's lovely, but we can't find her without some assistance.
-664;MATT;"""Well, you've come to the right place. What assistance do I have to give you, what do you need?"""
+664;MATT;"""""Well, you've come to the right place. What assistance do I have to give you, what do you need?"""""
 665;SAM;We need to get this curse off of the thing that found your assassin.
-666;MATT;"""Can't really help you with that, sorry, mate."""
+666;MATT;"""""Can't really help you with that, sorry, mate."""""
 667;SAM;Don't have any magic wielders among you?
-668;MATT;"""We've got scattered mercs throughout the city, aye, but they work for coin, and half of them are busy in other jobs."""
+668;MATT;"""""We've got scattered mercs throughout the city, aye, but they work for coin, and half of them are busy in other jobs."""""
 669;LIAM;We have coin.
-670;MATT;"""How much you got?"""
+670;MATT;"""""How much you got?"""""
 671;LIAM;What do we got?
 672;TRAVIS;Enough.
 673;TALIESIN;Let us know what it takes. Money is money and we have a long way to go and a lot to deal with, but we are happy to pay for the work that is done.
-674;MATT;"""All right. I can call someone in."""
+674;MATT;"""""All right. I can call someone in."""""
 675;SAM;We also may need some naval assistance--
 676;LAURA;Specifically an airship of sorts--
 677;TALIESIN;Or transportation, she's heading, she's on a boat, she's heading north to the island of--
 678;TRAVIS;Glintshore.
 679;MARISHA;Or, you know, even if you know of any trees, big trees.
-680;MATT;"He goes ""Hmm. Ships, no, not much in the way of ships here in the middle of a desert, you're looking for them sky-buggers. Looking for a ship like that for seafaring types you're going to want to go past the Agrin Mountains, then make your way towards the Bay of Gifts."""
+680;MATT;"He goes """"Hmm. Ships, no, not much in the way of ships here in the middle of a desert, you're looking for them sky-buggers. Looking for a ship like that for seafaring types you're going to want to go past the Agrin Mountains, then make your way towards the Bay of Gifts."""""
 681;MARISHA, TALIESIN;Bay of Gifts.
-682;MATT;"""That's where you'll find the port town of Shamal."""
+682;MATT;"""""That's where you'll find the port town of Shamal."""""
 683;MARISHA;Port town of Shamal?
-684;MATT;"""Shamal. The mountain range is vast in itself, you're looking at, oh, at least a week on foot to try and traverse those mountains."""
+684;MATT;"""""Shamal. The mountain range is vast in itself, you're looking at, oh, at least a week on foot to try and traverse those mountains."""""
 685;LIAM;Did you say Bay of Gifs?
 686;SAM;Bay of Jifs, it's pronounced.
-687;MATT;"""I'm going to fucking fuck you."" (laughter)"
+687;MATT;"""""I'm going to fucking fuck you."""" (laughter)"
 688;TALIESIN;It's a local joke, I'm so sorry.
 689;MARISHA;The port of Shamal?
 690;SAM;There is a skyport near here, is that true?
-691;MATT;"""Aye, it's over by the--"""
+691;MATT;"""""Aye, it's over by the--"""""
 692;SAM;Controlled by the local government?
-693;MATT;"""There's no one fucking controls the skyport."""
+693;MATT;"""""There's no one fucking controls the skyport."""""
 694;TALIESIN;We're not asking you, we have other friends as well.
-695;MATT;"""Well, if you're looking for speed, it's probably your best bet. Ships on this ocean, let's say the weather's not usually handy."""
+695;MATT;"""""Well, if you're looking for speed, it's probably your best bet. Ships on this ocean, let's say the weather's not usually handy."""""
 696;TALIESIN;We are looking for speed, and a crazy captain.
-697;MATT;"""Well, wish you the best of luck."""
+697;MATT;"""""Well, wish you the best of luck."""""
 698;LAURA;Thank you.
-699;MATT;"""Now, go! Kill her. Give me her hand. I figure if time goes by and I haven't heard from you, you've either died or I'll be sending some of our mercs to come find you."""
+699;MATT;"""""Now, go! Kill her. Give me her hand. I figure if time goes by and I haven't heard from you, you've either died or I'll be sending some of our mercs to come find you."""""
 700;LIAM;Yeah, but the magic thing with the gun.
 701;SAM;How long would it take to get this person who can remove a curse?
 702;TALIESIN;Or if you were going to go do something like this, who would you find in town?
-703;MATT;"""If you're looking for fast, speedy, and immediate assistance with this, well, that's going to have to run the cost up a bit, see. We have quite an enchanter that could probably help you with that."""
+703;MATT;"""""If you're looking for fast, speedy, and immediate assistance with this, well, that's going to have to run the cost up a bit, see. We have quite an enchanter that could probably help you with that."""""
 704;LAURA;Oh really?
-705;MATT;"""Aye. See if in the next hour I could bring him in, but it'll run you, full disillusion or whatever you need, 750 gold."""
+705;MATT;"""""Aye. See if in the next hour I could bring him in, but it'll run you, full disillusion or whatever you need, 750 gold."""""
 706;TALIESIN;Not full disillusion, how about a transference?
-707;MATT;"""Transference--"""
+707;MATT;"""""Transference--"""""
 708;TALIESIN;To move the enchantment to another object.
-709;MATT;"""Well, takes--"""
+709;MATT;"""""Well, takes--"""""
 710;LAURA;It's a much easier enchantment.
-711;MATT;"""Moving something takes a little bit longer than to just get rid of something."""
+711;MATT;"""""Moving something takes a little bit longer than to just get rid of something."""""
 712;TALIESIN;How much longer?
-713;MATT;"""I dunno, not one of them types. But I mean, we've had a couple of enchantments moved in the past, and that was anywhere from a few days to a few weeks, get that done."""
+713;MATT;"""""I dunno, not one of them types. But I mean, we've had a couple of enchantments moved in the past, and that was anywhere from a few days to a few weeks, get that done."""""
 714;MARISHA;Why don't we call them in and have them look at it?
-715;MATT;"""All right."""
+715;MATT;"""""All right."""""
 716;SAM;750? Do we have that to spare?
 717;TRAVIS;Yes.
 718;TALIESIN;That's worth its weight.
-719;MATT;"""750."""
+719;MATT;"""""750."""""
 720;LAURA;750, or if you have a need of gems, we have gems.
 721;LIAM;You don't get fast and cheap.
 722;TALIESIN;I know.
 723;SAM;Are you a gem lover?
-724;MATT;"""I carry a bit of jewelry on occasion."""
+724;MATT;"""""I carry a bit of jewelry on occasion."""""
 725;SAM;I like you. What do we have?
 726;LAURA;So many things. You should call your enchanter.
-727;MATT;"""All right,"" and he goes ahead and pulls out a small tome of blank sheets, many you see have been torn out, and he makes a quick note on one, rolls it up very simply, doesn't do the usual rigmarole of an official writ, but hands it to the masked hooded figure in the corner who walks out and darts off. ""Kyme'll be here in a hour."""
+727;MATT;"""""All right,"""" and he goes ahead and pulls out a small tome of blank sheets, many you see have been torn out, and he makes a quick note on one, rolls it up very simply, doesn't do the usual rigmarole of an official writ, but hands it to the masked hooded figure in the corner who walks out and darts off. """"Kyme'll be here in a hour."""""
 728;LAURA;An hour.
 729;SAM;Kine?
-730;MATT;"""Kyme."""
+730;MATT;"""""Kyme."""""
 731;LAURA;Kynan?
 732;LIAM;Sorry, that rang a bell. Sorry.
-733;MATT;"""Payment?"""
+733;MATT;"""""Payment?"""""
 734;LAURA;Payment?
 735;SAM;Up front? Wow.
 736;LAURA;But we don't even know what he's doing yet.
-737;MATT;"""Do you trust in my service?"""
+737;MATT;"""""Do you trust in my service?"""""
 738;LAURA;Of course, I don't know what we're going to have him do, that's all.
-739;MATT;"""Well if you'd much rather, we could go ahead and clean out your guts here in the floor, wouldn't be the first time I had to swab the floors here."""
+739;MATT;"""""Well if you'd much rather, we could go ahead and clean out your guts here in the floor, wouldn't be the first time I had to swab the floors here."""""
 740;LAURA;How about these two beautiful sapphires? They're quite lovely.
-741;MATT;"""All right."""
+741;MATT;"""""All right."""""
 742;LAURA;And-- and I pull out a giant raw ruby as well.
 743;MATT;"He knocks the countertop and gestures for you to put them down. He looks over at one of the guys in the bar. They've all relaxed a bit now, two of them have sat down. One of them approaches; human, a little scruffy, looks like he's a little ill to be honest, like he's probably not had a good week of food. He, however, walks up and fumbles through a small pouch and pulls out a small jeweler's eyepiece and takes them up and inspects each of them independently. How much are they worth?"
 744;LAURA;200 each for the sapphires, and the ruby is 150.
 745;SAM;Jesus, Laura.
 746;LAURA;It's only a hundred gold short!
-747;MATT;"""I'd take it."" Sits back down. ""Very well, debt is paid."" Takes the gems, pops them in his little side pouch. Do you guys wait for the hour?"
+747;MATT;"""""I'd take it."""" Sits back down. """"Very well, debt is paid."""" Takes the gems, pops them in his little side pouch. Do you guys wait for the hour?"
 748;TALIESIN;I was going to say, if somebody wants to go booking passage on an airship, my personal feeling is that Grog and Scanlan would be the people to send on such an adventure.
 749;SAM;Grog? I mean, yes, Grog would be good at that, yes, let's do that.
 750;TALIESIN;I'm only saying Grog because then they know what they're getting into.
@@ -759,7 +759,7 @@
 757;TRAVIS;Just call me Baracus, let's go.
 758;SAM;All right, we'll go.
 759;TALIESIN;Our friends are going to arrange travel for us, the rest of us are going to stay here, is that appropriate?
-760;MATT;"""Certainly. Sit, I'll get you some food."" So is it going to be just you two?"
+760;MATT;"""""Certainly. Sit, I'll get you some food."""" So is it going to be just you two?"
 761;SAM;I guess we're going to go try to find an airship.
 762;TRAVIS;Yeah, Twins! Schwarzenegger and DeVito, at it again! (laughter)
 763;TALIESIN;Julius, my god!
@@ -786,9 +786,9 @@
 784;TRAVIS;Do you mind if I ring the bell?
 785;SAM;Yeah, go for it.
 786;TRAVIS;Can I ring the fucking shit out of that bell?
-787;MATT;"As you step up onto the stone platform both of you, the two guys that are working, the guy keeps putting the barrels, there's like two or three on the side there, and he goes ahead and sets one of the three up, staring at you as you approach. The other guy is to the side, goes, ""Can I help you?"" As you walk past and turn back and smile and (bell ringing) start ringing the crap out of it. Make a strength check."
+787;MATT;"As you step up onto the stone platform both of you, the two guys that are working, the guy keeps putting the barrels, there's like two or three on the side there, and he goes ahead and sets one of the three up, staring at you as you approach. The other guy is to the side, goes, """"Can I help you?"""" As you walk past and turn back and smile and (bell ringing) start ringing the crap out of it. Make a strength check."
 788;TRAVIS;Aww no, oh that's not too bad. 13.
-789;MATT;"13, okay. You have enough control over your physical brawn as to not snap or destroy the bell, however, what happens is after you ring the bell for a few seconds, the guy goes, ""Wait, no!"" And before anything else happens, the chains that were slack tighten up, and the platform begins to lift up. The guy who had two barrels left on the platform still is like ""No, wait!"" And goes over and tries to grab one of the barrels as it tumbles off and breaks on the ground next to him.|(yelling in Marquesian) and is raising his fists."
+789;MATT;"13, okay. You have enough control over your physical brawn as to not snap or destroy the bell, however, what happens is after you ring the bell for a few seconds, the guy goes, """"Wait, no!"""" And before anything else happens, the chains that were slack tighten up, and the platform begins to lift up. The guy who had two barrels left on the platform still is like """"No, wait!"""" And goes over and tries to grab one of the barrels as it tumbles off and breaks on the ground next to him.|(yelling in Marquesian) and is raising his fists."
 790;SAM;We're on an elevator?
 791;MATT;Yeah, and it's now lifting up and it's about 15-20 feet off the ground and it's going up to the top. The bell seemed to have notified whatever crew is bringing the platform up, but he didn't get a chance to finish bringing his load off the platform before you rung the bell.
 792;TRAVIS;I think we're doing it right.
@@ -797,7 +797,7 @@
 795;SAM;Natural 20.
 796;TRAVIS;Wow!
 797;SAM;Love me some airships.
-798;MATT;"Actually, skyships originated in Ank'Harel.|This is where the crystals that hold them aloft are enchanted. There have been other ships. There are different designs that are constructed in different towns. You do know that there is no skyship transport to Wildemount, and that was part of the reason why the Sovereign Uriel was trying to make that deal with the Briarwoods under the idea that it would open trade with Wildemount.|It's pretty insular, locked off from the larger countries here that work together. The skyport here is probably the first skyport that was built and this is the origin of that tech. As you come to the very top of the platform, it eventually stops and you see one gentleman there who's essentially working this large crank that brings the platform up and it has a series of thick chains that wind on themselves.|As soon as he finishes and you guys get to the top he turns. ""What, yes, what. Hello?"""
+798;MATT;"Actually, skyships originated in Ank'Harel.|This is where the crystals that hold them aloft are enchanted. There have been other ships. There are different designs that are constructed in different towns. You do know that there is no skyship transport to Wildemount, and that was part of the reason why the Sovereign Uriel was trying to make that deal with the Briarwoods under the idea that it would open trade with Wildemount.|It's pretty insular, locked off from the larger countries here that work together. The skyport here is probably the first skyport that was built and this is the origin of that tech. As you come to the very top of the platform, it eventually stops and you see one gentleman there who's essentially working this large crank that brings the platform up and it has a series of thick chains that wind on themselves.|As soon as he finishes and you guys get to the top he turns. """"What, yes, what. Hello?"""""
 799;TRAVIS;Meep-meep!
 800;SAM;Be pleased. We are here to inquire about some business if you don't mind.
 801;MATT;He points that way, and you guys look right, and the rest of this terrace for the record-- there are two skyships that are currently docked here at the moment. One that has a very nice, thick, heavy design, it has beautiful gems encrusted in the side and there's brass and gold inlay that twists into this turquoise transition to the bottom. It's a beautiful ship. You can see there's a crew of about 12, that are currently loading things onto it right now. There's a big, crane-like apparatus similar to what you had in Emon that is currently putting things onto the ship. It looks like it's being heavily loaded for transport somewhere. There's another ship, it looks familiar, it's actually very similar to the Emon designs that you guys saw at the skyports over there that appears to be, by about six heavy chains, locked to the opposite side of this skyport and doesn't seem to have any apparent hustle bustle of crew around. It's a little bit smaller than the more intricate design. The one that has all the work around it does match some of the design aesthetic of some of the higher end areas of Ank'Harel, so that you probably imagine it was one of the original skyships that was built here. The other one you saw has the small fins on the side, similar to the one you rode across to Vasselheim.|You do also notice that there are about six Hands of Ord scattered across the terrace in full armor that are basically keeping an eye out and watching everything, making sure that no bullshit goes down. You do see a small building that's in the center of this terrace, that maybe has about three or four different rooms. Apparently, the individual who was overseeing this entire process with the one big ship is walking back and forth between with instructions to the foreman who's yelling out to the crewmen who are loading up this big ship. That'll probably be the place to go to inquire.
@@ -808,74 +808,74 @@
 806;TRAVIS;Green dragon unveils herself and we die.
 807;LIAM;My barrels! (dragon roaring noise)
 808;TRAVIS;Shit, literally in the last place we would have looked.
-809;MATT;"So as you walk into the room, it's fairly quiet. There appears to be a clerk office there with a bunch of ledgers stacked up, and you can see a layout of a number of days with notes scrawled in a language that you don't recognize.|There are a couple of small clockwork timepieces that are against the walls there. And you see a younger woman, probably mid-20s, but going gray a little early all on one side of her head, who is currently going through one of these books. She has a quill between her teeth right now, she's thumbing through the pages. Looks up, ""Can I help you?"" Takes the quill out, sets it down."
+809;MATT;"So as you walk into the room, it's fairly quiet. There appears to be a clerk office there with a bunch of ledgers stacked up, and you can see a layout of a number of days with notes scrawled in a language that you don't recognize.|There are a couple of small clockwork timepieces that are against the walls there. And you see a younger woman, probably mid-20s, but going gray a little early all on one side of her head, who is currently going through one of these books. She has a quill between her teeth right now, she's thumbing through the pages. Looks up, """"Can I help you?"""" Takes the quill out, sets it down."
 810;SAM;Hello, Be pleased, beep beep. My associate and I would like to inquire about renting an airship.
-811;MATT;"""Renting an airship."""
+811;MATT;"""""Renting an airship."""""
 812;SAM;Chartering it for a trip.
-813;MATT;"""Okay, well for now, let's see. Ship Vusin is already chartered and is loading up to be heading northward towards Issylra. That is not available. The other one which is the Deera has been docked for about four weeks without use. So you could go inquire with the captain there."""
+813;MATT;"""""Okay, well for now, let's see. Ship Vusin is already chartered and is loading up to be heading northward towards Issylra. That is not available. The other one which is the Deera has been docked for about four weeks without use. So you could go inquire with the captain there."""""
 814;SAM;Is that the crappier one or the better one? MATT It's the smaller one.|Okay, so we would charter from the captain themself, not from you?
-815;MATT;"""Well the captain would pay us a cut based on what the destination is."""
+815;MATT;"""""Well the captain would pay us a cut based on what the destination is."""""
 816;SAM;So I can do my homework, how much do you think a week's charter would run on an airship?
-817;MATT;"""That is for you to negotiate with the captain."""
+817;MATT;"""""That is for you to negotiate with the captain."""""
 818;TRAVIS;Yes, is there any way to book passage on the ship that's already moving northward?
 819;SAM;As passengers.
-820;MATT;"""That is not a passenger-based ship, unfortunately that is actually working for one of the guilds. It is paid for use of their mercantile only."""
+820;MATT;"""""That is not a passenger-based ship, unfortunately that is actually working for one of the guilds. It is paid for use of their mercantile only."""""
 821;SAM;Okay.
 822;TRAVIS;How fast is that smaller ship?
-823;MATT;"""Unloaded, pretty quick. The cargo can load down ships."""
+823;MATT;"""""Unloaded, pretty quick. The cargo can load down ships."""""
 824;TRAVIS;Hmm, yes.
-825;MATT;"""Depends on how fast you wish to go and where you are going. May I ask where you are planning to charter this to?"""
+825;MATT;"""""Depends on how fast you wish to go and where you are going. May I ask where you are planning to charter this to?"""""
 826;SAM;Our mission is a bit of a hush-hush one, we better not disclose that.
 827;TRAVIS;Yeah, we are going to an ocean.
-828;MATT;"""Perhaps it is best that we negotiate the price here than as opposed to with the captain."""
+828;MATT;"""""Perhaps it is best that we negotiate the price here than as opposed to with the captain."""""
 829;SAM;Yes, that would be preferable for sure.
 830;TRAVIS;Wait, why? Who's the captain?
-831;MATT;"She stands up and walks over to one of the small windows that leads out to the terrace and you can see another bell that's out there and she grabs the edge (bell ringing) on the bell, goes back to her seat. ""I'm calling the captain, he'll be here."" A few minutes pass, in the distance out the window you can see a small rope ladder drops, and a figure makes their way over and walks in.|Inside, in gold-trimmed armor is a familiar sight, this is Captain Damon, the guy who actually brought you guys across the Ozmit Sea."
+831;MATT;"She stands up and walks over to one of the small windows that leads out to the terrace and you can see another bell that's out there and she grabs the edge (bell ringing) on the bell, goes back to her seat. """"I'm calling the captain, he'll be here."""" A few minutes pass, in the distance out the window you can see a small rope ladder drops, and a figure makes their way over and walks in.|Inside, in gold-trimmed armor is a familiar sight, this is Captain Damon, the guy who actually brought you guys across the Ozmit Sea."
 832;SAM;It's our guy! Damon!
 833;MARISHA;Are there not that many pilots in the world?
 834;MATT;There aren't a lot of skyships. You would know, there's probably six in commission.
 835;SAM;How fast did this one make the Kessel Run?
 836;MATT;It was a week across the entire Ozmit Sea, that was with some cargo on board, so it wasn't very slow. It would have taken a normal ship two and a half weeks.
 837;SAM;Does Damon recognize us?
-838;MATT;"As he walks in he goes ""Yes, are we ready to--"""
+838;MATT;"As he walks in he goes """"Yes, are we ready to--"""""
 839;MARISHA;Wyverns attacked us!
 840;LIAM;(whispering) We're not there.
 841;MARISHA;I'm not there at all!
 842;TRAVIS;What did you end up drinking in that damn tavern?
 843;SAM;Captain Damon! Hello.
-844;MATT;"""Wait, I know you."""
+844;MATT;"""""Wait, I know you."""""
 845;SAM;Yes, we've flown together before. On the friendly skies.
-846;MATT;"""Yes, that was a dangerous journey."""
+846;MATT;"""""Yes, that was a dangerous journey."""""
 847;SAM;It was, and would have been more dangerous had we not been there. To protect you and your ship.
-848;MATT;"""Indeed. We appreciate that. What can I do for you?"" And he looks over towards the clerk who goes, ""They are looking to charter a ship northward. I know nothing else more, but I figured the confusion here would allow us at least both to discuss this so we can negotiate the proper price. So you talk, I'll be here to keep record."" And she opens a fresh page in her tome, dips her quill--"
+848;MATT;"""""Indeed. We appreciate that. What can I do for you?"""" And he looks over towards the clerk who goes, """"They are looking to charter a ship northward. I know nothing else more, but I figured the confusion here would allow us at least both to discuss this so we can negotiate the proper price. So you talk, I'll be here to keep record."""" And she opens a fresh page in her tome, dips her quill--"
 849;TRAVIS;Mmm. Ledgers.
 850;SAM;Oh, maybe we don't want any of this on the record for right now.
-851;MATT;"""Okay. Remember that for the negotiation."""
+851;MATT;"""""Okay. Remember that for the negotiation."""""
 852;SAM;Oh shit.
-853;MATT;"Captain winks at her. ""All right, so, we're very busy, our books are full and we have a few other individuals that are currently seeking use of our ship. So what is it you need, where are you going and for how long?"""
+853;MATT;"Captain winks at her. """"All right, so, we're very busy, our books are full and we have a few other individuals that are currently seeking use of our ship. So what is it you need, where are you going and for how long?"""""
 854;SAM;This would be a week or less for the mission.
 855;TRAVIS;Looking to leave quite soon.
 856;SAM;Maybe even tomorrow morning.
-857;MATT;"""All right."""
+857;MATT;"""""All right."""""
 858;SAM;We'd be going north. Correct?
 859;TRAVIS;Yes.
 860;SAM;Into the Ozmit Sea, and to a location that we would disclose to you once we get airborne.
-861;MATT;"You hear a voice in the back, ""Also consider that in the negotiation."""
+861;MATT;"You hear a voice in the back, """"Also consider that in the negotiation."""""
 862;SAM;But also consider this. We are on a mission that's very important to the security of both Marquet and other continents, and we have friends in high places. And I will flash our little badge.
 863;TRAVIS;Yes!
 864;SAM;The badge that J'Mon Sa Ord gave us.
 865;LIAM;Not your fake little star from pre-show?
-866;MATT;"He looks down and he goes, ""That looks very pretty."""
+866;MATT;"He looks down and he goes, """"That looks very pretty."""""
 867;TRAVIS;Oh, this is given from J'mon Sa Ord.
-868;MATT;"""I don't know who that is."""
+868;MATT;"""""I don't know who that is."""""
 869;SAM;Yes, I didn't think you would--
-870;MATT;"The clerk, however, says, ""Wait, you're saying you got something from J'mon Sa Ord. You saw J'mon Sa Ord, and you were given something."""
+870;MATT;"The clerk, however, says, """"Wait, you're saying you got something from J'mon Sa Ord. You saw J'mon Sa Ord, and you were given something."""""
 871;TRAVIS, SAM;Yes.
-872;MATT;"(laughter) ""Let me see this."""
+872;MATT;"(laughter) """"Let me see this."""""
 873;SAM;I hand it over.
-874;MATT;"She looks at it. (laughter fades) (laughter)|""Very well."""
+874;MATT;"She looks at it. (laughter fades) (laughter)|""""Very well."""""
 875;TRAVIS;Consider that in negotiation.
-876;MATT;"She looks over and meets eyes with the captain and goes, ""We're going to go ahead, you let me know the price and the palace is going to pay for this expedition."""
+876;MATT;"She looks over and meets eyes with the captain and goes, """"We're going to go ahead, you let me know the price and the palace is going to pay for this expedition."""""
 877;SAM;I didn't know it would do that!
 878;LAURA;That is the most valuable necklace!
 879;MATT;Opens the book and begins writing down a series of charges and is racking up--
@@ -884,38 +884,38 @@
 882;SAM;We'll probably need sparkling water, stat.|Lots of brandy for the trip.
 883;TRAVIS;Maybe some servants and some masseuses.
 884;SAM;Yes. I will definitely need someone with a knowledge of the sea, both in the air and down below, the waters below.
-885;MATT;"The captain says, ""Actually we've got an individual just for that."" He looks back to the clerk, ""Are you sure?"" ""Yes, it's fine, not a worry. We'll talk when they leave."""
+885;MATT;"The captain says, """"Actually we've got an individual just for that."""" He looks back to the clerk, """"Are you sure?"""" """"Yes, it's fine, not a worry. We'll talk when they leave."""""
 886;TRAVIS;Don't mind me, but I have violence on the mind at all times. Is there any customary weaponry or defense that you can put on this airship during our travels? Just in case we run into the same shit we did last time.
-887;MATT;"The captain goes, ""Actually, after the encounter we had over the Ozmit last time, I managed to outfit this ship with a brand new series of dragon arbalests, so this is going to be a well-defended journey."""
+887;MATT;"The captain goes, """"Actually, after the encounter we had over the Ozmit last time, I managed to outfit this ship with a brand new series of dragon arbalests, so this is going to be a well-defended journey."""""
 888;TRAVIS;Nice. Do they aim in all directions?
-889;MATT;"""You'll see."""
+889;MATT;"""""You'll see."""""
 890;TRAVIS;Nice.
 891;MATT;And you do recall seeing them when you were in Vasselheim, you saw them being brought down and installed on the ship. But that was last time you saw the ship.
 892;SAM;Can the ship be prepared to leave tomorrow morning?
-893;MATT;"""We can leave in the next hour, if you want."""
+893;MATT;"""""We can leave in the next hour, if you want."""""
 894;TRAVIS;Stand at the ready, our business is of great import.
 895;SAM;Yes, Grog. Yes it is. I think you should ring the bell to make this an official deal.
 896;TRAVIS;Can I ring the bell?
 897;MATT;You can if you want to.
 898;TRAVIS;But I don't grab it and ring it, I go (clang) one loud time.
-899;MATT;"The ringing is discordant and painful in proximity and the clerk went (groaning). The captain chuckles to himself. ""So. In the morning."""
+899;MATT;"The ringing is discordant and painful in proximity and the clerk went (groaning). The captain chuckles to himself. """"So. In the morning."""""
 900;SAM;We'll have to discuss with our associates, but be prepared as quickly as possible.
-901;MATT;"""All right. I'll assemble the crew and we'll be ready within the hour."""
+901;MATT;"""""All right. I'll assemble the crew and we'll be ready within the hour."""""
 902;SAM;Excellent.
 903;TRAVIS;How many of your crew will you have with you? Just ballpark it.
-904;MATT;"It would be a crew of eight. ""Normally seven, but we have eight now."""
+904;MATT;"It would be a crew of eight. """"Normally seven, but we have eight now."""""
 905;TRAVIS;And I'm sure this crew is your finest. No greenhorns. Men you've spent years with, trust your life with.
-906;MATT;"""Most of them, yes."""
+906;MATT;"""""Most of them, yes."""""
 907;TRAVIS;Most of them. How many do you not trust your life with?
-908;MATT;"""There is one we've had on board for a short time, but she's definitely proven worthy."""
+908;MATT;"""""There is one we've had on board for a short time, but she's definitely proven worthy."""""
 909;TRAVIS;Perhaps she should stay behind on this voyage.
-910;MATT;"""She's the one with the mastery of the ocean."""
+910;MATT;"""""She's the one with the mastery of the ocean."""""
 911;TRAVIS;She's coming with us.
 912;SAM;Thank you, Damon. Oh, one more thing. I asked you this last time, but are you still single?
-913;MATT;"""Yes?"""
+913;MATT;"""""Yes?"""""
 914;SAM;Okay, good to know.
 915;TRAVIS;Don't worry about him, there's a hubbub down in the quarter. People talking. It's the gold armor.
-916;MATT;"""I'm going to go ready my ship."""
+916;MATT;"""""I'm going to go ready my ship."""""
 917;TRAVIS;Yep. Good! We'll be back. Why did you ask him if he was single? That was so awkward.
 918;SAM;Because Vex really liked him last time.
 919;TRAVIS;Yeah, I know, but he thought you liked him. Now we have to--
@@ -988,7 +988,7 @@
 986;SAM;Going right into the desk, looking for anything. Keys, gold, contraband, weapons.
 987;MATT;Investigation check.
 988;SAM;23.
-989;MATT;"23. Scanning through you find the odd four copper pieces. You find a couple of small books.|One looks like it's on etiquette, and the other is written in a language you don't understand. But you gather it's Marquesian. You do also find some small notes-- like a little name that is drawn on the inside of one of the drawers. Looks old, like it's been there for a long time, and says ""Lelan."" And you find-- that's about it. You get the sense this isn't a stationary room that they use as a base of operations, it's almost like a rental space used when people want to come in here and do business. Which happens often in a casino establishment. They want to make sure that they provide their clientele with all the necessary needs, and a lot of the rooms on this center floor are to facilitate the meetings between the top and the bottom."
+989;MATT;"23. Scanning through you find the odd four copper pieces. You find a couple of small books.|One looks like it's on etiquette, and the other is written in a language you don't understand. But you gather it's Marquesian. You do also find some small notes-- like a little name that is drawn on the inside of one of the drawers. Looks old, like it's been there for a long time, and says """"Lelan."""" And you find-- that's about it. You get the sense this isn't a stationary room that they use as a base of operations, it's almost like a rental space used when people want to come in here and do business. Which happens often in a casino establishment. They want to make sure that they provide their clientele with all the necessary needs, and a lot of the rooms on this center floor are to facilitate the meetings between the top and the bottom."
 990;SAM;Damn it. All right, I'll do one more investigation check to see if there's any hidden compartments in the desk or around it.
 991;TRAVIS;Burn it to the ground.
 992;SAM;24.
@@ -998,8 +998,8 @@
 996;MATT;Sure, make another perception check.
 997;TRAVIS;18.
 998;MATT;Nope.
-999;SAM;"All right, fine. I will take the daggers, take the Marquesian book, whatever that was, take a huge dump on the desk, and take one of the daggers and dig a big piece of it and write on the wall, ""The Meat Man cometh."" (laughing)"
-1000;TALIESIN;"Wouldn't it be, ""The Meat Man goeth?"" Oh well, never mind."
+999;SAM;"All right, fine. I will take the daggers, take the Marquesian book, whatever that was, take a huge dump on the desk, and take one of the daggers and dig a big piece of it and write on the wall, """"The Meat Man cometh."""" (laughing)"
+1000;TALIESIN;"Wouldn't it be, """"The Meat Man goeth?"""" Oh well, never mind."
 1001;SAM;And then I'll let myself out.
 1002;MATT;Okay. You open the door. There are two people walking through. They glance over at you and keep walking. You close the door behind you and you have left your mark.
 1003;SAM;Okay. On the way out of the casino do I see any familiar faces?
@@ -1040,21 +1040,21 @@
 1038;TRAVIS;Well I've been to Harrah's!
 1039;MATT;The minimums stay where they are.
 1040;SAM;50 gold.
-1041;MATT;"All right, you throw 50 gold down. As you slap it down, still in your human guise, an individual to the left of you goes, ""Whew. All right. Big, strong opening and strong scent."" Scoots over a bit to the right. Go ahead and roll your dice."
+1041;MATT;"All right, you throw 50 gold down. As you slap it down, still in your human guise, an individual to the left of you goes, """"Whew. All right. Big, strong opening and strong scent."""" Scoots over a bit to the right. Go ahead and roll your dice."
 1042;SAM;Six.
 1043;MATT;Six.
 1044;LAURA;Double down!
-1045;MATT;"He goes, ""Mm. That's unfortunate."""
+1045;MATT;"He goes, """"Mm. That's unfortunate."""""
 1046;TALIESIN;Six is the double down, isn't it? Six is the double down.
 1047;LAURA;Yeah!
-1048;MATT;"""You can go ahead and double the price to add an additional 1d6. You're going for seven or 12."""
+1048;MATT;"""""You can go ahead and double the price to add an additional 1d6. You're going for seven or 12."""""
 1049;SAM;Sure, yeah.
 1050;TALIESIN;So roll one more die.
-1051;MATT;"""So 100 gold on the table. Roll one more dice. You want a one--"""
+1051;MATT;"""""So 100 gold on the table. Roll one more dice. You want a one--"""""
 1052;MARISHA;--or a six.
 1053;SAM;I got a five.
 1054;MARISHA;Aww.
-1055;MATT;"""I am very sorry my friend."" Shifts the coin away. 100 gold down now."
+1055;MATT;"""""I am very sorry my friend."""" Shifts the coin away. 100 gold down now."
 1056;SAM;I just say: I hate this casino.|(laughter)
 1057;MATT;Any other games you want to play?
 1058;SAM;No! No, I leave. Goddammit. Wait, what was the names? The names that they gave me? The two guys gave me?
@@ -1064,13 +1064,13 @@
 1062;SAM;It's fine. I'll ask the dealer, or the dicer, if he's seen Rutur around.
 1063;MATT;He kind of--
 1064;SAM;Jesus Christ. Five more gold.
-1065;MATT;"""Ah, yes. Rutur makes his way around here on occasion. Every couple weeks, maybe."" (laughter)"
+1065;MATT;"""""Ah, yes. Rutur makes his way around here on occasion. Every couple weeks, maybe."""" (laughter)"
 1066;LIAM;This city has had its way with you, Scanlan Shorthalt.
 1067;TALIESIN;You're never going to get a kiss.
 1068;TRAVIS;Take your finger out of my asshole, Gary.
-1069;MATT;"""He doesn't seem to carry much change with him."" (laughter)"
+1069;MATT;"""""He doesn't seem to carry much change with him."""" (laughter)"
 1070;SAM;Are you trying to do this to me on purpose?
-1071;MATT;"He looks at you strangely. ""Hm?"""
+1071;MATT;"He looks at you strangely. """"Hm?"""""
 1072;LIAM;You talking to Matt?
 1073;MATT;You keep coming back man, I don't know.
 1074;SAM;Fine.
@@ -1193,7 +1193,7 @@
 1191;LAURA;Did you steal it? Tell me you didn't do anything--
 1192;SAM;We did nothing illegal. And to sweeten the deal, Captain Damon will be our Damon pilot.
 1193;TALIESIN;That Captain Damon.
-1194;TRAVIS;"""Our Damon pilot."""
+1194;TRAVIS;"""""Our Damon pilot."""""
 1195;MARISHA;Did you tell him we were the ones with the wyverns? Because that's what I would have told him. Had I been there, theoretically.
 1196;SAM;That thought popped right into my head.
 1197;MARISHA;Really? Okay.
@@ -1231,16 +1231,16 @@
 1229;LIAM;It's more the grimace.
 1230;TALIESIN;I suddenly can hear thousands of Twitch viewers Googling. Googling like mad!
 1231;MATT;Noted.
-1232;LIAM;"Whoops. ""And then Vax died."""
-1233;MATT;"Disadvantage for the rest of the episode.|No. Treev goes, ""Oh and here they are, the ones who hired your help. Folks, I'd like to introduce you to Kyme, he's one of our fine allies in the Omnival Library here in the city, and I believe he can take care of your little problem. So talk."" And the guy spins around on the stool at the edge of the bar, and goes, ""Okay, so I have been told that you require some sort of disenchantment type thing. Who am I talking to here? There's a lot of you. You? Okay, come."""
+1232;LIAM;"Whoops. """"And then Vax died."""""
+1233;MATT;"Disadvantage for the rest of the episode.|No. Treev goes, """"Oh and here they are, the ones who hired your help. Folks, I'd like to introduce you to Kyme, he's one of our fine allies in the Omnival Library here in the city, and I believe he can take care of your little problem. So talk."""" And the guy spins around on the stool at the edge of the bar, and goes, """"Okay, so I have been told that you require some sort of disenchantment type thing. Who am I talking to here? There's a lot of you. You? Okay, come."""""
 1234;TALIESIN;All right. I have an object-- so hard to talk to that face.
 1235;LAURA;Scanlan. He seems like the type, you might want to try selling him some of that fusaka.
 1236;TALIESIN;I have an object that I own that someone is tracking me with. They are aware of my whereabouts, they've put some kind of enchantment on it. I was wondering if I could transfer that enchantment to another object, and send it in a different direction so that they don't know that we're following them.
-1237;MATT;"""That's possible, yes."""
+1237;MATT;"""""That's possible, yes."""""
 1238;TALIESIN;I would even be willing, if possible, to remove part of the object that I currently own, and then replace it with something else if necessary.
-1239;MATT;"""Depending on the strength of the enchantment, that can take anywhere within the next few weeks."""
+1239;MATT;"""""Depending on the strength of the enchantment, that can take anywhere within the next few weeks."""""
 1240;TALIESIN;Can I get you a drink? Are you all right?
-1241;MATT;"""Why? Why do you ask?"""
+1241;MATT;"""""Why? Why do you ask?"""""
 1242;LAURA;Can I insight check him?
 1243;MATT;Make an insight check, yeah.
 1244;LIAM;Yay.
@@ -1263,22 +1263,22 @@
 1261;LAURA;We need to remove the enchantment from it.
 1262;SAM;Okay.
 1263;LAURA;If we can remove the enchantment, if it takes a long time to transfer, maybe you can keep transferring it after we've left? Is that a thing?
-1264;MATT;"""I can get rid of the enchantment immediately, but it's gone. Transfer, that's a time-taking process, it's much more expensive than what I was promised as part of this contract."" Looks back to Treev. Treev's leaning back and he's like, ""I just brought you here to talk with them."""
+1264;MATT;"""""I can get rid of the enchantment immediately, but it's gone. Transfer, that's a time-taking process, it's much more expensive than what I was promised as part of this contract."""" Looks back to Treev. Treev's leaning back and he's like, """"I just brought you here to talk with them."""""
 1265;TALIESIN;We just want to know our options, sir, and time is sadly of the essence. What can you tell us about this?
-1266;MATT;"""Strange construction."""
+1266;MATT;"""""Strange construction."""""
 1267;TALIESIN;Yes.
-1268;MATT;"""Ah. I see what you're talking about."" He starts glancing-- shut up!-- Glancing at the bottom of Retort. ""It is a variation on a scrying enchantment, with a hint of a message-type base.|It's audio only, not visual."""
+1268;MATT;"""""Ah. I see what you're talking about."""" He starts glancing-- shut up!-- Glancing at the bottom of Retort. """"It is a variation on a scrying enchantment, with a hint of a message-type base.|It's audio only, not visual."""""
 1269;MARISHA;Son of a bitch!
 1270;TALIESIN;Can they track where we are?
-1271;MATT;"""They cannot track location, but this is a joint enchantment, there are two pieces to this.|And it would appear that, wherever the receiving end is, they can probably hear everything around it."""
+1271;MATT;"""""They cannot track location, but this is a joint enchantment, there are two pieces to this.|And it would appear that, wherever the receiving end is, they can probably hear everything around it."""""
 1272;MARISHA;Guys, this could be a gift, think of the possibilities.
 1273;TRAVIS;She's hearing this right now.
 1274;SAM;If she's listening.
-1275;MATT;"""Oh, I'm sure whoever has the other side of this enchantment is now well aware of everything we've just discussed."""
+1275;MATT;"""""Oh, I'm sure whoever has the other side of this enchantment is now well aware of everything we've just discussed."""""
 1276;LAURA;Great.
 1277;SAM;Maybe we should take it out of the room.
 1278;TALIESIN;Shh, no.
-1279;MATT;"""Who has the other side of this enchantment by the way?"" And he suddenly looks extremely nervous. Beads of sweat start showing up on his forehead."
+1279;MATT;"""""Who has the other side of this enchantment by the way?"""" And he suddenly looks extremely nervous. Beads of sweat start showing up on his forehead."
 1280;TALIESIN;I'll tell you what. You do the work quickly, you do the work well, and you follow a few other instructions of ours, and I will not say her name out loud right now. How does that sound to you?
 1281;MATT;What do you want? Disenchantment, transference, tell me.
 1282;TALIESIN;Not anymore, we just want the enchantment destroyed. And I will not say her name, so that she will know that you do not know who she is.
@@ -1286,7 +1286,7 @@
 1284;SAM;For your own protection.
 1285;TALIESIN;This is me, giving you a deal, good sir.|This is me, showing you respect. And you, if you can hear me, and I get the sneaking suspicion you can, I'm not ignoring you anymore.
 1286;SAM;Wait, before you do, a quick word, is there a way to reverse the direction? Okay.
-1287;MATT;"Reaches into a little pouch of components on the side. Takes things, crushes them, sprinkles them on. Looks about. ""Ahem, it's done, it's gone, here."""
+1287;MATT;"Reaches into a little pouch of components on the side. Takes things, crushes them, sprinkles them on. Looks about. """"Ahem, it's done, it's gone, here."""""
 1288;LAURA;What?! Really?
 1289;MARISHA;Can I check it?
 1290;MATT;Yeah.
@@ -1299,71 +1299,71 @@
 1297;MARISHA;Scanlan, help.
 1298;SAM;Yeah, I got a natural one, sister.
 1299;MARISHA;Oh boy. 16.
-1300;MATT;"As you're staring at it, you watch as the Ripley signature that's very, very small, put in the bottom of the piece of whitestone, begins to glow. Suddenly, he goes, ""By the way, it takes a moment. Put your face away please!"" And as you pull it back, it flashes, and then goes dark again. ""And... now it's done."""
+1300;MATT;"As you're staring at it, you watch as the Ripley signature that's very, very small, put in the bottom of the piece of whitestone, begins to glow. Suddenly, he goes, """"By the way, it takes a moment. Put your face away please!"""" And as you pull it back, it flashes, and then goes dark again. """"And... now it's done."""""
 1301;MARISHA;Okay, I'll look at it again. What does it look like?
 1302;MATT;Looks the same.
 1303;MARISHA;What do you mean it looks the same?
 1304;MATT;Meaning like, the signature's still there, the stone is still there, but that slight essence of slight enchantment that was there before is gone.
 1305;TALIESIN;You wouldn't happen to know where to get some construction materials on very quick notice?
-1306;MATT;"""No!"""
+1306;MATT;"""""No!"""""
 1307;LAURA;You wouldn't be able to identify something for me, would you?
 1308;TALIESIN;Oh yes, go ahead, do that.
 1309;LAURA;You seem so smart, is all.
-1310;MATT;"""This was not part of the agreement."""
+1310;MATT;"""""This was not part of the agreement."""""
 1311;LAURA;Darling, we're already here, please?
 1312;TALIESIN;And we didn't say your name.
 1313;MATT;Make a persuasion check.
-1314;MARISHA;"""And we didn't say your name."""
+1314;MARISHA;"""""And we didn't say your name."""""
 1315;LAURA;Oh, damn it. I will pay you.
-1316;MATT;"""How much?"""
+1316;MATT;"""""How much?"""""
 1317;LAURA;How much do you want?
 1318;MATT;Looks back at Treev. Treev goes--
 1319;LAURA;Just to identify something, that's all dear.
 1320;TALIESIN;Something simple.
-1321;MATT;"""100 gold, please."""
+1321;MATT;"""""100 gold, please."""""
 1322;LAURA;100 gold. Darling. It seemed effortless for you to do that before. Is it hard?
-1323;MATT;"""I have a shop to get back to. I'm sorry, I can't be here any longer."""
+1323;MATT;"""""I have a shop to get back to. I'm sorry, I can't be here any longer."""""
 1324;LAURA;Fine, fine.
 1325;MATT;And he gets up from the stool.
 1326;LAURA;Shit! Fine. A hundred gold, whatever. I just want to know, can you look at this please? It's a tea set, it's gold. Isn't it beautiful?
-1327;MATT;"Takes it from you and his hands are clammy, as he pulls it out of your grasp. And he looks over the tea set, and it's in his hands, he doesn't really know what to do with it. And he places it on the side. ""Okay."" Begins breathing heavily, and it's fogging the side of the metallic tea set. And you see this sweat dripping off of his nose. He's still very nervous about this endeavor and wants to get out of here as soon as possible. ""All right, this is a tea set of envenoming. Whenever you produce some sort of a liquid imbibement within the tea set, it's guaranteed to be a bad day for whoever drinks from it."""
+1327;MATT;"Takes it from you and his hands are clammy, as he pulls it out of your grasp. And he looks over the tea set, and it's in his hands, he doesn't really know what to do with it. And he places it on the side. """"Okay."""" Begins breathing heavily, and it's fogging the side of the metallic tea set. And you see this sweat dripping off of his nose. He's still very nervous about this endeavor and wants to get out of here as soon as possible. """"All right, this is a tea set of envenoming. Whenever you produce some sort of a liquid imbibement within the tea set, it's guaranteed to be a bad day for whoever drinks from it."""""
 1328;LAURA;It's so good we didn't drink from it.
 1329;TALIESIN;Does the liquid hold its potency or is it just within the tea set?
-1330;MATT;"""For a day."""
+1330;MATT;"""""For a day."""""
 1331;TALIESIN;Good to know.
 1332;LAURA;Lovely.
 1333;TALIESIN;Excellent.
 1334;SAM;Will someone die?
-1335;MATT;"""I'm not a master of poisons, I just know that it poisons."""
+1335;MATT;"""""I'm not a master of poisons, I just know that it poisons."""""
 1336;LAURA;Thank you so much.
-1337;MATT;"And he takes it and holds it, and is like, ""100 gold."""
+1337;MATT;"And he takes it and holds it, and is like, """"100 gold."""""
 1338;LAURA;Of course dear.
-1339;MATT;"""Thank you."" And as soon as he gets it, he lets go of it, puts it in his pouch. ""And good day. Treev, careful next time."" And he darts off, outside. Bursting through the door and into the alley. And Treev sits."
+1339;MATT;"""""Thank you."""" And as soon as he gets it, he lets go of it, puts it in his pouch. """"And good day. Treev, careful next time."""" And he darts off, outside. Bursting through the door and into the alley. And Treev sits."
 1340;TALIESIN;I was imagining the FBI agent from The Frighteners, I was having a lot of that.
 1341;MARISHA;I was imagining The Creep music video from Lonely Island.
-1342;MATT;"Kind of. Yeah, actually. Treev is like, ""Now that was fun to watch."""
+1342;MATT;"Kind of. Yeah, actually. Treev is like, """"Now that was fun to watch."""""
 1343;LAURA;That guy was weird.
-1344;MATT;"""He's a weird one. I knew he'd do the job, but honestly I like watching him twitch."""
+1344;MATT;"""""He's a weird one. I knew he'd do the job, but honestly I like watching him twitch."""""
 1345;TALIESIN;Thank you, that was very helpful. That was very helpful. They don't know that we're coming as they don't know how we're going or why, because we have spoken all of that outside of the range of that device. They don't know any of that.
 1346;MARISHA;True, the gun was in the other room.
 1347;TALIESIN;All they know is that we found the enchantment and killed it.
 1348;LIAM;Should we melt it just in case?
 1349;TALIESIN;No. There will be no more melting of my property for a little while yet. I have a bit of a quick shopping list before we head out of town. I was wondering if it would be possible to gather some quick supplies, if some of your people knew where to get simple construction materials, quickly. Today.
 1350;LAURA;And potions of healing.
-1351;MATT;"""Potions, head to the Suncut Bazaar. I'm sure you could find a few folks. We usually get ours from--"" And he starts looking through a list, he goes, ""Let's see, there's--"""
+1351;MATT;"""""Potions, head to the Suncut Bazaar. I'm sure you could find a few folks. We usually get ours from--"""" And he starts looking through a list, he goes, """"Let's see, there's--"""""
 1352;LIAM;Are we staying here for the night before heading out in the morning?
 1353;TRAVIS, TALIESIN;No.
 1354;LIAM;So we're sleeping on the ship?
 1355;TRAVIS, TALIESIN;Yes.
-1356;MATT;"""Nisaba are the two I know of, at least."""
+1356;MATT;"""""Nisaba are the two I know of, at least."""""
 1357;LAURA;Saaba and what?
-1358;MATT;"""Usar and Nisaba."""
+1358;MATT;"""""Usar and Nisaba."""""
 1359;LAURA;They'll give a good deal?
-1360;MATT;"""Perhaps. You ask them nicely."""
+1360;MATT;"""""Perhaps. You ask them nicely."""""
 1361;TALIESIN;I need lumber, steel, lead, and a couple other things. Very simple. Just some materials.|I'll show you what I'm building and I'll have you figure out the number.
-1362;MATT;"""Right."""
+1362;MATT;"""""Right."""""
 1363;TALIESIN;Loaded straight on the ship.
-1364;MATT;"""What you're looking for is the Bone Garden.|It's the northernmost side of the Suncut Bazaar.|They deal with a lot of the not guild-run sales of various construction means. More for the residential folk here in Ank'Harel."""
+1364;MATT;"""""What you're looking for is the Bone Garden.|It's the northernmost side of the Suncut Bazaar.|They deal with a lot of the not guild-run sales of various construction means. More for the residential folk here in Ank'Harel."""""
 1365;TALIESIN;That'll do.
 1366;MATT;For the sake of brevity, what are you searching for?
 1367;TALIESIN;I'm trying to get enough construction material to build a very basic 125-pound mountable cannon that I can move around the ship on wheels, and a little bit of shot for a cannon, about five pound shot. It's simple, but it's going to be a son of a bitch.
@@ -1396,29 +1396,29 @@
 1394;SAM;I'm a normal, human man.
 1395;MATT;You're still in your--
 1396;SAM;I forgot to take it off.
-1397;MATT;"So you're a normal, human man in non-Ank'Harel attire. Shows off the necklace. He looks at it.|""How did you come about that?"""
+1397;MATT;"So you're a normal, human man in non-Ank'Harel attire. Shows off the necklace. He looks at it.|""""How did you come about that?"""""
 1398;LAURA;We met with J'mon Sa Ord earlier. We have their blessing.
 1399;MATT;Make a persuasion check.
 1400;LAURA;18.
 1401;MATT;18 total?
 1402;LAURA;Yeah.
-1403;MATT;"He goes, ""Okay, what can I be of service to you?"""
+1403;MATT;"He goes, """"Okay, what can I be of service to you?"""""
 1404;LAURA;We're in need of some healing potions. I'm assuming, as a guard of the city, you have access to quite a few?
-1405;MATT;"""Could probably muster a few from the barracks, yes."""
+1405;MATT;"""""Could probably muster a few from the barracks, yes."""""
 1406;LAURA;Some greater healing potions would be wonderful.
-1407;MATT;"""I'll get what we can spare. We still have to keep enough to maintain our watch."""
+1407;MATT;"""""I'll get what we can spare. We still have to keep enough to maintain our watch."""""
 1408;LAURA;Of course.
-1409;MATT;"""Wait here. Give me a half-hour."""
+1409;MATT;"""""Wait here. Give me a half-hour."""""
 1410;SAM;Okay.
 1411;MATT;You guys wait for him and he comes back with six regular healing potions and three greater.
 1412;SAM;This thing is the best thing ever! I'm not holding anything but it's still cool! (laughter)
 1413;LAURA;Six regular?
 1414;TRAVIS;And three greater.
-1415;MATT;"""This is what we can spare from the nearby barracks."""
+1415;MATT;"""""This is what we can spare from the nearby barracks."""""
 1416;LAURA;Thank you so much. Your aid is appreciated.
-1417;MATT;"""If I could have your names, just to be safe that everything is--"""
+1417;MATT;"""""If I could have your names, just to be safe that everything is--"""""
 1418;LAURA;Be pleased. Vox Machina.
-1419;MATT;"""Vox Machina."""
+1419;MATT;"""""Vox Machina."""""
 1420;LAURA;And then I want to buy like three more greaters.
 1421;MATT;All right. That is 1500 gold.
 1422;LAURA;Can I say I haggled?
@@ -1429,7 +1429,7 @@
 1427;ALL;Oh!
 1428;TRAVIS;The sorcery is strong with this one, apparently.
 1429;MATT;Through diving between two different locations that sell these potions and forcing them to basically bid back and forth for your business, you manage to work it down to 1100 gold pieces for the three greater healing potions.
-1430;TALIESIN;"It's like you've got Amazon.com on your phone and you're going, ""Eh? Eh?"""
+1430;TALIESIN;"It's like you've got Amazon.com on your phone and you're going, """"Eh? Eh?"""""
 1431;LAURA;All right, three more greater healing potions.
 1432;MATT;Yes.
 1433;LAURA;Sounds good.
@@ -1483,20 +1483,20 @@
 1481;SAM;All right.
 1482;MATT;All right.
 1483;LAURA;I turn around and wink at him as I go up.
-1484;MATT;"All right, you guys make your way up the rope ladders. This is indeed the ship that you made across, although it has a new paint job on it. It looks a little bit nicer, but it also seems to have seen some disuse. You make your way onto the board and there you can see familiar ship hands that go around, nodding to you out of recognition. Some of them are pulling up the rope ladders behind you. You see two on the bottom there are now unchaining from the edge of where it's latched onto the side of the ship, on each side, that keeps it latched into the skyport. And Captain Damon comes up to the top to greet you.|""Very well. I see that you've come to begin the journey. Well, it is a pleasure to see you all again, safe and sound, although you are missing one. Two, actually."""
+1484;MATT;"All right, you guys make your way up the rope ladders. This is indeed the ship that you made across, although it has a new paint job on it. It looks a little bit nicer, but it also seems to have seen some disuse. You make your way onto the board and there you can see familiar ship hands that go around, nodding to you out of recognition. Some of them are pulling up the rope ladders behind you. You see two on the bottom there are now unchaining from the edge of where it's latched onto the side of the ship, on each side, that keeps it latched into the skyport. And Captain Damon comes up to the top to greet you.|""""Very well. I see that you've come to begin the journey. Well, it is a pleasure to see you all again, safe and sound, although you are missing one. Two, actually."""""
 1485;TALIESIN;Yes, we're a bit thinner. It has been difficult and we have friends elsewhere preparing for more difficult times. Are you aware of what's going on across the sea?
-1486;MATT;"""I'm very aware. That was the guild that owned the ship and ran our business disappeared in the attack, and we've been set adrift, making our own money and making ends meet in the meantime, doing odd jobs here and there."""
+1486;MATT;"""""I'm very aware. That was the guild that owned the ship and ran our business disappeared in the attack, and we've been set adrift, making our own money and making ends meet in the meantime, doing odd jobs here and there."""""
 1487;TALIESIN;Well, if you're interested, we are definitely moving towards correcting some of these problems. Quickly.
-1488;MATT;"""If you do, tell the guild that the ship crashed, because as of right now it's technically my ship."""
+1488;MATT;"""""If you do, tell the guild that the ship crashed, because as of right now it's technically my ship."""""
 1489;TALIESIN;Is this an insurance thing?
-1490;MATT;"""I didn't-- the guild owned and ran the shipping business, but I mean--"""
+1490;MATT;"""""I didn't-- the guild owned and ran the shipping business, but I mean--"""""
 1491;TALIESIN;Oh no. Yes, I'm a deep believer in insurance fraud. Of course.
-1492;MATT;"""It's not--"" (sighs)"
+1492;MATT;"""""It's not--"""" (sighs)"
 1493;LIAM;We're friends here. You're good.
-1494;MATT;"""I'd like to know where we're going. As that is part of the deal to be kept secret until boarding."""
+1494;MATT;"""""I'd like to know where we're going. As that is part of the deal to be kept secret until boarding."""""
 1495;TRAVIS;Actually, if you don't mind, we're heading north. Once we're away from port, we plan to inform you of our destination.
 1496;TALIESIN;Tomorrow.
-1497;MATT;"""North it is. Very well."" And he pulls a whistle from around his neck and blows it really loudly and everyone unleashes the chains from the side. (clanking sound) They crash down, slamming onto the terrace deck below. The ship lurches and lifts up a few feet naturally and finding its own balance, based on the enchantment of the crystals.|""You can stay on the edge if you'd like. You're welcome to find your quarters down below. But we are about to make sail."" He walks to the edge of the ship, the middle of the ship, the back where you can see he directs the position of it, and controls the crystals themselves. And the giant dragon-headed arbalist you see installed at the side. They're like the giant heavy crossbows that are bolted onto the side, these large spears-- the ones you were using in the fight before, they're nearly twice the size of what they were, and the front of them have this giant dark metal dragon head that is built around it. It's been definitely fitted to be a much more badass airship than you remember. It lifts up, and as the last bit of the sun disappears below the distant horizon and the city of Ank'Harel's lighting up for the evening time, you take up into the sky, slowly turning northward towards what you can see as barely visible, the silhouetted edge of the mountain range before you, the Agrad Mountains, making your way to the rest of your journey. And we're going to go ahead and take a break; we'll come back here in just a minute."
+1497;MATT;"""""North it is. Very well."""" And he pulls a whistle from around his neck and blows it really loudly and everyone unleashes the chains from the side. (clanking sound) They crash down, slamming onto the terrace deck below. The ship lurches and lifts up a few feet naturally and finding its own balance, based on the enchantment of the crystals.|""""You can stay on the edge if you'd like. You're welcome to find your quarters down below. But we are about to make sail."""" He walks to the edge of the ship, the middle of the ship, the back where you can see he directs the position of it, and controls the crystals themselves. And the giant dragon-headed arbalist you see installed at the side. They're like the giant heavy crossbows that are bolted onto the side, these large spears-- the ones you were using in the fight before, they're nearly twice the size of what they were, and the front of them have this giant dark metal dragon head that is built around it. It's been definitely fitted to be a much more badass airship than you remember. It lifts up, and as the last bit of the sun disappears below the distant horizon and the city of Ank'Harel's lighting up for the evening time, you take up into the sky, slowly turning northward towards what you can see as barely visible, the silhouetted edge of the mountain range before you, the Agrad Mountains, making your way to the rest of your journey. And we're going to go ahead and take a break; we'll come back here in just a minute."
 1498;TRAVIS;One thing before we do: we forgot to mention that next week during Game the Game, thanks to Magic Puzzle Quest, Matt and Marisha, Taliesin, Liam, and myself will be joining Ivan and Becca for Game the Game, from 5:30 to 6:30, so make sure you tune in. It's going to be a very special Game the Game. Thank you, Magic Puzzle Quest.
 1499;LAURA;Also thank you Backblaze!
 1500;MATT;All right guys, we'll see you in a few minutes. Thank you, Travis.|[break]|Hello, and welcome back to Critical Role. So as we left off, Vox Machina is--
@@ -1527,13 +1527,13 @@
 1525;MARISHA;(laughs) Damn it.
 1526;LAURA;Don't throw up again.
 1527;LIAM;While they're doing that, I'm actually flying next to the ship and praying for a while out in the dark.
-1528;MATT;"Okay. So yeah. You have very little idea of where you are other than watching the city slowly disappear. Above, as you look towards the front of the ship, where it's going, you can see little specks of light in the distance, almost like smaller cities or villages that slowly begin to move past and below you. And the stars in the sky breaking through some of the clouds that occasionally block as you progress. As the ship begins to rise about cloud level, you can see the very faint outline of the mountain range, and you then coast above it. As you begin to finally crest over the top of the mountain range itself, Captain Damon locks the ship steering mechanism in place and walks back to address all of you, and goes, ""All right, we're well on our way. We're heading north. We've been travelling for a number of hours now. Where are we going?"""
+1528;MATT;"Okay. So yeah. You have very little idea of where you are other than watching the city slowly disappear. Above, as you look towards the front of the ship, where it's going, you can see little specks of light in the distance, almost like smaller cities or villages that slowly begin to move past and below you. And the stars in the sky breaking through some of the clouds that occasionally block as you progress. As the ship begins to rise about cloud level, you can see the very faint outline of the mountain range, and you then coast above it. As you begin to finally crest over the top of the mountain range itself, Captain Damon locks the ship steering mechanism in place and walks back to address all of you, and goes, """"All right, we're well on our way. We're heading north. We've been travelling for a number of hours now. Where are we going?"""""
 1529;TALIESIN;Before--
 1530;MATT;(sighs)
 1531;TALIESIN;I swear this is important. Before we say anything, we would like to take a moment to meet the rest of the crew.
 1532;TRAVIS;Yes, and all hands on deck.
 1533;TALIESIN;To make sure that nobody suspicious has snuck on board and nobody is hiding their identity.
-1534;MATT;"""Very well."" He gathers the rest of the crew. You recognize a few of them. They have a few new faces, because they lost a few on the last journey. You individually meet each one with pretty heavy inspection from you guys. I want you to make insight checks, all of you, as you're inspecting this crew."
+1534;MATT;"""""Very well."""" He gathers the rest of the crew. You recognize a few of them. They have a few new faces, because they lost a few on the last journey. You individually meet each one with pretty heavy inspection from you guys. I want you to make insight checks, all of you, as you're inspecting this crew."
 1535;TALIESIN;No!
 1536;SAM;15.
 1537;TRAVIS;19.
@@ -1555,50 +1555,50 @@
 1553;TALIESIN;And this is everybody?
 1554;MATT;Yes.
 1555;TRAVIS;Captain.
-1556;MATT;"""Yes?"""
+1556;MATT;"""""Yes?"""""
 1557;TRAVIS;Who is it that's in charge of your seaworthy navigations? The newest member of your crew you mentioned?
-1558;MATT;"""Well, that would be Teera. She's actually been all about this ocean. Not necessarily by skyship, but she knows the area as well, and has since studied up and has become a very esteemed member of our crew."" He looks to her, and Teera's smile broadens again. ""That is correct. I'm happy to help in wherever it is you're looking to go.|Where are you going?"""
+1558;MATT;"""""Well, that would be Teera. She's actually been all about this ocean. Not necessarily by skyship, but she knows the area as well, and has since studied up and has become a very esteemed member of our crew."""" He looks to her, and Teera's smile broadens again. """"That is correct. I'm happy to help in wherever it is you're looking to go.|Where are you going?"""""
 1559;SAM;Shall we lay it on them, then? We're going to go near the island of glass, aka Glintshore.
-1560;MATT;"You watch her face go, and Captain Damon goes, ""Why Glintshore? That place is a rocky waste."""
+1560;MATT;"You watch her face go, and Captain Damon goes, """"Why Glintshore? That place is a rocky waste."""""
 1561;SAM;Well, we're not going there. We're going near it to find a shipwreck.
-1562;MATT;"""Shipwreck? There's probably hundreds of them! The place is dotted with reefs."""
+1562;MATT;"""""Shipwreck? There's probably hundreds of them! The place is dotted with reefs."""""
 1563;TALIESIN;We're looking for a ship called The Shrew.
-1564;MATT;"""So you're wanting us to take you to the Hespet Archipelago."""
+1564;MATT;"""""So you're wanting us to take you to the Hespet Archipelago."""""
 1565;MARISHA;Yeah.
 1566;TALIESIN;There is another ship on the way there, as well.
 1567;TRAVIS;Some say arch-ipelago, but yeah.
 1568;TALIESIN;There may be trouble.
 1569;SAM;The other ship may already be there, and if we can find the other ship, then we've found our destination.
-1570;MATT;"""Right. The arch-ipelago. Let's see. We have no sundry we're holding, so we're at maximum speed. I'd say two, maybe three days of travel, depending on weather."""
+1570;MATT;"""""Right. The arch-ipelago. Let's see. We have no sundry we're holding, so we're at maximum speed. I'd say two, maybe three days of travel, depending on weather."""""
 1571;SAM;Just to get in the area. It'll take us another day or two to find this ship.
 1572;TALIESIN;Well, not necessarily. Every day we scry.|Every day we hone in. We keep following where they're going.
 1573;MARISHA;Ideally, she does the hard work for us.
 1574;TRAVIS;It's worth noting as well that if we do find this ship, we do not mean her well.
-1575;MATT;"""I can only assume, going to Hespet."""
+1575;MATT;"""""I can only assume, going to Hespet."""""
 1576;MARISHA;You seem very familiar with this place.|Do you have more information?
 1577;LIAM;Or apprehension?
-1578;MATT;"""Hespit is a-- the whole network of islands there is a haven for criminals, fugitives, pirates, and everyone else who generally keeps away from the large continents. So you go without guard, stay without threat, you're likely to be bent into slavery, or end up left bleeding somewhere on the shoreline."""
+1578;MATT;"""""Hespit is a-- the whole network of islands there is a haven for criminals, fugitives, pirates, and everyone else who generally keeps away from the large continents. So you go without guard, stay without threat, you're likely to be bent into slavery, or end up left bleeding somewhere on the shoreline."""""
 1579;TRAVIS;Is that a promise?
 1580;LAURA;We're super powerful.
 1581;LIAM;You do the flying. We'll do the fucking shit up.
-1582;MATT;"""We'll have to come in low, most likely. I don't want to try and draw attention to this ship, because I'm sure it would fetch quite a penny if it were to fall into the hands of--"""
+1582;MATT;"""""We'll have to come in low, most likely. I don't want to try and draw attention to this ship, because I'm sure it would fetch quite a penny if it were to fall into the hands of--"""""
 1583;TRAVIS;I'm sure Keyleth would provide you with some cover as well.
-1584;MATT;"""Well, that would be very much appreciated."""
+1584;MATT;"""""Well, that would be very much appreciated."""""
 1585;MARISHA;I could do that.
-1586;MATT;"""Thankfully Glintshore itself is pretty much useless to most of their standards of business practices. It's mostly ignored by them, from what I know at least of what they do, but still, just to be safe and be careful."""
+1586;MATT;"""""Thankfully Glintshore itself is pretty much useless to most of their standards of business practices. It's mostly ignored by them, from what I know at least of what they do, but still, just to be safe and be careful."""""
 1587;SAM;Has Teera been around there? Does she know anything of that particular shipwreck?
-1588;MATT;"He's about to talk and Teera pipes up, ""I do, actually, and I will be guiding us directly to it, so don't worry."""
+1588;MATT;"He's about to talk and Teera pipes up, """"I do, actually, and I will be guiding us directly to it, so don't worry."""""
 1589;SAM;To the shipwreck?
-1590;MATT;"""Not to the shipwreck, but to the Glintshore."""
+1590;MATT;"""""Not to the shipwreck, but to the Glintshore."""""
 1591;SAM;Have you heard of that shipwreck? The Shrew?
-1592;MATT;"""I have not. But there are plenty of shipwrecks in the area. I'm sure there's much to recover, if that's what you're looking for."""
+1592;MATT;"""""I have not. But there are plenty of shipwrecks in the area. I'm sure there's much to recover, if that's what you're looking for."""""
 1593;LAURA;No, we'll stick with the Shrew.
-1594;MATT;"""I'll take you where I can."""
+1594;MATT;"""""I'll take you where I can."""""
 1595;TRAVIS;The island of glass, is it called that because of a glass production site? (laughter)
 1596;SAM;Yep.
 1597;LAURA;Was that hard for you, Grog?
 1598;TRAVIS;I hurt myself.
-1599;MATT;"Captain Damon says, ""I don't know the history, exactly, but at some point in time, something really bad happened. All the sand of the shores were fused into dark brown and black glass.|It's a jagged landscape, leading all the way up to the mountain. The jungle is petrified and dead.|It's not a welcoming place. I'm surprised why anyone would pay so much to go there. But I'm sure you have your reasons."""
+1599;MATT;"Captain Damon says, """"I don't know the history, exactly, but at some point in time, something really bad happened. All the sand of the shores were fused into dark brown and black glass.|It's a jagged landscape, leading all the way up to the mountain. The jungle is petrified and dead.|It's not a welcoming place. I'm surprised why anyone would pay so much to go there. But I'm sure you have your reasons."""""
 1600;MARISHA;Can I do a nature check to see if that sounds familiar?
 1601;MATT;Sure.
 1602;MARISHA;Beasts or something that would happen-- Heat, a lot of fucking heat. 26.
@@ -1611,11 +1611,11 @@
 1609;LIAM;Like a meteor or a comet from the sky.
 1610;TALIESIN;Even a comet wouldn't be enough. This is big.
 1611;MARISHA;Keyteor.
-1612;MATT;"As you guys are having this conversation, he goes, ""The mountain still stands. The jungle still stands, though petrified and burnt. I know not the means that brought it to where it is, but it's been that way for as long as we have history on it. Long ago."""
+1612;MATT;"As you guys are having this conversation, he goes, """"The mountain still stands. The jungle still stands, though petrified and burnt. I know not the means that brought it to where it is, but it's been that way for as long as we have history on it. Long ago."""""
 1613;MARISHA;How long ago was it?
-1614;MATT;"""I'm assuming the Age of Arcanum if anything."""
+1614;MATT;"""""I'm assuming the Age of Arcanum if anything."""""
 1615;TRAVIS;"Right. You said we have quarters on this ship; do you mind if I sleep under the stars?"
-1616;MATT;"""Be my guest."""
+1616;MATT;"""""Be my guest."""""
 1617;TRAVIS;Rocking. Going to commune with nature in my own way. Fart in the wind.
 1618;TALIESIN;I'm going to be far away from that.
 1619;TRAVIS;No one wants to join me? Get all hippie up on the deck of the ship?
@@ -1638,18 +1638,18 @@
 1636;SAM;But we're looking for the boat, not the island.
 1637;TALIESIN;The boat itself. There's work that always needs to be done. There'll be lights, unless they are hiding.
 1638;LIAM;You can alert one of us if we come upon a ship in the night or day, correct?
-1639;MATT;"""I have to sleep at some point as well."""
+1639;MATT;"""""I have to sleep at some point as well."""""
 1640;LIAM;Of course, but someone is awake?
-1641;MATT;"""Deshall, who is my second in command, will take over while I'm sleeping. There will be someone here, along with a few hands, taking shifts as well at all times."""
+1641;MATT;"""""Deshall, who is my second in command, will take over while I'm sleeping. There will be someone here, along with a few hands, taking shifts as well at all times."""""
 1642;MARISHA;I describe the ship to them from what I've seen.
 1643;LAURA;But it's in the ocean, isn't it? And we're very high above it?
 1644;TRAVIS;Do we want to go lower?
 1645;SAM;Yes.
 1646;TRAVIS;How high off the deck, would you say?
 1647;SAM;Off the sea? Three, maybe four feet? No. I don't know, couple hundred feet? You're the captain.
-1648;MATT;"""We're okay for now. High is fine. But once we get close to the archipelago we'll want to make sure that we keep within 100 feet of the surface. I could take it into the ocean. This can work as a functional ship in the water."""
+1648;MATT;"""""We're okay for now. High is fine. But once we get close to the archipelago we'll want to make sure that we keep within 100 feet of the surface. I could take it into the ocean. This can work as a functional ship in the water."""""
 1649;TRAVIS;Shut the hell up! Well, we want to stay out, right now.
-1650;MATT;"""Well then, you seem weary enough. You may have your rest, and rest assured that we'll be to your destination as soon as this ship can carry us. I'm going to rest myself."" He goes down to his quarters and Deshall takes over, who is mid-thirties, grizzled, scruff on his chin, but put together well, hair parted to one side, not a man of many words. He takes over the helm and keeps it going through the night. You guys go ahead and rest for the evening?"
+1650;MATT;"""""Well then, you seem weary enough. You may have your rest, and rest assured that we'll be to your destination as soon as this ship can carry us. I'm going to rest myself."""" He goes down to his quarters and Deshall takes over, who is mid-thirties, grizzled, scruff on his chin, but put together well, hair parted to one side, not a man of many words. He takes over the helm and keeps it going through the night. You guys go ahead and rest for the evening?"
 1651;LIAM;I'm going to meditate for an hour before bed.
 1652;TRAVIS;Could I take a shot of the sandkheg bottle? I would like to slowly start building up an immunity.
 1653;MATT;All righty. Make a constitution saving throw, Grog.
@@ -1657,7 +1657,7 @@
 1655;TRAVIS;29.
 1656;MATT;You drink it. You feel the sparkling numbness begin to spread across your throat. It's strange. It's weird. It's exhilarating. It triggers your adrenaline, and you almost go into a rage from the instinctual reaction of that sort of chemical release in your brain. You hold it in place, and you sit there a second and stare as it slowly goes down your system. You feel the warm, curling burn from inside your belly that fine alcohol gives you, that little shimmer of pins and needles down the back of your neck and your spine.|Your vision begins to blur a little bit. It takes you a lot of alcohol to get trashed, but you're a little buzzed.
 1657;TRAVIS;Sick. Awesome. Well played, sandkheg. I go to sleep.
-1658;MATT;"With your nightcap, you are good to go.|Looking under the stars, you finish your meditation. Everyone else, you go to rest fine.|Throughout the evening you sleep. The last thing you see before you go to bed is the edge of the mountain range, late into the night, and a small sparkle in a crescent shape. You ask one of the hands to the side. He points over and says, ""The Bay of Gifts."" This is the northern side where you see Shamal, the port city. That's the last little bastion of civilization of Marquet as it begins to approach from underneath as you all go to sleep.|The continent is behind you."
+1658;MATT;"With your nightcap, you are good to go.|Looking under the stars, you finish your meditation. Everyone else, you go to rest fine.|Throughout the evening you sleep. The last thing you see before you go to bed is the edge of the mountain range, late into the night, and a small sparkle in a crescent shape. You ask one of the hands to the side. He points over and says, """"The Bay of Gifts."""" This is the northern side where you see Shamal, the port city. That's the last little bastion of civilization of Marquet as it begins to approach from underneath as you all go to sleep.|The continent is behind you."
 1659;MARISHA;How many hours has it been?
 1660;MATT;When you come to consciousness after the evening's rest--
 1661;LAURA;I want to hold Fenthras in my hand and keep thinking about the things Saundor said.
@@ -1681,7 +1681,7 @@
 1679;MARISHA;Docked, like anchors down?
 1680;MATT;Seemingly. The sails aren't up.
 1681;TRAVIS;It's not at land? It's in the water?
-1682;MATT;"Yeah. Your vision flashes again and you can see the crew have all gathered on the deck, though details of their visage are obscured by the spell.|You see Ripley there with her cloak. She is talking to the rest of the crew and goes, ""All right, so. We've located it. We have eight hours.|Gather your things and drink well."" They all pull out these small vials, uncork, and drink down.|They all nod. One by one, they start diving off the ship and into the water. Five people, you're not sure of the sex, and Ripley, dive off the side. You're following her as she goes underwater; you can see the bubbles go past. Then the bubbles are no more and you watch as she is now breathing the water like it's air. Swimming downward. All of them are carrying, you see on the side, these heavy rock weights that are letting them guide down deeper into the water as it gets darker, until there's almost nothing to see. Then there's a flicker of light and you see Ripley is now holding her gun. There's a beam of light on the end of it that's giving them torchlight as they go deeper in. Then the spell fades."
+1682;MATT;"Yeah. Your vision flashes again and you can see the crew have all gathered on the deck, though details of their visage are obscured by the spell.|You see Ripley there with her cloak. She is talking to the rest of the crew and goes, """"All right, so. We've located it. We have eight hours.|Gather your things and drink well."""" They all pull out these small vials, uncork, and drink down.|They all nod. One by one, they start diving off the ship and into the water. Five people, you're not sure of the sex, and Ripley, dive off the side. You're following her as she goes underwater; you can see the bubbles go past. Then the bubbles are no more and you watch as she is now breathing the water like it's air. Swimming downward. All of them are carrying, you see on the side, these heavy rock weights that are letting them guide down deeper into the water as it gets darker, until there's almost nothing to see. Then there's a flicker of light and you see Ripley is now holding her gun. There's a beam of light on the end of it that's giving them torchlight as they go deeper in. Then the spell fades."
 1683;MARISHA;She's found it. She's there.
 1684;TRAVIS;She's got it?
 1685;MARISHA;She doesn't have it, but she's found the ship. She's right off the shore of the island.
@@ -1695,7 +1695,7 @@
 1693;TALIESIN;Was the sun with the island, or was the sun away from the island? Is there any way to even know that? Were they on the north side or the south side?
 1694;MATT;From what you can gather at this time, no.|That's part of the scry spell. You wouldn't be able to tell.
 1695;LIAM;I'm heading over to find the captain and the halfling to ask how far they estimate we are from the island.
-1696;MARISHA;"I heard Ripley say, ""We have eight hours."""
+1696;MARISHA;"I heard Ripley say, """"We have eight hours."""""
 1697;LAURA;That's how long the spell lasts.
 1698;TRAVIS;I have two vials of underwater breathing.
 1699;MARISHA;I'll take water breathing as a spell.
@@ -1707,17 +1707,17 @@
 1705;LAURA;That's sick.
 1706;MARISHA;I got us on lock, you guys.
 1707;TALIESIN;I had a plan. I'm putting it away.
-1708;MATT;"Yeah, so the potion enchantments are lesser than the spell, but the actual druidic spell effect is much better. You see him looking off in the distance as you're asking the question. He points and goes, ""Well given that might slow us down a bit--"" You look ahead and you now see, immediately visible from this point--"
+1708;MATT;"Yeah, so the potion enchantments are lesser than the spell, but the actual druidic spell effect is much better. You see him looking off in the distance as you're asking the question. He points and goes, """"Well given that might slow us down a bit--"""" You look ahead and you now see, immediately visible from this point--"
 1709;LAURA;Don't be a green dragon!
-1710;MATT;"What you are able to make out, because it's a familiar sight to you, are very tall, dark, distant thunderheads. The storm that you saw in your first vision, Keyleth, apparently is still swirling its way through the middle of the ocean.|It's violent, it's visceral, and you can see the weight of the water giving it this deep, dark, gray color, and the rest of the ocean below is obscured with the blur of rainfall. He goes, ""Those are high clouds. I can't get above them.|The enchantment is only so strong to get us into that thinner air. So I recommend everyone hold on."""
+1710;MATT;"What you are able to make out, because it's a familiar sight to you, are very tall, dark, distant thunderheads. The storm that you saw in your first vision, Keyleth, apparently is still swirling its way through the middle of the ocean.|It's violent, it's visceral, and you can see the weight of the water giving it this deep, dark, gray color, and the rest of the ocean below is obscured with the blur of rainfall. He goes, """"Those are high clouds. I can't get above them.|The enchantment is only so strong to get us into that thinner air. So I recommend everyone hold on."""""
 1711;LIAM;Is there anything you can do about this?
 1712;MARISHA;I can. Get us closer.
-1713;MATT;"""What?"""
+1713;MATT;"""""What?"""""
 1714;TALIESIN;Trust her. She's crazy.
 1715;MARISHA;Straight through, fastest route, captain.
-1716;MATT;"""Okay, I trust you."" He brings it around and begins pulling forward. You can see this little metallic rod on the side and he pushes it forward even further. The crystals flicker for a second and the whole ship leans in a forward direction.|It takes about an hour before the shade from the thunderheads, which, you can't even see where they stop, they go up and up and up, begin to meet.|You're starting to see flashes in the clouds of lightning."
+1716;MATT;"""""Okay, I trust you."""" He brings it around and begins pulling forward. You can see this little metallic rod on the side and he pushes it forward even further. The crystals flicker for a second and the whole ship leans in a forward direction.|It takes about an hour before the shade from the thunderheads, which, you can't even see where they stop, they go up and up and up, begin to meet.|You're starting to see flashes in the clouds of lightning."
 1717;MARISHA;I go ahead and I start casting my first 8th-level spell, which is Control Weather. It's everything I've ever wanted, you guys!
-1718;MATT;"Yeah, concentration for up to eight hours.|So you guys watch as Keyleth stands at the bow of the ship, puts her arms out, and you see the flashes of lightning in the cloud. A bolt strikes her in one arm. She holds it in place. The bolt uses her as a conduit and then vanishes into her arm. Her other arm pulls another bolt to it, and it vanishes into her arm. You can see the energy's now circling around. She brings her arms out and thrusts them into the storm. The lightning protrudes out of each arm. As it hits the clouds, the clouds seem to almost melt away and carve this central path. The clouds are being pushed back, at gale force. These winds are separating them. You watch. For five miles around you, the storm basically parts to nearly nothing except for the very peripheral to the right and left side. You hear Captain Damon go, ""Okay! I see your point."""
+1718;MATT;"Yeah, concentration for up to eight hours.|So you guys watch as Keyleth stands at the bow of the ship, puts her arms out, and you see the flashes of lightning in the cloud. A bolt strikes her in one arm. She holds it in place. The bolt uses her as a conduit and then vanishes into her arm. Her other arm pulls another bolt to it, and it vanishes into her arm. You can see the energy's now circling around. She brings her arms out and thrusts them into the storm. The lightning protrudes out of each arm. As it hits the clouds, the clouds seem to almost melt away and carve this central path. The clouds are being pushed back, at gale force. These winds are separating them. You watch. For five miles around you, the storm basically parts to nearly nothing except for the very peripheral to the right and left side. You hear Captain Damon go, """"Okay! I see your point."""""
 1719;LIAM;Hot fucking damn, Keyleth!
 1720;LAURA;You know, I thought it was a possibility, but this is the first time I'm sure your girlfriend is way cooler than you.
 1721;LIAM;Everyone knew that.
@@ -1736,7 +1736,7 @@
 1734;MARISHA;Make the winds in our favor! I'm drunk on power!
 1735;MATT;The wind begins to build from behind. Some of you have to duck down now because it's starting to take. It almost takes your hat off, Scanlan.|You catch it. But it is picking up speed and you guys are beginning to coast forward. Occasionally the winds die down as you have to clear more of the storm. Over the next six or so hours, you come out the other side of the storm.
 1736;MARISHA;I go into a deep meditation. This is some Buddhist shit going on for me right now.
-1737;MATT;"Perfect. As the storm subsides, your ship has a clear view of distant breaks in the patterns of waves on the horizon. Multiple chained islands, many miles apart from each other, emerge. This, you've now begun to reach, is the Hespet Archipelago. Each of the twelve islands vary in size from massive rock to pebble-like protrusions.|They span and are scattered, and the ship begins to veer to the left as the captain begins to zero in on your destination. He yells out, ""We're going low! They have visibility!"" The ship begins to go into a relatively steep decline. You hear the wood creaking with the sudden shift in direction and weight. The gem on the right side begins to brighten while the one on the left begins to darken slightly, exemplifying the shift in energy and power. Eventually you're brought down, nearly coasting on the surface of the ocean, and as you get to about 40, 50 feet above you see the waves begin to part beneath it as whatever force is holding it there is now pushing the water down. He brings it up a little so it's not breaking the surface and coasts at an even 60 feet above.|Pushing forward, you already begin to see what you assume is the Isle of Glintshore. In this clear, sunlit moment, you also see, throughout the ocean, clusters of dangerous, jagged-looking reef, some ten, 15 below the surface, some actually breaching the surface of the ocean, some even deeper. This portion of the ocean is like a maze network of every ship captain's nightmare. You get the feeling why this has become a favored place of criminals to avoid pursuers and also why people who trade avoid it for many reasons, not just those who stay here. And also why the shipwreck probably found its way here. As you begin to grow closer to the island, you see, as it begins to come more into form, there is a singular mountain peak that's shifted mostly to the western side.|It's not a super peak. It's a gradual point. You can see a little bit of a brush-like detail of the jungle that you had heard mentioned before. He begins to bring you up towards the southern shore of the island. At this point of perspective, the sunlight that's hitting the island is causing a glittery shift of thousands of points of light across the beach shoreline, deep into where the blackened jungle tree line is. It's beautiful.|It's a very strange and awe-inspiring sight, to be such a small little forgotten part of the land and to look so pretty from this distance.|The closer you get, the beauty begins to fade as you see the black beaches. You can see the landscape is barren and broken, aside from the ashen gray and black jungle plants and trees that have been left there, dead, for an extended period of time. The mountain itself, the rock itself going from black to a ruddy red and brown color.|The sands themselves and the glass surface across the eastern shore that tends to reach out, almost like a mouth of a creature, is rough and varied in topography. You also see, within that bay, a tiny little thing that looks like a ship."
+1737;MATT;"Perfect. As the storm subsides, your ship has a clear view of distant breaks in the patterns of waves on the horizon. Multiple chained islands, many miles apart from each other, emerge. This, you've now begun to reach, is the Hespet Archipelago. Each of the twelve islands vary in size from massive rock to pebble-like protrusions.|They span and are scattered, and the ship begins to veer to the left as the captain begins to zero in on your destination. He yells out, """"We're going low! They have visibility!"""" The ship begins to go into a relatively steep decline. You hear the wood creaking with the sudden shift in direction and weight. The gem on the right side begins to brighten while the one on the left begins to darken slightly, exemplifying the shift in energy and power. Eventually you're brought down, nearly coasting on the surface of the ocean, and as you get to about 40, 50 feet above you see the waves begin to part beneath it as whatever force is holding it there is now pushing the water down. He brings it up a little so it's not breaking the surface and coasts at an even 60 feet above.|Pushing forward, you already begin to see what you assume is the Isle of Glintshore. In this clear, sunlit moment, you also see, throughout the ocean, clusters of dangerous, jagged-looking reef, some ten, 15 below the surface, some actually breaching the surface of the ocean, some even deeper. This portion of the ocean is like a maze network of every ship captain's nightmare. You get the feeling why this has become a favored place of criminals to avoid pursuers and also why people who trade avoid it for many reasons, not just those who stay here. And also why the shipwreck probably found its way here. As you begin to grow closer to the island, you see, as it begins to come more into form, there is a singular mountain peak that's shifted mostly to the western side.|It's not a super peak. It's a gradual point. You can see a little bit of a brush-like detail of the jungle that you had heard mentioned before. He begins to bring you up towards the southern shore of the island. At this point of perspective, the sunlight that's hitting the island is causing a glittery shift of thousands of points of light across the beach shoreline, deep into where the blackened jungle tree line is. It's beautiful.|It's a very strange and awe-inspiring sight, to be such a small little forgotten part of the land and to look so pretty from this distance.|The closer you get, the beauty begins to fade as you see the black beaches. You can see the landscape is barren and broken, aside from the ashen gray and black jungle plants and trees that have been left there, dead, for an extended period of time. The mountain itself, the rock itself going from black to a ruddy red and brown color.|The sands themselves and the glass surface across the eastern shore that tends to reach out, almost like a mouth of a creature, is rough and varied in topography. You also see, within that bay, a tiny little thing that looks like a ship."
 1738;LIAM;Are we close enough to see if there's people on the deck?
 1739;MATT;You're not close enough. You're barely now seeing that there's a ship.
 1740;MARISHA;It's been six hours, you said, since I did my scry.
@@ -1769,7 +1769,7 @@
 1767;TRAVIS;They're also in the bay, so they can swim to shore.
 1768;LIAM;Well, we can stop their retreat. They're going to be in worse shape without that boat.
 1769;TRAVIS;I want to send a message to the ship, is all.
-1770;MATT;"The captain's like, ""What do you want me to do? Do you want me to head for the ship?"""
+1770;MATT;"The captain's like, """"What do you want me to do? Do you want me to head for the ship?"""""
 1771;SAM;Up above the ship.
 1772;TRAVIS;And Vax rides Keyleth down, like Dr.|Strangelove, the whole way.
 1773;SAM;You're going to take a lot of damage?
@@ -1796,7 +1796,7 @@
 1794;MARISHA;Dispel?
 1795;LAURA;No, the spell, the breathing spell.
 1796;MARISHA;Oh, yeah. What's our ETA, captain?
-1797;MATT;"""At this speed, I'd say 20 minutes."""
+1797;MATT;"""""At this speed, I'd say 20 minutes."""""
 1798;MARISHA;I'll wait ten minutes, because I like to milk my time.
 1799;MATT;All right, ten minutes go by. Who is keeping watch through the telescope?
 1800;LAURA;Me.
@@ -1881,9 +1881,9 @@
 1879;SAM;All right, Grog. You and me. Come on, let's go.
 1880;LAURA;Oh jeez. I ready the broom. I get on the broom and wait.
 1881;TALIESIN;Prepare, I'm telling the men, prepare the harpoons. It may be a trap.
-1882;MATT;"""Understood. Man the harpoons!"" You see they all run off to the various, the three different dragon arbalist stations."
+1882;MATT;"""""Understood. Man the harpoons!"""" You see they all run off to the various, the three different dragon arbalist stations."
 1883;TALIESIN;Prepare for a hard turn to shore if they begin to show any signs of magical attack.
-1884;MATT;"""Understood."" You can now see the captain's gone into war mode now. He's keeping focus forward as he's pushing the ship."
+1884;MATT;"""""Understood."""" You can now see the captain's gone into war mode now. He's keeping focus forward as he's pushing the ship."
 1885;TRAVIS;How do we communicate with the captain once we're off the ship? Should we give him an earring?
 1886;SAM;It won't reach, it's too far. Grog, I can make you a thing that flies. Should I? All right, I make him a giant eagle using Polymorph. I can't do it to me, though, so you're on your own.
 1887;LAURA;Well you can hop on his back.
@@ -1900,7 +1900,7 @@
 1898;TALIESIN;At the very least.
 1899;SAM;And kill them.
 1900;TALIESIN;Check for a fake arm, and remove it.
-1901;MATT;"""Loud and clear."""
+1901;MATT;"""""Loud and clear."""""
 1902;LAURA;I tell Trinket to hop in the necklace because we're going to be traveling very quickly, dear.
 1903;MATT;Into the necklace.
 1904;TALIESIN;I'm trying to use the scope on my big, on Bad News to see if anything interesting is happening on the deck. Can I see the person who was firing the flares?
@@ -1912,7 +1912,7 @@
 1910;TALIESIN;We're going to sink this ship from a distance.
 1911;LAURA;She's still scrying. We can, they might be by the ship.
 1912;TALIESIN;I tell them to turn. Turn now!
-1913;MATT;"""Aye, aye!"""
+1913;MATT;"""""Aye, aye!"""""
 1914;LAURA;I shoot the arrow and try to get to the boat. The oracle arrow.
 1915;MATT;The ship suddenly begins to list very heavily to the left side. All the hands grab hold who are currently stationed at the various elements. You can see things on the deck, ropes and various odds and ends, pieces of metal, coins, all begin drifting to one side, some tumbling over into the ocean below. You all hold on tight as you pull around the side. Keyleth, I need you to make a concentration check.
 1916;LAURA;Oh, come on!
@@ -1935,12 +1935,12 @@
 1933;MATT;If you give them the order, they will.
 1934;MARISHA;Percy, I can destroy that ship if we get over it.
 1935;LIAM;I think we should still go.
-1936;MATT;"""Are we firing? What do you need?''"
+1936;MATT;"""""Are we firing? What do you need?''"
 1937;LIAM;Keyleth, you ready? Let's go.
 1938;TALIESIN;Let's fire.
 1939;MARISHA;I go with Vax.
 1940;TALIESIN;They're going to go. I'm going to fire on the ship. Fire on the ship!
-1941;MATT;"""Fire!"" He yells out. You watch as the arbalists all pull back, (arrows releasing). As they release it, they have these giant, hard, dark iron bolts that are loaded into these. As they release them, they go traveling through the dragon's mouth. The dragon's mouth bursts into flame and lights the bolts into arcane fire. All launch off and arc downward. One of them misses, (splashing) into the water, but two go slamming into the side of the ship. You see wood splintering. You see flames begin to crawl along the side while both of you, what are you doing?"
+1941;MATT;"""""Fire!"""" He yells out. You watch as the arbalists all pull back, (arrows releasing). As they release it, they have these giant, hard, dark iron bolts that are loaded into these. As they release them, they go traveling through the dragon's mouth. The dragon's mouth bursts into flame and lights the bolts into arcane fire. All launch off and arc downward. One of them misses, (splashing) into the water, but two go slamming into the side of the ship. You see wood splintering. You see flames begin to crawl along the side while both of you, what are you doing?"
 1942;MARISHA;I'm holding on to him, piggyback ride style.
 1943;LIAM;I'm on your back, or piggyback? Aren't you going earth elemental?
 1944;MARISHA;I got to get over the ship. I can't fly as an earth elemental!

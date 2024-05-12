@@ -129,9 +129,9 @@
 127;ASHLEY;Rolled a little low.
 128;MATT;That's all right. Okay, you're heading off--
 129;LIAM;I'm going to start moving through the entire place, I'm going to start at the front gate and see if anybody's outside.
-130;MATT;"As you head into the foyer, the first thing you see is Laina currently panicking about, running around with Erwin falling behind, trying to calm her down and going, ""Laina, it's all right calm down."" And Laina is like, ""I don't know what to do, I, I--"" She turns around and sees you, ""Oh, Master, Master Vax."""
+130;MATT;"As you head into the foyer, the first thing you see is Laina currently panicking about, running around with Erwin falling behind, trying to calm her down and going, """"Laina, it's all right calm down."""" And Laina is like, """"I don't know what to do, I, I--"""" She turns around and sees you, """"Oh, Master, Master Vax."""""
 131;LIAM;It's actually not all right, we need to gather everyone right now, quickly, I'll explain after we've gotten everyone in the keep. We need to go to Percival's workshop, can you help me with that?
-132;MATT;"""We can do that, we have a problem--"" She points out. The front of the keep is currently opened, the doors and the gate's there and you can hear what sounds like a cluster of very loud voices, shouting and screaming and yelling over each other."
+132;MATT;"""""We can do that, we have a problem--"""" She points out. The front of the keep is currently opened, the doors and the gate's there and you can hear what sounds like a cluster of very loud voices, shouting and screaming and yelling over each other."
 133;TRAVIS;Outside of the keep?
 134;LIAM;But I'm on my own, right?
 135;MATT;You are, yeah.
@@ -145,13 +145,13 @@
 143;LIAM;Yeah, it's a 29.
 144;MATT;All right, good to know. All right, so as you go to the door and look out, you can see, along the top wall there are three figures. Takes you a moment to focus, and you realize that it is Kendrick, who's one of your general guards you keep around, as well as Cordell and Shayne. All three of them have crossbows ready, and they're yelling to each other and aiming them over the wall towards the front. However, what you can hear from this point is a chorus of 20, 30 or more voices muffled from the other side of the wall.
 145;LIAM;I'm going to start running up towards them.|I'm going to join them on the wall.
-146;MATT;"Okay, so there is a ladder at the side, and you climb up the ladder, and as you get closer, you hear people shouting, different voices going, ""Let us in, let us in or we'll die!"" Voices going, ""What are you doing, you going to leave us out here?!"" Other people are screaming, you hear crying children, you hear people shrieking."
+146;MATT;"Okay, so there is a ladder at the side, and you climb up the ladder, and as you get closer, you hear people shouting, different voices going, """"Let us in, let us in or we'll die!"""" Voices going, """"What are you doing, you going to leave us out here?!"""" Other people are screaming, you hear crying children, you hear people shrieking."
 147;LIAM;How many people am I seeing down there?
-148;MATT;"Well, as you get up to the top and crest over, you can see the three guards are all yelling at each other and yelling over, ""We can't, we can't do anything right now, we're waiting for th--"" They look over and see you come over the edge, and you can see there's probably close to 50 or so people that are all pressed up against the gates to the inside of your keep, that are all shouting to be let in."
+148;MATT;"Well, as you get up to the top and crest over, you can see the three guards are all yelling at each other and yelling over, """"We can't, we can't do anything right now, we're waiting for th--"""" They look over and see you come over the edge, and you can see there's probably close to 50 or so people that are all pressed up against the gates to the inside of your keep, that are all shouting to be let in."
 149;LIAM;If I look past, do I see anyone else coming towards the keep? Is it just a cluster and that's it, or--
 150;MATT;You can see people that are fleeing from the town in little bits, two or three at a time, trails of individuals that are just now managing to make it outside of the city of Emon itself.|Some of them are heading out into the distance, getting far away as possible. A few more are heading towards the keep, and you gather that this crowd has been gathering here for the last few minutes, at the very least.
 151;LIAM;All right, slapping my hand on Kendrick's shoulder. We are going to let these people in. The city has come under attack, everything is fucked beyond belief. There are at least four large, old dragons attacking the city, and these people need to come inside. I don't know what we're going to do with them, but we're going to bring them in now. And you and I are going to wait by the gate for those stragglers to come in. The rest of you, take them inside, join the others.
-152;MATT;"They all look at each other. Cordell gives you a nod, ""Right, sir, we'll open the gate, hold on."" And you guys all, are you heading out to the courtyard as well? Or are you staying inside the keep?"
+152;MATT;"They all look at each other. Cordell gives you a nod, """"Right, sir, we'll open the gate, hold on."""" And you guys all, are you heading out to the courtyard as well? Or are you staying inside the keep?"
 153;LAURA;Yeah, yeah, we see them.
 154;MATT;So you come out and see this happening and hear them shouting at the top of the wall.
 155;MARISHA;Keyleth stands in the middle of the foyer, unable to move.
@@ -342,7 +342,7 @@
 340;LIAM;What was his name again?
 341;MATT;Ah, you will know that shortly. The white dragon. The white dragon rears up in the fog cloud and dips down a little bit, (exhales) outside of the fog cloud, hitting everyone in this vicinity here. That's going to be Grog, Trinket, and everyone here over. I would like all of you to make a constitution saving throw. Well, I'm not going to roll that many dice, I'm going to use my dice roller.
 342;ASHLEY;Come on, guys.
-343;MARISHA;"""I'm not going to roll that many dice."" Always a good sign."
+343;MARISHA;"""""I'm not going to roll that many dice."""" Always a good sign."
 344;LIAM;Grog's about to lose ten percent of his hit points.
 345;MATT;I don't have enough d6s, it's 16d6. Or sorry, 16d8, my apologies. All right, so that comes to-- Grog, what's your--
 346;TRAVIS;25.
@@ -611,7 +611,7 @@
 609;LIAM;Carry the one. Carry the three.
 610;ASHLEY;Hold on, one second.
 611;MATT;Doing math here.
-612;LAURA;"""One second, let me check."""
+612;LAURA;"""""One second, let me check."""""
 613;ASHLEY;Okay, I'm at 25. Could be worse, could be worse.
 614;MATT;That ends its turn.
 615;TRAVIS;Are we really fighting this thing or are we running?
@@ -641,7 +641,7 @@
 639;LAURA;Okay, I guess I'll try to shoot it, then.
 640;MATT;Okay, go for it. So disadvantage on both your attacks.
 641;LAURA;Okay.
-642;MATT;"Trinket shrugged it off, Trinket is like, ""Whatever, I got this."""
+642;MATT;"Trinket shrugged it off, Trinket is like, """"Whatever, I got this."""""
 643;LAURA;Oh okay so-- That was good, that was good, 26. With disadvantage. Okay, so I'll do the first one right now.
 644;MARISHA;If we're running, I don't want to bust out my good shit.
 645;TRAVIS;We've got to run, right? I think it's stupid if we stay.
@@ -681,7 +681,7 @@
 679;LAURA;Okay, so is it wisdom?
 680;MATT;It's wisdom-based, yeah.
 681;LAURA;Ooh, 17, 18, 19!
-682;MATT;"19 is just what you need, you managed to shake off the fright from this. Seeing Trinket rush off, you're like, ""Okay, I can do this."" At the end of your turn, the white dragon is going to use--"
+682;MATT;"19 is just what you need, you managed to shake off the fright from this. Seeing Trinket rush off, you're like, """"Okay, I can do this."""" At the end of your turn, the white dragon is going to use--"
 683;LAURA;I'm not afraid anymore, you hear that?
 684;MATT;It's going to go ahead and use two of its actions to do a wing attack.
 685;LIAM;Shit.
@@ -707,7 +707,7 @@
 705;LAURA;Disadvantage.
 706;MATT;Not on saving throws. 24. Resist it? All right, cool.
 707;TRAVIS;You fucking piece of shit.
-708;MATT;"(laughs) So that ends Vex's turn, the guards now. Shayne will get up and she's now going to regret dropping her crossbow and go over and pick it up again; she's not going to have time to fire it.|The other two, down here, are going to be-- Cordell is going to turn around and fire off a shot, as well as Kendrick. That's a natural one.|That does hit, that does not, and that does not.|One hit gets through, rolling ones like crap.|That's five points of piercing damage, not great on that round, guards. Then they're going to start rushing towards the keep here, using the rest of their movement. Cordell is going to start moving to the side and start ushering everybody inside. ""Go in, go in, go in."" Shayne is going to move up next to you, Grog, and essentially begin to hold the flank with you. Shoulder to shoulder, she, as opposed to the crossbow at this point, and seeing the two of you can work together in this regard, she pulls out a broadsword. That's going to end the guards' turn, Grog, you're up."
+708;MATT;"(laughs) So that ends Vex's turn, the guards now. Shayne will get up and she's now going to regret dropping her crossbow and go over and pick it up again; she's not going to have time to fire it.|The other two, down here, are going to be-- Cordell is going to turn around and fire off a shot, as well as Kendrick. That's a natural one.|That does hit, that does not, and that does not.|One hit gets through, rolling ones like crap.|That's five points of piercing damage, not great on that round, guards. Then they're going to start rushing towards the keep here, using the rest of their movement. Cordell is going to start moving to the side and start ushering everybody inside. """"Go in, go in, go in."""" Shayne is going to move up next to you, Grog, and essentially begin to hold the flank with you. Shoulder to shoulder, she, as opposed to the crossbow at this point, and seeing the two of you can work together in this regard, she pulls out a broadsword. That's going to end the guards' turn, Grog, you're up."
 709;TRAVIS;Fuck this dragon. As much as I would love to protect this house, we've got to get the fuck out of here. Is Pike right behind me?
 710;MATT;Pike is, yes.
 711;TRAVIS;Can I grab her and run inside the keep?
@@ -736,14 +736,14 @@
 734;TRAVIS;Yep, got to go. Got to go. Got to go.
 735;MATT;Scanlan backs up into the keep, at this realization. At that point, nothing is right in range. So yeah, so the white dragon is not going to do anything. At this point in time--
 736;TRAVIS;Nope.
-737;MATT;"You guys hear a voice come ringing out from the north side, towards where Emon is. A familiar voice that you've heard before that shouts out, ""Enough! You are not to linger, follow the others."" At which point, you see the white dragon glances over the shoulder, and you hear the voice again say, ""Vorugal!"" And a streak of smoke and red. The red dragon you saw that had perched itself in the center of the city grapples onto the back of Vorugal and throws the dragon off the edge of the wall. And goes tumbling to the south of the keep. Out from the perspective."
+737;MATT;"You guys hear a voice come ringing out from the north side, towards where Emon is. A familiar voice that you've heard before that shouts out, """"Enough! You are not to linger, follow the others."""" At which point, you see the white dragon glances over the shoulder, and you hear the voice again say, """"Vorugal!"""" And a streak of smoke and red. The red dragon you saw that had perched itself in the center of the city grapples onto the back of Vorugal and throws the dragon off the edge of the wall. And goes tumbling to the south of the keep. Out from the perspective."
 738;LAURA;So how much bigger is Vorugal, like is he--?
 739;MATT;Yeah, he's roughly double the size of the white dragon.
 740;LAURA;Holy crap!
 741;MARISHA;Is this Umbrasyl? Does he refer himself as Umbrasyl?
 742;MATT;No, you haven't heard the name of this one, until that point. Well, I mentioned it earlier.
 743;MARISHA;No, the red dragon.
-744;MATT;"The red dragon you haven't heard the name of yet. Umbrasyl is the black dragon. Raishan was the green dragon. So as you hear the impact, you hear the dragon screeching out in anger and no one has any visual at this point, you just hear the sounds over the side. You hear it skid to a halt, but the red dragon is still flying and grabs it, throws it, makes it hit the ground, almost like a show of dominance. And as it arcs back around, it ignores the keep and heads back towards Emon. You see Vorugal now lifting back up into the sky, staring back at the red dragon as it heads back, and you can see in its general demeanor, it's frustrated and angry and it begrudgingly begins to fly towards the east, where you saw the other two dragons continue. As the red dragon returns towards the city, its voice is ringing out at a volume that, even at this distance, is being enhanced by some sort of arcane means, whether it means-- it wants to be heard. And as you can see now, as it hits over the far south walls of Emon, it shouts out once more, ""Hear me, insects! You that live do so out of mercy. Fight or flee and you forfeit that mercy. Know that your pitiful guardians brought this upon you. That blood is on their hands! Vengeance has been swift, and in its wake, a new age is upon you."" Making its way towards the center of the city. ""Be thankful, for until now your lives had no purpose. No meaning. Abandon your gods, your paltry convictions, for now you have a new purpose: to serve me!"" And with that, you hear the clattering impact once more of the Cloudtop District, as a half-dozen buildings collapse under its weight as it slams into the center of what probably still stood tall in the middle of the city of Emon. You hear the crumbling wreckage echoing in the distance as it slides to a halt. And a couple of distant slamming sounds as it makes its way into the central borough where the palace once was. Quiet now takes the air, as all the people are still standing frozen in fright of what they just saw, and slowly begin making their way into the keep, whispering, shaking, crying under their breaths, the survivors that are not frozen in the center of Greyskull Keep's courtyard. What do you want to do?"
+744;MATT;"The red dragon you haven't heard the name of yet. Umbrasyl is the black dragon. Raishan was the green dragon. So as you hear the impact, you hear the dragon screeching out in anger and no one has any visual at this point, you just hear the sounds over the side. You hear it skid to a halt, but the red dragon is still flying and grabs it, throws it, makes it hit the ground, almost like a show of dominance. And as it arcs back around, it ignores the keep and heads back towards Emon. You see Vorugal now lifting back up into the sky, staring back at the red dragon as it heads back, and you can see in its general demeanor, it's frustrated and angry and it begrudgingly begins to fly towards the east, where you saw the other two dragons continue. As the red dragon returns towards the city, its voice is ringing out at a volume that, even at this distance, is being enhanced by some sort of arcane means, whether it means-- it wants to be heard. And as you can see now, as it hits over the far south walls of Emon, it shouts out once more, """"Hear me, insects! You that live do so out of mercy. Fight or flee and you forfeit that mercy. Know that your pitiful guardians brought this upon you. That blood is on their hands! Vengeance has been swift, and in its wake, a new age is upon you."""" Making its way towards the center of the city. """"Be thankful, for until now your lives had no purpose. No meaning. Abandon your gods, your paltry convictions, for now you have a new purpose: to serve me!"""" And with that, you hear the clattering impact once more of the Cloudtop District, as a half-dozen buildings collapse under its weight as it slams into the center of what probably still stood tall in the middle of the city of Emon. You hear the crumbling wreckage echoing in the distance as it slides to a halt. And a couple of distant slamming sounds as it makes its way into the central borough where the palace once was. Quiet now takes the air, as all the people are still standing frozen in fright of what they just saw, and slowly begin making their way into the keep, whispering, shaking, crying under their breaths, the survivors that are not frozen in the center of Greyskull Keep's courtyard. What do you want to do?"
 745;TRAVIS;Pee.|(laughter)
 746;MATT;That is entirely viable.
 747;LIAM;Everyone, we need to go inside.
@@ -763,20 +763,20 @@
 761;LIAM;Inside, everyone inside now.
 762;TRAVIS;Yeah, we all go inside.
 763;LIAM;Come along.
-764;MATT;"All right, so. You guys make your way inside the keep. People are looking about, some people are running through rooms trying to find a place to keep safe. You can see already in the armory there's like a family in there that are huddling, crouched in the corner. Some people have moved on towards the kitchen, people are shouting trying to see if anybody they lost eye contact with is inside, you hear a couple of people shouting names. ""Shawn! Shawn!"" ""Kayla!"" Different names being shouted as if they're hoping that someone they got separated from may have made it in.|Couple do, a few seem to continue to shout fruitlessly. But the inside energy of the keep is one of tension, fear, and mounting sadness."
+764;MATT;"All right, so. You guys make your way inside the keep. People are looking about, some people are running through rooms trying to find a place to keep safe. You can see already in the armory there's like a family in there that are huddling, crouched in the corner. Some people have moved on towards the kitchen, people are shouting trying to see if anybody they lost eye contact with is inside, you hear a couple of people shouting names. """"Shawn! Shawn!"""" """"Kayla!"""" Different names being shouted as if they're hoping that someone they got separated from may have made it in.|Couple do, a few seem to continue to shout fruitlessly. But the inside energy of the keep is one of tension, fear, and mounting sadness."
 765;LAURA;Can I find Erwen?
 766;MATT;You can, you told the people within the keep to go downstairs
 767;LAURA;Yeah, I go and find him and tell him to start setting up as many beds as he can, as many in the cathedral that we have to-- In the chapel.|To maybe give some of these people places to stay for the time being.
 768;MATT;All right, so.
 769;ASHLEY;Can I go into the temple?
-770;MATT;"You can. As you head downstairs too, you can see Jarett is still there, sitting with his crossbow on his lap, and he's been doing his last duty, which was to watch over your workshop. And as you come down the stairs, he goes, ""What's going on, I heard noises upstairs, is everyone all right?"""
+770;MATT;"You can. As you head downstairs too, you can see Jarett is still there, sitting with his crossbow on his lap, and he's been doing his last duty, which was to watch over your workshop. And as you come down the stairs, he goes, """"What's going on, I heard noises upstairs, is everyone all right?"""""
 771;TALIESIN;No.
 772;LAURA;Everything's gone.
-773;MATT;"""May I be excused to aid Erwen in his duty?"""
+773;MATT;"""""May I be excused to aid Erwen in his duty?"""""
 774;LAURA;Please do.
-775;MATT;"""All right."" He gets up and puts his crossbow away, heads upstairs, finds Erwen and Laina's still shaking, she goes, ""If we're having guests, should I make food? I don't know what to do, I don't know what to do."""
+775;MATT;"""""All right."""" He gets up and puts his crossbow away, heads upstairs, finds Erwen and Laina's still shaking, she goes, """"If we're having guests, should I make food? I don't know what to do, I don't know what to do."""""
 776;LAURA;Simple food. Fruit, anything.
-777;MATT;"""Okay, I'll go ahead and start preparing it."""
+777;MATT;"""""Okay, I'll go ahead and start preparing it."""""
 778;TRAVIS;Percy. Can I have a word with you, please?
 779;TALIESIN;I step inside my workshop.
 780;TRAVIS;May I come in?
@@ -816,13 +816,13 @@
 814;ASHLEY;You have to ask the creature to perform a service in exchange for payment.
 815;MATT;Mm-hm. Yeah, what would you like to do?
 816;ASHLEY;Well I think if I say-- Sarenrae, I've been rebuilding your temple for months, so please help us in battle and help rebuild our city, if that's service enough.
-817;MATT;"Okay. So as you reach out, you feel Sarenrae's warmth come to you, wordless.|Attempting to comfort, but even then there is a trepidation in Sarenrae who is, you gather yourself, still taking in the circumstances that have happened. You feel that warmth begin to coalesce into a specific form, and everyone who has come into the temple with you gasps aloud as over these central worship platforms in the center of the temple, a glowing orb begin to form that then slowly takes the form of a humanoid with wings, similar to the ones you've worn in your celestial form. As the light fades, you can see, levitating roughly a foot off the ground, a human.|White eyes and pale blue skin, hairless with a simple breastplate that's silver with gold lining on it, a single sword sheathed on the side, and beautiful white angel wings sprouting from its back. The entity stands there and looks down towards you. ""I have been sent to your aid. Are you, Pike Trickfoot, to give me a task?"" The voice itself seems otherworldly, and understanding the basis of the spell, you need a specific task in mind for it, and it is expensive to maintain in materials, the longer the task requires."
+817;MATT;"Okay. So as you reach out, you feel Sarenrae's warmth come to you, wordless.|Attempting to comfort, but even then there is a trepidation in Sarenrae who is, you gather yourself, still taking in the circumstances that have happened. You feel that warmth begin to coalesce into a specific form, and everyone who has come into the temple with you gasps aloud as over these central worship platforms in the center of the temple, a glowing orb begin to form that then slowly takes the form of a humanoid with wings, similar to the ones you've worn in your celestial form. As the light fades, you can see, levitating roughly a foot off the ground, a human.|White eyes and pale blue skin, hairless with a simple breastplate that's silver with gold lining on it, a single sword sheathed on the side, and beautiful white angel wings sprouting from its back. The entity stands there and looks down towards you. """"I have been sent to your aid. Are you, Pike Trickfoot, to give me a task?"""" The voice itself seems otherworldly, and understanding the basis of the spell, you need a specific task in mind for it, and it is expensive to maintain in materials, the longer the task requires."
 818;ASHLEY;Okay. We need your help. As you can see, our city has fallen to pieces by these dragons that are attacking us. And we ask that you aid us in battle somehow.
-819;MATT;"""Lead me to a battle if you wish. I haven't much time on your plane. If you have a task that I can complete at this moment."" And you know that to maintain this spell cost about 100 gold per minute."
+819;MATT;"""""Lead me to a battle if you wish. I haven't much time on your plane. If you have a task that I can complete at this moment."""" And you know that to maintain this spell cost about 100 gold per minute."
 820;ASHLEY;Okay. Ah, shit. Okay.
-821;MATT;"Or 1,000 gold per hour depending on the-- Or 10,000 gold per day. Yeah, it depends on the task it required. It needs to be a little more specific than just ""aid us in battle,"" because if there isn't a immediate battle happening, because the longer it's out, the more expensive it will be.|You asked it to rebuild and it looks to you and says, ""If you require my aid in rebuilding..."" She looks with her head around the temple. ""This I can help with quite a bit of haste, as it is within the realm of our patron lady."""
+821;MATT;"Or 1,000 gold per hour depending on the-- Or 10,000 gold per day. Yeah, it depends on the task it required. It needs to be a little more specific than just """"aid us in battle,"""" because if there isn't a immediate battle happening, because the longer it's out, the more expensive it will be.|You asked it to rebuild and it looks to you and says, """"If you require my aid in rebuilding..."""" She looks with her head around the temple. """"This I can help with quite a bit of haste, as it is within the realm of our patron lady."""""
 822;ASHLEY;Okay, well, yes. Rebuild our keep.
-823;MATT;"""It will be done, within the hour."" So you can mark off 1,000 gold worth of materials, and at this point, the Planar Ally's wings unfurl and begin to float up, and as it does it lift its hands and all the shattered stained glass begins to lift off the ground with it. And you watch as they all begin to reform."
+823;MATT;"""""It will be done, within the hour."""" So you can mark off 1,000 gold worth of materials, and at this point, the Planar Ally's wings unfurl and begin to float up, and as it does it lift its hands and all the shattered stained glass begins to lift off the ground with it. And you watch as they all begin to reform."
 824;LAURA;That's pretty sick.
 825;MATT;And begin to, through pure divine energy, rebuild the entirely of the temple around within a matter of minutes. While everyone else is looking in awe, you can begin to see around you, many people who had been shaken to the core of their being, who had lost all hope, even this visual representation of the power of Sarenrae and the faith you put into her, you can see people are now bowing in deep prayer at the center of the temple as it's being rebuilt. This has been a very impactful moment for the survivors you've taken under your wing.
 826;MARISHA;I wander over to Pike and just I grab her hand as I watch.
@@ -906,7 +906,7 @@
 904;LIAM;Five minutes. Pizza and five minutes.
 905;MATT;You good?
 906;LAURA;Is the food here?
-907;MATT;"It should be, I hope so.|[break]|Hi, my name is Matthew Mercer, I'm a voice actor and the dungeon master for Geek and Sundry's Critical Role, and welcome to my short video series for my tips on how to dungeon master or game master your own roleplaying games.|So today, our first topic is going to be Encounter Building. So when you are creating an encounter, a combat encounter specifically for your party of adventurers or space marines or whatever else you are running, you want to consider what kind of terrain or region is this going to have. That's going to go ahead and help you guide what creatures are going to be there, what type of challenges might be in that way. So consider, is it a icy tundra, is it a frozen mountaintop or is it like a hot, muggy swampland, is it a underground cave network? There are actually a lot of these resource books that you can find for these RPGs that will have listings of creatures and monsters and dangers by topography, and by weather, and that's a really cool way to see what indigenous creatures might live there, and that's a good resource to pull from if you're not having any creative juices helping you decide what to put in front of them.|Secondly, you want to consider how challenging you want the encounter or encounters to be. Do you want it to be a really quick scuffle, do you want it to be a series of small battles, as to opposed to fighting in a long hallway, in a spaceship? Do you want it to be one giant climatic multi-leveled boss confrontation? Once you've made that decision, that'll help you figure out how dangerous, how extensive, and how powerful the villains may be for this encounter. There's a lot of great resource manuals for every RPG system out there that have breakdowns about what creatures are good for which player levels as far as power or challenge and danger is concerned. Like, for instance, the dungeon master's guide and monster manual have a challenge rating system. A creature of a certain challenge rating is a decent challenge for a group of four players of that level, and you can slide the scale from there.|Also, the DMG, or the Dungeon Master's Guide, has a experience threshold table in there as well that helps you build encounters based on the total experience points the creatures are fighting. So those are really cool resources, if you're new to the system and you're still trying to figure out how to balance that properly. Over time, eventually you'll just get a feel for it.|Experience helps you get a little more comfortable with balancing the battle, and you want to make sure you don't kill all your players way too quickly in the game, either. There's also a really good website called Kobold Fight Club, for those who are running Dungeons & Dragons 5th edition campaigns, that helps them build an entire encounter with the experience table stuff that helps you get an idea of what could and could not be considered too powerful.|And don't forget, if you can't find a creature or monster in these realms or any sort of villain that suits your need for the storyline or this particular battle, you can create one. Make one up or take something that's there and customize it and alter it, make it more powerful, make it weaker, you know? If you really, really want to run a game that has a bunch of kobolds as the main villain, but all your players are level ten? Go ahead and make yourself some more powerful kobolds. You can customize 'em all you want.|Everything in there is just a baseline suggestion of what they think, or they created initially to be, but you can always scale them, you can make them more powerful, you can add additional hit points, make them do more damage per attack.|Increase their defenses, give it some hidden resistances or vulnerabilities. You can even create whole new abilities, I customize creatures all the time for my game. I think it, one, makes it more interesting and more customized to the specific encounter and world. Secondly, for players who have been playing for a long time and pretty much memorized the monster manual, it keeps them on their toes because they'll be encountering monsters that they have yet to memorize everything about. Also, make sure, though, if you do use these creatures and you want them to have interesting defenses and vulnerabilities and the like, make sure you highlight them or note them, it's very easy to rush into combat and forget some of these cool things. So I always use a highlighter and highlight the various notes and elements of these creatures or these combat scenarios that I want to make sure that I remember and recall in the heat of battle.|The next note I want to bring up is battlefields.|First and foremost, not every game needs a battlefield. In fact, I kind of prefer RPGs that don't have a battle map with miniatures, it's just a way to play. I prefer to keep things in my imagination, but that's generally more wieldy with smaller groups, if you have three, maybe four players. Larger than that, it gets a little unwieldy, and me running six to eight players, it has become very necessary for everyone to keep track of their spatial awareness. When you create a map, things to consider, creative terrain. You know, think of where it's are happening, but ways to make it different on occasion, too. You can have straight forward battles with just, here's an area where they fight, here's some hallways, here's some rooms, and that's cool, too, but if you're in an urban setting, have furniture they can use to their advantage, whether it be for height or for setting up blockades.|Also, consider what other challenges and confrontations they might have with the terrain during the battlefield. Is there a giant chasm they have to get across to actually get to the villain while they're attacking them from a distance? Is there some sort of arcane field that's locked off a portion of the battlefield and they have to figure out some sort of puzzle during the battle to lock it down? Is invulnerable to all damage until they can find some sort of hidden aspect of their soul locked within a nearby battlefield, or is there a bunch of innocents in there as well that are in danger of being killed from the collateral damage? Find cool and unique ways to make it an interesting battle outside of a slug fest of HP being knocked away and whoever falls first. Mind you, those can be fun, too, on occasion, but you want to make sure to keep things interesting.|For those who want to create battlefields, what I use for my battlefields, because it has been requested a few times. You can use easel pad paper, one-inch grid easel pad paper that you can find online, and that's a real cool way to draw on that using markers and create your own battlefields that way. There are great tutorials online too that show you how to make cool battles and interesting-looking terrain with simple hatch-mark shading and minor colors, so I highly recommend that.|Also, when you're using intelligent creatures, especially monsters or individuals or villains that are understanding their own mortality, they may flee. When they hit about half or a quarter hit points, they maybe want to get the heck out of Dodge. So don't be afraid to let your villains or enemies do that on occasion. One, it ups the stakes immediately in a battle from a slog fest to, oh crap he's getting away, and the dynamic shifts to try and prevent them from doing so. And secondly, if they do manage to get away, you may have a juicy villain who can recur later on down the story with a need for vengeance. Vengeance! Another cool note, not all battles are meant to be won, either. Sometimes you want to introduce a really powerful enemy as a foreshadowing aspect, a creature that they can in no way, shape or form defeat, and they are meant to flee from, so that they can build towards down the road, maybe coming back and finally killing it as a means of vengeance. Just make sure you try and insinuate to the players that they shouldn't stick around for the whole fight or you might have a TPK on your hands, so be careful with that one. It's a fun tool, but be careful. No, seriously, be careful.|Plus, it also leaves a cool story like, ""Man, you remember that one time we almost got killed by that thing?"" Not all fights are meant to end in bloodshed, as well. So don't be afraid to let the players diplomatically resolve an encounter. Sometimes battles happen because of misunderstandings or misinformation or the wrong thing was said and it ticks somebody off. That doesn't mean they have to fight to the bitter end and murder whoever's in front of them. You don't want the whole murderhobo syndrome to be consistent, unless that's the campaign you're running, in which case, fight on, my murderhobos. But let the players use their social skills to try and defuse an encounter before anyone gets killed. I've many games where halfway through a battle, they're like, ""Wait, they may have information we need,"" or, ""Maybe we were duped and have the wrong information,"" and they decide to diplomatically end it. It doesn't always work, but it's nice to give them that option.|[break]|All righty guys, welcome back. So before jumping in here real fast, we got a couple things.|One, we have a winner for our next giveaway, for all you awesome subscribers out there. The winner is Blackshadow773! (cheering)|Appropriate place for a shoutout."
+907;MATT;"It should be, I hope so.|[break]|Hi, my name is Matthew Mercer, I'm a voice actor and the dungeon master for Geek and Sundry's Critical Role, and welcome to my short video series for my tips on how to dungeon master or game master your own roleplaying games.|So today, our first topic is going to be Encounter Building. So when you are creating an encounter, a combat encounter specifically for your party of adventurers or space marines or whatever else you are running, you want to consider what kind of terrain or region is this going to have. That's going to go ahead and help you guide what creatures are going to be there, what type of challenges might be in that way. So consider, is it a icy tundra, is it a frozen mountaintop or is it like a hot, muggy swampland, is it a underground cave network? There are actually a lot of these resource books that you can find for these RPGs that will have listings of creatures and monsters and dangers by topography, and by weather, and that's a really cool way to see what indigenous creatures might live there, and that's a good resource to pull from if you're not having any creative juices helping you decide what to put in front of them.|Secondly, you want to consider how challenging you want the encounter or encounters to be. Do you want it to be a really quick scuffle, do you want it to be a series of small battles, as to opposed to fighting in a long hallway, in a spaceship? Do you want it to be one giant climatic multi-leveled boss confrontation? Once you've made that decision, that'll help you figure out how dangerous, how extensive, and how powerful the villains may be for this encounter. There's a lot of great resource manuals for every RPG system out there that have breakdowns about what creatures are good for which player levels as far as power or challenge and danger is concerned. Like, for instance, the dungeon master's guide and monster manual have a challenge rating system. A creature of a certain challenge rating is a decent challenge for a group of four players of that level, and you can slide the scale from there.|Also, the DMG, or the Dungeon Master's Guide, has a experience threshold table in there as well that helps you build encounters based on the total experience points the creatures are fighting. So those are really cool resources, if you're new to the system and you're still trying to figure out how to balance that properly. Over time, eventually you'll just get a feel for it.|Experience helps you get a little more comfortable with balancing the battle, and you want to make sure you don't kill all your players way too quickly in the game, either. There's also a really good website called Kobold Fight Club, for those who are running Dungeons & Dragons 5th edition campaigns, that helps them build an entire encounter with the experience table stuff that helps you get an idea of what could and could not be considered too powerful.|And don't forget, if you can't find a creature or monster in these realms or any sort of villain that suits your need for the storyline or this particular battle, you can create one. Make one up or take something that's there and customize it and alter it, make it more powerful, make it weaker, you know? If you really, really want to run a game that has a bunch of kobolds as the main villain, but all your players are level ten? Go ahead and make yourself some more powerful kobolds. You can customize 'em all you want.|Everything in there is just a baseline suggestion of what they think, or they created initially to be, but you can always scale them, you can make them more powerful, you can add additional hit points, make them do more damage per attack.|Increase their defenses, give it some hidden resistances or vulnerabilities. You can even create whole new abilities, I customize creatures all the time for my game. I think it, one, makes it more interesting and more customized to the specific encounter and world. Secondly, for players who have been playing for a long time and pretty much memorized the monster manual, it keeps them on their toes because they'll be encountering monsters that they have yet to memorize everything about. Also, make sure, though, if you do use these creatures and you want them to have interesting defenses and vulnerabilities and the like, make sure you highlight them or note them, it's very easy to rush into combat and forget some of these cool things. So I always use a highlighter and highlight the various notes and elements of these creatures or these combat scenarios that I want to make sure that I remember and recall in the heat of battle.|The next note I want to bring up is battlefields.|First and foremost, not every game needs a battlefield. In fact, I kind of prefer RPGs that don't have a battle map with miniatures, it's just a way to play. I prefer to keep things in my imagination, but that's generally more wieldy with smaller groups, if you have three, maybe four players. Larger than that, it gets a little unwieldy, and me running six to eight players, it has become very necessary for everyone to keep track of their spatial awareness. When you create a map, things to consider, creative terrain. You know, think of where it's are happening, but ways to make it different on occasion, too. You can have straight forward battles with just, here's an area where they fight, here's some hallways, here's some rooms, and that's cool, too, but if you're in an urban setting, have furniture they can use to their advantage, whether it be for height or for setting up blockades.|Also, consider what other challenges and confrontations they might have with the terrain during the battlefield. Is there a giant chasm they have to get across to actually get to the villain while they're attacking them from a distance? Is there some sort of arcane field that's locked off a portion of the battlefield and they have to figure out some sort of puzzle during the battle to lock it down? Is invulnerable to all damage until they can find some sort of hidden aspect of their soul locked within a nearby battlefield, or is there a bunch of innocents in there as well that are in danger of being killed from the collateral damage? Find cool and unique ways to make it an interesting battle outside of a slug fest of HP being knocked away and whoever falls first. Mind you, those can be fun, too, on occasion, but you want to make sure to keep things interesting.|For those who want to create battlefields, what I use for my battlefields, because it has been requested a few times. You can use easel pad paper, one-inch grid easel pad paper that you can find online, and that's a real cool way to draw on that using markers and create your own battlefields that way. There are great tutorials online too that show you how to make cool battles and interesting-looking terrain with simple hatch-mark shading and minor colors, so I highly recommend that.|Also, when you're using intelligent creatures, especially monsters or individuals or villains that are understanding their own mortality, they may flee. When they hit about half or a quarter hit points, they maybe want to get the heck out of Dodge. So don't be afraid to let your villains or enemies do that on occasion. One, it ups the stakes immediately in a battle from a slog fest to, oh crap he's getting away, and the dynamic shifts to try and prevent them from doing so. And secondly, if they do manage to get away, you may have a juicy villain who can recur later on down the story with a need for vengeance. Vengeance! Another cool note, not all battles are meant to be won, either. Sometimes you want to introduce a really powerful enemy as a foreshadowing aspect, a creature that they can in no way, shape or form defeat, and they are meant to flee from, so that they can build towards down the road, maybe coming back and finally killing it as a means of vengeance. Just make sure you try and insinuate to the players that they shouldn't stick around for the whole fight or you might have a TPK on your hands, so be careful with that one. It's a fun tool, but be careful. No, seriously, be careful.|Plus, it also leaves a cool story like, """"Man, you remember that one time we almost got killed by that thing?"""" Not all fights are meant to end in bloodshed, as well. So don't be afraid to let the players diplomatically resolve an encounter. Sometimes battles happen because of misunderstandings or misinformation or the wrong thing was said and it ticks somebody off. That doesn't mean they have to fight to the bitter end and murder whoever's in front of them. You don't want the whole murderhobo syndrome to be consistent, unless that's the campaign you're running, in which case, fight on, my murderhobos. But let the players use their social skills to try and defuse an encounter before anyone gets killed. I've many games where halfway through a battle, they're like, """"Wait, they may have information we need,"""" or, """"Maybe we were duped and have the wrong information,"""" and they decide to diplomatically end it. It doesn't always work, but it's nice to give them that option.|[break]|All righty guys, welcome back. So before jumping in here real fast, we got a couple things.|One, we have a winner for our next giveaway, for all you awesome subscribers out there. The winner is Blackshadow773! (cheering)|Appropriate place for a shoutout."
 908;LAURA;That's really appropriate.
 909;MATT;We'll send you an awesome package with a bunch of goodies, Critical Role goodies, some signed stuff, some fun things coming your way, so that's fun. Also, I forgot to do it in the announcements earlier, but I have a couple of new music tracks and some things coming forward that I'll be able to incorporate into the game from awesome guys named Battlebards. They did a Kickstarter a while back to create RPG-specific music and sound effects and audio tracks and they were nice enough to give me some of their stuff to use in the show. So if you're running your own game and want some good music and soundscape stuff to work on, Battlebards' got some pretty cool stuff, so thank you guys. All righty, so.|Returning as it was, Grog and Vax, you make your way down to the basement of Greyskull Keep. The door's still partially ajar as Grog left it. You enter the room--
 910;TRAVIS;Before we go in, I would like to put my hand on Vax. Just a note, I tried to do this by myself, but the skull asked for Percy. I know he didn't respond well with all that dark shadowy stuff, so be careful. I'm not entirely sure we can trust him with it. I wanted to do it myself, but it was either you or Keyleth, and you're a prick, so I picked you.
@@ -922,9 +922,9 @@
 920;TALIESIN;He wants to be freed. It. How would we free you?
 921;MATT;There's a slight pause before you can see the gem, the swirl coalesces into what looks like a spectral face. You can make out what looks to be eyes, a mouth and a nose. Though the nose itself is less of a pronounced human nose and--
 922;LIAM;I'm looking at the floor, I'm not looking at it.
-923;MATT;"Okay. But you see where the nose is, instead there are two nasal passages. And you hear a voice slowly creak out from it and say, ""All that I require is for you to destroy this prison. Free my spirit from generations of torment, that is all I ask."""
+923;MATT;"Okay. But you see where the nose is, instead there are two nasal passages. And you hear a voice slowly creak out from it and say, """"All that I require is for you to destroy this prison. Free my spirit from generations of torment, that is all I ask."""""
 924;LIAM;Hey, quick question, who are you? Who were you before you were in this prison?
-925;MATT;"""It's been too long, too long have I been here, I do not know who I am."""
+925;MATT;"""""It's been too long, too long have I been here, I do not know who I am."""""
 926;LIAM;Ah, well, go fuck yourself. And I put the blanket over it.
 927;MATT;The blanket covers the skull.
 928;LIAM;This seems like a very bad idea to me. Why are we doing this? Didn't we do this already, once before?
@@ -1071,7 +1071,7 @@
 1069;MARISHA;Beautiful-- Even better.
 1070;TALIESIN;You read the spell, didn't you?
 1071;LIAM;Scanlan, Scanlan, join us. Please, quickly, please.
-1072;MATT;"Scanlan goes, ""I'm trying to help some folks, but if you insist, all right."""
+1072;MATT;"Scanlan goes, """"I'm trying to help some folks, but if you insist, all right."""""
 1073;LIAM;I do, I do insist.
 1074;TRAVIS;Vex. If he has the skull, we've got to get it from him now.
 1075;LAURA;Percy?
@@ -1108,9 +1108,9 @@
 1106;TRAVIS;If you want to, you can ask it what it wants, and then you'll know, or you can give it to me and we can be done with this.
 1107;MARISHA;Are we trying to hand Grog the evil things?
 1108;LAURA;I take the tapestry off it and I ask it, what the fuck do you want? What the fuck are you? What the fuck is this?
-1109;MATT;"As you look down at the skull, which you guys still can't get through because Grog's holding the door, and you don't have a visual in there because he's holding it pretty close to completely shut. As you look down, you can see now in the gem, formulating in the middle of it, this swirl of a face that comes right up to the front.|You can see in the midst of its coloration these energy-based eyes and grin, a toothy grin that goes, ""I wish to be freed. That is all. I've been here far too long. I grow tired. I want to finally pass."""
+1109;MATT;"As you look down at the skull, which you guys still can't get through because Grog's holding the door, and you don't have a visual in there because he's holding it pretty close to completely shut. As you look down, you can see now in the gem, formulating in the middle of it, this swirl of a face that comes right up to the front.|You can see in the midst of its coloration these energy-based eyes and grin, a toothy grin that goes, """"I wish to be freed. That is all. I've been here far too long. I grow tired. I want to finally pass."""""
 1110;LAURA;Are you Vecna?
-1111;MATT;"You hear a chuckle. ""No. Vecna has been long gone. I am not a being of such power."""
+1111;MATT;"You hear a chuckle. """"No. Vecna has been long gone. I am not a being of such power."""""
 1112;LAURA;Can I insight check the fucking thing in the eyeball?
 1113;MATT;Sure, make a insight check.
 1114;LAURA;Sure, no problem. Unless it was a natural 20, it doesn't matter, 15, no.
@@ -1121,7 +1121,7 @@
 1119;MATT;22, okay, that's way higher. You take a look at it, but due to the fact that it's mostly hidden, there aren't facial tics and there aren't normal gives to what a person's intent is, and even the tone of voice itself is spectral, ominous and otherworldly. You have a hard time being able to read whether or not it's being honest or lying or anything in between.
 1120;LIAM;Scanlan here yet?
 1121;LAURA;Why would we free it?
-1122;MATT;"Scanlan is now behind the door on the other side, and he enters the room with you guys and is like, ""What's going on, everything cool?"""
+1122;MATT;"Scanlan is now behind the door on the other side, and he enters the room with you guys and is like, """"What's going on, everything cool?"""""
 1123;LIAM;Wait, the door is open now?
 1124;MATT;No, he's with you guys.
 1125;LIAM;Ah good, yeah, Bigby that shit.
@@ -1226,7 +1226,7 @@
 1224;MATT;Okay. If you would like to relay any information, she peered pretty well into your demeanor.
 1225;TRAVIS;I want to get rid of the dragons, now.
 1226;MATT;So you gather that he's coming from a place that a simple mind is looking for a simple solution to a complex problem.|(laughter)
-1227;LAURA;"""I'm right here, Matt."""
+1227;LAURA;"""""I'm right here, Matt."""""
 1228;TALIESIN;Burn, burn!
 1229;TRAVIS;Oh, oh, the flames, ah! (laughter)|Stop, drop, and roll!
 1230;MATT;I'm saying that's the best way she can discern your demeanor right now. Pike, anything else you want to do right now? We have to continue this.
@@ -1335,19 +1335,19 @@
 1333;TRAVIS;Well, it didn't say anything about a payment. There are four dragons killing everything.
 1334;MATT;At this point, as you guys are having this conversation, and you guys are darting out, Vex, you stop, as coming down the stairs from the main floor is Erwen. Frazzled, but still put together as well as he can.
 1335;LAURA;I tuck it behind my back.
-1336;MATT;"""I'm sorry, Lady Vex'ahlia, it appears you have a few guests, suddenly."""
+1336;MATT;"""""I'm sorry, Lady Vex'ahlia, it appears you have a few guests, suddenly."""""
 1337;LAURA;What? What kind of guests?
-1338;MATT;"""She's been here before. I don't recognize the other; in the dining area."""
+1338;MATT;"""""She's been here before. I don't recognize the other; in the dining area."""""
 1339;LAURA;What does she look like?
-1340;MATT;"""Blonde hair."""
+1340;MATT;"""""Blonde hair."""""
 1341;TRAVIS;Allura.
-1342;MATT;"""Dwarven individual."""
+1342;MATT;"""""Dwarven individual."""""
 1343;MARISHA;Oh my god, it's Allura and Kima.
 1344;LIAM;This is a little like Clue: the Movie.
 1345;LAURA;It kind of is. Yes-- Erwen. Bring them down here. It's an emergency
-1346;MATT;"""Very well, I'll--"""
+1346;MATT;"""""Very well, I'll--"""""
 1347;LAURA;As quickly as possible.
-1348;MATT;"""Yes, yes."" And he turns around and hustles up the stairs."
+1348;MATT;"""""Yes, yes."""" And he turns around and hustles up the stairs."
 1349;MARISHA;Can we all please go back in Percy's workshop?
 1350;LAURA;Not yet, darling.
 1351;MARISHA;Why not?
@@ -1355,20 +1355,20 @@
 1353;MARISHA;We are standing in the damn hall, all I am asking is that we move into a quiet room.
 1354;MATT;At this point now, at the top of the stairway, two individuals come walking down. First and foremost, you see a dwarven male with short black hair and a beard, trimmed fairly fine, red leathers, carrying some sort of crooked wand on the side. Behind him you see, hair tossed back as she rushes down after him, Arcanist Allura Vysoren.
 1355;LIAM;I sheath my daggers.
-1356;MATT;"Okay. She looks about curiously and the dwarf goes, ""Okay, what have we stepped into here?"" And Allura puts her hand on his shoulder and goes, ""Don't worry. I apologize for my intrusion. I had a-- is everything all right?"""
+1356;MATT;"Okay. She looks about curiously and the dwarf goes, """"Okay, what have we stepped into here?"""" And Allura puts her hand on his shoulder and goes, """"Don't worry. I apologize for my intrusion. I had a-- is everything all right?"""""
 1357;LAURA;We could use your help at this moment.
-1358;MATT;"""Certainly. Sorry, this is a long-time friend of mine, Elementalist Drake Thunderbrand.|If you don't mind him accompanying us as well?"""
+1358;MATT;"""""Certainly. Sorry, this is a long-time friend of mine, Elementalist Drake Thunderbrand.|If you don't mind him accompanying us as well?"""""
 1359;LAURA;Is he good?
-1360;MATT;"""Oh, he's one of the finest."""
+1360;MATT;"""""Oh, he's one of the finest."""""
 1361;LAURA;A good person?
-1362;MATT;"""I've put my life in his hands a number of times, yes."""
+1362;MATT;"""""I've put my life in his hands a number of times, yes."""""
 1363;LIAM;Things are a lot more complicated than you can even imagine. Please come in, we need you.
-1364;MATT;"""Yes, yes."" And as you guys are having this standoff, you watch as this black-haired, red-leathered dwarf walks in, looking around and inspecting intently. You don't recognize him, you've never seen him before"
+1364;MATT;"""""Yes, yes."""" And as you guys are having this standoff, you watch as this black-haired, red-leathered dwarf walks in, looking around and inspecting intently. You don't recognize him, you've never seen him before"
 1365;TRAVIS;What's he wielding?
 1366;MATT;No weapons on him. You see him clutching this gnarled, curved wand that almost spirals, like a piece of well-treated but messed up wood.
 1367;TRAVIS;A stick.
 1368;LAURA;That's a weapon.
-1369;MATT;"Maybe. And Allura rushes in, muttering under her breath, ""I was just in Whitestone and I had a terrible feeling come over me and all my teleportation sigils within the city were suddenly severed. Both my tower and the Lyceum. I had to manually teleport us here as it was the only place I really had enough familiarity with far enough away from the city in case something bad had happened, I hope you don't mind."""
+1369;MATT;"Maybe. And Allura rushes in, muttering under her breath, """"I was just in Whitestone and I had a terrible feeling come over me and all my teleportation sigils within the city were suddenly severed. Both my tower and the Lyceum. I had to manually teleport us here as it was the only place I really had enough familiarity with far enough away from the city in case something bad had happened, I hope you don't mind."""""
 1370;LAURA;Not at all. We're grateful for your help.
 1371;LIAM;Could you do us a favor? We had a small accident with Percival.
 1372;LAURA;Not yet, not yet.
@@ -1380,52 +1380,52 @@
 1378;TRAVIS;Fucked!
 1379;LAURA;We're sorry.
 1380;MARISHA;I'll go ahead and drop the Hold Person on Percy.
-1381;MATT;"And her face goes white, the blood runs from her entire complexion, and you can see the dwarf that initially was huffed up and intense in his energy, while not fully understanding what's going on, looks over to Allura and softens and walks up and puts his hand on her shoulder. ""You okay, lass?"""
+1381;MATT;"And her face goes white, the blood runs from her entire complexion, and you can see the dwarf that initially was huffed up and intense in his energy, while not fully understanding what's going on, looks over to Allura and softens and walks up and puts his hand on her shoulder. """"You okay, lass?"""""
 1382;LIAM;I'm sorry, my lady. Did you know that Uriel planned to step down?
-1383;MATT;"""He threatened it--"""
+1383;MATT;"""""He threatened it--"""""
 1384;LIAM;He did it.
-1385;MATT;"""-- for weeks-- what?"""
+1385;MATT;"""""-- for weeks-- what?"""""
 1386;LIAM;He did it, and moments later four old dragons descended upon the city.
 1387;MARISHA;The Cloudtop District has been demolished.
-1388;MATT;"""This cannot be."""
+1388;MATT;"""""This cannot be."""""
 1389;MARISHA;We don't know who all is alive or dead.|We can only expect the worst.
-1390;MATT;"""This cannot be."""
+1390;MATT;"""""This cannot be."""""
 1391;LAURA;Unfortunately, Allura, all of that is the reason for our current impasse. We seem to have discovered something that could potentially reverse the situation. But there's a great price to pay. It could be a small price to pay, we don't know. If you wouldn't mind taking a look at this relic that we discovered.
-1392;MATT;"And you see, she is still lost in thought and there's something in her mind that's distracting her immensely, but she eventually clarifies and her eyes focus on you once more and she goes, ""Of course, please."""
+1392;MATT;"And you see, she is still lost in thought and there's something in her mind that's distracting her immensely, but she eventually clarifies and her eyes focus on you once more and she goes, """"Of course, please."""""
 1393;LAURA;I don't give it to her, but I pull the tapestry off of the skull and show it to her.
-1394;MATT;"She looks at it and leans forward and begins muttering something beneath her breath, and she goes into technical mode, like she distracts herself with work at this moment. And as her brow furrows, she mutters under her breath and completes some sort of flash of arcane energy, and you can see the flash of energy attaches around the skull for a second and glints back at her, and she goes, ""Right, all right, that's-- That skull is not human, that skull is Githyanki. That is a species that exists primarily on the Astral Plane.|They're rowdy, evil, pirating, marauding individuals, and that's one sense. The gem within that skull appears to be a soul gem and contains the soul of, from what I can gather, a Githyanki individual. Very old. I can say at least from my knowledge and learned opinion that no good can come from such an artifact."""
+1394;MATT;"She looks at it and leans forward and begins muttering something beneath her breath, and she goes into technical mode, like she distracts herself with work at this moment. And as her brow furrows, she mutters under her breath and completes some sort of flash of arcane energy, and you can see the flash of energy attaches around the skull for a second and glints back at her, and she goes, """"Right, all right, that's-- That skull is not human, that skull is Githyanki. That is a species that exists primarily on the Astral Plane.|They're rowdy, evil, pirating, marauding individuals, and that's one sense. The gem within that skull appears to be a soul gem and contains the soul of, from what I can gather, a Githyanki individual. Very old. I can say at least from my knowledge and learned opinion that no good can come from such an artifact."""""
 1395;LAURA;Okay. He can grant a wish, he says? Lying, truth? What do you think?
-1396;MATT;"""It's hard to say. It would take a very powerful individual to do so, however, I would say that wishes granted by entities that do not correspond with your moral outlook for the most part rarely end up in your favor, even when carefully worded."""
+1396;MATT;"""""It's hard to say. It would take a very powerful individual to do so, however, I would say that wishes granted by entities that do not correspond with your moral outlook for the most part rarely end up in your favor, even when carefully worded."""""
 1397;LAURA;Right. No, but I remember this, we dealt with this with the demon that killed Pike.
 1398;MARISHA;Yes, but we used our wish to wish ourselves out of that contract.
 1399;LAURA;And it had to be so carefully worded.
 1400;MARISHA;We can destroy more, if we're not careful.
-1401;MATT;"""There have been powerful individuals, who upon obtaining the ability to make such a wish, even as careful as they were, they reached beyond the means of its magic, and doing so, undid themselves. It's a very, very powerful, very dangerous magic, and if this entity is indeed even capable of doing so, who's to say the chances that it wouldn't wreak more havoc than you intended?"""
+1401;MATT;"""""There have been powerful individuals, who upon obtaining the ability to make such a wish, even as careful as they were, they reached beyond the means of its magic, and doing so, undid themselves. It's a very, very powerful, very dangerous magic, and if this entity is indeed even capable of doing so, who's to say the chances that it wouldn't wreak more havoc than you intended?"""""
 1402;LIAM;We are in a precarious position. The city is in ruins, already, in a matter of hours.
-1403;MATT;"""Yes, yes."""
+1403;MATT;"""""Yes, yes."""""
 1404;MARISHA;What do we do?
-1405;MATT;"And at this point, she looks around for a chair. You can see her hands are shaking, and she goes and grabs a chair and pulls it up and sits down for a second, puts her hands on her knees, and quietly, ""Describe to me these dragons."""
+1405;MATT;"And at this point, she looks around for a chair. You can see her hands are shaking, and she goes and grabs a chair and pulls it up and sits down for a second, puts her hands on her knees, and quietly, """"Describe to me these dragons."""""
 1406;MARISHA;There was one of each color.
 1407;LAURA;A green, a black, a white.
 1408;TRAVIS;And a big red piece of shit.
 1409;MARISHA;All colors except for blue of the chromatic spectrum. I got a few of their names.
 1410;MATT;As you go through each color, she nods, but when you say the big red, her body freezes.
 1411;MARISHA;Does this sound familiar to you?
-1412;MATT;"""The names, you said?"""
+1412;MATT;"""""The names, you said?"""""
 1413;MARISHA;There's a white dragon that called himself Vorugal. A green dragon, Raishan. Black dragon, Umbrasyl, and the red dragon, we haven't heard his name yet. He seems to be the leader.
-1414;MATT;"At this point she nods and goes, ""I know not the middle two, but Vorugal has been known to wander the wastes north in Othanzia. Some of the offspring have wandered further, in fact I believe the Skysunder that you destroyed naught but two years ago that was sealed in the Frostweald was one of its brethren. Its children. But Vorugal has not been seen wandering this far out. Chromatics do not work together, they are selfish and greedy and territorial."""
+1414;MATT;"At this point she nods and goes, """"I know not the middle two, but Vorugal has been known to wander the wastes north in Othanzia. Some of the offspring have wandered further, in fact I believe the Skysunder that you destroyed naught but two years ago that was sealed in the Frostweald was one of its brethren. Its children. But Vorugal has not been seen wandering this far out. Chromatics do not work together, they are selfish and greedy and territorial."""""
 1415;LAURA;They're definitely working together.
-1416;MATT;"""This red you say is the leader?"""
+1416;MATT;"""""This red you say is the leader?"""""
 1417;LIAM;Yes, most definitely.
 1418;MARISHA;He had a message that he belted over the entire city. He said that we who live, he's showing mercy and that we can either fight or flee, and then--
 1419;LAURA;He said if we fight or flee, we'll be denied the mercy.
 1420;MARISHA;Okay, something along those lines. And then he said that it was the guardians of this city that brought this upon Emon, and that he has control. He called it like a new order.
 1421;LAURA;He said our new purpose is to serve him.
-1422;MATT;"Now for the first time, you have known Allura for quite some time, she's been a very stoic, strong, confident, and powerful person. At this moment, she has withered. She looks genuinely like she's hit a level of fear you have never seen in an individual like this, and it shakes you to see this upon her face, and she puts her hand up and says, ""This is not your fault. This burden is mine."" And looks over to the dwarf and says, ""It is ours."" And the dwarf, you can now see, he's nodding in understanding. ""This dragon... it's been called many names, but the one that it's taken is Thordak, The Cinder King."""
+1422;MATT;"Now for the first time, you have known Allura for quite some time, she's been a very stoic, strong, confident, and powerful person. At this moment, she has withered. She looks genuinely like she's hit a level of fear you have never seen in an individual like this, and it shakes you to see this upon her face, and she puts her hand up and says, """"This is not your fault. This burden is mine."""" And looks over to the dwarf and says, """"It is ours."""" And the dwarf, you can now see, he's nodding in understanding. """"This dragon... it's been called many names, but the one that it's taken is Thordak, The Cinder King."""""
 1423;MARISHA;Thordak?
-1424;MATT;"""Thordak. This terrible beast lorded over half of Marquet for centuries, taking the scalding sands as its domain and its denizens as cattle, and just as the city of Ank'harel was becoming the jewel of the desert, Thordak struck. A battle, however, that it was unable to win. Sent away, mortally wounded, it was thought that the dragon had died soon after, having not been seen for many centuries since. That is, until about 15 years ago. The rumors of a powerful drake, storming the beaches and seas, had been whispered for a long time, while ships would be lost at sea. It had survived and secretly ruled the island of Viscan in the south of the Lucidian Ocean. I suppose after generations, the dragon, now self-crowned as the Cinder King, grew greedier with the island's limited resources and began razing the Mournset countryside south of the Verdant Expanse and the Stormcrest Mountains."" And her eyes get even more distant as she is recalling all this. ""Reports of a dragon more massive than the records can compare hit Tal'Dorei. At the time, I wasn't part of the council. I traveled with a group of adventurers much like yourselves: Kima, Drake here, and a handful of other brave souls who are no longer with us. We traveled to investigate, but arrived to find this creature destroying everything surrounding the Glade Pools. Port Udall, gone, Byroden a smoldering ruin, and we gathered a small army of mercenaries and hunted it back to its new den in the Stormcrest, where a large number of lizardfolk had formed around him. But we were overpowered by the sheer might of the dragon. Many lives were lost. Knowing that we could not kill it, we turned to other means. I called upon the Arcana Pansophical, a circle of friends, arcane practitioners that agreed to work together across the land to keep them safe. They devised a trap, one that could, we believed, permanently seal Thordak within the elemental plane of fire, preventing him from ever returning to our world.|At the sacrifice of many, including our companions Sirus, Dohla, Ghenn, we succeeded."" And as the tears begin to roll down her face, she looks around. ""For naught now, it seems, and somehow he has broken our invocation. We bound his essence to the fountains of creation and thought he would stay there forever."" And she goes quiet and looks around for a second. ""I'm sorry."""
+1424;MATT;"""""Thordak. This terrible beast lorded over half of Marquet for centuries, taking the scalding sands as its domain and its denizens as cattle, and just as the city of Ank'harel was becoming the jewel of the desert, Thordak struck. A battle, however, that it was unable to win. Sent away, mortally wounded, it was thought that the dragon had died soon after, having not been seen for many centuries since. That is, until about 15 years ago. The rumors of a powerful drake, storming the beaches and seas, had been whispered for a long time, while ships would be lost at sea. It had survived and secretly ruled the island of Viscan in the south of the Lucidian Ocean. I suppose after generations, the dragon, now self-crowned as the Cinder King, grew greedier with the island's limited resources and began razing the Mournset countryside south of the Verdant Expanse and the Stormcrest Mountains."""" And her eyes get even more distant as she is recalling all this. """"Reports of a dragon more massive than the records can compare hit Tal'Dorei. At the time, I wasn't part of the council. I traveled with a group of adventurers much like yourselves: Kima, Drake here, and a handful of other brave souls who are no longer with us. We traveled to investigate, but arrived to find this creature destroying everything surrounding the Glade Pools. Port Udall, gone, Byroden a smoldering ruin, and we gathered a small army of mercenaries and hunted it back to its new den in the Stormcrest, where a large number of lizardfolk had formed around him. But we were overpowered by the sheer might of the dragon. Many lives were lost. Knowing that we could not kill it, we turned to other means. I called upon the Arcana Pansophical, a circle of friends, arcane practitioners that agreed to work together across the land to keep them safe. They devised a trap, one that could, we believed, permanently seal Thordak within the elemental plane of fire, preventing him from ever returning to our world.|At the sacrifice of many, including our companions Sirus, Dohla, Ghenn, we succeeded."""" And as the tears begin to roll down her face, she looks around. """"For naught now, it seems, and somehow he has broken our invocation. We bound his essence to the fountains of creation and thought he would stay there forever."""" And she goes quiet and looks around for a second. """"I'm sorry."""""
 1425;TALIESIN;This couldn't be because of our journey to the elemental plane, could it?
-1426;MATT;"""I'm so sorry."""
+1426;MATT;"""""I'm so sorry."""""
 1427;TALIESIN;We saw him there.
 1428;MARISHA;We did, but it sounds like he has been....
 1429;TALIESIN;We didn't set him free, you don't think?
@@ -1433,30 +1433,30 @@
 1431;MARISHA;My people-- Our job is to guard these realms.
 1432;TALIESIN;Is there any way of contacting the Fire Ashari?
 1433;MARISHA;Yeah, yeah, oh god. Oh god, what if they're-- what if they're dead?
-1434;MATT;"""To bind him, we created an artifact called a soul anchor. It was crafted from the salvaged heart crystal of a primordial fire titan. The anchor could not be removed from the plane, and the Cinder King could not leave without it. I don't know how he's managed to escaped the binding of this."""
+1434;MATT;"""""To bind him, we created an artifact called a soul anchor. It was crafted from the salvaged heart crystal of a primordial fire titan. The anchor could not be removed from the plane, and the Cinder King could not leave without it. I don't know how he's managed to escaped the binding of this."""""
 1435;MARISHA;Oh my god, this is all my fault.
 1436;TALIESIN;No. No. This was a land mine waiting to be stepped on.
 1437;MARISHA;But wait. We fought-- We fought my elders, we fought the Headmaster.
 1438;LAURA;It couldn't have been.
-1439;MATT;"""That would have no bearing on this. The heart crystal is immense. 15, 20 feet in diameter, it's a gem of pure crystallized ruby and elemental power and energy. Lest you managed to find this and destroy it, which, I mean no offence, is far beyond your capability."""
+1439;MATT;"""""That would have no bearing on this. The heart crystal is immense. 15, 20 feet in diameter, it's a gem of pure crystallized ruby and elemental power and energy. Lest you managed to find this and destroy it, which, I mean no offence, is far beyond your capability."""""
 1440;MARISHA;My people, would they be okay?
-1441;MATT;"""Depends on where he made his way through.|The timing is rather conspicuous, seeing as how Winter's Crest recently passed, in which time the planes are the thinnest barricades."""
+1441;MATT;"""""Depends on where he made his way through.|The timing is rather conspicuous, seeing as how Winter's Crest recently passed, in which time the planes are the thinnest barricades."""""
 1442;MARISHA;Yeah.
-1443;MATT;"""Whatever it is, I fear that our ruse will not work twice, especially if Thordak has had all this time to obsess over his failure. I do not know our next course of action."""
+1443;MATT;"""""Whatever it is, I fear that our ruse will not work twice, especially if Thordak has had all this time to obsess over his failure. I do not know our next course of action."""""
 1444;MARISHA;What do you know of General Krieg?
-1445;MATT;"""He's been gone for some time."""
+1445;MATT;"""""He's been gone for some time."""""
 1446;MARISHA;You were on the council with him, do you know anything further?
-1447;MATT;"""I think it was discussed that he had been killed during the demonic intrusion in the city, or deserted."""
+1447;MATT;"""""I think it was discussed that he had been killed during the demonic intrusion in the city, or deserted."""""
 1448;LAURA;Would a dragon seek vengeance against one of their brethren killed?
-1449;MATT;"""Chromatics are selfish beings, they do not care for each other, and the power of one is enough, but a conclave of dragons is both extraordinary and horrifying, but there is no-- There is no sense of vengeance for their kin unless it is against the greater plan. Now, if what you say is true and these other dragons are bound together in the service of Thordak, I imagine they would be the ones who had the power and the resources to find some way to bring him through."""
+1449;MATT;"""""Chromatics are selfish beings, they do not care for each other, and the power of one is enough, but a conclave of dragons is both extraordinary and horrifying, but there is no-- There is no sense of vengeance for their kin unless it is against the greater plan. Now, if what you say is true and these other dragons are bound together in the service of Thordak, I imagine they would be the ones who had the power and the resources to find some way to bring him through."""""
 1450;LAURA;All right.
-1451;MATT;"At which point, the dwarf steps up and still has his hand rubbing Allura's shoulder and says, ""We knew not what we were doing, other than trying to save it, don't blame yourself."""
+1451;MATT;"At which point, the dwarf steps up and still has his hand rubbing Allura's shoulder and says, """"We knew not what we were doing, other than trying to save it, don't blame yourself."""""
 1452;MARISHA;Allura.
-1453;MATT;"""Yes."""
+1453;MATT;"""""Yes."""""
 1454;MARISHA;Would you consider us guardians of this city?
-1455;MATT;"""One of many. I believe the guardians--"""
+1455;MATT;"""""One of many. I believe the guardians--"""""
 1456;MARISHA;Is this because of us?
-1457;MATT;"Allura looks at you dead-on and says, ""The only guardians that Thordak would know of would be the ones that sent him away to that plane 15 years ago. This is my fault."""
+1457;MATT;"Allura looks at you dead-on and says, """"The only guardians that Thordak would know of would be the ones that sent him away to that plane 15 years ago. This is my fault."""""
 1458;LIAM;That's not true. If we are to solve this situation we cannot hide the truth. I killed Krieg. We killed Krieg. I finished Krieg.
 1459;LAURA;Krieg was a dragon, Allura.
 1460;MARISHA;A blue dragon.
@@ -1468,14 +1468,14 @@
 1466;LIAM;When it happened, he had four stones, four orbs in his lair. They saw us.
 1467;MARISHA;They spoke out to us.
 1468;TALIESIN;They threatened us.
-1469;MATT;"""When was this? Was this--"""
+1469;MATT;"""""When was this? Was this--"""""
 1470;TALIESIN;Many years ago.
 1471;MARISHA;Maybe two years ago.
 1472;LIAM;Not all that long ago.
 1473;LAURA;It was right after we got to Emon.
-1474;MATT;"""It's been over a year at least. Well, if it's taken them that long at least to free Thordak, it means that this was probably in the works for quite some time. If we do share this responsibility, I assure you it weighs heavier on me than it does you. But right now we need all the allies we can gather. Now, you say Thordak is where right now?"""
+1474;MATT;"""""It's been over a year at least. Well, if it's taken them that long at least to free Thordak, it means that this was probably in the works for quite some time. If we do share this responsibility, I assure you it weighs heavier on me than it does you. But right now we need all the allies we can gather. Now, you say Thordak is where right now?"""""
 1475;TRAVIS;Sitting on Emon.
-1476;MATT;"""Within the city?"""
+1476;MATT;"""""Within the city?"""""
 1477;LAURA;Yeah.
 1478;TALIESIN;Vex, you would know.
 1479;LAURA;Oh, I can sense them. Right.
@@ -1483,7 +1483,7 @@
 1481;LAURA;Yeah.
 1482;MATT;On the edge of your senses, you close your eyes and focus and extend your ability to feel the landscape around you. Indeed, The Cinder King still sits in the center of the city.
 1483;LAURA;He's here.
-1484;MATT;"""What of the others?"""
+1484;MATT;"""""What of the others?"""""
 1485;LAURA;Do I sense any others?
 1486;MATT;Nope.
 1487;LAURA;They're gone for the time being.
@@ -1491,27 +1491,27 @@
 1489;TALIESIN;Barely.
 1490;LIAM;And on top of all that, we have this fucking skull.
 1491;MARISHA;I need to check in with my people. I need to check in with the Air Ashari.
-1492;MATT;"""Where's the rest? Where's the council? Who do we know survived?"""
+1492;MATT;"""""Where's the rest? Where's the council? Who do we know survived?"""""
 1493;LAURA;We don't know anything. Everyone was dying around us, we made it to the keep.
 1494;TRAVIS;It happened very quickly.
 1495;LIAM;We don't know what happened to Uriel, we didn't see.
-1496;MATT;"""We need to take stock of who we can consider friends that are still around. We need all allies right now. That should be our first order of business, if anything."" And her face drops again. ""I just lost my connection with Westruun."""
+1496;MATT;"""""We need to take stock of who we can consider friends that are still around. We need all allies right now. That should be our first order of business, if anything."""" And her face drops again. """"I just lost my connection with Westruun."""""
 1497;TRAVIS;Oh fuck. The whole world.
 1498;MARISHA;Yeah, this is an annihilation.
-1499;MATT;"""This isn't an annihilation, if this was an extermination there wouldn't be any survivors, you wouldn't be here. The fact that they've only taken what they can of the city-- what use is a city to a dragon if it doesn't have worshippers? They're vain beings."""
+1499;MATT;"""""This isn't an annihilation, if this was an extermination there wouldn't be any survivors, you wouldn't be here. The fact that they've only taken what they can of the city-- what use is a city to a dragon if it doesn't have worshippers? They're vain beings."""""
 1500;MARISHA;Think, Allura, what do all these cities have in common? And what would be the benefits of taking over these cities?
-1501;MATT;"""Resources, their gold, their people."""
+1501;MATT;"""""Resources, their gold, their people."""""
 1502;MARISHA;Do you think they just want domination over people? Over us? They called us ants!
-1503;MATT;"""Yes."""
+1503;MATT;"""""Yes."""""
 1504;LAURA;They want to be gods.
-1505;MATT;"""What good is a creature that sees itself as superior if there aren't those around it to tell them as such and confirm the belief, and if anyone refuses to bend to their will through fear and power. That is the nature of the chromatic dragons."""
+1505;MATT;"""""What good is a creature that sees itself as superior if there aren't those around it to tell them as such and confirm the belief, and if anyone refuses to bend to their will through fear and power. That is the nature of the chromatic dragons."""""
 1506;MARISHA;There has to be something more that they want.
-1507;MATT;"""Perhaps, but for now, the fact that he's even shouted mercy at this time as opposed to completely destroying everything in his wake, means that vanity can be used to our advantage. I don't know how soon, but that's something. Now--"""
+1507;MATT;"""""Perhaps, but for now, the fact that he's even shouted mercy at this time as opposed to completely destroying everything in his wake, means that vanity can be used to our advantage. I don't know how soon, but that's something. Now--"""""
 1508;TRAVIS;Allies. Vasselheim has warriors, armories.
 1509;TALIESIN;Whitestone as well.
 1510;LAURA;We can bring them here.
 1511;MARISHA;"I need to reach out to the Ashari and see if they're-- I leave, I want to go-- Well, actually; Allura, will you help me in a scrying spell?"
-1512;MATT;"""Yes, yes, the best I can, yes."""
+1512;MATT;"""""Yes, yes, the best I can, yes."""""
 1513;MARISHA;I want to scry and first check in on the Fire Ashari.
 1514;MATT;Okay. All right, at this point she pulls out her crystal ball from a little tiny satchel, which is in itself a smaller Bag of Holding. Pulls out a small mirror, takes some water and pours it on the mirror, places the sphere above it, and it floats for a second. And there's a makeshift scrying ritual site here before you. You guys take about ten minutes to concentrate, and if you guys want to do anything in that ten-minute period, you're welcome to, or if you just want to watch and wait, you can.
 1515;TALIESIN;I'm going to just sit, it's been a long, long day.
@@ -1527,21 +1527,21 @@
 1525;MARISHA;We failed.
 1526;MATT;And she looks you in the eyes, and for a moment you feel like her normally warm and embracing face has gone cold and intense and her voice seems to echo with an undercurrent of arcane focus and volume. She goes--
 1527;MARISHA;My people failed, we failed our cause.
-1528;MATT;"""Keyleth, you failed no one, this is not your doing. This burden is ours as a people to hold, do not let this wash over you or he wins.|This is their making, this is not yours. These creatures are evil incarnate, and it is our job, our true calling to end what they have done. Do not let this crush you, you are stronger than that. Pull yourself together. Your people, those that remain, they stand behind you."""
+1528;MATT;"""""Keyleth, you failed no one, this is not your doing. This burden is ours as a people to hold, do not let this wash over you or he wins.|This is their making, this is not yours. These creatures are evil incarnate, and it is our job, our true calling to end what they have done. Do not let this crush you, you are stronger than that. Pull yourself together. Your people, those that remain, they stand behind you."""""
 1529;MARISHA;I'm not as strong as you, Allura.
-1530;MATT;"""But you can be and you will be. Do you trust me? Do you trust me?"""
+1530;MATT;"""""But you can be and you will be. Do you trust me? Do you trust me?"""""
 1531;MARISHA;Yes.
-1532;MATT;"""Good."" Her grasp releases."
+1532;MATT;"""""Good."""" Her grasp releases."
 1533;MARISHA;That's my people.
-1534;MATT;"""And mine, and all of ours. There are many secrets in these lands. I'm a firm believer that there's always a way to victory, if we are smart about it and if we're quick about it. Now, I think we should look for survivors. Gather those we know that can rally to our cause, in Emon and beyond.|What say you?"""
+1534;MATT;"""""And mine, and all of ours. There are many secrets in these lands. I'm a firm believer that there's always a way to victory, if we are smart about it and if we're quick about it. Now, I think we should look for survivors. Gather those we know that can rally to our cause, in Emon and beyond.|What say you?"""""
 1535;TALIESIN;Aye.
 1536;TRAVIS;Yeah.
 1537;MARISHA;Aye.
 1538;LIAM;We are to stand now or we might as well be dead.
 1539;LAURA;So we're definitely not going to wish on this skull then, yeah?
-1540;MATT;"""I would recommend against it."""
+1540;MATT;"""""I would recommend against it."""""
 1541;MARISHA;Yeah, I stand.
-1542;MATT;"""Very well, let us prepare for the fall of the Chroma Conclave. Together."" And that's where we'll end our session for tonight."
+1542;MATT;"""""Very well, let us prepare for the fall of the Chroma Conclave. Together."""" And that's where we'll end our session for tonight."
 1543;LAURA;Fucking A!
 1544;MATT;Hey guys, D&D's fun! (laughter)
 1545;MARISHA;"D&D will never be fun again; everything's ruined."
@@ -1583,7 +1583,7 @@
 1581;TALIESIN;I was really looking for a reason to say yes.
 1582;MARISHA;And it turns out that it was just a fucking lame-ass pirate. Fuck that, we don't want to be indebted to some shithead pirate.
 1583;TALIESIN;Nothing good happens when you let Mxyzptlk out of the goddamn skull.
-1584;MATT;"It was fun. I set a time for myself when she's gonna arrive, and I was like, ""Oh man, what's going to happen before she gets there?"" I was like, as you guys kept delaying it, they might actually-- she might actually catch them in time."
+1584;MATT;"It was fun. I set a time for myself when she's gonna arrive, and I was like, """"Oh man, what's going to happen before she gets there?"""" I was like, as you guys kept delaying it, they might actually-- she might actually catch them in time."
 1585;MARISHA;She would have walked in and we're beating the shit out of each other.
 1586;LAURA;It all would have gone to hell if--
 1587;MATT;You don't know what would happen. You don't know.

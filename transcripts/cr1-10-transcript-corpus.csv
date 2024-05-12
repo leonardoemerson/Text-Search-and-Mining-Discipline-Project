@@ -94,7 +94,7 @@
 92;TRAVIS;Okay, good.
 93;ASHLEY;And I'm in the boat?
 94;MATT;You're in the boat.|Grog's in the boat. Clarota, Kima...
-95;TRAVIS;"I would like to bust out at a full dead sprint after Percy.|""There's no blood being had without me!"""
+95;TRAVIS;"I would like to bust out at a full dead sprint after Percy.|""""There's no blood being had without me!"""""
 96;MATT;As Grog leaps out, (sploosh) splashing.|It's shallow at this point.|You're about waist deep in the water.|You trudge up to the shore, run across the gravel beach, and start heading straight into the cavern after Percy.
 97;TRAVIS;Screaming.
 98;MATT;Yelling into the cavern, a big old goliath scream.|Laser pointer if anyone needs it, by the way. There you go.|All right, that brings us to Vex.
@@ -117,7 +117,7 @@
 115;LAURA;It's a 60-foot cone.
 116;MATT;You are quite a distance from most of them.|You might have to hop off the flying carpet.
 117;LAURA;I will?!
-118;ORION;"She can move it just fine.|Just think, ""forward."""
+118;ORION;"She can move it just fine.|Just think, """"forward."""""
 119;LAURA;Can we fly the carpet forward?
 120;MATT;You're currently not in control of the carpet. Tiberius is.
 121;LAURA;Can I delay until-- what's your initiative?
@@ -165,11 +165,11 @@
 163;MATT;Right here? I'd say you're approximately--
 164;ORION;Well, I'll move the carpet the minimum distance I have to for her to get in range.
 165;MATT;You can probably push it 20 feet.|It's about there.
-166;ORION;"Okay, so that's where I'll stay.|""This doesn't look good."" I cast Obelisk of Stone on my dear friend. (fshh) I'm going to raise him up out of harm's way."
+166;ORION;"Okay, so that's where I'll stay.|""""This doesn't look good."""" I cast Obelisk of Stone on my dear friend. (fshh) I'm going to raise him up out of harm's way."
 167;MATT;All right.|So, as you finish casting, you can see some of the actual sand that fills the bottom of this cave begins to swirl up in a wind around Tiberius's hands, and as he lifts his arms up, a single column of stone shakes and shifts out of the ground, lifting your paralyzed body 15 feet into the air.|Thankfully, the actual cavern itself is about 25 feet tall, so it doesn't crush you against the ceiling.
 168;ORION;No, I only raise it about 20 feet.
 169;MATT;It can only go 15 feet for level 3.|Or 20. I'm sorry. 20 feet.|So, you're barely brought up to the ceiling.|It crests the top of your head, but not enough to actually crush you or do any damage.|But you are seemingly out of harm's way from the current undead onslaught.
-170;ORION;"And then I go, ""That was a good idea!"" And then I spend three sorcerer points and I hock a fireball (fwoosh) at all those fuckers, too."
+170;ORION;"And then I go, """"That was a good idea!"""" And then I spend three sorcerer points and I hock a fireball (fwoosh) at all those fuckers, too."
 171;MATT;All right, so Tiberius, as you lift up the pillar with one hand, the dust settles and falls from your hand, and as it does this hand back here begins to coalesce this small bead of red burning energy.|You fling it out with your off hand.|It streaks across, hits the base of the pillar, and explodes with a blast of red fiery magical energy.|Go ahead and roll damage.|Your DC on that is 17, right?
 172;ORION;Yes. Two, four, six.|Is it six or eight?
 173;MATT;They all failed their saving throw.|It's 8d6.
@@ -190,13 +190,13 @@
 188;MATT;No, 1d6, because it's only a 20-foot fall.
 189;LIAM;Right, okay.
 190;MATT;You're able to catch yourself, and it's also sand, so it's not too hard.|All right, that finishes your turn?
-191;ORION;"It certainly does.|""Vex, would you finish that bastard off?"""
+191;ORION;"It certainly does.|""""Vex, would you finish that bastard off?"""""
 192;MATT;Wait, you did land in a bunch of rocks of the broken pillar.|Roll another d6 points of damage.
 193;LIAM;That was more substantial.
 194;MATT;If it was the sand, it wasn't so hard, but it was the fact that I realized there was a whole crapton of pillar rubble that your paralyzed body fell upon, unable to brace your fall.|So. That's going to hurt in the morning.|Vex, you're up.
-195;LAURA;"Okay. Well, there's ""no"" really anybody else, so I'm going to..."
-196;TRAVIS;"(teasing) There's ""no"" really?"
-197;LAURA;"There's ""no"" really anybody else-- I can shoot through my fire thing, right?"
+195;LAURA;"Okay. Well, there's """"no"""" really anybody else, so I'm going to..."
+196;TRAVIS;"(teasing) There's """"no"""" really?"
+197;LAURA;"There's """"no"""" really anybody else-- I can shoot through my fire thing, right?"
 198;MATT;If you want to, yeah.|You still haven't used it for the day.
 199;LAURA;Should I save it?|I'll attack him twice.
 200;MATT;Okay, you're attacking him twice.|As you're sitting on the carpet, you pull out (schwoop, schwoop) and rapidly release two arrows in succession.
@@ -278,7 +278,7 @@
 276;LAURA;I'll take it to Grog, because I figure he'll probably be able to use it.
 277;MATT;There you go.|She hands you this fantastic sword.
 278;LAURA;I don't know if it's magic or anything, Grog, so you might want to have Tiberius have a look at it.
-279;TRAVIS;"""Hold on, let me check."" I take it and I shake it really hard."
+279;TRAVIS;"""""Hold on, let me check."""" I take it and I shake it really hard."
 280;ORION;That's not how you really--
 281;TRAVIS;I think I know what I'm doing.|All right, here. You can check it.
 282;ORION;As he's doing that, I get 18 trying to see what's up.
@@ -294,7 +294,7 @@
 292;LAURA;I'm just going to keep this with the party gold.
 293;SAM;With the party treasury? Oh, sure.
 294;LAURA;Plus one diamond to the treasury.
-295;ORION;"""Vex, let me see the diamond for just one second."" As he's shaking his sword, I go into the Bag of Holding and take out the Mending Wheel."
+295;ORION;"""""Vex, let me see the diamond for just one second."""" As he's shaking his sword, I go into the Bag of Holding and take out the Mending Wheel."
 296;LAURA;Did you turn it back into coal?
 297;ORION;That's not how it works, Vex.
 298;MATT;Tiberius, you reach into the Bag of Holding.|You pull out the Mending Wheel, which is a magical artifact that you found earlier in the campaign as part of your personal quest.|It looks like a large, spoked, roulette wheel when it's laying down, with these strange points that fold out of it.|Once you spin the wheel, you place an object in the center of the wheel.|It's lifted without gravity and mends itself back to its undamaged form.|You place the diamond in the center and spin the wheel.|You can see the actual cracks on the surface of it slowly begin to mend.|Eventually, the diamond is brought to a solid, undamaged, finely-cut example of a diamond.
@@ -313,7 +313,7 @@
 311;SAM;Can I remind our party of a couple things? Pike, might be a good time to try to heal Vax's foot again.|And also, while we have a moment, did we ever discern what is in that yellow vial?
 312;ORION;Oh this thing?
 313;SAM;Yeah, do we know what this is?
-314;ORION;"I'll do an arcana check on the vial, which is not great.|""I don't know, it looks icky."""
+314;ORION;"I'll do an arcana check on the vial, which is not great.|""""I don't know, it looks icky."""""
 315;SAM;Let me take a look, as well.|Ooh, yes. 24.
 316;MATT;You take a look at the liquid and it looks enchanted, but the way its mixture is, the colors seem to swirl and shift in a very caustic way.|You can see from glancing at the glass vial it's contained in, the interior of the glass looks slightly pock-marked, almost like the viscous fluid within has actually damaged the glass slightly.
 317;SAM;It sounds bad. Bad news.
@@ -414,7 +414,7 @@
 412;MATT;No, you're not on the boat.|You guys have come into the cavern after this point, when you gave chase.|You guys are in the cavern.
 413;TALIESIN;I started heading back to the boat.
 414;MATT;Oh, you did? Then yeah, you're still out by the boat.
-415;TALIESIN;"So I just heard someone yell, ""run."" So I'm going to start unhooking the boat.|I'm getting the boat ready to go."
+415;TALIESIN;"So I just heard someone yell, """"run."""" So I'm going to start unhooking the boat.|I'm getting the boat ready to go."
 416;MATT;You take the butt of your gun and you start bashing against the ice that you set against the wall. It cracks, and eventually you get the rope free from the side of the wall.
 417;TALIESIN;And I'm bringing the boat around so that people can get on really quick.
 418;MATT;Okay. That brings us to Grog.
@@ -512,7 +512,7 @@
 510;SAM;I am staying on the carpet.|Wait! Is Pike off the carpet?
 511;ASHLEY;I'm laying in the dirt.
 512;MATT;Pike's laying in the dirt right now.
-513;SAM;"Okay! I will jump off the carpet, grab her, and say, ""Pike. Come with me if you want to live."" (all laugh)|And I just hold her really tight, and I sniff her hair, and it smells like strawberries."
+513;SAM;"Okay! I will jump off the carpet, grab her, and say, """"Pike. Come with me if you want to live."""" (all laugh)|And I just hold her really tight, and I sniff her hair, and it smells like strawberries."
 514;TALIESIN;Got to make it weird, man.
 515;ASHLEY;(laughs)
 516;SAM;And then I Dimension Door us to the boat.
@@ -525,7 +525,7 @@
 523;LAURA;Trinket! Run!
 524;MATT;(bear moan) Trinket runs up.|Are you staying on the carpet?
 525;LAURA;I jump off the carpet, climb on Trinket, and we take off!
-526;MATT;"All right.|You jump on top of your bear, and you start bolting down the hallway.|All right, that ends your turn.|Clarota just (whoosh) vanishes.|Kima (laughing) goes running on her halfling legs towards the flying carpet.|She takes her full turn and she just manages to get on top of the carpet, and that's her turn.|And she goes, ""Go, go, go, go!"""
+526;MATT;"All right.|You jump on top of your bear, and you start bolting down the hallway.|All right, that ends your turn.|Clarota just (whoosh) vanishes.|Kima (laughing) goes running on her halfling legs towards the flying carpet.|She takes her full turn and she just manages to get on top of the carpet, and that's her turn.|And she goes, """"Go, go, go, go!"""""
 527;ORION;I am going!
 528;MATT;(laughing) All right.|So, for the time being, we'll say you guys manage to (whoosh) make your way outside of the cavern to the ship.
 529;SAM;For now.
@@ -645,7 +645,7 @@
 643;MATT;You're scared.|Trinket's not affected, but you are.|Essentially, until the end of its next turn, it's disadvantage on all attack rolls, and you cannot move closer to it.
 644;TRAVIS;Can I take that turn now?
 645;MATT;You can take that turn now, yeah.|As it's moaning.
-646;TRAVIS;"Now, since I shook it off, I'm like, ""That's lovely,"" and I would like to try, for the first time, Intimidating Presence."
+646;TRAVIS;"Now, since I shook it off, I'm like, """"That's lovely,"""" and I would like to try, for the first time, Intimidating Presence."
 647;SAM;Is that a spell?
 648;TRAVIS;On a creature within 30 feet.
 649;MATT;It would be within 30 feet.|Turn around.
@@ -656,7 +656,7 @@
 654;TRAVIS;13.
 655;MATT;13 for what kind of saving throw?
 656;TRAVIS;Wisdom saving throw.
-657;MATT;"Okay, for the creature.|Wisdom saving throw.|It rolls a 12.|(all cheer)|So after it does this moaning sound that sends the entire boat shaking with fear, everyone grasping the side of the boat, looking at each other like, ""We're going to die!"" Grog turns around, steps forward, pushing Pike and Scanlan to the side a little bit, and just glares at this creature, gives a giant bestial goliath shout (roars) out into the cavern that counteracts the moan that it's doing.|You can see the creature, teeth bared, its wings out, looking extremely frightening, looks visibly shaken.|It begins to flap backwards and actually get about 30 feet of distance between you guys instinctually with its movement."
+657;MATT;"Okay, for the creature.|Wisdom saving throw.|It rolls a 12.|(all cheer)|So after it does this moaning sound that sends the entire boat shaking with fear, everyone grasping the side of the boat, looking at each other like, """"We're going to die!"""" Grog turns around, steps forward, pushing Pike and Scanlan to the side a little bit, and just glares at this creature, gives a giant bestial goliath shout (roars) out into the cavern that counteracts the moan that it's doing.|You can see the creature, teeth bared, its wings out, looking extremely frightening, looks visibly shaken.|It begins to flap backwards and actually get about 30 feet of distance between you guys instinctually with its movement."
 658;TRAVIS;That's right, bitch! He's frightened until the end of the next turn.
 659;LAURA;Does that cancel out our fear?
 660;MATT;It doesn't cancel out yours.|It just means it's further away and can't get closer to Grog.
@@ -744,7 +744,7 @@
 742;MATT;17? All right. So! As you focus your energy once again-- even just facing this creature is a terrifying thing-- you see that one gleaming bit of red that's piercing through the darkness.|The secondary form around it dissipates.|Where there was once two gliding, one of them vanishes entirely as that gleaming red is suddenly much brighter, yanked from its socket.|It now gives out another painful screech (screeches) as it is blinded, being crushed by a Bigby Hand, and you now have drifting amongst you at your control one of the eyes of this creature.|(all laugh)
 743;LAURA;Put it in a little vial.|Keep it for later.
 744;ORION;I'm going to float it over and put it in one of my vials.
-745;MATT;"Okay. Write down in your inventory, ""cloaker eye."""
+745;MATT;"Okay. Write down in your inventory, """"cloaker eye."""""
 746;ORION;I'm going to smell it, first of all.|No.
 747;LAURA;Not good.
 748;TALIESIN;You know exactly where that's been.
@@ -763,7 +763,7 @@
 761;MARISHA;(cheers)
 762;LIAM;I saw where Tiberius pulled the eye out, and that's what I'm aiming at, its eye socket.|So I flip it in the air, and when I catch it, I immediately let go and fill in the blank.
 763;MATT;Okay!
-764;SAM;"""Socket"" to me."
+764;SAM;"""""Socket"""" to me."
 765;MATT;So as the creature is flailing about in torturous pain, suddenly the dagger (fwoosh, thunk) sinks into the empty socket in the front of its face.|As it does, its body tenses up and reaches out against the force of your arcane hand.|You actually have to focus to keep it in place in its final death throes.|All of its tension and then it falls limp within your grasp.|You now have this limp creature at your disposal.
 766;SAM;Oh, I'm going to bring him to the boat.
 767;MATT;As Scanlan slowly drifts over the limp body of this creature to the edge of the boat--
@@ -782,7 +782,7 @@
 780;ORION;So that's 14. Oh, no. Arcana?
 781;MATT;Roll for arcana.
 782;ORION;Yeah. 25.
-783;MATT;"Yep. This creature is a cloaker.|It's an aberration.|It's one of those creatures that drifts over from the Far Realm, or at some point in time drifted over from the Far Realm and is an unnatural entity to this plane.|They normally live subterranean.|When not moving, they are nearly invisible and blend in, almost like a straight leather cloak left and discarded to the side, hence the name ""cloaker."""
+783;MATT;"Yep. This creature is a cloaker.|It's an aberration.|It's one of those creatures that drifts over from the Far Realm, or at some point in time drifted over from the Far Realm and is an unnatural entity to this plane.|They normally live subterranean.|When not moving, they are nearly invisible and blend in, almost like a straight leather cloak left and discarded to the side, hence the name """"cloaker."""""
 784;TALIESIN;I've got a great idea.|I want to sit, and I want to skin this thing.
 785;ORION;Well, yes. I want the teeth, also.
 786;TALIESIN;You can have the teeth.|I'm going to skin it.
@@ -808,7 +808,7 @@
 806;MATT;Okay, as you guys are moving along, you leave a little space for Percy.|It's a little unwieldy in the ship.|It's hard for you to do this, so it's not going to be the best job.
 807;TALIESIN;Not going for craftsmanship.
 808;MATT;Fair enough. As you're plucking what you think might be interesting from this creature's body, as in the process of skinning it, you probably take a moment to realize that a normal blade is going to have a hard time cutting through its hide, so you might have to borrow one.
-809;SAM;"I sing a little song to inspire him.|I sing, ""When you're trying to skin a cloaker, here's some inspiration.|When we're on a creepy boat, here's some inspiration.|I want you to be near me--"" (speaking) All right, that's it.|(all laugh)"
+809;SAM;"I sing a little song to inspire him.|I sing, """"When you're trying to skin a cloaker, here's some inspiration.|When we're on a creepy boat, here's some inspiration.|I want you to be near me--"""" (speaking) All right, that's it.|(all laugh)"
 810;MATT;Right, so you gain a d10 inspiration dice.
 811;TALIESIN;I'm making a camo canopy for the boat.
 812;MATT;Yeah, this is going to be a survival check on this. Roll survival.
@@ -831,7 +831,7 @@
 829;MATT, ORION, SAM;(laugh)
 830;MATT;Percy. You manage to pull from it all the teeth in the process.
 831;TALIESIN;For you.
-832;MATT;"So that comes to roughly 45 cloaker teeth.|You don't know what that'll be worth, but you have that at your disposal.|So you can write down, ""45 cloaker teeth."" You manage to skin most of it.|You get most of the top of its hide usable. It's still wet.|It'll take a while to do that, let alone in an area where it's dry on the surface.|But you manage to pull most of the top of it off, so you have this wet, skinned portion of the back of the cloaker at your disposal."
+832;MATT;"So that comes to roughly 45 cloaker teeth.|You don't know what that'll be worth, but you have that at your disposal.|So you can write down, """"45 cloaker teeth."""" You manage to skin most of it.|You get most of the top of its hide usable. It's still wet.|It'll take a while to do that, let alone in an area where it's dry on the surface.|But you manage to pull most of the top of it off, so you have this wet, skinned portion of the back of the cloaker at your disposal."
 833;TALIESIN;I'm going to build a relative canopy specifically for the left side of the boat so that we're protected and visibly obscured from anybody in the city.
 834;MATT;Okay. Make a tinker check.
 835;TALIESIN;What's the bonus on that, again?
@@ -949,7 +949,7 @@
 947;TRAVIS;We have torches.
 948;LIAM;Yeah, throw a torch in.
 949;SAM;Yeah, let's just toss a torch.
-950;TRAVIS;"I pull one of the three torches we have and, ""Tiberius, will you?"""
+950;TRAVIS;"I pull one of the three torches we have and, """"Tiberius, will you?"""""
 951;ORION;(fire breath noise)
 952;TRAVIS;I give it a nice long throw.
 953;MATT;All right. Tiberius's flame breath (fsssh) coalesces and begins to ignite the tip of the torch as Grog lobs it in, end over end.|You see it hits the far end of the cavern, topples, and hits the ground.|The fire itself, the bright red burning, as it comes to rest, takes on once again a strange purplish hue.
@@ -979,7 +979,7 @@
 977;LIAM;Here's what I think, all right? We don't need to whack every problem over the head, and we have something far more important than whatever's in there.
 978;LAURA;Right, Lady Kima?
 979;ORION;Right. I suggest we go and rest.|I believe we can get some respite.
-980;MATT;"""I think we have a specific goal at this point in time, and who knows what dangers or terrors roam these tunnels aside from our specific directional choice at this moment."""
+980;MATT;"""""I think we have a specific goal at this point in time, and who knows what dangers or terrors roam these tunnels aside from our specific directional choice at this moment."""""
 981;LIAM;The only question is, do we want to try to rest here under some sort of illusion, or do we go to the island we can see?
 982;LAURA;No, because the island's way over back here.
 983;TALIESIN;We rest here. We take shifts.|We should be fine.
@@ -1017,11 +1017,11 @@
 1015;MATT;It's hard to explain why, but his strange shimmy is slightly inspiring.|You've learned something about yourself today that you hope nobody else wants to bring up in conversation.|You get a d10 inspiration dice.
 1016;ORION;As soon as I see Keyleth go off, I rub my ring and go invisible.
 1017;MATT;Okay. So as you guys all mount into your defensive positions, Keyleth, are you going straight through? Are you going beneath, above?
-1018;MARISHA;"Burrow beneath.|I'll go, ""(deep voice) Bye-bye."""
+1018;MARISHA;"Burrow beneath.|I'll go, """"(deep voice) Bye-bye."""""
 1019;MATT;This large earth elemental form takes a few lumbering steps forward, and begins to sink into the sand and gravel below, just (shifting sound).
-1020;MARISHA;"""Oh yeah, wait, have you guys seen this one?"" (all laugh)|As I go into the ground."
+1020;MARISHA;"""""Oh yeah, wait, have you guys seen this one?"""" (all laugh)|As I go into the ground."
 1021;MATT;The most awkward earth elemental exit ever.
-1022;MARISHA;"""I'll take the elevator."""
+1022;MARISHA;"""""I'll take the elevator."""""
 1023;TRAVIS;I think it's the funniest thing I've ever seen.|(all laugh)
 1024;MATT;Grog's loud laughter bellows, echoing through the cavern.|You make your way underneath the ground, using your tremor sense to formulate where the top of this cavern would be, and you poke your head through the floor.|Looking into this, you can see now, there are portions of this cavern where it looks like elements of the mithril veins that the subterranean Kraghammer mines were currently pulling from seem to now spread down into this cavern.|There are small veins that trickle through the rock in this cavern of mithril.|You also look up and...|make a perception check.
 1025;MARISHA;With advantage, right?
@@ -1063,15 +1063,15 @@
 1061;LIAM;Take the stairs, though.
 1062;MARISHA;I take the stairs.
 1063;MATT;All right. After a few moments, Keyleth reappears.
-1064;MARISHA;"But before I reappear, I go, ""Grog. I'm in a boat."" (all laugh)"
+1064;MARISHA;"But before I reappear, I go, """"Grog. I'm in a boat."""" (all laugh)"
 1065;TRAVIS;She's in the floor! And she's in a boat! It's magic. (giggles)
 1066;LIAM;It is pretty funny.
 1067;TRAVIS;Will you teach me that sometime?
-1068;MARISHA;"""No."""
+1068;MARISHA;"""""No."""""
 1069;MATT;For a split-second, as you're doing that, you realize that laughter's probably very audible.
 1070;MARISHA;I'm not an elemental anymore.
 1071;MATT;So as you start laughing, you revert back from elemental form.
-1072;MARISHA;"I go, ""Tee-hee-hee, shh."""
+1072;MARISHA;"I go, """"Tee-hee-hee, shh."""""
 1073;ASHLEY;Make a wall!
 1074;LAURA;Wait, what did you see, Keyleth?
 1075;SAM;Wait, is she back?
@@ -1141,7 +1141,7 @@
 1139;LIAM;Well, I rolled pitifully, so it probably doesn't matter.
 1140;ORION;I just know it's 120-foot range.|Should write the other stuff down.
 1141;LAURA;Tiberius, was that really necessary?
-1142;ORION;"""No, it wasn't.|But yes, I do have fireballs left."" And I dispel it immediately."
+1142;ORION;"""""No, it wasn't.|But yes, I do have fireballs left."""" And I dispel it immediately."
 1143;LIAM;(yells incoherently)
 1144;LAURA;Shh!
 1145;LIAM;I didn't know he was going to dispel it!
@@ -1254,30 +1254,30 @@
 1252;SAM;I don't think we should camp here.
 1253;MATT;You don't know if it's purely a visual thing or if matter itself is actually twisting, but it's very discombobulating being in this room for any length of time.
 1254;LIAM;Clarota, what are we looking at in here?
-1255;MATT;"Clarota, as he enters behind you guys, puts his hands together and goes, ""This, I believe, is the veil where K'Varn stepped into the cavern."""
+1255;MATT;"Clarota, as he enters behind you guys, puts his hands together and goes, """"This, I believe, is the veil where K'Varn stepped into the cavern."""""
 1256;ORION;Yes, exactly.|That's what I was going to say earlier.
 1257;LAURA;Okay, Tiberius.
 1258;ORION;Me, Clarota, mm.|That's what I do with Clarota.
 1259;MATT;The tentacles writhe around Clarota's maw.
 1260;ORION;That means he likes me.
-1261;MATT;"""This is a boundary, a thin membrane between this Prime Material Plane and elements of the Far Realm."""
+1261;MATT;"""""This is a boundary, a thin membrane between this Prime Material Plane and elements of the Far Realm."""""
 1262;MARISHA;The Far Realm?
 1263;ORION;Ooh, Clarota. Yes.|Do you think we could, after a rest of course, conjure a way and possibly break the barrier and go to that side?
-1264;MATT;"""You wish not to do that.|Your mind would break."""
+1264;MATT;"""""You wish not to do that.|Your mind would break."""""
 1265;ORION;Oh, that would be awful.|I need it.
 1266;SAM;Clarota, is this a possible thing that we should maybe shut down? Could K'Varn send his allies through here?
-1267;MATT;"""We have not the power to shut this down.|It is how they overlap."""
+1267;MATT;"""""We have not the power to shut this down.|It is how they overlap."""""
 1268;LAURA;Is it safe to be near it?
-1269;MATT;"""I don't know."" (all laugh)"
+1269;MATT;"""""I don't know."""" (all laugh)"
 1270;LAURA;I got him, guys, I got him.
-1271;MATT;"""We'll have to find out."""
+1271;MATT;"""""We'll have to find out."""""
 1272;ORION;Well, at least we know this beach is secure.|We should go out in the front and seal this up for the night.
 1273;LAURA;You were rather loud.|I'm afraid things might be drawn to this beach from that explosion.
 1274;ASHLEY;We could keep watch.
 1275;TRAVIS;I don't need to rest.|I'll stand guard.
 1276;ORION;This is inside and I was outside.|They were hearing stuff inside.
 1277;TALIESIN;Could this veil exist in sunlight?
-1278;MATT;"""I do not know.|I have not traveled the boundary myself."""
+1278;MATT;"""""I do not know.|I have not traveled the boundary myself."""""
 1279;LIAM;I wonder what would happen if K'Varn was cut off from the other side of this.
 1280;TALIESIN;That's exactly what I was thinking.
 1281;LAURA;Maybe it would be good to block it off.
@@ -1307,9 +1307,9 @@
 1305;MARISHA;There's still things I want to do.
 1306;LIAM;Spill it, girl, spill it.
 1307;MARISHA;Clarota?
-1308;MATT;"""Yes?"" His tentacles quiver as you call his name and he looks over at you with a curious, hungry-to-be-of-service expression on his tentacled, mind flayer face."
+1308;MATT;"""""Yes?"""" His tentacles quiver as you call his name and he looks over at you with a curious, hungry-to-be-of-service expression on his tentacled, mind flayer face."
 1309;MARISHA;Do you have anything that might assist me in a scrying spell to help spy on K'Varn? Maybe something in his image?
-1310;MATT;"""I have not seen K'Varn with my mind or my eyes.|I've only heard of him arriving after I was cast out of my colony."""
+1310;MATT;"""""I have not seen K'Varn with my mind or my eyes.|I've only heard of him arriving after I was cast out of my colony."""""
 1311;TALIESIN;The description of her dream.
 1312;ASHLEY;Wait, but I had a vision.|I had a dream.
 1313;LAURA;So you know what he looks like?
@@ -1320,14 +1320,14 @@
 1318;TALIESIN;Crackers, all around.
 1319;LIAM;It's lembas bread.
 1320;ASHLEY;I saw a single, twisted, unnatural black horn of--
-1321;MATT;"Which Kima mentions again.|""That. That is what we're trying to prevent making its way to the surface."""
+1321;MATT;"Which Kima mentions again.|""""That. That is what we're trying to prevent making its way to the surface."""""
 1322;ORION;I see.
 1323;LAURA;Okay.
-1324;MATT;"""That's the Horn of Orcus."""
+1324;MATT;"""""That's the Horn of Orcus."""""
 1325;LAURA;Maybe you can envision the horn?
 1326;ASHLEY;Would that work?
-1327;MATT;"""I don't know.|I'm not a scrying type."""
-1328;ORION;"If you'll excuse me.|I reach into my pouch and pull up the Scroll of Telescription.|I enchant it to reach my brother Jerahd.|I write on it, ""Dear brother, it seems I am in a bit of a pickle with a certain type of creature that can take control of others with its mind and do nasty things.|Goes by the name of K'Varn, and the only thing I know about him is that he has a black horn.|Please help. Love, Tiberius."""
+1327;MATT;"""""I don't know.|I'm not a scrying type."""""
+1328;ORION;"If you'll excuse me.|I reach into my pouch and pull up the Scroll of Telescription.|I enchant it to reach my brother Jerahd.|I write on it, """"Dear brother, it seems I am in a bit of a pickle with a certain type of creature that can take control of others with its mind and do nasty things.|Goes by the name of K'Varn, and the only thing I know about him is that he has a black horn.|Please help. Love, Tiberius."""""
 1329;SAM;I put a little cologne on the page.
 1330;ORION;He can't smell it, Scanlan.
 1331;SAM;Yeah, but it's always a nice gesture.
@@ -1356,25 +1356,25 @@
 1354;LAURA;I'm sensing a really strong energy of an aberration in the middle of town.
 1355;MARISHA;Aberration in the center?
 1356;LAURA;And that's something that would've come out of this portal.|Right, Clarota?
-1357;MATT;"Clarota gives you a look and says, ""Most likely, or at least is related to the kin from the other side of the veil."""
+1357;MATT;"Clarota gives you a look and says, """"Most likely, or at least is related to the kin from the other side of the veil."""""
 1358;MARISHA;Wait, what?
-1359;SAM;"""Or at least is related to the kin from the other side of the veil."""
-1360;MATT;"""That."""
+1359;SAM;"""""Or at least is related to the kin from the other side of the veil."""""
+1360;MATT;"""""That."""""
 1361;SAM;I speak Clarota.
 1362;MARISHA;Thank you.
-1363;MATT;"""Pay attention, druid."""
+1363;MATT;"""""Pay attention, druid."""""
 1364;MARISHA;I was taking notes!
-1365;TALIESIN;"He said, ""pay attention, druid."""
+1365;TALIESIN;"He said, """"pay attention, druid."""""
 1366;SAM;While this is going on, I go near Lady Kima and I start humming.|I'm going to cast Suggestion on her.
 1367;MATT;Okay.
-1368;SAM;"Or try to. I'm just going to say, ""(singing) Gnome makes you want to check out Grog's bod, gnome makes you want to check out his bod and sweat him so hard."""
+1368;SAM;"Or try to. I'm just going to say, """"(singing) Gnome makes you want to check out Grog's bod, gnome makes you want to check out his bod and sweat him so hard."""""
 1369;ORION;Is that B-52s?
 1370;SAM;Yeah.
 1371;TRAVIS;I go over to the water and scoop some and pour it over my head.|(all laugh)
-1372;MATT;"As you're doing this, Grog, Kima, who at this point as you got out of this conversation is currently rewrapping the handle of the maul that she found earlier in the cavern, stops what she's doing, glances over at Scanlan with a very stern look and goes, ""Gnome, I mean no disrespect when I say, toy with my mind again and you'll find the business end of this hammer right up your rectum."""
+1372;MATT;"As you're doing this, Grog, Kima, who at this point as you got out of this conversation is currently rewrapping the handle of the maul that she found earlier in the cavern, stops what she's doing, glances over at Scanlan with a very stern look and goes, """"Gnome, I mean no disrespect when I say, toy with my mind again and you'll find the business end of this hammer right up your rectum."""""
 1373;ALL;Oh!
 1374;SAM;And that's the part I need for shitting on beds, so I apologize. I apologize.|I'm sorry.
-1375;MATT;"""You've bothered me enough recently with your antics."" As she does that, she motions towards your nether region.|""I'd watch it."""
+1375;MATT;"""""You've bothered me enough recently with your antics."""" As she does that, she motions towards your nether region.|""""I'd watch it."""""
 1376;SAM;I do call it my antic, but yes.|You're right.|I'm sorry, that was disrespectful.|I apologize.|I tried, man, come on.|I'm your wingman.
 1377;MATT;She keeps wrapping the handle of the maul.
 1378;LIAM;Scanlan, she didn't say ant-dick, she said antic.
@@ -1450,7 +1450,7 @@
 1448;ORION;Yes?
 1449;MARISHA;Has your brother gotten back to you yet?
 1450;ORION;He should've got the message immediately.|I'm pretty sure he's researching it before he answers.
-1451;MATT;"About 20 minutes of you doing this, as you're having this discussion, a small slip of parchment apparates in front of you with a flash of purplish energy.|Written upon it, it says, ""Tiberius, you speak of the Far Realm, which I am quite familiar with; there are many aberrations.|However, I do not know the name K'Varn per se.|In my research, there are many things that can fall under the description you say.|It's vague enough.|Unfortunately, I have not much to go off of.|If you had an image or a visual description of this creature I'd be able to help, but at the moment I have no way of giving you any more knowledge.|My apologies,"" and signed at the bottom."
+1451;MATT;"About 20 minutes of you doing this, as you're having this discussion, a small slip of parchment apparates in front of you with a flash of purplish energy.|Written upon it, it says, """"Tiberius, you speak of the Far Realm, which I am quite familiar with; there are many aberrations.|However, I do not know the name K'Varn per se.|In my research, there are many things that can fall under the description you say.|It's vague enough.|Unfortunately, I have not much to go off of.|If you had an image or a visual description of this creature I'd be able to help, but at the moment I have no way of giving you any more knowledge.|My apologies,"""" and signed at the bottom."
 1452;SAM;May I see this? (sniffs) Hmm, Draconiar Noir.|(all laugh)
 1453;ORION;You are astute.|I say all that stuff out loud.
 1454;TRAVIS;I start digging a ditch with my axe in the sand.
@@ -1497,7 +1497,7 @@
 1495;MATT;You do have Scrying as a spell.|I would say if you both expend-- if you have it prepared.|Do you have scrying prepared?
 1496;ASHLEY;No.|(all laugh)
 1497;MATT;All right, well, we'll see what we can do.
-1498;MARISHA;"Can I say that because I prepared it, I can be like, ""Here's my book. You can borrow it.|I wrote it down. I know you know it."""
+1498;MARISHA;"Can I say that because I prepared it, I can be like, """"Here's my book. You can borrow it.|I wrote it down. I know you know it."""""
 1499;MATT;Well, see, for druids, it's not so much a spellbook more than it is just an innate nature.|You have a book for your own note-taking, but the actual spell itself comes from you harnessing the divine energy of nature around you.|So there wouldn't be a way that it should be able to help you in that spell, more than a slight bonus to the DC, but I'll keep that in mind.
 1500;MARISHA;Scanlan, can you give me some meditation music?
 1501;SAM;Would that help at all?
@@ -1510,7 +1510,7 @@
 1508;ORION;If she fails, he will know where we are.
 1509;LAURA;Yeah.
 1510;SAM;True.
-1511;MARISHA;"He knows we're here already! He possessed the queen and said, ""Welcome, you're my treasured guests."" Remember that? He knows exactly where we are!"
+1511;MARISHA;"He knows we're here already! He possessed the queen and said, """"Welcome, you're my treasured guests."""" Remember that? He knows exactly where we are!"
 1512;SAM;That's a good impression.
 1513;ASHLEY;That's a really good point.
 1514;TALIESIN;It is actually very good.
@@ -1518,10 +1518,10 @@
 1516;MARISHA;He seems to be pretty powerful and all-knowing.|I'm pretty sure he probably knows we're fucking here.
 1517;TALIESIN;I think this is a reasonable risk.
 1518;LAURA;He's probably just playing with us right now, waiting for us to get there.
-1519;MARISHA;"He said, ""You are our treasured guests."" I wrote it down."
+1519;MARISHA;"He said, """"You are our treasured guests."""" I wrote it down."
 1520;LIAM;He knows we're coming.
 1521;MARISHA;He knows we're coming.|He wants us to come.
-1522;TRAVIS;"To inspire Keyleth with her scrying spell, I hop in the ditch I've been digging and start going, ""Look, I can do it too! (laughs)"" And I start paddling in the ditch."
+1522;TRAVIS;"To inspire Keyleth with her scrying spell, I hop in the ditch I've been digging and start going, """"Look, I can do it too! (laughs)"""" And I start paddling in the ditch."
 1523;MARISHA;Oh! Good job, Grog! You did it!
 1524;TRAVIS;Is that inspiration?
 1525;MATT;You feel inspired.
@@ -1529,9 +1529,9 @@
 1527;MATT;It's possible.
 1528;MARISHA;It's what I'm hoping for.
 1529;TALIESIN;Let's go for it.
-1530;SAM;"All right! So I'll sing to inspire her.|""Scry, scry, Miss Keyleth, scry, put your eyeballs to the K'Varn and tell us why."" All right, no, that's it."
-1531;TALIESIN;"Singing, ""This will be the day that I scry."""
-1532;ALL;"""This will be the day that I scry!"" (all laugh)"
+1530;SAM;"All right! So I'll sing to inspire her.|""""Scry, scry, Miss Keyleth, scry, put your eyeballs to the K'Varn and tell us why."""" All right, no, that's it."
+1531;TALIESIN;"Singing, """"This will be the day that I scry."""""
+1532;ALL;"""""This will be the day that I scry!"""" (all laugh)"
 1533;MATT;All right, then.
 1534;MARISHA;So wait, do I get two inspiration dice?
 1535;MATT;No. You can only have one inspiration dice at any given point in time, and it's a d10.
@@ -1542,7 +1542,7 @@
 1540;MARISHA;And I want to meditate specifically on the horn, and I want to use Pike and see if I can channel her vision, focusing on the horn, since that's what we really know.|It's pretty much the only thing we know what it looks like.
 1541;MATT;Okay.|So, as you draw the circle across the portion of the gravel and stonework-- actually, this is further in the cave, so the gravel has given in to more solid stonework.|You begin to carve across the ground with a small piece of charcoal that you use for your ritual drawings, this giant, runic circle.|You draw points for you to sit and a point for Pike to sit as well, to help you focus in this vision.|Once you've taken the ten minutes to establish all the various material components and littered it with pieces of dried animal matter, some herbs, and lit a small bowl of incense on the side to help you in this spell, you sit down, take your place.|Pike, you take your place.|And you begin to concentrate.|You draw the essence of the nature energies around you and begin to project your vision towards the description of this dark horn, pushing what you can best ascertain is the direction of the temple from where this ritual is being conducted.|All right, so. Given the circumstances...|bonus from that, let's make a will save.|All right. So.|You feel your vision project beyond you.|It's a sort of out-of-body experience as the energy that makes up Keyleth is no longer given physical form, it's just adrift in the darkness.|You feel yourself drawn, pulled almost, like there's an energy that draws you as if poison from a wound.|It pulls you upward, and you're looking down over the top of this entire cavern, suddenly.|The darkness tends to fade for a moment, and you can make out the general outline of this island.|Once again, your vision (shhh) zooms in and shifts.|You can look over the city.|You can see Yug'Voril over top.|You can see the glowing aspects of the forest surrounding the outskirts of it.|And you can see in the center of this ruined city that has been reconstructed in the image of the temple that stands.|This giant pseudo-pyramid with a flattened top.|You can now see it from the overhead view of this temple.|It is actually open, and that strange glowing source of green energy you can see is slowly emanating from the top.|Your vision is pulled forward again.|You feel yourself drawn towards it, and as you come towards the top, you can see: the open portion of this temple's roof is a crossbeam made of gold or brass, and there is some sort of structure hanging from it that falls deeper into the temple.|You then move past this into what is the topmost chamber of this temple.|It's darker at first, and as your essence tends to coalesce and find some sort of visual here, you can see now, this brass cross-beam that is held aloft in the center of this temple chamber drips down into a spiral of metal, this strange, arcane contraption that does not match any of the construct of this temple previously.|It almost seems like it's been a new addition or is taking the place of something else that was a central focus of this chamber.|You follow this strange arcane structure.|About 15 to 20 feet it comes from the top of the temple chamber to the center, where held aloft underneath it by another 15-foot drop, you see in this dark room a pool of a dull, bluish purple liquid.|And it's pulsing with life, and with energy.|You now look down, your eyes focus, and in this pool, this ten, 15-foot-wide round pool, you can see this pulse, almost a heartbeat of purplish energy, what look like small purple stones.|But they're not stones, they're minds.|They're brains. They're essences.|And they're all working together, interconnected.|You're looking upon the Elder Brain of Yug'Voril, the center of the entire illithid colony that resides in the center of this chamber.|You can see now this green energy that's being brought down from this metallic structure at the top of this temple is being funneled down over, and is acting as an arcane prison for, the Elder Brain.|It's sealing and controlling, essentially, and what you had gathered from your previous discussions with Clarota, this is what has taken the minds of the mind flayers and bent them to K'Varn's will.|Your focus shifts now from the Elder Brain, and you look around the room, and in the dark shadows of this room, you can see there are cages.|There are metal bars.|You're unable to really ascertain what the material is, but in each one of these small cages you see some creature.|Some of this realm, some not.|Horrible forms: mutated, torn, some missing limbs, some in the process of slowly dying because they're unable to keep a physical form intact.|It's a collection, a horrible collection of malformed entities that are being experimented on.|Pulled apart, put together.|This also serves as, seemingly, a laboratory for K'Varn.|And you feel a presence in the room, suddenly.|Your essence shifts around and you look in the darkness and you see, slowly drifting out of the shadow, a single gnarled black horn.|Underneath that horn, you can see now the physical form that it adorns: dark brown leathery skin with slightly pointed edges, almost like scales that form out of portions of this flesh.|You see below this horn one large, piercing, sky-blue eye that glances up and meets your gaze.|As it does, from beneath that eye, you see a toothy maw tear into a wide grin.|And around the outskirts of the singular eye, numerous other eyes (whoosh whoosh) shift around.|Coming into the light, you see now a fleshy ball that is drifting in the air itself under its own physical form.|This aberration, this horrible entity is now floating forward.|You can see metal plates that are grafted to the physical body of this creature.
 1542;MARISHA;Oh, come on!
-1543;MATT;"Apparently K'Varn has experimented on itself.|These eyes are attached to strange finger-like stalks that twist out of its body.|These eyes, darting around the room, looking at different directions, and then they all (whoosh) singularly shift on you at once.|As it does, you can feel, all of a sudden, your presence, which has been drifting through the scrying spell, locked in place.|And for a second, you feel like you can't breathe.|As K'Varn presses towards you, this fleshy sphere of eyestalks and teeth, this small chuckle billows up deep within its mouth.|""(chuckles) So, guest.|Do you like my home? You're welcome any time."" At which point, the horn seems to glow with this creepy greenish energy, and you feel this piercing pain blast into your head.|You try and scream, but you can't.|There's no breath.|Go ahead and make a wisdom saving throw."
+1543;MATT;"Apparently K'Varn has experimented on itself.|These eyes are attached to strange finger-like stalks that twist out of its body.|These eyes, darting around the room, looking at different directions, and then they all (whoosh) singularly shift on you at once.|As it does, you can feel, all of a sudden, your presence, which has been drifting through the scrying spell, locked in place.|And for a second, you feel like you can't breathe.|As K'Varn presses towards you, this fleshy sphere of eyestalks and teeth, this small chuckle billows up deep within its mouth.|""""(chuckles) So, guest.|Do you like my home? You're welcome any time."""" At which point, the horn seems to glow with this creepy greenish energy, and you feel this piercing pain blast into your head.|You try and scream, but you can't.|There's no breath.|Go ahead and make a wisdom saving throw."
 1544;LAURA;Oh no!
 1545;SAM;Oh, shit. Oh god.
 1546;MARISHA;Do I still have my Enhance Ability up?
@@ -1557,7 +1557,7 @@
 1555;MATT;Vax is holding you.
 1556;MARISHA;Christ! What-- why?!
 1557;LIAM;You were in pain.|Are you all right? Are you all right?
-1558;MARISHA;"""You were in pain, so I thought I'd fucking slap you across the face?"" Gee!"
+1558;MARISHA;"""""You were in pain, so I thought I'd fucking slap you across the face?"""" Gee!"
 1559;LAURA;Keyleth! Language.
 1560;TRAVIS;Are we hitting each other now?
 1561;MARISHA;Sorry. Wow.
@@ -1635,11 +1635,11 @@
 1633;LAURA;Clarota, you're going to cramp your face if you do that.
 1634;TALIESIN;If you have something to say, we would appreciate it.
 1635;LIAM;If you keep making that face, it'll freeze that way.
-1636;MATT;"""That K'Varn is of this new creature, a beholder, and carries this horn that Lady Kima has spoken of.|It's a great danger.|Also, keep in mind the temple is not made of average stolen metals.|This is the center of the Elder Brain.|We reinforce it with magical protection.|It's the center of our entire species' knowledge.|Every brain in there is our elders'.|As we pass to the next generation, our mind is brought and introduced to the Elder Brain.|We have that room protected from simple acids.|We must make sure we are ready."""
+1636;MATT;"""""That K'Varn is of this new creature, a beholder, and carries this horn that Lady Kima has spoken of.|It's a great danger.|Also, keep in mind the temple is not made of average stolen metals.|This is the center of the Elder Brain.|We reinforce it with magical protection.|It's the center of our entire species' knowledge.|Every brain in there is our elders'.|As we pass to the next generation, our mind is brought and introduced to the Elder Brain.|We have that room protected from simple acids.|We must make sure we are ready."""""
 1637;LIAM;Clarota, Keyleth has scried the top of the building right now.|It didn't look like it was part of the original structure.|Is she mistaken? Is the top something that was built by your people?
-1638;MATT;"""No. It was open before.|There seems to be some sort of new focus K'Varn has constructed."""
+1638;MATT;"""""No. It was open before.|There seems to be some sort of new focus K'Varn has constructed."""""
 1639;LIAM;Would that be as strong as the rest of the building?
-1640;MATT;"""I do not know.|But if I've seen anything of the nature of this insidious creature, I would say, plan for the worst.|Nothing is more terrifying than underestimating a beholder."""
+1640;MATT;"""""I do not know.|But if I've seen anything of the nature of this insidious creature, I would say, plan for the worst.|Nothing is more terrifying than underestimating a beholder."""""
 1641;LAURA;Right. Can beholders fly?
 1642;MARISHA;Yeah.
 1643;LAURA;They can. Okay.
@@ -1652,12 +1652,12 @@
 1650;LAURA;So now he's extra strong.
 1651;LIAM;Like a wizard times 50.
 1652;MARISHA;I'm assuming-- oh, go ahead.
-1653;MATT;"Then Kima says, ""The key is here is not to think how to fight him head-on.|We have to be smart about this.|While he has the home turf, we have the element of surprise.|We choose the grounds in which we attack, and we choose the methods in which we set the battlefield."""
+1653;MATT;"Then Kima says, """"The key is here is not to think how to fight him head-on.|We have to be smart about this.|While he has the home turf, we have the element of surprise.|We choose the grounds in which we attack, and we choose the methods in which we set the battlefield."""""
 1654;MARISHA;Underwater fight!
 1655;SAM;We could try to just draw him out somehow.
-1656;MATT;"""I highly doubt he's going to leave his home turf.|But if we can find a way to perhaps turn it against him or use it to our advantage.|Maybe some reconnaissance.|I don't know."""
+1656;MATT;"""""I highly doubt he's going to leave his home turf.|But if we can find a way to perhaps turn it against him or use it to our advantage.|Maybe some reconnaissance.|I don't know."""""
 1657;LAURA;Reconnaissance!
-1658;MATT;"""I don't know!"""
+1658;MATT;"""""I don't know!"""""
 1659;TRAVIS;It is glass on the top, so we could try to Sunlight the head?
 1660;ASHLEY;I have something called Divine Intervention.
 1661;LAURA;What is that?
@@ -1809,7 +1809,7 @@
 1807;LAURA;Clarota, I'm sure we've asked this before and I wasn't here because I missed a part of a thing? What about your hat? What does it do? Can you make more of them?
 1808;LIAM;He said no, it would take a while.
 1809;SAM;We did this already.
-1810;MATT;"""I could, but the time required would be months, weeks.|Not in our timeframe, I believe."""
+1810;MATT;"""""I could, but the time required would be months, weeks.|Not in our timeframe, I believe."""""
 1811;TRAVIS;That's squid for no.
 1812;LAURA;All right.
 1813;LIAM;All right, let's do it.|Quiet ones, let's get on the carpet.|Tiberius?
@@ -1848,34 +1848,34 @@
 1846;TRAVIS;Dr. Seuss trees. Not cool.
 1847;MATT;Really nasty Dr. Seuss trees.
 1848;LAURA;Clarota, will those trees attack us? Are they living and attack-y?
-1849;MATT;"Clarota says, ""No, those trees merely exist on this island.|They feed off of the essence of it and they provide food for other things that live here."""
+1849;MATT;"Clarota says, """"No, those trees merely exist on this island.|They feed off of the essence of it and they provide food for other things that live here."""""
 1850;TRAVIS;Like what?
 1851;MARISHA;Trees are bad?
-1852;MATT;"""Wandering spores."""
+1852;MATT;"""""Wandering spores."""""
 1853;LAURA;Wandering spores?!
-1854;MATT;"""Other creatures."""
+1854;MATT;"""""Other creatures."""""
 1855;TRAVIS;Other creatures?
-1856;MATT;"""We feed our captives, our slaves of the colony, with the fungal essence of the tree."""
+1856;MATT;"""""We feed our captives, our slaves of the colony, with the fungal essence of the tree."""""
 1857;TRAVIS;Other creatures? Don't skimp on the details, it's only our lives.
-1858;MATT;"""The trees are not dangerous, but whatever resides on this island is probably under the influence of the Elder Brain.|And my people, which are in turn under the influence of K'Varn."""
+1858;MATT;"""""The trees are not dangerous, but whatever resides on this island is probably under the influence of the Elder Brain.|And my people, which are in turn under the influence of K'Varn."""""
 1859;LIAM;But as you're from this island, what wildlife can we expect to run into here?
-1860;MATT;"""Small, sightless rats.|Cavern insects.|But the dangers lie in the spores that wander the forests."""
+1860;MATT;"""""Small, sightless rats.|Cavern insects.|But the dangers lie in the spores that wander the forests."""""
 1861;LAURA;I'm picturing a big yellow thing with little legs.
 1862;SAM;Pus.
 1863;LIAM;Fuzzball.
 1864;LAURA;Is that what it is?
-1865;MATT;"""You'll know when you see it."""
+1865;MATT;"""""You'll know when you see it."""""
 1866;LAURA;Well, that's lovely.|Thank you for your help.
-1867;MATT;"""Spiny."""
+1867;MATT;"""""Spiny."""""
 1868;LAURA;Spiny.
-1869;MATT;"""Drifting."""
+1869;MATT;"""""Drifting."""""
 1870;TRAVIS;I take the cask of ale out of the Bag of Holding and pour him a little glass of ale, and I'm like--
 1871;LAURA;Oh, you know what, Grog, I hate to tell you this--
 1872;TRAVIS;It sounds a little scratchy.|Would you care for some ale?
 1873;LIAM;It's really good.
 1874;MATT;It's a psychic discussion.|He looks at you and gives you a stern look.|Takes the ale from you.
 1875;TRAVIS;Why?
-1876;MATT;"""I have no need for such false sustenance."""
+1876;MATT;"""""I have no need for such false sustenance."""""
 1877;LIAM;Clarota, that was rude.
 1878;TRAVIS;I will not forget that.
 1879;LIAM;Very rude. All right.
@@ -1934,7 +1934,7 @@
 1932;LIAM;Question: bigger than Grog?
 1933;MATT;Well.|You immediately hear a sound.|It's a slight rumble in the ground and what sounds like a footfall, and as you glance over your shoulder, you can see what looks to be some sort of towering humanoid dragging something behind it.
 1934;SAM;(singing) There are giants in the sky.
-1935;MATT;"It glances up with its nose in the air (sniffs).|""Who goes there?"" And you look to see what looks large, almost goliath-like: bald, skin is smooth, no hair, but its skin is purplish in color.|Where a normal giant would stand naturally, it's horribly hunched, like its back has a horrible scoliosis twist to it.|One giant popping yellow eye glances out towards the edge of where you guys are.|It doesn't seem to have found any of you immediately, but something has alerted its attention; it seems to have caught some sort of trail in its natural homestead.|You see it standing probably close to 15, 20 feet in height as it begins lumbering up (krsh krsh krsh) towards you."
+1935;MATT;"It glances up with its nose in the air (sniffs).|""""Who goes there?"""" And you look to see what looks large, almost goliath-like: bald, skin is smooth, no hair, but its skin is purplish in color.|Where a normal giant would stand naturally, it's horribly hunched, like its back has a horrible scoliosis twist to it.|One giant popping yellow eye glances out towards the edge of where you guys are.|It doesn't seem to have found any of you immediately, but something has alerted its attention; it seems to have caught some sort of trail in its natural homestead.|You see it standing probably close to 15, 20 feet in height as it begins lumbering up (krsh krsh krsh) towards you."
 1936;LIAM;Stealthed.
 1937;LAURA;Oh, should we hide? Can we try to hide?
 1938;MATT;All of you were stealthed as well.
@@ -1998,27 +1998,27 @@
 1996;MATT;All right.|Guys, let's get some of these read off.
 1997;ORION;Oh, yay.
 1998;TALIESIN;Yay!
-1999;MATT;"So. Kurt Cole donated $100 to 826.|(all cheer)|""#GrogCrush."" Thank you, Kurt."
+1999;MATT;"So. Kurt Cole donated $100 to 826.|(all cheer)|""""#GrogCrush."""" Thank you, Kurt."
 2000;MARISHA;Grog crush!
-2001;MATT;"Browncoat2511 also donated $100.|""Thanks for inspiring our friends to finally play D&D with us.|I'm donating as a gift for my wife, Lauren.""|Hi, Lauren!"
+2001;MATT;"Browncoat2511 also donated $100.|""""Thanks for inspiring our friends to finally play D&D with us.|I'm donating as a gift for my wife, Lauren.""""|Hi, Lauren!"
 2002;MARISHA;Aww. So sweet!
-2003;MATT;"""For her 30th birthday.|She's an avid reader, our D&D group's bard, and a big fan of the show."""
+2003;MATT;"""""For her 30th birthday.|She's an avid reader, our D&D group's bard, and a big fan of the show."""""
 2004;SAM;Bard!
 2005;ALL;Aww!
 2006;MARISHA;Happy birthday!
 2007;TALIESIN;Happy birthday.
 2008;ORION;That man loves you.
 2009;MARISHA;That's so sweet.
-2010;MATT;"All right.|ZandorInvictus donated $75 to 826.|""#LessThanThree you guys.|Excited that a week from today I get to play my first game in like 7 years.|Hope to do as well as you guys."" That's awesome! Zandor, have fun."
+2010;MATT;"All right.|ZandorInvictus donated $75 to 826.|""""#LessThanThree you guys.|Excited that a week from today I get to play my first game in like 7 years.|Hope to do as well as you guys."""" That's awesome! Zandor, have fun."
 2011;MARISHA;Yay, Zandor!
 2012;TRAVIS;That's rad.
-2013;MATT;"Zofer donated $25.|""Many thanks for all the time and effort you put into making Critical Role."" Well, thank you guys for watching it."
+2013;MATT;"Zofer donated $25.|""""Many thanks for all the time and effort you put into making Critical Role."""" Well, thank you guys for watching it."
 2014;LAURA;Yes, very much.
 2015;MATT;We're glad you guys like it.
 2016;MARISHA;Thanks, Zofer!
 2017;ORION;Thank you!
-2018;MATT;"TFdiggs donated 20 bucks.|""So nice. Had to pick up the shirt twice."" Aww. Good man.|""Always look forward to having all the loins girded and all the violence encouraged.|Thank you for being awesome."""
-2019;SAM;"Yeah! That's us.|We should do ""loins encouraged"" and ""violence girded,"" no?"
+2018;MATT;"TFdiggs donated 20 bucks.|""""So nice. Had to pick up the shirt twice."""" Aww. Good man.|""""Always look forward to having all the loins girded and all the violence encouraged.|Thank you for being awesome."""""
+2019;SAM;"Yeah! That's us.|We should do """"loins encouraged"""" and """"violence girded,"""" no?"
 2020;MATT;Sure.
 2021;ASHLEY;Hey, guys!
 2022;SAM;What?!
@@ -2043,20 +2043,20 @@
 2041;SAM, MARISHA;Confirmed?!
 2042;MATT;All right. Hold on.
 2043;ZAC;All right, we're working our way up.|We're here.
-2044;MATT;"Okay. Burgtorp, 50 bucks. Awesome.|""I've been wanting to play my druid dwarf after watching your show, but no DM or other player will likely satisfy me after all you guys' and gals' in-game acting.|Speaking of druids, is Keyleth half-elf or elf? The overlay shows elven.|Love from Sweden."" You're half-elf.|We've got to fix that."
+2044;MATT;"Okay. Burgtorp, 50 bucks. Awesome.|""""I've been wanting to play my druid dwarf after watching your show, but no DM or other player will likely satisfy me after all you guys' and gals' in-game acting.|Speaking of druids, is Keyleth half-elf or elf? The overlay shows elven.|Love from Sweden."""" You're half-elf.|We've got to fix that."
 2045;MARISHA;We still need to fix that.|Yeah I'm half-elven.
 2046;MATT;We just need to fix that in the opening.
 2047;TALIESIN;On your mother's side or your father's side?
 2048;MARISHA, LAURA;Hell elf.
 2049;TALIESIN;Hell elf.
-2050;MATT;"Gil Ramirez! 10 bucks.|""Hey guys, so glad to have met you at Ren Faire."" Oh, hey! What's up, Gil? (all cheer)|Met him a few weeks back.|""Let me know if you guys want those brooches made."""
+2050;MATT;"Gil Ramirez! 10 bucks.|""""Hey guys, so glad to have met you at Ren Faire."""" Oh, hey! What's up, Gil? (all cheer)|Met him a few weeks back.|""""Let me know if you guys want those brooches made."""""
 2051;TALIESIN;Oh my god, yeah.|Those was awesome.
 2052;ORION;That's right.
 2053;MARISHA;We'll totally take brooches.
-2054;MATT;"Kavemtg. ""First time watching live after obsessively consuming the videos for 2 weeks. Fuck time difference."" Yeah.|(all laugh)|""I had to go for the holy trinity: tee, sub, and donation."" That's awesome. ""Much deserved.|Thanks for everything, guys. K.|P.S: Matt, we need DM tips column/video series."""
+2054;MATT;"Kavemtg. """"First time watching live after obsessively consuming the videos for 2 weeks. Fuck time difference."""" Yeah.|(all laugh)|""""I had to go for the holy trinity: tee, sub, and donation."""" That's awesome. """"Much deserved.|Thanks for everything, guys. K.|P.S: Matt, we need DM tips column/video series."""""
 2055;LAURA;Ooh.
 2056;TALIESIN;That's a really good idea.
-2057;MATT;"Not a bad idea.|We talked about doing it for the channel going forward, so keep an eye on that.|This is really warm.|I'm putting the hood down.|Electricidolon. 20 bucks.|""Back again this week.|Got a shirt this time, too.|Thank you for giving me something amazing to look forward to every week, guys.|Need a Critical Role animated series.|For serious."" I agree. That'd be cool."
+2057;MATT;"Not a bad idea.|We talked about doing it for the channel going forward, so keep an eye on that.|This is really warm.|I'm putting the hood down.|Electricidolon. 20 bucks.|""""Back again this week.|Got a shirt this time, too.|Thank you for giving me something amazing to look forward to every week, guys.|Need a Critical Role animated series.|For serious."""" I agree. That'd be cool."
 2058;TALIESIN;Who would voice our characters is my question.
 2059;ZAC;You call your people and we'll call our people.
 2060;MATT;Exactly. Electricidolon.
@@ -2073,18 +2073,18 @@
 2071;LAURA;That's so cool!
 2072;MATT;Why are you guys so awesome? Oh my god. Okay, NorSarah.|Four bucks. Awesome.
 2073;ORION;Oh, cool!
-2074;MATT;"""I would like to rage! Or donate, in this case.|I love your show.|It's my most favorite thing in the world.|I'm joining my own D&D group because of it."" ""Thanks for sharing your adventures with us. Heart.|And remember, Keyleth: fish are friends, not food."""
+2074;MATT;"""""I would like to rage! Or donate, in this case.|I love your show.|It's my most favorite thing in the world.|I'm joining my own D&D group because of it."""" """"Thanks for sharing your adventures with us. Heart.|And remember, Keyleth: fish are friends, not food."""""
 2075;MARISHA;Fish are friends, not food!
-2076;MATT;"G1bigdaddyheft. 25 bucks.|""TV shows can't come close to the epic power of Critical Role Thursdays.|As always, thank you all for coming together and sharing your adventure with us and inspiring so many people to begin our own."" Thank you, guys. That's amazing."
+2076;MATT;"G1bigdaddyheft. 25 bucks.|""""TV shows can't come close to the epic power of Critical Role Thursdays.|As always, thank you all for coming together and sharing your adventure with us and inspiring so many people to begin our own."""" Thank you, guys. That's amazing."
 2077;TALIESIN;Hey.
 2078;MARISHA;Aww.
-2079;MATT;"Argh. Mahidal, who I've met on the Minecraft servers.|Awesome. Donated five bucks.|""Oh man, the Critical Role crew, you remember that time we all went to Ancient Rome and they had pizza and lasers? And then we found out the Doctor was there and someone had messed with the timeline? That was a good day, and we all escaped!"" (all laugh)|AmantarayX. 20 bucks.|""Watching Critical Role is the best way to spend my 21st birthday.|Less than three, all of you."" Happy birthday!"
+2079;MATT;"Argh. Mahidal, who I've met on the Minecraft servers.|Awesome. Donated five bucks.|""""Oh man, the Critical Role crew, you remember that time we all went to Ancient Rome and they had pizza and lasers? And then we found out the Doctor was there and someone had messed with the timeline? That was a good day, and we all escaped!"""" (all laugh)|AmantarayX. 20 bucks.|""""Watching Critical Role is the best way to spend my 21st birthday.|Less than three, all of you."""" Happy birthday!"
 2080;ALL;Happy birthday!
 2081;MARISHA;We fought a manta ray.
 2082;MATT;You did.
 2083;TRAVIS;Oh, was that a birthday huzzah?
 2084;TRAVIS, ASHLEY;Birthday huzzah!
-2085;MATT;"All right, theinfragable donated 50 bucks.|""Long time watcher, first time subber and donator.|This show is awesome.|You guys are awesome.|Literacy and imagination is awesome, and I'll keep doing song parodies for all the characters.|Here's $5 per episode."" You've been doing all the song parodies? Those are awesome!"
+2085;MATT;"All right, theinfragable donated 50 bucks.|""""Long time watcher, first time subber and donator.|This show is awesome.|You guys are awesome.|Literacy and imagination is awesome, and I'll keep doing song parodies for all the characters.|Here's $5 per episode."""" You've been doing all the song parodies? Those are awesome!"
 2086;TALIESIN;Yeah, they're so awesome!
 2087;SAM;Those are great! Love the song parodies!
 2088;MATT;Keep them coming.|Those are awesome.
@@ -2093,8 +2093,8 @@
 2091;MATT;We had the link sent to us.|He did song parodies for Grog and Scanlan.
 2092;ZAC;Send us the link so we'll play them next time.
 2093;TRAVIS;It's amazing.|I may or may not...|have sung that at home.
-2094;LIAM;"On a side ""night""--"
-2095;SAM;"On a ""side night!"""
+2094;LIAM;"On a side """"night""""--"
+2095;SAM;"On a """"side night!"""""
 2096;LIAM;On a side night, we'll play another game...|On a side note, we love fan art.|We love it.|We're going to try to find a way to showcase it on the show, perhaps.
 2097;MARISHA;If you go to our website, it filters through, but as long as you hashtag Critical Role--
 2098;LAURA;We'll be able to see it.
@@ -2103,36 +2103,36 @@
 2101;LAURA;All of us are kind of obsessed about checking out the hashtag.
 2102;TALIESIN;It's a problem.
 2103;MARISHA;Yeah.
-2104;MATT;"We go home after each game and we're up till 3am going like, ""(gasp) favorite, favorite, favorite..."" It's bad. It's a problem.|All right, we have Killer88D, donating ten bucks.|That's awesome, thank you so much.|Joe Curr, 20 bucks.|""I now look forward to Thursdays more than I do Fridays."""
+2104;MATT;"We go home after each game and we're up till 3am going like, """"(gasp) favorite, favorite, favorite..."""" It's bad. It's a problem.|All right, we have Killer88D, donating ten bucks.|That's awesome, thank you so much.|Joe Curr, 20 bucks.|""""I now look forward to Thursdays more than I do Fridays."""""
 2105;TALIESIN, LIAM;So do we!
-2106;MATT;"""It's a great show and it introduced me to D&D.|I'm enthralled.|Much love, much hugs. #TeamTrinket."" Thank you so much! MisSkeMeDe, 20 bucks.|""You're all such talented voice actors and are fantastically entertaining.|Thanks for providing me with such an incredible introduction to D&D. Less than 3."" Thanks, you're awesome.|AxisOfAnarchy. Hello, what's up!"
+2106;MATT;"""""It's a great show and it introduced me to D&D.|I'm enthralled.|Much love, much hugs. #TeamTrinket."""" Thank you so much! MisSkeMeDe, 20 bucks.|""""You're all such talented voice actors and are fantastically entertaining.|Thanks for providing me with such an incredible introduction to D&D. Less than 3."""" Thanks, you're awesome.|AxisOfAnarchy. Hello, what's up!"
 2107;MARISHA;Axis!
 2108;ORION;Hey!
-2109;MATT;"""So I thought I would start my birthday celebration two days early so I could celebrate with all of you.|Less than three.|Rachel Steiner aka AxisOfAnarchy."" Rachel, Happy Birthday!"
+2109;MATT;"""""So I thought I would start my birthday celebration two days early so I could celebrate with all of you.|Less than three.|Rachel Steiner aka AxisOfAnarchy."""" Rachel, Happy Birthday!"
 2110;MARISHA;Huzzah!
 2111;LAURA;Huzzah! Happy Birthday!
 2112;MATT;She's been updating the Reddit page with all the episode links.|She's been great from the beginning.|So thank you, Rachel. Happy Birthday! Cerulean Kestrel donated $50.
 2113;SAM;Wait, what's that name?
 2114;MATT, ORION;Cerulean Kestrel.
 2115;SAM;Oh, I like that.
-2116;MATT;"Might be an NPC coming forward.|""For my younger brother David, who graduates college tomorrow.|I admire you and everything you've achieved so far.|Also, Critical Role is a blast to watch.|Thanks to Matt Mercer and crew for a great show and thank you, David, for introducing me to it."""
+2116;MATT;"Might be an NPC coming forward.|""""For my younger brother David, who graduates college tomorrow.|I admire you and everything you've achieved so far.|Also, Critical Role is a blast to watch.|Thanks to Matt Mercer and crew for a great show and thank you, David, for introducing me to it."""""
 2117;ALL;Aww.
 2118;MARISHA;Congrats, David!
 2119;MATT;Congrats on your brother's college graduation. That's great! Scottydsntknw8?
 2120;ZAC;Doesn't know it.
-2121;MATT;"Oh, ""Scotty Doesn't Know It."" Ah, here we go. That's... very good."
+2121;MATT;"Oh, """"Scotty Doesn't Know It."""" Ah, here we go. That's... very good."
 2122;MARISHA;Scotty doesn't know.
-2123;MATT;"That's an AOL email waiting to happen.|""Thanks for the show.|Really, it's one of the bright points in my life right now."" That's awesome! Thank you for watching, buddy.|G.E. Oden, 25 bucks.|""Thanks for making Thursday nights the best day of my week.|I happily support cast and Geek & Sundry crew.|Obey your Overlord."""
+2123;MATT;"That's an AOL email waiting to happen.|""""Thanks for the show.|Really, it's one of the bright points in my life right now."""" That's awesome! Thank you for watching, buddy.|G.E. Oden, 25 bucks.|""""Thanks for making Thursday nights the best day of my week.|I happily support cast and Geek & Sundry crew.|Obey your Overlord."""""
 2124;MARISHA;(laughs)
 2125;MATT;We do.
 2126;TALIESIN;Yeah, we do.
 2127;LAURA;If you say so.
-2128;MATT;"DressHawk, 30 bucks.|""Every little helps, I hope."" And it does."
+2128;MATT;"DressHawk, 30 bucks.|""""Every little helps, I hope."""" And it does."
 2129;MARISHA;Yes.
 2130;ORION;It does.
 2131;MATT;And the 826 is going to get such a check from us.
 2132;LAURA;Yeah, oh my gosh.
-2133;MATT;"WeeklyFactoids donated 5 bucks.|""Another good week, Vox Machina.|Travis, I still need the specs so I can start working on the cosplay."" ""Also, Liam, the knife is done.|I just have to finish Laura's bear statue.|Less than three, a Critical Role cosplayer."""
+2133;MATT;"WeeklyFactoids donated 5 bucks.|""""Another good week, Vox Machina.|Travis, I still need the specs so I can start working on the cosplay."""" """"Also, Liam, the knife is done.|I just have to finish Laura's bear statue.|Less than three, a Critical Role cosplayer."""""
 2134;LAURA;He made a bear statue?!
 2135;MATT;Apparently! (all laugh)
 2136;ZAC;And all you got was a damn emote, right?
@@ -2144,7 +2144,7 @@
 2142;LIAM;WheelyFactoids?
 2143;LAURA;Yeah, that's him. What, dude!
 2144;TRAVIS;I've got an axe. I'll show you.
-2145;MATT;"That's awesome. Well done! Thank you so much.|Timeout9288, 15 bucks.|""Love you guys. My friends and I are totally starting D&D for the first time with your inspiration.|Also, Travis Willingham, Gazlowe is one of my favorite Heroes of the Storm heroes."""
+2145;MATT;"That's awesome. Well done! Thank you so much.|Timeout9288, 15 bucks.|""""Love you guys. My friends and I are totally starting D&D for the first time with your inspiration.|Also, Travis Willingham, Gazlowe is one of my favorite Heroes of the Storm heroes."""""
 2146;TRAVIS;Gazlowe? Yeah, he's really stupid.
 2147;MARISHA;You're Gazlowe?
 2148;TRAVIS;Yeah, I'm Gazlowe.
@@ -2156,7 +2156,7 @@
 2154;LAURA;Hold your peace.
 2155;LIAM;Don't fuck with grandpa Illidan, all right?
 2156;TRAVIS;He's got no plans later.|That could be really cool.
-2157;MATT;"That's so awesome.|WoodyFoun donated a thousand dollars.|(all cheer loudly)|""Congratulations to you all on your tenth episode.|I'm sure all fans will agree.|I hope there will be many more shows to come.|P.S.: Laura Bailey-- insert harp accompaniment-- can you please say, 'Eat lightsaber, jerk' in your best Kira Carsen voice? Love all of you."""
+2157;MATT;"That's so awesome.|WoodyFoun donated a thousand dollars.|(all cheer loudly)|""""Congratulations to you all on your tenth episode.|I'm sure all fans will agree.|I hope there will be many more shows to come.|P.S.: Laura Bailey-- insert harp accompaniment-- can you please say, 'Eat lightsaber, jerk' in your best Kira Carsen voice? Love all of you."""""
 2158;TRAVIS;For a thousand bucks?
 2159;LAURA;For a thousand bucks, yeah.|Now there's so much pressure.|(all laugh)
 2160;LIAM;What was it?
@@ -2164,10 +2164,10 @@
 2162;LAURA;Eat lightsaber, jerk. There.
 2163;LIAM;That is an amazing donation.|Thank you so much.
 2164;ALL;Thank you!
-2165;MATT;"Shomzer donated 25 bucks.|""Slowly fell in love with everyone in this D&D group.|Keep it up, guys. This is something I look forward to weekly and it's incredibly entertaining."""
+2165;MATT;"Shomzer donated 25 bucks.|""""Slowly fell in love with everyone in this D&D group.|Keep it up, guys. This is something I look forward to weekly and it's incredibly entertaining."""""
 2166;ZAC;Was that negging?
 2167;MATT;Negging?
-2168;ZAC;"Was that negging? ""Slowly fell in love."""
+2168;ZAC;"Was that negging? """"Slowly fell in love."""""
 2169;MATT;Slowly fell in love. No!
 2170;SAM;No, that's good.
 2171;TALIESIN;Makes me want to work harder.|That's all I'm saying.
@@ -2181,7 +2181,7 @@
 2179;ZAC;No, I like his style.
 2180;MATT;Thank you, guys.
 2181;SAM;I love my wife.
-2182;MATT;"SeekerPentegan, I think it is.|Ten dollars.|""Started watching Critical Role because of Laura and Travis, stayed because you're all great.|Thanks for brightening up my Friday mornings.|I'm from Germany, so the stream starts at 4 am for me.|It's totally worth it to get up so early for you guys."" That's amazing!"
+2182;MATT;"SeekerPentegan, I think it is.|Ten dollars.|""""Started watching Critical Role because of Laura and Travis, stayed because you're all great.|Thanks for brightening up my Friday mornings.|I'm from Germany, so the stream starts at 4 am for me.|It's totally worth it to get up so early for you guys."""" That's amazing!"
 2183;MARISHA;Christ, 4 am? Good morning!
 2184;TALIESIN;Good morning!
 2185;LIAM;Ah, tschüss!
@@ -2191,11 +2191,11 @@
 2189;MARISHA;Guten Morgen!
 2190;LIAM;You said thank you, he said excuse me, he's saying good morning.|I said see you later, see you next time, ta-ta.
 2191;LAURA;Oh, okay.
-2192;MATT;"There you go.|e3kguru, $25.|""Thanking Geek & Sundry for shows like Critical Role.|To the cast, thanks for taking the time every week to bring us into your world.|Much love to everyone and happy tenth episode."" Thank you so much."
+2192;MATT;"There you go.|e3kguru, $25.|""""Thanking Geek & Sundry for shows like Critical Role.|To the cast, thanks for taking the time every week to bring us into your world.|Much love to everyone and happy tenth episode."""" Thank you so much."
 2193;ORION;Thank you!
-2194;MATT;"Lukegoodatstuff, 20 bucks.|""I didn't expect Critical Role to be my favorite show on the channel, but here we are. Less than three you all.|It's been a fun ten episodes.|Looking forward to many more."""
+2194;MATT;"Lukegoodatstuff, 20 bucks.|""""I didn't expect Critical Role to be my favorite show on the channel, but here we are. Less than three you all.|It's been a fun ten episodes.|Looking forward to many more."""""
 2195;ALL;Yay!
-2196;MATT;"Locomotive also donated $1,000-- (all cheer)|To 826LA charity.|""Critical Role has been the most awesome show I've discovered on Twitch.|Thank you for putting this together."" Thank you. That's incredible."
+2196;MATT;"Locomotive also donated $1,000-- (all cheer)|To 826LA charity.|""""Critical Role has been the most awesome show I've discovered on Twitch.|Thank you for putting this together."""" Thank you. That's incredible."
 2197;LIAM;The two of you are extremely generous.|Thank you, and the charity's going to have their mind blown.|And thank you everyone for supporting.
 2198;MATT;Yeah, we're going to get photos when we present them with the check and we're going to do a whole thing.
 2199;TALIESIN;Oh, if there's an 826 in your city, by the way, go check it out.|Really, they have amazing stuff for sale.|It's the best first date. It's great.
@@ -2213,26 +2213,26 @@
 2211;MATT;We're going to draw pictures on it.
 2212;MARISHA;How much are those novelty checks?
 2213;SAM;A thousand dollars.
-2214;MATT;"Arislan donated $50. That's awesome! ""Happy tenth episode, hope you enjoyed your cake."" Aw, thank you guys!"
+2214;MATT;"Arislan donated $50. That's awesome! """"Happy tenth episode, hope you enjoyed your cake."""" Aw, thank you guys!"
 2215;LAURA;Thank you! I'm tweeting your cake right now!
-2216;MATT;"""The only thing better is your support of 826LA and I hope my small contribution helps."" It really does. Thank you so much."
+2216;MATT;"""""The only thing better is your support of 826LA and I hope my small contribution helps."""" It really does. Thank you so much."
 2217;ORION;Yes, it does. Absolutely.
 2218;MATT;Splattercat, 25 bucks.
 2219;LIAM;Splattercat.
-2220;MATT;"""Hey guys, day one subscriber.|When I first heard about Critical Role it sounded too good to be true, and even after ten episodes it still kind of is.|You guys are all awesome, and I will continue to support Critical Role and Geek & Sundry as long as we all exist."" As long as we all exist."
+2220;MATT;"""""Hey guys, day one subscriber.|When I first heard about Critical Role it sounded too good to be true, and even after ten episodes it still kind of is.|You guys are all awesome, and I will continue to support Critical Role and Geek & Sundry as long as we all exist."""" As long as we all exist."
 2221;LIAM;Which should be for about one more episode.
 2222;TALIESIN;We're double-checking.|It is still five hit points to splatter a cat.
 2223;MARISHA;Yeah, five hit points.
 2224;ORION;Really?
 2225;MARISHA;Thanks, splatterkitten.
 2226;TALIESIN;We established that. We did.
-2227;MATT;"All right, aranax06, $20.|""Thanks for your amazing performance."" Thank you for your amazing donation."
+2227;MATT;"All right, aranax06, $20.|""""Thanks for your amazing performance."""" Thank you for your amazing donation."
 2228;ALL;Thank you!
-2229;MATT;"TristanDunman, five bucks.|""Huge fan of Critical Role and just super inspired by all you talented actors.|Starting my own group soon and using the power of my art to make it as awesome as possible.|Thanks again, everyone. Tristan."" Thank you, Tristan."
+2229;MATT;"TristanDunman, five bucks.|""""Huge fan of Critical Role and just super inspired by all you talented actors.|Starting my own group soon and using the power of my art to make it as awesome as possible.|Thanks again, everyone. Tristan."""" Thank you, Tristan."
 2230;TRAVIS;Thanks, Tristan.
 2231;ORION;Have fun!
 2232;MARISHA;The power of art!
-2233;MATT;"And ridlich, ten dollars.|""Subbed the first day I witnessed the awesomeness of Critical Role.|Such a great channel.|Starting a campaign this weekend with a thrown-weapon fighter inspired by Vax and his daggers.|Keep up the great work."" (all cheer)|Guys, that's amazing.|Thank you so, so much."
+2233;MATT;"And ridlich, ten dollars.|""""Subbed the first day I witnessed the awesomeness of Critical Role.|Such a great channel.|Starting a campaign this weekend with a thrown-weapon fighter inspired by Vax and his daggers.|Keep up the great work."""" (all cheer)|Guys, that's amazing.|Thank you so, so much."
 2234;LAURA;You're so amazing.
 2235;MARISHA;You're so cool!
 2236;ZAC;So we're going to switch over to the dropcam and some music really quick, and we're going to get set up for the Q&A as fast as possible for you guys.
@@ -2261,7 +2261,7 @@
 2259;LAURA;So amazing!
 2260;MATT;We're glad you guys all tuned in, and are still tuning in to our show, let alone the support for the shirts.|The support for the charity has been-- I think I speak for all of us-- unbelievable, and we're so blessed and excited that we have such amazing friends and viewers out there.|You guys are the most amazing fanbase for any show I've ever had.|So thank you.|You guys earned this, most definitely.|I'm willing to stay as long as we need.|I know some people have families they've got to get back to.
 2261;SAM;Got ten minutes, tops.
-2262;TRAVIS;"I feel like this is trying to read the Matrix, it goes so fast.|""I want that jacket."""
+2262;TRAVIS;"I feel like this is trying to read the Matrix, it goes so fast.|""""I want that jacket."""""
 2263;MATT;How many shirts were sold by the end of it? Last I checked, we were at 1,032.
 2264;ZAC;Well, technically, we still have seven days.
 2265;TALIESIN;The Hawkeye? Hot Topic.
@@ -2271,7 +2271,7 @@
 2269;LAURA;I saw that one.
 2270;TALIESIN;You're six-four?
 2271;ASHLEY;The same height as Abraham Lincoln.
-2272;MATT;"It says, ""pan main camera up."" (all laugh)"
+2272;MATT;"It says, """"pan main camera up."""" (all laugh)"
 2273;LAURA;Oh, someone's asking about Keyleth's child murder.
 2274;MATT;It's saying the banner's cutting off heads in the back.
 2275;LIAM;Keyleth's, or Marisha's?
@@ -2292,7 +2292,7 @@
 2290;MATT;Yeah. It was messed up.|But once the children got too old, they were no longer useful, so he killed them and put them in a basement.|So the party gave chase, they fought their way to the castle, and they discovered that what was dangerous about fighting this Dread Emperor in his library was it was wearing golden armor, and attached to this armor via four chains were four children by collars, and if anyone attacked him directly, he shared the damage he took with the children.
 2291;MARISHA;And we actually found these clippers for the chain.
 2292;LAURA;Big golden scissors, but we put them in our pocket and forgot that we had them.
-2293;MARISHA;"We were like, ""sweet clippers. Pocket. Keep going."" And then we get to this emperor with these giant gold chains and we're like, ""How do you break these gold chains? If only we had clippers.|Oh, well, we don't."""
+2293;MARISHA;"We were like, """"sweet clippers. Pocket. Keep going."""" And then we get to this emperor with these giant gold chains and we're like, """"How do you break these gold chains? If only we had clippers.|Oh, well, we don't."""""
 2294;MATT;However, you guys started attacking the chains with your weapons, and you were doing enough damage during the first few rounds to save most of the kids.
 2295;LAURA;But there was one kid left.
 2296;MARISHA;So there was one.|So we were trying to get these kids away from us because we don't want to hurt them, but we wanted them away, so I used a Grasping Vine, and I was trying to yank the kid away, but the Grasping Vine attached to the chain instead of the kid, so with the chain at the collar around his neck, when the vine yanked--
@@ -2330,13 +2330,13 @@
 2328;SAM;So we had to come up with something less provocative.
 2329;TALIESIN;We tried to come up with something as we were slowly gaining esteem.
 2330;MARISHA;Hey, there was a few of us with family ties.
-2331;TALIESIN;"We were all like, ""okay, perhaps we don't want to be known as the SHITs."""
+2331;TALIESIN;"We were all like, """"okay, perhaps we don't want to be known as the SHITs."""""
 2332;MARISHA;Over here, as well, and over here.
 2333;TALIESIN;No, I was with you.
 2334;MARISHA;All these people with royal family ties.
 2335;TALIESIN;I have a family name. No.
-2336;MARISHA;"Can't be a part of the SHITs.|""What have you been doing for the last ten years, Keyleth?"" ""Well."""
-2337;TALIESIN;"""I've been the SHITs."" (all laugh)"
+2336;MARISHA;"Can't be a part of the SHITs.|""""What have you been doing for the last ten years, Keyleth?"""" """"Well."""""
+2337;TALIESIN;"""""I've been the SHITs."""" (all laugh)"
 2338;MATT;Someone asked if the group would ever do Hot Pepper Gaming.
 2339;MATT, TALIESIN;(laugh)
 2340;MATT;There are plans in place for most of us to partake.|I don't know if everyone will, but some will.
@@ -2373,7 +2373,7 @@
 2371;LAURA;I'm neutral good.
 2372;ASHLEY;Wait, chaotic good? Does that make sense? Is that what I am?
 2373;LAURA;I don't think you're chaotic.
-2374;TRAVIS;"""Is that what I am?"""
+2374;TRAVIS;"""""Is that what I am?"""""
 2375;MATT;(laughs) What is your alignment?
 2376;ASHLEY;What is my alignment?
 2377;MATT;You should look at your sheet.
@@ -2392,20 +2392,20 @@
 2390;MATT;We'll see how it plays out.
 2391;ASHLEY;(groans)
 2392;TALIESIN;This is like trying to catch snowflakes.
-2393;LIAM;"On a related note, somebody wants you to say, ""fuck you, Dylan"" for some reason."
+2393;LIAM;"On a related note, somebody wants you to say, """"fuck you, Dylan"""" for some reason."
 2394;ASHLEY;Fuck you, Dylan! (all laugh)
 2395;TRAVIS;That was amazing, actually.
 2396;MATT;That was really good.
 2397;TRAVIS;That had a lot of conviction behind it.
 2398;MARISHA;(laughs)
-2399;TRAVIS;"""Liam, scoot in.|We can't see you."""
+2399;TRAVIS;"""""Liam, scoot in.|We can't see you."""""
 2400;MATT;Come in, buddy.
 2401;LIAM;Aww.
 2402;ORION;Scootch.
 2403;MARISHA;Is that better?
 2404;LAURA;Now we're all nice and cozy.
 2405;LIAM;Tiberius is chaotic inattentive? It goes so fast!
-2406;LAURA;"Wait a sec.|""Hey, guys, love the stream."""
+2406;LAURA;"Wait a sec.|""""Hey, guys, love the stream."""""
 2407;ZAC;They want to know how you all got into voice acting.
 2408;LIAM;Hooking.
 2409;TRAVIS;Virgin sacrifice.
@@ -2439,7 +2439,7 @@
 2437;LIAM;Yeah.
 2438;MATT;I was a ham.
 2439;TALIESIN;I was a working actor.
-2440;MATT;"Oh, yeah, you were a child actor.|You're like, ""oh, I was working with Spielberg when I was six."""
+2440;MATT;"Oh, yeah, you were a child actor.|You're like, """"oh, I was working with Spielberg when I was six."""""
 2441;LAURA;You were a child actor, too.
 2442;LIAM;I was a spaz. I was so shy.|I'm going to be blind as that manta ray by the time this Q&A is over!
 2443;MATT;As a note, guys.|For those of you that have seen Mr. Mom?
@@ -2450,9 +2450,9 @@
 2448;ASHLEY;I'm going to re-watch that.
 2449;LIAM;This goes right.|We're playing D&D once a week! Any interest in turning Critical Role into a comic book? Yes.|Who will draw it, from the chat room?
 2450;MATT;Yeah, that would be amazing.|If anyone out there wants to make it a comic book, that would be great!
-2451;TRAVIS;"Tiberius, would you say, ""I encourage violence""?"
+2451;TRAVIS;"Tiberius, would you say, """"I encourage violence""""?"
 2452;ORION;When I want to.
-2453;LAURA;"(gasps) I just saw one that said, ""Laura, would you like a giant Trinket plushie to sit at the table with me?"" And yes."
+2453;LAURA;"(gasps) I just saw one that said, """"Laura, would you like a giant Trinket plushie to sit at the table with me?"""" And yes."
 2454;LIAM;Yeah.
 2455;LAURA;I would.
 2456;LIAM;Like an FAO Schwarz-size bear?
@@ -2479,8 +2479,8 @@
 2477;LAURA;Marisha?
 2478;SAM;Probably Marisha. She's, like, 16.
 2479;LIAM;I'm the oldest.
-2480;MARISHA;"In Los Angeles, there is no age, only age ""rages."""
-2481;TRAVIS;"""Age rages?"""
+2480;MARISHA;"In Los Angeles, there is no age, only age """"rages."""""
+2481;TRAVIS;"""""Age rages?"""""
 2482;MARISHA;Age rages.|TRAVIS AND TALIESIN: I would like to age rage.|(all laugh)|I would like to age rage.
 2483;SAM;I think I'm the oldest.
 2484;LIAM;No. I'm the oldest.
@@ -2503,7 +2503,7 @@
 2501;ORION;"I don't care; I'll just keep going.|Wizards who do magic, they have to pick it every day.|Sorcerers invoke it.|They learn it from their being and they cast it out that way.|The character Tiberius, figuring him out, that predicted which way I went because I feel he would just have it within him to do.|The whole thing is, he's the Keyser Soze of the group, in a way, where he's the false buffoon, but he knows exactly what he's doing when it comes to a battle and other particular things."
 2502;MATT;Yeah. Awesome.
 2503;TALIESIN;January 19th is an awesome birthday. Yes, thank you.
-2504;MATT;"Question: ""how do we send you shit?"" Talk to Overlord."
+2504;MATT;"Question: """"how do we send you shit?"""" Talk to Overlord."
 2505;TALIESIN;Probably in a bag.
 2506;LAURA;Don't send us shit.
 2507;MATT;Small boxes of shit.
@@ -2529,13 +2529,13 @@
 2527;ORION;Somebody wanted you to say something as Trey.
 2528;MATT;(laughs) As Trey?
 2529;ORION;Yeah.|That's what these shirts are, by the way.|These are from Type-0, the thing that we're in.
-2530;MATT;"""I hope you've enjoyed your game tonight, and if you have any questions, please feel free to put them on the screen. Thank you."""
-2531;ORION;"""Pay attention, yo."""
+2530;MATT;"""""I hope you've enjoyed your game tonight, and if you have any questions, please feel free to put them on the screen. Thank you."""""
+2531;ORION;"""""Pay attention, yo."""""
 2532;TALIESIN;I saw VentralMalcavian.|I actually, in high school, played the Malcavian prince of Los Angeles.|It was fabulous.
 2533;MARISHA;Oh, that's amazing.
 2534;TALIESIN;Malcavian all the way.|It was magical.
 2535;MARISHA;That's awesome.
-2536;LIAM;"I want to know the answer to one someone asked.|""How did Travis and Laura meet?"""
+2536;LIAM;"I want to know the answer to one someone asked.|""""How did Travis and Laura meet?"""""
 2537;ALL;Aww.
 2538;LAURA;Adorable.
 2539;TRAVIS;Oh, back in Dallas.|Like, right out of high school, we were in the same talent agency.
@@ -2546,13 +2546,13 @@
 2544;LAURA;We sat for 8 hours at the same table, and we couldn't talk to each other because we weren't allowed to make noise.
 2545;TRAVIS;We thought we were superstars.
 2546;LAURA;Yeah, we thought we were so cool.
-2547;TRAVIS;"""This is the greatest job ever""."
+2547;TRAVIS;"""""This is the greatest job ever""""."
 2548;LAURA;And then just started hanging out in the same circles, and that was that.
 2549;ASHLEY;The rest is history?
 2550;TRAVIS;She totally fell for me.
 2551;ORION;That's adorable.
 2552;MARISHA;It's adorable.
-2553;SAM;"Someone asked many questions.|""When did Pike and Scanlan start flirting?"" Or, ""When did Scanlan start flirting with Pike?"" Right from the beginning."
+2553;SAM;"Someone asked many questions.|""""When did Pike and Scanlan start flirting?"""" Or, """"When did Scanlan start flirting with Pike?"""" Right from the beginning."
 2554;TRAVIS;(laughing) Yeah, no joke.
 2555;LAURA;Yes, like literally the moment Pike was in the game.
 2556;SAM;Donatello's my favorite Ninja Turtle.
@@ -2560,7 +2560,7 @@
 2558;ORION;Mine, too.
 2559;LAURA;Donatello is my favorite Ninja Turtle.
 2560;SAM;Advice for bards is sing loud, and sing proud.|Or play your flute or whatever.
-2561;LIAM;"That's more commonly known as ""rock out with your cock out."""
+2561;LIAM;"That's more commonly known as """"rock out with your cock out."""""
 2562;TALIESIN;Someone now asked how you two met, now, too.
 2563;MARISHA;People are now asking how we met.
 2564;SAM;Bard out with your heart out.
@@ -2572,10 +2572,10 @@
 2570;MATT;Not in L.A.
 2571;MARISHA;Yeah.
 2572;TALIESIN;(laughs)
-2573;MATT;"But we met there, we harbored secret crushes for about a year, and then when we reconnected a little over a year later, I was out of a relationship, and she was just getting out of one, and we both started talking again.|And then eventually we were like, ""Hey, this is cool.|We should do this."""
+2573;MATT;"But we met there, we harbored secret crushes for about a year, and then when we reconnected a little over a year later, I was out of a relationship, and she was just getting out of one, and we both started talking again.|And then eventually we were like, """"Hey, this is cool.|We should do this."""""
 2574;MARISHA;You got me an audition for Resident Evil.
 2575;MATT;Yeah.
-2576;MARISHA;"And then I was like, ""I owe you a drink."""
+2576;MARISHA;"And then I was like, """"I owe you a drink."""""
 2577;LAURA;Is that the Resident Evil we worked on together?
 2578;TALIESIN;He was adorable.|It was so adorable watching him. Oh, god.
 2579;MATT;It was for Damnation, the CG movie.
@@ -2587,12 +2587,12 @@
 2585;MATT;I do. It doesn't happen often.|At all. But that's okay.
 2586;TALIESIN;He's so good!
 2587;MATT;I'll have the opportunity.
-2588;LIAM;"""Will Critical Role continue after the boss?"" Yes."
+2588;LIAM;"""""Will Critical Role continue after the boss?"""" Yes."
 2589;LAURA;Yeah!
 2590;MATT, TALIESIN;Oh, yeah.
 2591;SAM;No! We're all going to die!
 2592;MATT;(laughs)
-2593;TRAVIS;"""Zac, what was the most recent picture you shared with the community?"" Somebody is asking to see it.|Or asking me to ask you to see it."
+2593;TRAVIS;"""""Zac, what was the most recent picture you shared with the community?"""" Somebody is asking to see it.|Or asking me to ask you to see it."
 2594;ZAC;Oh, I'll show you later.|It's inappropriate.
 2595;SAM;Oh, yes, guys, by the way.|Ashley and I are dating in real life.
 2596;ORION;Do they ship you?
@@ -2606,10 +2606,10 @@
 2604;TALIESIN;Drama. Just drama.
 2605;ASHLEY;It's a long time. You lose track--
 2606;LIAM;If you replace Ashley with Liam, it's true.
-2607;TRAVIS;"""Pike, does Scanlan have a shot?"""
+2607;TRAVIS;"""""Pike, does Scanlan have a shot?"""""
 2608;ASHLEY;"I don't know; we'll see."
-2609;MATT;"""Do you guys have backup characters rolled for when you get TPK'd?"""
-2610;SAM;"""We'll see?"" Come on, give me a hint!"
+2609;MATT;"""""Do you guys have backup characters rolled for when you get TPK'd?"""""
+2610;SAM;"""""We'll see?"""" Come on, give me a hint!"
 2611;LIAM;I've got an idea.
 2612;LAURA;Aw, I saw, how did me and Trinket become friends?
 2613;TALIESIN;That's dark, people! That's really dark!
@@ -2652,7 +2652,7 @@
 2650;LAURA;Oh, yeah.
 2651;TRAVIS;There we go, watch this thing light up.
 2652;TALIESIN;Yeah, that's a good question.
-2653;LAURA;"I'm seeing that ""expect a crochet Trinket."" I appreciate that. Thank you."
+2653;LAURA;"I'm seeing that """"expect a crochet Trinket."""" I appreciate that. Thank you."
 2654;SAM;Let's wait two minutes until the feed catches up.
 2655;TALIESIN;Ashly Burch.
 2656;LAURA, TRAVIS;Stephen Colbert.
@@ -2707,7 +2707,7 @@
 2705;MATT;Really?
 2706;LAURA;Yeah, he seemed very interested when he brought it up.
 2707;TALIESIN;Sir Ian McKellen.
-2708;MATT;"Because my first conversation with him about it was very brief and very much like, ""Cool."" I was like, ""Okay..."""
+2708;MATT;"Because my first conversation with him about it was very brief and very much like, """"Cool."""" I was like, """"Okay..."""""
 2709;LAURA;I think because me and Travis were so excited about it--
 2710;MATT;Probably.
 2711;LAURA;It grew on him.
@@ -2754,7 +2754,7 @@
 2752;ZAC;I would really hate to steal the show, guys.|(all laugh)
 2753;MARISHA;I don't think I've seen you stand up so fast.
 2754;TALIESIN;We could have some kind of Freaky Friday.
-2755;MATT;"Oh, this is a good question.|""What if a party member dies? Do we have to scratch out the name on the shirt?"""
+2755;MATT;"Oh, this is a good question.|""""What if a party member dies? Do we have to scratch out the name on the shirt?"""""
 2756;SAM;You could buy a new shirt.
 2757;MATT;You're welcome to.|It's a possibility.|There are magics that can, through challenge, reverse death, but death is definitely a possibility and permanent death is definitely a possibility.
 2758;LIAM;Somebody's going to die eventually.
@@ -2859,9 +2859,9 @@
 2857;MATT;Yeah. So simple.
 2858;TRAVIS;I think this might have been covered, but how did the campaign start?
 2859;MATT;His birthday.
-2860;LIAM;"Yeah, for my birthday I said I wanted to play D&D for a night and I asked the people that I wanted, and they came, and then the next day I sent out an email going, ""oh man, that was so great.|I feel like we should do that again."" And nobody responded for a day, and I felt ashamed and sad because I thought that I was a dork and nobody wanted to do it, but then slowly, everyone trickled in going, ""yeah, yeah, yeah."" And here we are."
+2860;LIAM;"Yeah, for my birthday I said I wanted to play D&D for a night and I asked the people that I wanted, and they came, and then the next day I sent out an email going, """"oh man, that was so great.|I feel like we should do that again."""" And nobody responded for a day, and I felt ashamed and sad because I thought that I was a dork and nobody wanted to do it, but then slowly, everyone trickled in going, """"yeah, yeah, yeah."""" And here we are."
 2861;MARISHA;Oh, really? I didn't know you felt--
-2862;LIAM;"Yep. For a day, I was like, ""oh, god. I just outed myself as the biggest dork in the group."""
+2862;LIAM;"Yep. For a day, I was like, """"oh, god. I just outed myself as the biggest dork in the group."""""
 2863;MARISHA, LAURA, MATT;Aw.
 2864;TRAVIS;Is Trinket's intelligence higher than Grog's?
 2865;LIAM;Yes.
@@ -2922,13 +2922,13 @@
 2920;MATT;Yeah, so the Dread Emperor had maybe three or four hit points left.|People were hurt on the ground.|It was this epic confrontation.
 2921;LAURA;We were dying.
 2922;TRAVIS;Scanlan's never killed anything.
-2923;MATT;"Yeah, he's never killed anything.|He pulls out his blade and just goes for an attack and we're all like, ""Yes, go!"""
-2924;LAURA;"""Go, Scanlan!"""
+2923;MATT;"Yeah, he's never killed anything.|He pulls out his blade and just goes for an attack and we're all like, """"Yes, go!"""""
+2924;LAURA;"""""Go, Scanlan!"""""
 2925;MATT;And he rolls a one, and it's him charging towards him, blade in the air.
 2926;SAM;(quiet war cry)
-2927;MATT;"""You son of a bitch!"" Running.|Dread Emperor just side-steps.|Scanlan goes flying--"
+2927;MATT;"""""You son of a bitch!"""" Running.|Dread Emperor just side-steps.|Scanlan goes flying--"
 2928;LIAM;Nothing but net.
-2929;MATT;"Loses his balance, crashes through a three-story-high stained-glass window in the back end of this library, out into a bramble bush, with all the glass tumbling onto him and is like, ""Ow."""
+2929;MATT;"Loses his balance, crashes through a three-story-high stained-glass window in the back end of this library, out into a bramble bush, with all the glass tumbling onto him and is like, """"Ow."""""
 2930;TRAVIS;(laughs)
 2931;MATT;On the ground.
 2932;ASHLEY;It was one of the funniest moments that we had.
@@ -2983,13 +2983,13 @@
 2981;LAURA;It was so sad.
 2982;LIAM;Keyleth looked at her and thought she was a kid, and then--
 2983;MATT, MARISHA;(laugh)
-2984;MARISHA;"And I was just like, ""I hate kids!"" (pshh)"
+2984;MARISHA;"And I was just like, """"I hate kids!"""" (pshh)"
 2985;MATT;I'll try to make it quick.|In what was the final boss battle for the first arc, they were going towards the center of the city because a glabrezu, a treachery demon, had infiltrated the Sovereign Uriel, the king of the area, and his family.|Filled their bodies with shades as opposed to their souls.|They managed to recover the family, but they got into a conflict with the glabrezu, and as the fight was ensuing, Pike got too close, the glabrezu took a swipe at her, and rolled a critical hit, and did enough damage to bring her to death instantly.|So mid-fight, went down.|The whole party froze.
 2986;ASHLEY;I had already taken some hits, and then I realized at a certain point, because in the Pathfinder edition, if you're negative--
 2987;MATT;Your constitution score.
-2988;ASHLEY;"Your constitution, and then I wasn't keeping track, and I looked down and it was way past my constitution, and I was like, ""Oh, Matt? So what does it mean if you're this?"" The look that he gave me, he was like, ""Oh."" And he just paused because he was like, ""Oh, that. You're dead."" (all laugh)|He was trying to figure out a way to say it."
+2988;ASHLEY;"Your constitution, and then I wasn't keeping track, and I looked down and it was way past my constitution, and I was like, """"Oh, Matt? So what does it mean if you're this?"""" The look that he gave me, he was like, """"Oh."""" And he just paused because he was like, """"Oh, that. You're dead."""" (all laugh)|He was trying to figure out a way to say it."
 2989;MATT;It was awful.
-2990;ASHLEY;"And I instantly started crying.|I was like, ""No! No no no!"""
+2990;ASHLEY;"And I instantly started crying.|I was like, """"No! No no no!"""""
 2991;TRAVIS;There's a video of it.
 2992;LAURA;All of us are crying.
 2993;ASHLEY;It was horrible!
@@ -3005,12 +3005,12 @@
 3003;MARISHA;I remember you saying you'd had a bad week, too.
 3004;MATT;No, it wasn't a year.|Almost a year.
 3005;ASHLEY;I did.
-3006;LAURA;"You were on your way out the door, and then we talked you into staying for a little longer because we were getting into the fight and you were like, ""Okay, I'll stay."""
-3007;ASHLEY;"I was like, ""I'll stay."""
+3006;LAURA;"You were on your way out the door, and then we talked you into staying for a little longer because we were getting into the fight and you were like, """"Okay, I'll stay."""""
+3007;ASHLEY;"I was like, """"I'll stay."""""
 3008;LAURA;And then she died.
 3009;MARISHA;That's right, you were going to go somewhere.
-3010;ASHLEY;"""In case anybody gets hurt."""
-3011;MARISHA;"Oh, that's right, because didn't you have guests? You had people who were visiting you and you went back and you're like, ""(cries) You don't understand."""
+3010;ASHLEY;"""""In case anybody gets hurt."""""
+3011;MARISHA;"Oh, that's right, because didn't you have guests? You had people who were visiting you and you went back and you're like, """"(cries) You don't understand."""""
 3012;MATT;I definitely have ideas to keep the campaign going past level 20 and to epic or mythic stages.|I would like to, if it goes that long.|We shall see.
 3013;SAM;What happens at level 20?
 3014;MARISHA;We start killing gods.
@@ -3114,7 +3114,7 @@
 3112;MARISHA;The Dice God!
 3113;TALIESIN;He is cruel and painful.
 3114;ORION;That is true.|When it comes to dice.
-3115;ASHLEY;"Just, on principle, I can't buy new dice because I'm like, ""it's not the dice."""
+3115;ASHLEY;"Just, on principle, I can't buy new dice because I'm like, """"it's not the dice."""""
 3116;LAURA;It is the dice!
 3117;LIAM;It's chance.
 3118;TALIESIN;You got a cool custom die.
@@ -3195,8 +3195,8 @@
 3193;LAURA;I know. No.
 3194;MARISHA;He's destroying the illusion.
 3195;LIAM;This all exists somewhere else, doesn't it?
-3196;MATT;"Most of it does.|I write a lot of it up, but there are moments where you have to pull out of the ether because players go this way and you're like, ""Uh... all right, let's see where this goes."" But have fun.|Learn the rules well because everyone's going to look to you for rules.|Have fun. Let players play.|Let them be creative.|And let them succeed or fail spectacularly."
-3197;MARISHA;"Have we ever thrown a total curveball at you, where you've had to do that? Where you've had to be like, ""Uh... uh..."""
+3196;MATT;"Most of it does.|I write a lot of it up, but there are moments where you have to pull out of the ether because players go this way and you're like, """"Uh... all right, let's see where this goes."""" But have fun.|Learn the rules well because everyone's going to look to you for rules.|Have fun. Let players play.|Let them be creative.|And let them succeed or fail spectacularly."
+3197;MARISHA;"Have we ever thrown a total curveball at you, where you've had to do that? Where you've had to be like, """"Uh... uh..."""""
 3198;MATT;A few times. I tend to prepare pretty openly and loosely so I can have some realm of understanding where you guys are going.
 3199;MARISHA;Like that time we sneaked in the back door of the thieves' guild?
 3200;MATT;Yeah, that was--
@@ -3315,9 +3315,9 @@
 3313;SAM;Can I come back as Spider-Man or something?
 3314;MATT;I'm not going to hold that back.
 3315;TALIESIN;You're not Spider-Man?
-3316;MATT;"I'm not going to be Marvel in this bitch, okay? I'm not going to be like, ""oh, death.|I can take it back any time, and it doesn't matter anymore."" No."
+3316;MATT;"I'm not going to be Marvel in this bitch, okay? I'm not going to be like, """"oh, death.|I can take it back any time, and it doesn't matter anymore."""" No."
 3317;TRAVIS;Do you design specific things for an hourglass? Are there particular scenarios that require it?
-3318;MATT;"There are.|It's harder to do in the Underdark.|There aren't so many traps or timed circumstances.|I like the hourglass for certain circumstances that have a very definite time limit, and I do think up what the challenge is, what type of skills would work, or let the players come up with creative ways that they can apply their skills to a situation to succeed, and I figure out, loosely off the 4th Edition rules, where I have number of successes vs number of failures in that period of time, and if they don't manage to do it in that time period, it's a failure.|I think it's fun.|It builds the tension, and the party goes, ""oh, shit! We've got to do this now!"" I love it. Hourglass is awesome."
+3318;MATT;"There are.|It's harder to do in the Underdark.|There aren't so many traps or timed circumstances.|I like the hourglass for certain circumstances that have a very definite time limit, and I do think up what the challenge is, what type of skills would work, or let the players come up with creative ways that they can apply their skills to a situation to succeed, and I figure out, loosely off the 4th Edition rules, where I have number of successes vs number of failures in that period of time, and if they don't manage to do it in that time period, it's a failure.|I think it's fun.|It builds the tension, and the party goes, """"oh, shit! We've got to do this now!"""" I love it. Hourglass is awesome."
 3319;LAURA;Do we play any other tabletop games?
 3320;SAM;Risk.
 3321;TALIESIN;Yeah.
@@ -3334,7 +3334,7 @@
 3332;MATT;Yeah.
 3333;LIAM;I've been playing the board game Dungeon, which is D&D-inspired.|Someone also asked, what's a good way to get your wife or your kids or friends involved.|I yanked my eight-year-old son in by playing Dungeon with him, and he totally got into it because of Dungeon, and now I am DMing a game for three eight-year-olds.
 3334;MATT;Which is awesome.
-3335;LIAM;"It's like D&D-light in a board game, and if they like the board game, you can say, ""you know, if you like this, we can ratchet up a bit."""
+3335;LIAM;"It's like D&D-light in a board game, and if they like the board game, you can say, """"you know, if you like this, we can ratchet up a bit."""""
 3336;MARISHA;Yeah, there's also D&D board games.|Branded D&D board games that are fun.|Mini dungeon delvers. They're fun.
 3337;ORION;I will be on Mulligan soon, and I like red and white, blue and black, and all the colors of the rainbow.
 3338;LAURA;I just did that show with Wil.|Titansgrave, which is a different tabletop RPG, and it's really fun.
@@ -3346,9 +3346,9 @@
 3344;TALIESIN;In-game.|Sitting at a table just tinkering and tinkering.
 3345;TRAVIS;Somebody asked how I became a goliath because it's not an official race in the book. Is it not an official race?
 3346;LIAM;It's now in 5th Edition, in one of the added books.
-3347;TRAVIS;"Now it is.|I think I asked Matt what the bigger creatures were in the world and he said orcs and other things and he also said there were goliaths that were half and half and I was like ""can I be that?"" He was like, ""sure."""
+3347;TRAVIS;"Now it is.|I think I asked Matt what the bigger creatures were in the world and he said orcs and other things and he also said there were goliaths that were half and half and I was like """"can I be that?"""" He was like, """"sure."""""
 3348;MATT;Yeah.
-3349;TRAVIS;"That was a thing I asked Marisha once, during our first game, was, ""Wait, I can do whatever I want?"" ""Kind of."""
+3349;TRAVIS;"That was a thing I asked Marisha once, during our first game, was, """"Wait, I can do whatever I want?"""" """"Kind of."""""
 3350;MARISHA;Do whatever you want.|It's awesome.
 3351;TRAVIS;You can try!
 3352;MARISHA;Fun, imaginative world.
@@ -3360,7 +3360,7 @@
 3358;MATT;And so our biggest fear was it changing that dynamic, and so we tried to be very careful that we didn't alter how we played, and didn't change the format, really, other than having cameras.
 3359;LIAM;We didn't want it to turn into a reality TV show.
 3360;LAURA;I was worried even when we were figuring out the setup of the tables, how it was going to work, that being far away from each other was going to screw things up, but it's just like when we were playing at our house across the table from each other.
-3361;MATT;"Just a little more distance.|There's been very little change, except we have other people now that we don't have to spend hours telling them, ""oh, what we do is we play this, and this is what happened."" You guys already know because you watched it, and it's awesome."
+3361;MATT;"Just a little more distance.|There's been very little change, except we have other people now that we don't have to spend hours telling them, """"oh, what we do is we play this, and this is what happened."""" You guys already know because you watched it, and it's awesome."
 3362;MARISHA;Yeah, that's true.
 3363;LIAM;There's a light goose to the energy because it feels like we're doing theater, which is the one added difference that I like, because when we played at home, we would have moments where we'd go into lulls or get tired or something, and that doesn't happen here.
 3364;LAURA;We're also only playing for three hours, as opposed to eight.
@@ -3386,7 +3386,7 @@
 3384;TALIESIN;And then Matt and I emptied out our Ren Faire closets.
 3385;MATT;Yep.
 3386;TRAVIS;And then alcohol made its way in.
-3387;LAURA;"We all showed up and were like, ""oh, this is cool! Let's put this on!"""
+3387;LAURA;"We all showed up and were like, """"oh, this is cool! Let's put this on!"""""
 3388;MARISHA;Yeah, it just kept getting more and more involved.
 3389;ORION;Everybody give a quick huzzah to Jareth.
 3390;ALL;Huzzah to Jareth!
@@ -3394,7 +3394,7 @@
 3392;LAURA;Oh, nice! Congratulations.
 3393;MATT;Congratulations, buddy.
 3394;MARISHA;Congratulations!
-3395;TRAVIS;"Somebody asked, ""if you accept fan art, would you also accept someone making fight music for the game?"""
+3395;TRAVIS;"Somebody asked, """"if you accept fan art, would you also accept someone making fight music for the game?"""""
 3396;LIAM;Yeah.
 3397;MATT;Totally.
 3398;TALIESIN;We don't want to tell anybody what not to do.
@@ -3408,7 +3408,7 @@
 3406;TALIESIN;Is it overwhelming having 8,000 people watching?
 3407;TRAVIS;No.
 3408;TALIESIN;No.
-3409;MATT;"It's not overwhelming.|It's really cool.|It's good to know there's people out there that have any interest in Dungeons & Dragons.|I grew up an indoor kid.|I was not quite sure if I could tell people I play this game, and now people are much more open to the idea, like, ""oh, Dungeons & Dragons!"" It used to be like, ""you play D&D? What the shit?"" Now it's, ""you play D&D? What's it like?"" It's much more open. It's great."
+3409;MATT;"It's not overwhelming.|It's really cool.|It's good to know there's people out there that have any interest in Dungeons & Dragons.|I grew up an indoor kid.|I was not quite sure if I could tell people I play this game, and now people are much more open to the idea, like, """"oh, Dungeons & Dragons!"""" It used to be like, """"you play D&D? What the shit?"""" Now it's, """"you play D&D? What's it like?"""" It's much more open. It's great."
 3410;LIAM;One of our favorite things about all the feedback we're getting through social media is how many of you guys are starting to play the game.
 3411;ALL;Yeah, that's cool.
 3412;ASHLEY;That's awesome.
@@ -3421,7 +3421,7 @@
 3419;LIAM;Which is great! We all do it, but it's a nice counter-balance.
 3420;ORION;Somebody asked why Tiberius is so loyal to Keyleth.|Tiberius comes from a presidential family.|A family of political power, of high-seating in his land, so he's very honorable, and Keyleth is royalty in his eyes.|He didn't know, because that was a reveal for Keyleth's character.|I think it was a year and a half, we were playing, and then you revealed it.
 3421;MARISHA;It was a while before I told you guys I was a princess.
-3422;LIAM;"Hey, it's Scott White.|""Happy 10th episode."" Hey, Scott!"
+3422;LIAM;"Hey, it's Scott White.|""""Happy 10th episode."""" Hey, Scott!"
 3423;ALL;Scott!
 3424;MATT;Thanks for coming!
 3425;LIAM;Actor Scott White.
@@ -3463,7 +3463,7 @@
 3461;ZAC;It's been an hour-long Q&A, so I think it's a pretty good time.
 3462;MARISHA;It's been an hour?
 3463;MATT;All right, so we'll get a few more questions here, and then we'll go ahead and close it on this, guys.
-3464;MARISHA;"Going back to the question of my favorite thing about D&D, because that kind of got segued out.|Aside from the people, I think that it's something really fantastic-- not to sound cheesy-- and magical when a group of grown adults can get together and use their imagination and have an amazing time, and my favorite thing about Dungeons & Dragons is when you walk away from it, and especially after you've slept on it and after you meditate on it, it's pretty much real.|It's just as real as other things we do in our day-to-day lives.|If you guys noticed how excited we got when we were like, ""oh my god, you guys haven't met Gilmore yet."" And all of us went, ""oh my god. Gilmore."" And we all got excited over an NPC."
+3464;MARISHA;"Going back to the question of my favorite thing about D&D, because that kind of got segued out.|Aside from the people, I think that it's something really fantastic-- not to sound cheesy-- and magical when a group of grown adults can get together and use their imagination and have an amazing time, and my favorite thing about Dungeons & Dragons is when you walk away from it, and especially after you've slept on it and after you meditate on it, it's pretty much real.|It's just as real as other things we do in our day-to-day lives.|If you guys noticed how excited we got when we were like, """"oh my god, you guys haven't met Gilmore yet."""" And all of us went, """"oh my god. Gilmore."""" And we all got excited over an NPC."
 3465;ORION;Nothing that exists, really.
 3466;LAURA;I dream about our characters.
 3467;MARISHA;Yeah, I do, too.|Yeah, I have dreams.
@@ -3476,7 +3476,7 @@
 3474;LAURA;Oh, I like that! I pictured him with black, slicked-back, greasy hair in a ponytail.
 3475;TALIESIN;I can see that, too.
 3476;ORION;What's your favorite part, Ashley?
-3477;ASHLEY;"It's funny, because when we first started, and for the two years that we've been doing it, there was an element that I liked about it, that it was just ours, and then when I would try to tell people, I was like, ""ugh, they're not going to understand."" We get to go and play make-believe, and nobody is judging anybody and we can just go do it.|So I was hesitant when we were starting the show, but what's been awesome is that you guys have been so accepting and such an amazing group in the chat room.|And how you guys have been supportive of us.|This has been one of my favorite things that I've been a part of... in my life? That's a really bold statement."
+3477;ASHLEY;"It's funny, because when we first started, and for the two years that we've been doing it, there was an element that I liked about it, that it was just ours, and then when I would try to tell people, I was like, """"ugh, they're not going to understand."""" We get to go and play make-believe, and nobody is judging anybody and we can just go do it.|So I was hesitant when we were starting the show, but what's been awesome is that you guys have been so accepting and such an amazing group in the chat room.|And how you guys have been supportive of us.|This has been one of my favorite things that I've been a part of... in my life? That's a really bold statement."
 3478;MATT;No, I feel the same way.
 3479;ASHLEY;I love it so much.|After two years, obviously there's so much more of an attachment to it, but I just love it.|I love it so much.
 3480;TALIESIN;Everyone's so nice.|I barely believe it's the internet.
@@ -3488,15 +3488,15 @@
 3486;TALIESIN;Yes.
 3487;ZAC;Yes, you have?
 3488;TALIESIN;Yeah, I did.|But my DM was not very good, so the game got so boring we quit because our DM was weak.
-3489;MATT;"Someone asked about the PewDiePie thing.|What it was like DMing for him and Ken? It was fun. They were great.|They were a lot of fun.|We only had half an hour to play, both for me to teach them and to play through a session, so it was a very new challenge of, ""all right, let's do this!"" Dungeons & Dragons.|But it worked out pretty well.|We had a good time and left on a cliffhanger, and as long as they want to keep bringing me back to do it occasionally, I'm happy to, so let them know that you enjoyed it and they should have me back, because it was a good time."
+3489;MATT;"Someone asked about the PewDiePie thing.|What it was like DMing for him and Ken? It was fun. They were great.|They were a lot of fun.|We only had half an hour to play, both for me to teach them and to play through a session, so it was a very new challenge of, """"all right, let's do this!"""" Dungeons & Dragons.|But it worked out pretty well.|We had a good time and left on a cliffhanger, and as long as they want to keep bringing me back to do it occasionally, I'm happy to, so let them know that you enjoyed it and they should have me back, because it was a good time."
 3490;ORION;I'm going to say what my favorite part of D&D is.
 3491;MARISHA;What's your favorite part of D&D, Orion?
-3492;ORION;"Much like doing improv, it's a wonderful escape.|I know I'm really frantic in how I play it. Poor Matthew.|He puts up with arguments about spells that I want to make super OP, and he's like, ""you can't do that."" I'm like, ""but why?"" Those are our arguments."
+3492;ORION;"Much like doing improv, it's a wonderful escape.|I know I'm really frantic in how I play it. Poor Matthew.|He puts up with arguments about spells that I want to make super OP, and he's like, """"you can't do that."""" I'm like, """"but why?"""" Those are our arguments."
 3493;MATT;Just keeping the balance.
-3494;ORION;"When we got together and we would play for 8 hours, we would get together and have lunch or dinner and we would spend a lot of time, and every game was a very special day, so no matter if the day was going great or not, it didn't matter because as soon as the game started, it was a whole different world that we had to step into, and now we live in it and we breathe it.|It's great. We're all actors, and to get lost in each other, and with how Matthew narrates, and you'll see it when you watch the show, I'm like, ""oh,"" and there's cameras now, and that's a whole other layer, and I still get lost in Keyleth shedding a tear, and the way Clarota interacts differently.|I don't see Matthew doing it.|I see (creature noise) that."
+3494;ORION;"When we got together and we would play for 8 hours, we would get together and have lunch or dinner and we would spend a lot of time, and every game was a very special day, so no matter if the day was going great or not, it didn't matter because as soon as the game started, it was a whole different world that we had to step into, and now we live in it and we breathe it.|It's great. We're all actors, and to get lost in each other, and with how Matthew narrates, and you'll see it when you watch the show, I'm like, """"oh,"""" and there's cameras now, and that's a whole other layer, and I still get lost in Keyleth shedding a tear, and the way Clarota interacts differently.|I don't see Matthew doing it.|I see (creature noise) that."
 3495;LAURA;Isn't that crazy that it's instantly Clarota and it's instantly Kima? It's not Matt anymore, as soon as it's that character.
 3496;ORION;So it is that sense of realistic magic that exists every single game.
-3497;MARISHA;"It's weird, too, because I almost feel like bringing the game public and for everybody else, and the fact that we're doing it weekly, it's almost bled the reality lines even more, because now they are like, ""oh, yeah, totally. Clarota.|Yeah, we totally know who you're talking about."" And so we're like, ""yeah, Clarota, right?"" You guys know Clarota.|And we're getting fan art."
+3497;MARISHA;"It's weird, too, because I almost feel like bringing the game public and for everybody else, and the fact that we're doing it weekly, it's almost bled the reality lines even more, because now they are like, """"oh, yeah, totally. Clarota.|Yeah, we totally know who you're talking about."""" And so we're like, """"yeah, Clarota, right?"""" You guys know Clarota.|And we're getting fan art."
 3498;TALIESIN;This is the speed our personal text messages, or group text messages, go at.
 3499;MARISHA;(laughs) Yeah, it's true.
 3500;ASHLEY;Our group text message thread is insane.
@@ -3567,7 +3567,7 @@
 3565;TALIESIN;(cheers)
 3566;ASHLEY;Oh, Critters, I love you!
 3567;MATT;Oh, that's awesome.|Thank you, Liam. Thank you, chat.
-3568;ZAC;"So you guys have officially dubbed yourselves Critters, and by yourselves, I mean by Liam.|(all laugh)|The question I think would be good to end out on is, ""what would each of you recommend to them to tell their friends to get them into D&D?"" How would you recommend other people push D&D onto people?"
+3568;ZAC;"So you guys have officially dubbed yourselves Critters, and by yourselves, I mean by Liam.|(all laugh)|The question I think would be good to end out on is, """"what would each of you recommend to them to tell their friends to get them into D&D?"""" How would you recommend other people push D&D onto people?"
 3569;LIAM;Live a video game while drinking with your friends.
 3570;LAURA, ASHLEY;Yeah.
 3571;LAURA;Or hanging with your friends.|You don't have to drink.

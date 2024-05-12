@@ -32,10 +32,10 @@
 30;MATT;16? You look through the room. Most everything of interest has already been picked clean. This room also doesn't seem to see much use other than the clothing that's in there. This room is used for dressing and presentational purposes but other than that, as a bedroom, it's pretty useless. As you guys go downstairs, we'll say for the sake of brevity you take a little bit of time to start looking through. You know you're a little pressed for time because you can feel the energy in the town begin to rise and you start hearing noises. You keeping an eye out?
 31;MARISHA;Yeah.
 32;MATT;The people that rush into the rooms are now rushing back out, some of them wearing leather tunics and small bits of armor, their weapons gathered, and they're forming small bands.
-33;MARISHA;"I come over the speakers once again, the ear pieces. ""I think it's time to go. Whenever you guys are ready, I want to light this bitch up."""
+33;MARISHA;"I come over the speakers once again, the ear pieces. """"I think it's time to go. Whenever you guys are ready, I want to light this bitch up."""""
 34;TRAVIS;We need to check all the rooms that go downstairs first.
 35;MARISHA;All right, quick.
-36;TRAVIS;"""Got an empty house."" I run out to the door to the left. To the uncovered areas."
+36;TRAVIS;"""""Got an empty house."""" I run out to the door to the left. To the uncovered areas."
 37;MATT;Okay. You go over to this hallway. You eventually smash the door, doesn't take too long.|It leads into what looks like a small study or some sort of an office room. A big blue rug, a desk with a chair, some papers strewn about.
 38;TRAVIS;Can I grab the rug and yank it?
 39;MATT;Yeah, pull the rug off, reveals a hatch.
@@ -60,12 +60,12 @@
 58;MATT;Land down there. A 20 foot by 20 foot room.|It's very musty. However, you do see in the far corner there is a pad of fresh earth set up, and there is a dark box.
 59;TRAVIS;Um.
 60;MATT;About eight feet long.
-61;LIAM;"I hear him say ""Um,"" and I jump down, too.|With the Flametongue dagger out for light."
+61;LIAM;"I hear him say """"Um,"""" and I jump down, too.|With the Flametongue dagger out for light."
 62;MATT;Okay. The room lights up a little bit and you can see across the way there is a not super-detailed, but a fairly well-crafted coffin on the opposite side of the room.
 63;TRAVIS;Ooh! I bet there's treasure in there!
 64;LIAM;You might be right. Yeah, let's go have a look.
 65;LAURA;Is there treasure? Did you find treasure?
-66;LIAM;"""Hold, please."" Perception check the coffin.|That's a 20."
+66;LIAM;"""""Hold, please."""" Perception check the coffin.|That's a 20."
 67;MATT;Okay. The coffin does not appear to be trapped?
 68;TRAVIS;Can I open it?
 69;MARISHA;He said that with a question mark.
@@ -102,7 +102,7 @@
 100;TRAVIS;Light this candle!
 101;LAURA;Should we light this on fire, too?
 102;TALIESIN;Burn it to the ground.
-103;MARISHA;"""Everyone out."" And I start casting a Flaming Sphere."
+103;MARISHA;"""""Everyone out."""" And I start casting a Flaming Sphere."
 104;MATT;Okay.
 105;TRAVIS;We're out by now.
 106;MARISHA;Everyone out.
@@ -183,7 +183,7 @@
 181;LIAM;I thought it was upstairs, or you said right on the other side of the door?
 182;LAURA;Right on the other side of the door.
 183;MARISHA;Oh, for crying out loud. I push past them I just go, Jordana! Jordana, it's us!
-184;MATT;"Okay, there's a pause and a voice goes, ""Who's us?"""
+184;MATT;"Okay, there's a pause and a voice goes, """"Who's us?"""""
 185;LAURA;Oh. Crazy grandma!
 186;MARISHA;And Vox Machina. (quietly) Does she know we're called that?
 187;LAURA;No. I don't know. (louder) Crazy grandma was staying with you. Crazy peasants.
@@ -196,14 +196,14 @@
 194;MATT;I'll say since you're backing her failure up, go ahead and make it with disadvantage.
 195;MARISHA;Hey, you don't have to call it-- that sounds so sad when you say it like that.
 196;LAURA;18.
-197;MATT;"18. There's a pause. ""Crazy grandma? Come in."" You hear the sound of a locking sound and the door opens up ever-so-slightly. A very, very dimly lit interior, there's a small lantern, a hooded lantern across the room. Other than that, you see the shadow of Jordana as she ushers you all in out of the rain."
+197;MATT;"18. There's a pause. """"Crazy grandma? Come in."""" You hear the sound of a locking sound and the door opens up ever-so-slightly. A very, very dimly lit interior, there's a small lantern, a hooded lantern across the room. Other than that, you see the shadow of Jordana as she ushers you all in out of the rain."
 198;LAURA;So, hey guess what? It's started.
-199;MATT;"""Yeah, apparently."" She closes the door behind you, looks out the window that has the curtains closed and goes, ""Okay. So. It's underway. It's not safe to be here right now."""
+199;MATT;"""""Yeah, apparently."""" She closes the door behind you, looks out the window that has the curtains closed and goes, """"Okay. So. It's underway. It's not safe to be here right now."""""
 200;LAURA;No.
-201;MATT;"""Did anyone see you come in?"""
+201;MATT;"""""Did anyone see you come in?"""""
 202;LAURA;No, no.
-203;MATT;"""Good. Who are you?"""
-204;LAURA;"""Oh. Well."" How about Seeming? This whole time, have we looked like crazy peasants during the battle?"
+203;MATT;"""""Good. Who are you?"""""
+204;LAURA;"""""Oh. Well."""" How about Seeming? This whole time, have we looked like crazy peasants during the battle?"
 205;MATT, TRAVIS;No.
 206;TRAVIS;We dropped it.
 207;LAURA;We dropped it?
@@ -213,7 +213,7 @@
 211;TALIESIN;That would've been intense and awesome.
 212;MATT;That would've been amazing. Donkey eating a vampire head? Aw, man.
 213;LIAM;This is hard to believe, but this is crazy grandma.
-214;LAURA;"""I'm crazy grandma."" I do a crazy eye thing just to show her."
+214;LAURA;"""""I'm crazy grandma."""" I do a crazy eye thing just to show her."
 215;SAM;Am I there, Matt?
 216;MATT;You've just now gotten to that point, you see the door closing as you get there.
 217;SAM;Hello. Hi. How'd it go?
@@ -223,17 +223,17 @@
 221;MARISHA;The de Rolos have dinosaurs?
 222;SAM;No, it was me. It's all good, though. I caused a ruckus, that's all I was supposed to do.
 223;TRAVIS;That's it, yeah.
-224;MATT;"""What is going on?"""
+224;MATT;"""""What is going on?"""""
 225;TRAVIS;Right.
 226;TALIESIN;We may have just started a revolution.
 227;MARISHA;Does he look familiar to you?
 228;LIAM;You don't recognize us, it's not safe to walk these streets for outsiders, so we were using a little bit of trickery. This is us. We're the same people you were dealing with before.
 229;TRAVIS;Vox Machina.
 230;LAURA;We just need to rest.
-231;MATT;"""Okay. You can rest here, but how long?"""
+231;MATT;"""""Okay. You can rest here, but how long?"""""
 232;LAURA;Until we're healed, and then we'll go.
 233;LIAM;Overnight.
-234;MATT;"""All right."""
+234;MATT;"""""All right."""""
 235;LAURA;I feel like we should get word out to somebody, though, because--
 236;SAM;To what? To hold the revolution?
 237;LAURA;I feel like everybody's going to die before we even get to the castle!
@@ -252,13 +252,13 @@
 250;SAM;Let's spread word. We can spread word. Let's find a few--
 251;LAURA;Can we send off a message?
 252;MARISHA;We sparked a hope in people. We now have innocent peasants, people who are not fighters--
-253;SAM;"Can you Skywrite something like ""attack tomorrow"" or ""hold""?"
+253;SAM;"Can you Skywrite something like """"attack tomorrow"""" or """"hold""""?"
 254;LAURA;What if we all take off in separate directions and we tell all the peasants we find that are fighting the time that we're going to attack?
 255;TRAVIS;Aren't there a bunch of zombie stone giants walking around?
 256;LAURA;Well yeah, we'll have to be sneaky about it, but we'll spread the rumors around. I look at Jordana. Joanna?
 257;MATT;Jordana.
 258;LAURA;Jordana. And I say, can you get word out to people?
-259;MATT;"""To a few, maybe. I don't want to go outside right now."""
+259;MATT;"""""To a few, maybe. I don't want to go outside right now."""""
 260;LAURA;I don't blame you, dear.
 261;TALIESIN;Let's let her stay. I say we just rest up and we attack tonight.
 262;TRAVIS;Tonight?
@@ -310,7 +310,7 @@
 308;LIAM;I insight-check this woman.
 309;MATT;Go ahead and roll insight.
 310;LIAM;14.
-311;LAURA;"Can I say it? Because I just said, ""It could be you."" Can I do the same thing?"
+311;LAURA;"Can I say it? Because I just said, """"It could be you."""" Can I do the same thing?"
 312;MATT;Sure, go ahead.
 313;LAURA;All right. That's terrible. Okay. So.
 314;SAM;What do you want to know?
@@ -320,7 +320,7 @@
 318;LAURA;No, but everybody else is doing it. Those peasants are doing it.
 319;LIAM;That's what I'm saying. Let's see what we're up against. Let's take a breather and let's go pick one off.
 320;MARISHA;Jordana, do you have any books here on zombie giants?
-321;MATT;"""For the most part, necromancy is not studied in this town. At least, we never had to deal with it until recently, and we haven't had the opportunity to really study since."""
+321;MATT;"""""For the most part, necromancy is not studied in this town. At least, we never had to deal with it until recently, and we haven't had the opportunity to really study since."""""
 322;MARISHA;Well, I mean, zombie combined with giants. We've fought zombies and we've fought giants, so I'm assuming it with a vague--
 323;TRAVIS;What?
 324;LAURA;We keep our distance.
@@ -343,7 +343,7 @@
 341;MATT;All right. So what's the plan?
 342;LAURA;We short rest and get back out.
 343;LIAM;We take a short rest and then exterminate.
-344;SAM;"Wait, join the rebellion or ride around town telling everyone, ""quell?"""
+344;SAM;"Wait, join the rebellion or ride around town telling everyone, """"quell?"""""
 345;MARISHA;"We're taking down these damn giants.|These giants are killing people left and right; we watched them crush people on our way here."
 346;TALIESIN;We tell them that they take cover during the night.
 347;TRAVIS;I'm going to roll four hit dice.
@@ -416,13 +416,13 @@
 414;MARISHA;Do we want to split up?
 415;TALIESIN;No, let's keep together.
 416;LAURA;Actually, before we go, I ask, do you have any holy symbols at all in here?
-417;MATT;"""I'm sorry, no."""
+417;MATT;"""""I'm sorry, no."""""
 418;LAURA;Nothing?
-419;MATT;"""No. All those were kept in either of the two temples here."""
+419;MATT;"""""No. All those were kept in either of the two temples here."""""
 420;LAURA;Do you have anything magic that could help me?
-421;MATT;"""I already gave you everything of magic that I had here."""
+421;MATT;"""""I already gave you everything of magic that I had here."""""
 422;LAURA;Oh, right. I forgot we took it.
-423;MATT;"""Sorry."""
+423;MATT;"""""Sorry."""""
 424;LAURA;Shit. All right, thank you.
 425;TRAVIS;Once we're outside, how far away is that giant that was felled?
 426;MATT;As you step outside and look, it's about 60 feet off, near one of the big crossroads near this area. And a zombie giant has been completely felled down, and there are three people now that are currently in the process of hacking its head off just to make sure. It's a group of about seven people that live here. They're all looking pretty messed up, but they're all eager and adrenaline-driven, they're all hacking away, then stopping and taking a breath (breathes heavily).|You hear in the distance, (thunder crack) bolt of lightning coming down from the storm, and as it echoes, everyone shakes for a second, look at each other, (cheers) give a cheer of victory. They all hop off the body of the zombie giant and begin darting further in towards the center of the city.
@@ -597,7 +597,7 @@
 595;MATT;It's a big target. Big target, lot of hit points.
 596;MARISHA;And as she's brewing up her bow, I'm behind her and just bring down the bolt for 32 damage.
 597;MATT;Damn. (lightning sound) You can see the bolt strikes the front of the zombie giant right as it starts swinging after you guys. The bolt hits its shoulder and blasts a chunk of its shoulder blade off. You see bone shards fire behind, and there's a giant piece of its torso now missing where the bolt hit. (groans) Stumbles back onto its back foot and catches itself, almost toppling over.
-598;MARISHA;"Just start backing up. ""Vex?"""
+598;MARISHA;"Just start backing up. """"Vex?"""""
 599;MATT;It starts lumbering forward again as Vex releases her arrow, which splits into three.
 600;MARISHA;Vex?
 601;LAURA;54 points of damage.

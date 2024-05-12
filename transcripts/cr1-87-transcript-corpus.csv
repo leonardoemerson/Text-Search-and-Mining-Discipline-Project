@@ -122,13 +122,13 @@
 120;LAURA;Oh, it could be another ship, possibly.
 121;MATT;It could be a ship, it could be anything that would be stationary. Literally, it's only because of your keen vantage point, and your honed eyesight, that you're able to even make that slight, little bump in the horizon from here.
 122;LAURA;All right. Captain?
-123;MATT;"As you fly down, you see her, she's at the front of the ship. She has her one hand currently on the wheel, and she's looking out, chatting to the side with one of her crewmates, and turns around as you fly down next to her.|She's surprised at your immediate appearance and she's like, ""Oh, (gasps) sorry, I--"""
+123;MATT;"As you fly down, you see her, she's at the front of the ship. She has her one hand currently on the wheel, and she's looking out, chatting to the side with one of her crewmates, and turns around as you fly down next to her.|She's surprised at your immediate appearance and she's like, """"Oh, (gasps) sorry, I--"""""
 124;LAURA;You'll get used to that someday.
 125;MATT;One of these days, I'm sure.
 126;LAURA;(laughs)
-127;MATT;"""What can I do for you?"""
+127;MATT;"""""What can I do for you?"""""
 128;LAURA;"I see something on the horizon; do you know of any masses in the area? Maybe a ship, or island, or--"
-129;MATT;"""Take the helm."" She hands off the wheel to one of her compatriots, and she rummages over in one of the small chests to the side, and pulls out a large scroll and slams it onto a table she keeps maybe ten feet off to the right of her. And she goes through and pulls out a few instruments. Marks the sun and takes a good five minutes or so getting a really strong idea of where the positioning is. She looks down. ""No, not much in the way of landmasses out here, my dear."""
+129;MATT;"""""Take the helm."""" She hands off the wheel to one of her compatriots, and she rummages over in one of the small chests to the side, and pulls out a large scroll and slams it onto a table she keeps maybe ten feet off to the right of her. And she goes through and pulls out a few instruments. Marks the sun and takes a good five minutes or so getting a really strong idea of where the positioning is. She looks down. """"No, not much in the way of landmasses out here, my dear."""""
 130;LAURA;Do you have a telescope?
 131;MATT;She goes and pulls out her particular eye glass. It's small, but functional. Glances over, and you look over in the direction and point it out. There's nothing on the horizon.
 132;LAURA;May I take that and fly up? I swear I'll give it back.
@@ -148,13 +148,13 @@
 146;LAURA;Shut up. 21?
 147;MATT;21? Okay. You take a moment and glance out in the same direction you were, and you scan past the horizon. Nothing.
 148;LAURA;Motherfuck. Well, I come back down.|It went under water, whatever it was. Does that mean it was big enough to be some sort of sea monster? Was it a sea monster?
-149;MATT;"""I sincerely hope not, for all of our sakes.|But, nevertheless, I'm gonna go ahead and have the men man our ballistas. Just to be safe."""
+149;MATT;"""""I sincerely hope not, for all of our sakes.|But, nevertheless, I'm gonna go ahead and have the men man our ballistas. Just to be safe."""""
 150;LAURA;How quickly do those things move?
-151;MATT;"""What things?"""
+151;MATT;"""""What things?"""""
 152;LAURA;Sea monsters.
-153;MATT;"""Depends on the sea monster."""
+153;MATT;"""""Depends on the sea monster."""""
 154;LAURA;This one was very large.
-155;MATT;"""Hopefully slowly."" And she shouts off, ""Full sail!"" A bunch of the deckhands start pulling the ropes down, letting the sail come to a full-- flutter of wind itself isn't too terribly strong, but it's enough to at least inflate the sails even further, and give a little more of a speedy direction."
+155;MATT;"""""Hopefully slowly."""" And she shouts off, """"Full sail!"""" A bunch of the deckhands start pulling the ropes down, letting the sail come to a full-- flutter of wind itself isn't too terribly strong, but it's enough to at least inflate the sails even further, and give a little more of a speedy direction."
 156;LAURA;I wanna go back up and keep an eye, with the spyglass, on any kind of movement, that looks like it's coming towards us.
 157;MATT;Okay, cool. Some of her men go over and start loading the large ballistas to the back of the ship. Anybody else hanging out on the deck?
 158;TRAVIS;Can I run to the bow of the ship? Heading for a new land.
@@ -177,7 +177,7 @@
 175;MARISHA;I can make, like, wind.
 176;TRAVIS;Oh, you can!
 177;MARISHA;And we can maybe get there faster.
-178;MATT;"The gentleman who is there, currently wrapping a rope around his forearm, as he's pulling it down with his full weight, you can see he's maybe in his late twenties, though still going a little grey in the beard, for such a young age, but his skin is weathered, he's kind of missing a few teeth. He's got a large piece of-- like a bandana of cloth wrapped around the front of his head, and just a leather tunic. He kind of looks back to you.|""Um, I've got it, but thank you."""
+178;MATT;"The gentleman who is there, currently wrapping a rope around his forearm, as he's pulling it down with his full weight, you can see he's maybe in his late twenties, though still going a little grey in the beard, for such a young age, but his skin is weathered, he's kind of missing a few teeth. He's got a large piece of-- like a bandana of cloth wrapped around the front of his head, and just a leather tunic. He kind of looks back to you.|""""Um, I've got it, but thank you."""""
 179;MARISHA;Oh, okay. 'Cause I can-- You're doing great. Good work.
 180;MATT;Right, okay.
 181;TALIESIN;I'm gonna grab Bad News and run up to the crow's nest and see if I can see anything.
@@ -201,16 +201,16 @@
 199;MARISHA;Yeah! See, we're sailors, now!
 200;TRAVIS;We're sailors now.
 201;TALIESIN;She doesn't have to know what sailors actually do.
-202;MATT;"The shiphand who's manning the sail who's a foot from you right now just reaches up and covers his ear and goes, ""Uh. We don't really yell that loud all the time into each other's ear, but thank you."""
+202;MATT;"The shiphand who's manning the sail who's a foot from you right now just reaches up and covers his ear and goes, """"Uh. We don't really yell that loud all the time into each other's ear, but thank you."""""
 203;TRAVIS;Yo-ho-ho! And a... help.
 204;MARISHA;Yeah.
 205;TALIESIN;Keyleth, ask the captain if she wants to have extra speed from your wind.
 206;MARISHA;Captain.
 207;TALIESIN;The captain, yes.
 208;MARISHA;I was-- I'm not talking to you, anymore, Percy. Captain.
-209;MATT;"As you approach from behind, she's currently holding the wheel, and she doesn't even turn her head to you, goes, ""Yes?"""
+209;MATT;"As you approach from behind, she's currently holding the wheel, and she doesn't even turn her head to you, goes, """"Yes?"""""
 210;MARISHA;Would you like more speed behind those sails?
-211;MATT;"""I mean, always, but--"""
+211;MATT;"""""I mean, always, but--"""""
 212;MARISHA;Okay! And then I go back and I start doing Gusts into the sails.
 213;MATT;Okay, Gust is a what-level spell?
 214;MARISHA;Well, it's a cantrip, or I could do a level three Gust of Wind.
@@ -223,7 +223,7 @@
 221;LAURA;We're gonna be so fast for a minute.
 222;MATT;Second-level spell, and it cannot be done at a higher level.
 223;MARISHA;Okay.
-224;MATT;"However, it gives you a full minute of a very focused gust of wind of, as it-- the sails billow even further. You can see the ropes tighten, the guy with the rope around his arm goes, ""Ow ow ow ow!"" Has to unwind it real fast, go in and ratchet it to the side. But the sails pick up, and the ship itself picks up speed.|For the next minute you've got a nice burst or so. You watch as the captain looks over the shoulder to you and gives you a nod, an approving nod, wordless, but--"
+224;MATT;"However, it gives you a full minute of a very focused gust of wind of, as it-- the sails billow even further. You can see the ropes tighten, the guy with the rope around his arm goes, """"Ow ow ow ow!"""" Has to unwind it real fast, go in and ratchet it to the side. But the sails pick up, and the ship itself picks up speed.|For the next minute you've got a nice burst or so. You watch as the captain looks over the shoulder to you and gives you a nod, an approving nod, wordless, but--"
 225;MARISHA;Captain.
 226;SAM;I turn to Doty, and I say, take this down.|With an efficiency and an effective leadership role model for everyone, the redhead continues to propel us forward, faster and faster, to everyone's surprise and respect, including the captain. As the salt licks my nose, and the sweet smell of adventure is in the air, I know that with her on our side, we will be strong and we will be protected. End of chapter.
 227;MATT;The tension on the ship--
@@ -383,9 +383,9 @@
 381;MARISHA;Well, I--
 382;MATT;The ship suddenly lists a bit as you watch as Adella is now turning the wheel and turning the ship to try and veer around the fog bank that suddenly has appeared, and she's shouting off to some of her crew. They're starting to man the ballista at the back of the ship once more--
 383;LAURA;Is this normal? Is this a sea monster?
-384;MATT;"""Um. It's fog!"""
+384;MATT;"""""Um. It's fog!"""""
 385;TRAVIS;(laughs)
-386;MATT;"""I have not yet encountered a monster that creates fog! But I'd rather not be caught off guard."""
+386;MATT;"""""I have not yet encountered a monster that creates fog! But I'd rather not be caught off guard."""""
 387;MARISHA;Wait, wait, wait, this--
 388;SAM;I can communicate with semaphore if that's something you'd like me to do?
 389;TRAVIS;What's semaphore?
@@ -404,14 +404,14 @@
 402;MARISHA;Oh, damn. All right.
 403;SAM;That would be really cool, though.
 404;MARISHA;Sorry, Captain? How close are we to our destination? This could be Vesrah.
-405;MATT;"""From the recent calculations I made on our map, we're at least a day and a half out."""
+405;MATT;"""""From the recent calculations I made on our map, we're at least a day and a half out."""""
 406;MARISHA;Really? Does this look to be island-sized?
 407;MATT;She's glancing over the front and-- you guys, by the way, are up there in the crow's nest and one of the ship hands is now climbing up the rope net to get to the top as part of his job--
 408;LAURA;It's a little crowded up here, but--
-409;MATT;"-- he gets up there and goes, ""Um."""
+409;MATT;"-- he gets up there and goes, """"Um."""""
 410;LAURA;I hop on the broom and get out of it so he has more room.
 411;TALIESIN;I'm used to this enough, I know how to make room from last time I was on a boat.
-412;MATT;"He hops in and pulls out his spy glass and begins looking out. Shouts down to the captain.|""Captain! It's moving!"""
+412;MATT;"He hops in and pulls out his spy glass and begins looking out. Shouts down to the captain.|""""Captain! It's moving!"""""
 413;LAURA;It's moving!
 414;TALIESIN;It's moving?
 415;MATT;And you watch as she shifts-- the ship begins to turn wide to move around and the fog shifts to meet the direction of the ship.
@@ -422,7 +422,7 @@
 420;MATT;Mm-hm, or the ship is going towards it.
 421;LAURA;I'm going to tie off a rope to the broom.
 422;TALIESIN;Not a bad idea.
-423;MATT;"All right. She continues to try and move around, and the fog cloud shifts around, shakes her head and you hear as Adella shouts out, ""All right, looks like we're going in.|Be at the ready!"" And eventually the fog bank hits the front of the ship, and within moments your visibility is cut to nothing."
+423;MATT;"All right. She continues to try and move around, and the fog cloud shifts around, shakes her head and you hear as Adella shouts out, """"All right, looks like we're going in.|Be at the ready!"""" And eventually the fog bank hits the front of the ship, and within moments your visibility is cut to nothing."
 424;TRAVIS;What?
 425;MATT;You can see no more than maybe a few feet past the edge of the boat, and for those at the back of the ship, the front of the ship is obscured. Those at the front of the ship, the back of the ship is obscured. It is a very, very thick fog that has completely immersed the outside of the ship.
 426;TRAVIS;Vax, don't try anything.
@@ -1019,7 +1019,7 @@
 1017;LIAM;She says as she destroys everything.
 1018;TRAVIS;Yep, yeah, yep.
 1019;MARISHA;Destroy reality?
-1020;MATT;"Ending Keyleth's turn, it is now the crew's go. So the crew here is gonna turn the ballistas around, as the captain leaps off down and goes behind the guy who attacked you, Vax. She pulls out a scimitar, rushes forward screaming, ""Yah!"" and just does a full downward arc into the back."
+1020;MATT;"Ending Keyleth's turn, it is now the crew's go. So the crew here is gonna turn the ballistas around, as the captain leaps off down and goes behind the guy who attacked you, Vax. She pulls out a scimitar, rushes forward screaming, """"Yah!"""" and just does a full downward arc into the back."
 1021;LAURA;Oh, shit.
 1022;LIAM;Adele Dazeem, ladies and gentlemen.
 1023;LAURA;Like Xena. (war cry)
@@ -1092,7 +1092,7 @@
 1090;MATT;It should be there.
 1091;SAM;No, it doesn't.
 1092;MATT;Doesn't? Ah, damn it.
-1093;SAM;"Oh, wait, no, it says it. But it's cut off.|It says, ""DC one"". I'm sure there's something after that, but are you talking about just to hit it?"
+1093;SAM;"Oh, wait, no, it says it. But it's cut off.|It says, """"DC one"""". I'm sure there's something after that, but are you talking about just to hit it?"
 1094;MATT;"Right. It's their saving throw. It's your spell DC to get past it; I think is what it is.|It's not an actual ranged--"
 1095;SAM;Okay, so then it's 17.
 1096;MATT;17? Okay, good to know. Which, he has disadvantage on it, which he rolled a one in the first one, so no.
@@ -2019,13 +2019,13 @@
 2017;MATT;What last murmurs of this man's life that remained as he began to fade to the drowning, you both manage to just bring him back from the cusp of death, and coughing profusely over the next 30 or so seconds, turning onto his stomach and gathering himself, taking breaths, spitting out whatever seawater still remains in his lungs, he looks back up at you all, and you can see he has a ragged, mouse-brown hair on top, and it's shorter on the sides around the ear, rather large ears, kind of square jaw but very scrawny, and once again from the tattered clothes and scars all over his body, some fresh, some old, looks like he's undergone a rough recent weeks--
 2018;LAURA;I feel like we're finding Percy all over again.
 2019;MARISHA;No shit.
-2020;MATT;"Kinda looks up at everyone.|""Wh-- Where am I?"""
+2020;MATT;"Kinda looks up at everyone.|""""Wh-- Where am I?"""""
 2021;LAURA;On a boat!
 2022;TALIESIN;Different boat. Ship.
 2023;LIAM;Our boat.
-2024;MATT;"""What do you want?"""
+2024;MATT;"""""What do you want?"""""
 2025;LAURA;How long have you been in that cell?
-2026;MATT;"""Who are you?"""
+2026;MATT;"""""Who are you?"""""
 2027;MARISHA;Sorry.
 2028;LAURA;We're your saviors.
 2029;MATT;He leans back, falls onto his palms a bit, and is just kinda laying back, too exhausted to move away, but trying to just move back a bit.
@@ -2047,30 +2047,30 @@
 2045;LAURA;Don't worry.
 2046;MATT;(coughs)
 2047;LAURA;Your captors have been defeated.
-2048;MATT;"""Well that's good, eh?"""
+2048;MATT;"""""Well that's good, eh?"""""
 2049;LAURA;You're safe. What's your name?
-2050;MATT;"He leans forward, sits up and looks at you.|He seems to soften a little bit, though he's still guarded. ""Thenton Groose. First Mate of the ship Tempest Fang. Yeah."""
+2050;MATT;"He leans forward, sits up and looks at you.|He seems to soften a little bit, though he's still guarded. """"Thenton Groose. First Mate of the ship Tempest Fang. Yeah."""""
 2051;LAURA;Tempest Fang?
-2052;MATT;"""Tempest Fang. Yeah. It was taken by a bunch of bastards, kept me in that cage for a few weeks."""
+2052;MATT;"""""Tempest Fang. Yeah. It was taken by a bunch of bastards, kept me in that cage for a few weeks."""""
 2053;LAURA;Weeks.
 2054;MARISHA;Tempest Fang-- where do you hail from?
-2055;MATT;"""Who wants to know?"""
+2055;MATT;"""""Who wants to know?"""""
 2056;MARISHA;Keyleth, of the Air Ashari.
-2057;MATT;"""From around."""
+2057;MATT;"""""From around."""""
 2058;MARISHA;From around?
-2059;MATT;"""I'm a businessman of the seas."""
+2059;MATT;"""""I'm a businessman of the seas."""""
 2060;MARISHA;Not the sailor type, then?
-2061;MATT;"""Sail a bit."""
+2061;MATT;"""""Sail a bit."""""
 2062;MARISHA;What were you doing on the Ozmit Sea?
-2063;MATT;"""Making a shipment across to Emon from Issylra, and this group of thugs decided to go ahead and ransack us from the side. Took our ship down and most of the crew. Kept a few of us alive underneath. Seems like I was the one who lasted the longest."""
+2063;MATT;"""""Making a shipment across to Emon from Issylra, and this group of thugs decided to go ahead and ransack us from the side. Took our ship down and most of the crew. Kept a few of us alive underneath. Seems like I was the one who lasted the longest."""""
 2064;MARISHA;From Emon to where?
 2065;LIAM;From Issylra to Emon.
-2066;MATT;"""From Issylra."""
+2066;MATT;"""""From Issylra."""""
 2067;MARISHA;Oh, from Issylra.
 2068;LIAM;What was your cargo?
-2069;MATT;"He looks at you for a second, reads you up and down as you step into the conversation.|""General goods. Few fancy textiles--"""
+2069;MATT;"He looks at you for a second, reads you up and down as you step into the conversation.|""""General goods. Few fancy textiles--"""""
 2070;LIAM;Insight check.
-2071;MATT;"""Some silks, some furs."""
+2071;MATT;"""""Some silks, some furs."""""
 2072;TALIESIN;Insight.
 2073;MATT;Insight check.
 2074;LIAM;18.
@@ -2090,27 +2090,27 @@
 2088;MATT;That's a great idea.
 2089;SAM;Ah! Ah!
 2090;LAURA;That would be so cool.
-2091;MATT;"""Yeah, I'm just-- I'm glad you came along."""
+2091;MATT;"""""Yeah, I'm just-- I'm glad you came along."""""
 2092;TALIESIN;Tell me, friend. Why did they keep you alive?
-2093;MATT;"""That's a good question."""
+2093;MATT;"""""That's a good question."""""
 2094;TALIESIN;It is.
-2095;MATT;"""I don't fucking know."""
+2095;MATT;"""""I don't fucking know."""""
 2096;TALIESIN;What did they ask you?
 2097;LAURA;Can we get some food?
 2098;TALIESIN;I think that's a great idea.
 2099;MATT;Immediately his eyes widen--
 2100;LAURA;I was talking back to Captain Adella or one of the crewmates. Not you, Grog.
-2101;MATT;"As soon as you do that, Captain Adella goes, ""Ah, I don't get food. You get food!"" And one of the other crewmates, ""Oh, oh right."" And he immediately jumps down below the deck."
+2101;MATT;"As soon as you do that, Captain Adella goes, """"Ah, I don't get food. You get food!"""" And one of the other crewmates, """"Oh, oh right."""" And he immediately jumps down below the deck."
 2102;SAM;I'm gluten-free!
 2103;LIAM;Well, we saved your life, how else can we help you, friend?
-2104;MATT;"""Oh, just drop me off at the nearest port you get to, please."""
+2104;MATT;"""""Oh, just drop me off at the nearest port you get to, please."""""
 2105;TALIESIN;That's going to be a while.
 2106;MARISHA;Yes.
-2107;MATT;"""That's fine. That's fine."""
+2107;MATT;"""""That's fine. That's fine."""""
 2108;MARISHA;Have you sailed frequently before? What was your exact duty on this ship?
 2109;LAURA;First Mate?
 2110;MARISHA;Oh. Right. He already said that. So, you sail a lot.
-2111;MATT;"""A fair bit, yeah."""
+2111;MATT;"""""A fair bit, yeah."""""
 2112;MARISHA;Yeah.
 2113;TALIESIN;Any tattoos on him?
 2114;MATT;Yeah, actually, a handful visibly.
@@ -2123,16 +2123,16 @@
 2121;TALIESIN;Huh. Okay.
 2122;LAURA;Was he a pirate?
 2123;TRAVIS;Mr. Theton Groove, is anyone looking for you right now?
-2124;MATT;"""I don't think so, my crew went down with the ship."""
+2124;MATT;"""""I don't think so, my crew went down with the ship."""""
 2125;TALIESIN;What was your captain's name?
-2126;MATT;"He kind of looks over at you, ""Wha-- what-- why--"""
+2126;MATT;"He kind of looks over at you, """"Wha-- what-- why--"""""
 2127;TALIESIN;I was just curious how quickly you'd answer it. It's fine. Carry on. You will be getting food, don't worry, this is not us being threatening, we're just... it's odd finding a man in a cage in the bottom of a terrible ship filled with awful people.|That alone makes us like you, but you are a bit weird.
 2128;MARISHA;That's true. That's all true.
 2129;TALIESIN;It is true.
 2130;MARISHA;Yeah.
 2131;LAURA;Forgive us, we have to be a bit wary.
 2132;MARISHA;We've seen a lot.
-2133;MATT;"""No, no, that's--"""
+2133;MATT;"""""No, no, that's--"""""
 2134;TALIESIN;We don't mind if you're disreputable, we just would like to know if you're our kind of disreputable.
 2135;SAM;If I may, new companions.
 2136;TRAVIS;Oh god.
@@ -2152,19 +2152,19 @@
 2150;TRAVIS;Probably.
 2151;MATT;He is noticeably looking nervously back and forth between Taryon and Grog, and--
 2152;TRAVIS;I mean, after all, we saved your life, right? You wouldn't be (yells) hiding nothing, would you?
-2153;MATT;"""No?"""
+2153;MATT;"""""No?"""""
 2154;TRAVIS;See?
 2155;MARISHA;Honestly, this is how we treat people we like.
 2156;TALIESIN;God, that's also true.
 2157;MARISHA;Yeah.
-2158;MATT;"""Does anyone have any water?"""
+2158;MATT;"""""Does anyone have any water?"""""
 2159;LAURA;Yes.
 2160;TALIESIN;Oh yes.
-2161;MATT;"""Fresh water? Oh, thank you."" And he pulls it out and just starts drinking thirstily from it."
+2161;MATT;"""""Fresh water? Oh, thank you."""" And he pulls it out and just starts drinking thirstily from it."
 2162;MARISHA;All right. So we've cleared a few things, right? You seem untrustworthy, and broken, so therefore we like you. What else can we learn about you?
-2163;MATT;"""I don't know what you're talking about.|Look, I have business contacts, I can get you paid, just get me safe somewhere."""
+2163;MATT;"""""I don't know what you're talking about.|Look, I have business contacts, I can get you paid, just get me safe somewhere."""""
 2164;TALIESIN;What sort of business contacts?
-2165;MATT;"""The sort that I do business with, I told you. We deal in trade across the Ozmit."""
+2165;MATT;"""""The sort that I do business with, I told you. We deal in trade across the Ozmit."""""
 2166;LIAM;Yeah, I mean, he's shifty as fuck, but it's no skin off my back, right?
 2167;TALIESIN;No, not really.
 2168;TRAVIS;We got any cages on this boat?
@@ -2175,14 +2175,14 @@
 2173;TRAVIS;Gotta sleep at some point.
 2174;MATT;You kinda glance over and look at the middle of his shoulders and his shirt is kind of billowing, and torn. No symbol of the Clasp.
 2175;LAURA;Those scars on your body. Were they from before you were captured, or after?
-2176;MATT;"""Some-- both ways. The cages don't really protect very well."""
+2176;MATT;"""""Some-- both ways. The cages don't really protect very well."""""
 2177;LAURA;What were they doing to you?
-2178;MATT;"""They were just having fun, trying to get information about my company, and, you know. Being general pirate arseholes."""
+2178;MATT;"""""They were just having fun, trying to get information about my company, and, you know. Being general pirate arseholes."""""
 2179;TRAVIS;Sounds fun.
 2180;MARISHA;And you're sure they were just pirates, yeah?
-2181;MATT;"""Well, what else are they? Not the most pious men I've ever met."""
+2181;MATT;"""""Well, what else are they? Not the most pious men I've ever met."""""
 2182;MARISHA;I don't know. I've never met a real pirate until just now.
-2183;MATT;"At which point, one of the crewmen comes up with a small cluster of biscuits, and hands them over as he greedily reaches out like, ""Oh!"""
+2183;MATT;"At which point, one of the crewmen comes up with a small cluster of biscuits, and hands them over as he greedily reaches out like, """"Oh!"""""
 2184;MARISHA;Wait, one of the crewmen?
 2185;TALIESIN;One of ours.
 2186;MARISHA;One of ours?
@@ -2212,15 +2212,15 @@
 2210;MARISHA;Do you want these?
 2211;MATT;These are good biscuits, starving guy! To be fair, that is kinda your style.
 2212;LAURA;Thenton, you will forgive us if we don't give you free rein of the ship while you're on here.
-2213;MATT;"""Oh no, that's fine. That's fine. I mean, lock me up, whatever you need.|Just get me back to land, please."""
+2213;MATT;"""""Oh no, that's fine. That's fine. I mean, lock me up, whatever you need.|Just get me back to land, please."""""
 2214;LAURA;We'll promise not to poke you.
-2215;MATT;"""That's appreciated."""
+2215;MATT;"""""That's appreciated."""""
 2216;MARISHA;So, you said you travel the Ozmit Sea frequently, yeah?
-2217;MATT;"""Yeah."""
+2217;MATT;"""""Yeah."""""
 2218;MARISHA;Have you stumbled upon the island of the Vesrah? The Ashari people of this ocean?
 2219;LAURA;(laughs) Of the Ashari.
 2220;MARISHA;Of the Ashari (laughs).
-2221;MATT;"He says, ""If what you're referring to is the Islands of Anamn, we generally steer clear.|Too many reefs."""
+2221;MATT;"He says, """"If what you're referring to is the Islands of Anamn, we generally steer clear.|Too many reefs."""""
 2222;MARISHA;Of Omand? Alland?
 2223;MATT;Anamn. A-N-A-M-N.
 2224;MARISHA;Almond?
@@ -2245,7 +2245,7 @@
 2243;TRAVIS;We do have two smarter members that are not here, Scanlan and Pike, but maybe you'll see them later if you stick with us long enough.
 2244;LAURA;She's a sailor, too.
 2245;TRAVIS;Yeah!
-2246;MATT;"""Great."""
+2246;MATT;"""""Great."""""
 2247;SAM;Percival, am I misreading the scenario here? Can I please just pour acid on him until he talks to us? It seems like he's holding back, am I misreading, here?
 2248;TALIESIN;No-- well, sort of-- not really-- sort of. It's complicated. We don't pour acid on people-- well, that's not true. No, that's a lie.|We don't just pour acid on people, I feel like that's reasonable to say.|We don't just pour acid--
 2249;LIAM;Context. Context is key.
@@ -2260,22 +2260,22 @@
 2258;LIAM;Yeah.
 2259;MATT;-- just kinda watching this whole thing with her arms crossed.|One of her crewmates is currently at the helm.
 2260;LIAM;I mean, the closest place to us right now is our desination, most likely, right? We're not gonna be able to dump this guy before we arrive, do you think?
-2261;MATT;"""Yeah, no, we got maybe a day and a half travel 'til we reach the islands, so--"""
+2261;MATT;"""""Yeah, no, we got maybe a day and a half travel 'til we reach the islands, so--"""""
 2262;LIAM;Oy.
 2263;LAURA;That's all right, he can stay on the boat.
 2264;TRAVIS;We got an extra room for him?
-2265;MATT;"""We got a-- we can throw him in the brig."""
+2265;MATT;"""""We got a-- we can throw him in the brig."""""
 2266;TALIESIN;We can make the brig comfortable.
 2267;LAURA;Yeah. We'll give him food. It's all right, right, Captain?
-2268;MATT;"""We'll set some of-- one of our men on guard.|All right! Pick him up. Throw him in the hole."" Two of the crewmen come behind and pick him up, and kind of lean over the shoulder, like, ""Ooh, thank you. Thank you very much, all of you."" And he gets dragged off down below into the ship."
+2268;MATT;"""""We'll set some of-- one of our men on guard.|All right! Pick him up. Throw him in the hole."""" Two of the crewmen come behind and pick him up, and kind of lean over the shoulder, like, """"Ooh, thank you. Thank you very much, all of you."""" And he gets dragged off down below into the ship."
 2269;LIAM;Byeee.
 2270;MARISHA;Bye.
 2271;LAURA;Captain, have you heard of the Tempest Fang?
-2272;MATT;"""I've heard a thing or two."""
+2272;MATT;"""""I've heard a thing or two."""""
 2273;LAURA;Oh, really?
-2274;MATT;"""Yeah."""
+2274;MATT;"""""Yeah."""""
 2275;TALIESIN;Is it a pirating vessel?
-2276;MATT;"""Yeah."" (all laugh)|""I was gonna let him finish his whole diatribe before we had a conversation, but he's one of 18 working companies out of the archipelago, so--"""
+2276;MATT;"""""Yeah."""" (all laugh)|""""I was gonna let him finish his whole diatribe before we had a conversation, but he's one of 18 working companies out of the archipelago, so--"""""
 2277;TRAVIS;I believe it's arch-i-pelago.
 2278;SAM;Sea diarrhea!
 2279;TRAVIS;Jot this down! (horn noises)
@@ -2289,7 +2289,7 @@
 2287;MATT;Some of them do, depending on the size.
 2288;MARISHA;Wait, did we just sink one of the other 17 companies of the archipelago?
 2289;TRAVIS;Is there any extensive damage to our ship? Are we still pretty good, other than the railing getting ripped off?
-2290;MATT;"""Looking around, my crewmen tell me we're doing all right. So we'll do some repairs when we drop off at your location. Once you do your business, we'll have some time to go ahead and do a once-over of our ship."""
+2290;MATT;"""""Looking around, my crewmen tell me we're doing all right. So we'll do some repairs when we drop off at your location. Once you do your business, we'll have some time to go ahead and do a once-over of our ship."""""
 2291;TALIESIN;I may have some charts that I stole from the other ship, as well.
 2292;LAURA;Oh, yeah. I put them in the Bag of Colding for the time being. Pull it out.
 2293;MATT;Okay. Glancing about, a lot of them are maps of portions of the archipelago, the Hespit Archipelago, some are markings of various pirate headquarters, various places of parlay. A lot of them are waterlogged and soaked and damaged, but you can see elements that are-- a lot of them are hand-drawn notes in sections. The leather tube that you found, you pull it open, and there is a very, very immaculate piece of vellum paper that appears to have a number of glyphs scrawled across it.
@@ -2400,7 +2400,7 @@
 2398;TALIESIN;Science-bro stuff. Do we have to tell you what it is?
 2399;MATT;To tinker it, so I can give you a DC, yeah.
 2400;TALIESIN;So he's got this really cool--
-2401;MATT;"""We tinkered something really cool.|Did it work?"" Sure, it succeeds. ""We built Voltron."""
+2401;MATT;"""""We tinkered something really cool.|Did it work?"""" Sure, it succeeds. """"We built Voltron."""""
 2402;TALIESIN;You were very cagey about knowing what it is while we were on break, so I didn't know if this was a thing.
 2403;SAM;So, using one of the opals from my Helm of whatever, Brilliance, he wanted to craft a housing for it--
 2404;TALIESIN;So I've built a couple housings for these opals. So, you pop the opal in, and it will allow it to create either a concentrated beam--
@@ -2622,14 +2622,14 @@
 2620;TRAVIS;Amazing.
 2621;MATT;-- the evening comes to a close, the next day's journey is met with a coming cloudfront, does not appear to be storm-bearing clouds but the clear skies seem to have come to an end.
 2622;MARISHA;I'm restless in all of my night's sleep as we get closer.
-2623;MATT;"Mm-hm. As the next day comes to a close, the sun setting, you hear a call from the top of the crow's nest that shouts out, ""Land ho!"""
+2623;MATT;"Mm-hm. As the next day comes to a close, the sun setting, you hear a call from the top of the crow's nest that shouts out, """"Land ho!"""""
 2624;LAURA;We go running up.
 2625;MATT;You guys all catch up and you can see--
 2626;LIAM;(quietly) You got this.
 2627;MARISHA;(groans)
 2628;MATT;-- just as the last bit of sunlit glow behind the clouds begins to fade into darkness, you see ahead the gentle shape of islands just breaking the horizon ahead, and one by one, little lights (click click click) coming on.
 2629;MARISHA;I rush to the bow of the ship.
-2630;MATT;"As you come up to the bow of the ship, you can see at this point now, Captain Adella is starting to shout off to the side, ""Keep it all high!"" and is currently moving around and you see there are three guys at the front who all have lanterns out and they're watching the water below and they're shouting out, ""Five to the right!"" and they're giving different degrees and she's navigating through what looks to be a channel of reefs, as you glance over the edge. And you can see there are pathways here, but it looks like a lot of this water is very dangerous water and eventually you get to a point where one of them shouts, ""Stop! Stop!"" and they immediately throw down the sails and someone throws the anchor off the side and the ship (crunching) comes and slams to a halt as the anchor clicks and you can feel it grinding for a bit as it catches the edge of one of-- it looks like a reef below, but the ship eventually stops as you glance over, there maybe 15 feet away from hitting the edge of a reef. (grinding sound) It stops and the water (whistling) slowly comes to rest as the ship comes to a rest. Looking over the edge, you can see the water maybe about 20 or so feet down with what little bit of light the lanterns have put over, you can see the very top of various reef cliffs and hints of beach shelf beginning to rise up towards this cluster of almost like still fairy lights in the distance, unmoving. Captain Adella comes up to the edge of the ship and goes, ""Well, that's about as far as we can get with this ship. My apologies."""
+2630;MATT;"As you come up to the bow of the ship, you can see at this point now, Captain Adella is starting to shout off to the side, """"Keep it all high!"""" and is currently moving around and you see there are three guys at the front who all have lanterns out and they're watching the water below and they're shouting out, """"Five to the right!"""" and they're giving different degrees and she's navigating through what looks to be a channel of reefs, as you glance over the edge. And you can see there are pathways here, but it looks like a lot of this water is very dangerous water and eventually you get to a point where one of them shouts, """"Stop! Stop!"""" and they immediately throw down the sails and someone throws the anchor off the side and the ship (crunching) comes and slams to a halt as the anchor clicks and you can feel it grinding for a bit as it catches the edge of one of-- it looks like a reef below, but the ship eventually stops as you glance over, there maybe 15 feet away from hitting the edge of a reef. (grinding sound) It stops and the water (whistling) slowly comes to rest as the ship comes to a rest. Looking over the edge, you can see the water maybe about 20 or so feet down with what little bit of light the lanterns have put over, you can see the very top of various reef cliffs and hints of beach shelf beginning to rise up towards this cluster of almost like still fairy lights in the distance, unmoving. Captain Adella comes up to the edge of the ship and goes, """"Well, that's about as far as we can get with this ship. My apologies."""""
 2631;MARISHA;No, this is fantastic.|And I run to the edge of the ship and I shoot a Daylight into the spell and throw a Create Water and make a rainbow over top of us.
 2632;MATT;Wow.
 2633;MARISHA;(tch boom) Ooh.
@@ -2696,37 +2696,37 @@
 2694;SAM;I'm missing it, hurry up! (all laugh)
 2695;MATT;As you guys begin to approach, Keyleth, your feet eventually hit sand as opposed to treading water, and as you begin to walk up, the water comes past your waist, down to eventually your knees, and that is about as low as it goes.
 2696;MARISHA;As far as it goes, yeah.
-2697;MATT;"And looking out above you, you can see this beautiful lagoon that is completely submerged in about a foot, foot and a half of water for a good mile in all directions.|And you can see dozens and dozens of these Grecian looking white and green marble structures that rise up out of the water. You can see a series of poles that stand up holding these lanterns that have all been magically set alight to give the city a sort of a glow. You see shapes moving, you see figures shifting out of these buildings and making their way in your direction, and as you're looking at this space in front of you and you guys begin to kind of meet up, you watch as a figure (whoosh) out of the water next to Keyleth. You glance to your left and look down and you see what appears to be a child, maybe about 13 years old, human-like, though his ears come to a bit of a finned appearance.|You can see what looks to be gill slits to the side of the neck, and he looks up at you with kind of a tattered, long-stiffened piece of cloth tunic and shorts that end at the knee,and he kinda looks up at you and just kinda smiles with these very, very bright, orange-ish yellow eyes, ""Hi."""
+2697;MATT;"And looking out above you, you can see this beautiful lagoon that is completely submerged in about a foot, foot and a half of water for a good mile in all directions.|And you can see dozens and dozens of these Grecian looking white and green marble structures that rise up out of the water. You can see a series of poles that stand up holding these lanterns that have all been magically set alight to give the city a sort of a glow. You see shapes moving, you see figures shifting out of these buildings and making their way in your direction, and as you're looking at this space in front of you and you guys begin to kind of meet up, you watch as a figure (whoosh) out of the water next to Keyleth. You glance to your left and look down and you see what appears to be a child, maybe about 13 years old, human-like, though his ears come to a bit of a finned appearance.|You can see what looks to be gill slits to the side of the neck, and he looks up at you with kind of a tattered, long-stiffened piece of cloth tunic and shorts that end at the knee,and he kinda looks up at you and just kinda smiles with these very, very bright, orange-ish yellow eyes, """"Hi."""""
 2698;MARISHA;Kaitiaki. And I drop to my knees and drop down and--
 2699;MATT;(sploosh) You go face-down into the water.
 2700;MARISHA;Gah! (heavy breathing)
 2701;MATT;Get up and (groans) push the water-- the hair back a bit.
 2702;MARISHA;And bow again.
 2703;LAURA;(laughs)
-2704;MATT;"Okay. ""Um... what are you doing?"""
+2704;MATT;"Okay. """"Um... what are you doing?"""""
 2705;MARISHA;Sorry, are you the leader-- are you the headmaster?
-2706;MATT;"""Yes. Yes, I am."""
+2706;MATT;"""""Yes. Yes, I am."""""
 2707;MARISHA;Oh! Hi. Uh, Keyleth.
-2708;MATT;"""Keyleth. "" And he reaches out and grabs your hand. ""Yulan."""
+2708;MATT;"""""Keyleth. """" And he reaches out and grabs your hand. """"Yulan."""""
 2709;MARISHA;Yulan!
-2710;MATT;"""Leader of the Water Ashari."""
+2710;MATT;"""""Leader of the Water Ashari."""""
 2711;SAM;(laughs)
 2712;MARISHA;I am Keyleth, daughter of Vilya and Korren of the Air Ashari, and I am here to complete my Aramente.|And I bow again, under the water.
 2713;MATT;(splash) Into the water again.
 2714;MARISHA;(gasps)
-2715;MATT;"He shakes his head, you can see now he has these tossed medium-length dreadlocks that shake with his head as he turns side to side, (laughs) He looks up at the rest of you, ""So! She yours?"""
+2715;MATT;"He shakes his head, you can see now he has these tossed medium-length dreadlocks that shake with his head as he turns side to side, (laughs) He looks up at the rest of you, """"So! She yours?"""""
 2716;LAURA;Mm. Mm-hm.
 2717;TALIESIN;More or less.
-2718;MATT;"""You bad people?"""
+2718;MATT;"""""You bad people?"""""
 2719;LAURA;Uh-uh.
 2720;TALIESIN;Nah.
 2721;TRAVIS;Not today.
 2722;SAM;We're just rowing up. What'd I miss?! Start over, start over! (pants)
-2723;MATT;"""Is he a bad person?"""
+2723;MATT;"""""Is he a bad person?"""""
 2724;LAURA;Nah.
 2725;LIAM;Nah. He's all right.
 2726;TALIESIN;He's workable.
-2727;MATT;"""Okay. Well, come with me."" And he reaches out and taps you on the shoulder, Keyleth."
+2727;MATT;"""""Okay. Well, come with me."""" And he reaches out and taps you on the shoulder, Keyleth."
 2728;MARISHA;(gasp) It's just such an honor.
 2729;MATT;Come on.
 2730;LAURA;Keyleth!
@@ -2752,38 +2752,38 @@
 2750;LAURA;(laughs)
 2751;MATT;The sand is soft and still strangely warm beneath your feet, though the night has come.|And even through the distant sparkles of light everywhere, this city-- a lot of the buildings seem hollow and open, like what walls that there are, there's large windows. It seems like everything has this very kind of open-air, free lifestyle to it.|And as you begin to approach--
 2752;MARISHA;As he's dragging me, I just start, like, rambling all the questions at once. I'm like, Aren't-- This is such a gorgeous city you have.|Are you freshwater or saltwater? Do you have webbed feet? Does everyone have webbed feet? How many people can control water? Wow, look at that.|Look at those. Is this fire that you use? Or is it all arcane?
-2753;MATT;"He's not answering any of your questions, and you hear a voice shout out: ""Yulan!"""
+2753;MATT;"He's not answering any of your questions, and you hear a voice shout out: """"Yulan!"""""
 2754;MARISHA;(gasps)
 2755;MATT;And the boy kinda stops and drops your hand and backs away with his hands kinda crossed behind his back, and he steps away, bowing his head a little bit and (splashing noise) away. The crowd-- and you can now see, all these different people, most of them appear to be human, elven, there are a handful of dwarves, a couple halflings, it's a spread of races here. You see two half-orcs that have these large tridents off to the side, and they're guarded but they're all deciding whether or not this is a welcoming circumstance, or a careful parlay. The voice that rang out, the crowd parts a little bit, and you watch as the water around you guys begins to spiral into these columns. Each one appears to be similar to the entity you saw rise onto the ship.|A series of water elementals begin to rise out of the water, as some of the individuals in the crowd pull their hands together, and then you see four of them rise and begin to circle. Not closing in, but just keeping very close vigil around.|And you realize at this point that, while the city is welcoming, they are also a carefully guarded people. The crowd parts, and you see stepping out, with the tiniest of splashes, a very tiny woman. Old, shriveled, most of her hair is gone and these thin wisps of white and gray, a wide oval-like head, the skin itself an olive yellow tint. Very wrinkled and pruny, the eyes are almost these tiny little black beads. Gnome, very old, with a long staff that's twice her height that just kinda with each step (squishing splash) kinda like a weird female Water Ashari Yoda.|And just kinda steps forward through the water--
 2756;MARISHA;Rad!
-2757;MATT;"""Yulan, you are not to greet our guests! Now, you. What is your name?"""
+2757;MATT;"""""Yulan, you are not to greet our guests! Now, you. What is your name?"""""
 2758;MARISHA;Hi. (clears throat) Kaitiaki, I am Keyleth, daughter of Vilya and Korren of the Air Ashari, and I am here to complete my Aramente.|I am--
-2759;MATT;"""Kaitiaki."""
+2759;MATT;"""""Kaitiaki."""""
 2760;MARISHA;Kaitiaki. I am honored to be in your presence.
-2761;MATT;"""I am Uvenda, Heart of the Tides here.|I had my own Aramente, long ago. And I knew your mother who came for her Aramente, as well."""
+2761;MATT;"""""I am Uvenda, Heart of the Tides here.|I had my own Aramente, long ago. And I knew your mother who came for her Aramente, as well."""""
 2762;MARISHA;You knew my mother?
-2763;MATT;"""She came here for her own Aramente.|And now you come to complete what she could not.|So--"""
+2763;MATT;"""""She came here for her own Aramente.|And now you come to complete what she could not.|So--"""""
 2764;MARISHA;I'm-- I'm--
-2765;MATT;"""-- you are welcome, Keyleth of the Zephra."""
+2765;MATT;"""""-- you are welcome, Keyleth of the Zephra."""""
 2766;MARISHA;I'm sorry. I'm-- sorry, that just means she visited the Earth, and the Fire, and the Water Ashari. She completed her Aramente.
-2767;MATT;"""She did not, child."""
+2767;MATT;"""""She did not, child."""""
 2768;MARISHA;What hap-- She-- I-- Everywhere I've been, she's been. Why not?
-2769;MATT;"""Come. Come. We shall speak, there is much to discuss, and it is growing cold out here, and you could probably all use a warm fire.|So? See to our guests!"" And the folks around go from their tense reverie and begin to approach and take, like just instinctually taking your belongings, and helping you unload. You guys (laughs) withdraw, and they back off as soon as they realize that wasn't part of the circumstance.|But you are led deeper into this city, and there is a central temple that has multi-layers.|Three floors with a number of spiral staircases on the outside of the structure that lead to it.|Each floor is still very open and you get the sense that this whole city is built around the flow of ocean air and sea spray. And there is almost like a constant breeze that just blows through. And a lot of the buildings are rounded at the edges. The heavy waves and water that just come through here has-- you can see rounded and brought curvature to all the structures for as long as the city's been around. There are elements of shell-type shapes, there are bits of ocean inspiration to the architecture, it's a very interesting, alien, and beautiful place compared to where you've been before. You're led into this temple structure in the center of this city, you're brought to a series of what look almost like tree stumps, but they're made of a bright, bleached white, almost spongy material.|And as you sit on them, food is brought to you, fish, fresh cooked platters. You guys are now being treated like honored guests, as you arrive.|As you sit down, Keyleth, Uvenda, has a servant bring a much taller sponged stool than the ones you guys have, and it's set in front of you, and she uses her staff and (grunts) pole-vaults on top of it, and sits, crosses her legs, and sets the staff off to somebody and kinda leans down with her hands in front, her chin resting on them, her little beady gnomish eyes looking down at you.|""So, Keyleth, the Aramente is not easy."""
+2769;MATT;"""""Come. Come. We shall speak, there is much to discuss, and it is growing cold out here, and you could probably all use a warm fire.|So? See to our guests!"""" And the folks around go from their tense reverie and begin to approach and take, like just instinctually taking your belongings, and helping you unload. You guys (laughs) withdraw, and they back off as soon as they realize that wasn't part of the circumstance.|But you are led deeper into this city, and there is a central temple that has multi-layers.|Three floors with a number of spiral staircases on the outside of the structure that lead to it.|Each floor is still very open and you get the sense that this whole city is built around the flow of ocean air and sea spray. And there is almost like a constant breeze that just blows through. And a lot of the buildings are rounded at the edges. The heavy waves and water that just come through here has-- you can see rounded and brought curvature to all the structures for as long as the city's been around. There are elements of shell-type shapes, there are bits of ocean inspiration to the architecture, it's a very interesting, alien, and beautiful place compared to where you've been before. You're led into this temple structure in the center of this city, you're brought to a series of what look almost like tree stumps, but they're made of a bright, bleached white, almost spongy material.|And as you sit on them, food is brought to you, fish, fresh cooked platters. You guys are now being treated like honored guests, as you arrive.|As you sit down, Keyleth, Uvenda, has a servant bring a much taller sponged stool than the ones you guys have, and it's set in front of you, and she uses her staff and (grunts) pole-vaults on top of it, and sits, crosses her legs, and sets the staff off to somebody and kinda leans down with her hands in front, her chin resting on them, her little beady gnomish eyes looking down at you.|""""So, Keyleth, the Aramente is not easy."""""
 2770;MARISHA;I know.
-2771;MATT;"""Do you know what this leg of your journey entails?"""
+2771;MATT;"""""Do you know what this leg of your journey entails?"""""
 2772;MARISHA;I mean, I've made it this far. In my heart, I feel like I'm almost complete, but I feel like you're about to tell me something different.
-2773;MATT;"""You are near the completion of the Aramente, this is true, and through this, you will learn the strength of utilizing your own capabilities and those of your trusted allies.|You will learn various ways of looking at the difficulties and challenges that are before you.|And there are lessons as part of this, so listen carefully. For the final leg of your Aramente, we will wait 'til the morning sun comes to these waters, you and your compatriots will be brought down below the waves, below this city, to the Aerie of Torrent, where the Vesrah rift resides to the Water Elemental Plane. The Aerie is where we implant the lodestones that keep the village from sinking, and the rift size contained. The lodestones, unfortunately, do wane in power over time, so we must occasionally cross into the rift, and have our fastest Waverunners recover replacements within the Elemental Plane.|The source of the lodestones, in which we have built and maintained this city. But the once-challenging path to these lodestones has now become deadly for all but our swiftest."""
+2773;MATT;"""""You are near the completion of the Aramente, this is true, and through this, you will learn the strength of utilizing your own capabilities and those of your trusted allies.|You will learn various ways of looking at the difficulties and challenges that are before you.|And there are lessons as part of this, so listen carefully. For the final leg of your Aramente, we will wait 'til the morning sun comes to these waters, you and your compatriots will be brought down below the waves, below this city, to the Aerie of Torrent, where the Vesrah rift resides to the Water Elemental Plane. The Aerie is where we implant the lodestones that keep the village from sinking, and the rift size contained. The lodestones, unfortunately, do wane in power over time, so we must occasionally cross into the rift, and have our fastest Waverunners recover replacements within the Elemental Plane.|The source of the lodestones, in which we have built and maintained this city. But the once-challenging path to these lodestones has now become deadly for all but our swiftest."""""
 2774;MARISHA;Why?
-2775;MATT;"""We would find these stones sparsely scattered throughout the plane, just beyond the rift, leaving us uncertain of their origin for as long as we've been here. For generations, they would just fall and sink to the bottom, or we'd scavenge them from the silt and sand below. However, this last generation of Waverunners have discovered them to be a product.|Natural waste of a particular creature that resides within the boundless oceans of the plane.|An ancient beast, once guided upon creation by the Titans that claimed this world their own before the gods came and gave light to our souls."""
+2775;MATT;"""""We would find these stones sparsely scattered throughout the plane, just beyond the rift, leaving us uncertain of their origin for as long as we've been here. For generations, they would just fall and sink to the bottom, or we'd scavenge them from the silt and sand below. However, this last generation of Waverunners have discovered them to be a product.|Natural waste of a particular creature that resides within the boundless oceans of the plane.|An ancient beast, once guided upon creation by the Titans that claimed this world their own before the gods came and gave light to our souls."""""
 2776;MARISHA;What's it called?
-2777;MATT;"""They are known in many languages, by many names, but the common tongue knows to them as the krakens."""
+2777;MATT;"""""They are known in many languages, by many names, but the common tongue knows to them as the krakens."""""
 2778;LAURA;(yells)
 2779;MARISHA;(yells)
 2780;SAM;(scared panting)
 2781;TRAVIS;(excited hyperventilation)
-2782;MATT;"""Humongous, tentacled beasts, long free of their servitude from their creators. One of these such krakens has taken to the waters near the rift, and made it its home on the other side.|And this beast appears to have been producing the lodestones that we relied on for ages. This research, and information they've gathered, however, garnished the attention of this terrible fiend, and was accidentally led directly to the rift where it now nests, and feeds on the other creatures naturally drawn to the energy of the tear between the worlds. We now use the lodestones and our powers not only to control the merging of the planes at the rift, but to also prevent this monstrosity from crossing over into our world and tearing our city asunder. Your task--"""
+2782;MATT;"""""Humongous, tentacled beasts, long free of their servitude from their creators. One of these such krakens has taken to the waters near the rift, and made it its home on the other side.|And this beast appears to have been producing the lodestones that we relied on for ages. This research, and information they've gathered, however, garnished the attention of this terrible fiend, and was accidentally led directly to the rift where it now nests, and feeds on the other creatures naturally drawn to the energy of the tear between the worlds. We now use the lodestones and our powers not only to control the merging of the planes at the rift, but to also prevent this monstrosity from crossing over into our world and tearing our city asunder. Your task--"""""
 2783;MARISHA;So--
-2784;MATT;"She puts a finger out to stop you.|""--would be to descend into this Aerie of Torrent, enter the rift, and recover three of these lodestones, and return to us. That is all.|Avoid the beast if possible, for to battle it is folly, and to kill it is to sink our city, and curse the rift, to eventually fade."""
+2784;MATT;"She puts a finger out to stop you.|""""--would be to descend into this Aerie of Torrent, enter the rift, and recover three of these lodestones, and return to us. That is all.|Avoid the beast if possible, for to battle it is folly, and to kill it is to sink our city, and curse the rift, to eventually fade."""""
 2785;MARISHA;So, don't kill it?
 2786;LAURA;Do. Not. Kill. Got it.
 2787;MARISHA;Don't kill the kraken. Right? Don't kill the kraken?
@@ -2799,29 +2799,29 @@
 2797;LAURA;Basically.
 2798;SAM;Poops lodestones.
 2799;MARISHA;-- with his droppings?
-2800;MATT;"""Essentially, yes."" (all laugh)"
+2800;MATT;"""""Essentially, yes."""" (all laugh)"
 2801;MARISHA;All right.
-2802;MATT;"""To use such base terms."""
+2802;MATT;"""""To use such base terms."""""
 2803;MARISHA;All right. So he drops these lodestones at the base of the water plane.
-2804;MATT;"""Yes. Often found within the vicinity of the rift, but such is the beast. Be quick, be careful, be stealthy, and return as soon as you have them."""
+2804;MATT;"""""Yes. Often found within the vicinity of the rift, but such is the beast. Be quick, be careful, be stealthy, and return as soon as you have them."""""
 2805;MARISHA;Do you have an example of these lodestones so that we know what we're looking for?
-2806;MATT;"""We will show you at the Aerie tomorrow in the morning."""
+2806;MATT;"""""We will show you at the Aerie tomorrow in the morning."""""
 2807;MARISHA;All right. So this starts in the morn-- Which is exactly what you said.|You totally said that, didn't you?
-2808;MATT;"""Yes. Yes, I have."""
+2808;MATT;"""""Yes. Yes, I have."""""
 2809;MARISHA;All right.
 2810;LAURA;Is there something that helps those of us who don't breathe underwater breathe underwater?
 2811;MARISHA;I can handle that.
 2812;LAURA;Yes?
 2813;MARISHA;I can handle that. So. What happened to my mother?
-2814;MATT;"She swallows strongly. ""Your mother was a brave woman, very much like you, now that I see you before me. Unsure of herself, and wishing to please, and not disappoint. And it's hard to ascertain but I fear it's perhaps that lack of confidence that may have caused her failure."""
+2814;MATT;"She swallows strongly. """"Your mother was a brave woman, very much like you, now that I see you before me. Unsure of herself, and wishing to please, and not disappoint. And it's hard to ascertain but I fear it's perhaps that lack of confidence that may have caused her failure."""""
 2815;MARISHA;Did she not make it out? Of the water plane?
-2816;MATT;"""She brought her own companions, that she had found and brought with her along her path.|Our guides brought her to the rift, and her companions did not survive. Your mother did not return, and we sent scouts to try and retrieve her body so she could be interred correctly, but we only found a leg."""
+2816;MATT;"""""She brought her own companions, that she had found and brought with her along her path.|Our guides brought her to the rift, and her companions did not survive. Your mother did not return, and we sent scouts to try and retrieve her body so she could be interred correctly, but we only found a leg."""""
 2817;MARISHA;She's still alive. That means she's still alive.
-2818;MATT;"""Hold onto that hope. Use it, and finish what she started. She lives through you at the very least. Hold that memory."""
+2818;MATT;"""""Hold onto that hope. Use it, and finish what she started. She lives through you at the very least. Hold that memory."""""
 2819;MARISHA;I will hold on to it, but I hope you know that does not define me. I'm not her.
-2820;MATT;"""Good. Then perhaps you have a chance."""
+2820;MATT;"""""Good. Then perhaps you have a chance."""""
 2821;MARISHA;We'll complete your task. Thank you.
-2822;MATT;"""You've come far, young Keyleth. I have faith that you will rise, and become the Voice of the Tempest. For now, we rest. Eat. Sleep.|For tomorrow, you face the pet of the Titans."" And that's where we'll leave tonight's session."
+2822;MATT;"""""You've come far, young Keyleth. I have faith that you will rise, and become the Voice of the Tempest. For now, we rest. Eat. Sleep.|For tomorrow, you face the pet of the Titans."""" And that's where we'll leave tonight's session."
 2823;TRAVIS;Yeah!
 2824;SAM;(scared panting)
 2825;TRAVIS;We're gonna kill a kraken!

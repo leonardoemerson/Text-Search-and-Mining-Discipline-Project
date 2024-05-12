@@ -10,10 +10,8 @@ nltk.download("stopwords")
 nltk.download("punkt")
 nltk.download("wordnet")
 
-transcript_corpus_list = []
-lines_to_check = []
-
 # Get every file in transcripts
+transcript_corpus_list = []
 for file in os.listdir("./transcripts"):
     if file.endswith(".csv"):
         transcript_corpus_list.append(

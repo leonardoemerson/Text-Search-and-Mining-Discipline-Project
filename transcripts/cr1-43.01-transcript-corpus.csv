@@ -1,7 +1,7 @@
 ;Player_Name;Transcription_Text
-0;MATT;"Hello, everyone! And welcome to tonight's episode of Critical Role One-Shots, where we have taken over the slot of ""No Survivors"" this Monday thanks to the illustrious generosity of the fantastic Ivan Van Norman."
+0;MATT;"Hello, everyone! And welcome to tonight's episode of Critical Role One-Shots, where we have taken over the slot of """"No Survivors"""" this Monday thanks to the illustrious generosity of the fantastic Ivan Van Norman."
 1;IVAN;Any day, you may take the slot whenever you wish, especially when I get to be a player.
-2;MATT;"I like it when Ivan tells me it's okay for me to ""take his slot."" The way he says it. But yeah, so this evening we have the fantastic pleasure of running a one-shot game of Pathfinder, which, for those of you who haven't played, Pathfinder is a fantastic fantasy RPG, it's actually what we played for the first two years of Critical Role. And tonight we get to show a fun story that we've put together for this series of players here, as well as show off the really cool software Syrinscape, which I mentioned a few times in the show, I use it to organize a lot of the music and sound cues for Critical Role, we get to show you some more of what it's capable of tonight outside of my custom settings, this is what the actual setup itself can do, which is phenomenal.|So, super excited to back that. Before we get started, let me go ahead and introduce our fantastic players for this evening. We have on the table to my left, we have Ivan, who you've already seen thus far, Ivan Van Norman, hello. Thank you for joining us."
+2;MATT;"I like it when Ivan tells me it's okay for me to """"take his slot."""" The way he says it. But yeah, so this evening we have the fantastic pleasure of running a one-shot game of Pathfinder, which, for those of you who haven't played, Pathfinder is a fantastic fantasy RPG, it's actually what we played for the first two years of Critical Role. And tonight we get to show a fun story that we've put together for this series of players here, as well as show off the really cool software Syrinscape, which I mentioned a few times in the show, I use it to organize a lot of the music and sound cues for Critical Role, we get to show you some more of what it's capable of tonight outside of my custom settings, this is what the actual setup itself can do, which is phenomenal.|So, super excited to back that. Before we get started, let me go ahead and introduce our fantastic players for this evening. We have on the table to my left, we have Ivan, who you've already seen thus far, Ivan Van Norman, hello. Thank you for joining us."
 3;IVAN;I am happy to be here. Thank you for having me.
 4;MATT;Yay! We have Marisha Ray from Critical Role.
 5;MARISHA;Hi, guys!
@@ -23,7 +23,7 @@
 21;MATT;Oh, man. I'm already excited. And Ivan.
 22;IVAN;Grizznak Stompstork, reporting for duty.|Goblin fartmage, available to all of you. I am the brains of the bunch, as you can see.
 23;MATT;Perfect! This will be a fun adventure for the evening.
-24;TALIESIN;"You actually get to use the phrase, ""I've smelt it, now it's time that I dealt it."""
+24;TALIESIN;"You actually get to use the phrase, """"I've smelt it, now it's time that I dealt it."""""
 25;IVAN;Stolen, it will be used.
 26;TALIESIN;Yeah, take it. Public domain, public domain. I'm sorry if I already stepped on that one.
 27;MATT;So we've got to go through a couple quick announcements here and then we'll overview the game stuff. So for those watching, I want to remind you that this Thursday is Critical Role's 50th episode. We're having a special episode to commemorate this, a couple of surprises that we have in store for you guys, so definitely be there at Thursday at 7:00pm Pacific to check out our 50th episode. Marisha, you have a new episode of Signal Boost tomorrow--
@@ -35,21 +35,21 @@
 33;IVAN;24 hours of livestreaming.
 34;MATT;Yes! It's going to be great. It's going to be great.
 35;ASHLY;For charity, right? For a good cause?
-36;IVAN;"KaBOOM! kaboom.org, which is bringing play back into the lives of children currently living in property, (scoffs) ""in property."" In poverty!"
+36;IVAN;"KaBOOM! kaboom.org, which is bringing play back into the lives of children currently living in property, (scoffs) """"in property."""" In poverty!"
 37;MATT;Children who have been bricked into walls! It's horrible!
 38;PHIL;They're stuck on estates! With nothing but ponies. They need to play!
 39;IVAN;They're living amongst property, land is surrounding them. No, guys, so currently kids living in poverty and they're trying to bring play back into their lives, such as things like board games, and we're actually going to be giving away a lot of board games to kaboom.org, part of your involvement during International Tabletop Day, so don't miss it.
 40;MATT;And if you'd like to plug what usually occupies this spot on Mondays...?
-41;IVAN;"Oh, well, if you're a Critical Role fan, or if you're any kind of fan, and normally you're here Monday nights, then thank you for coming on Monday night again. If you're not, and this a weird timeslot for you, we still play role-playing games on Monday nights, they are just mini-campaigns instead of the epic, long brainchild of Matt Mercer's amazing imagination, instead we do little one-offs, like we just got done playing ""Army of Darkness"" which was then created by chat, it was coined ""The Arby's of Darkness,"" because their last stand was in the middle of an Arby's restaurant which one of the characters managed. And officially--"
+41;IVAN;"Oh, well, if you're a Critical Role fan, or if you're any kind of fan, and normally you're here Monday nights, then thank you for coming on Monday night again. If you're not, and this a weird timeslot for you, we still play role-playing games on Monday nights, they are just mini-campaigns instead of the epic, long brainchild of Matt Mercer's amazing imagination, instead we do little one-offs, like we just got done playing """"Army of Darkness"""" which was then created by chat, it was coined """"The Arby's of Darkness,"""" because their last stand was in the middle of an Arby's restaurant which one of the characters managed. And officially--"
 42;MARISHA;That's amazing
 43;IVAN;It was pretty cool.
 44;TALIESIN;What meat is this? What meat is this?!
-45;IVAN;"The deadites actually came out through the portal at the very end of it, and they were all the busboys, and the, ""I'll swallow your soul, I'll swallow your soul!"""
+45;IVAN;"The deadites actually came out through the portal at the very end of it, and they were all the busboys, and the, """"I'll swallow your soul, I'll swallow your soul!"""""
 46;TALIESIN;That's every Arby's I've ever been to.
 47;PHIL;Really, it's the same thing.
-48;IVAN;"And the next campaign that we're going to be doing officially/unofficially, is going to be ""Pugmire,"" which is a new game, it's basically 5th edition in a world of fantasy dogs. It's a post-apocalyptic future--"
+48;IVAN;"And the next campaign that we're going to be doing officially/unofficially, is going to be """"Pugmire,"""" which is a new game, it's basically 5th edition in a world of fantasy dogs. It's a post-apocalyptic future--"
 49;MARISHA;I was going to make a joke about that, and then it was the real thing, so--
-50;IVAN;"It exists. It's in the future, in which all man has been wiped out and now dogs reign supreme, and they have formed a church called, ""The Church of Man,"" in which they have a code of laws, the first law being, ""Be a good dog."" The second law being, ""Fetch what has been left behind,"" and the third being, I believe it's, ""Bite only those who attack you."" So it's great--"
+50;IVAN;"It exists. It's in the future, in which all man has been wiped out and now dogs reign supreme, and they have formed a church called, """"The Church of Man,"""" in which they have a code of laws, the first law being, """"Be a good dog."""" The second law being, """"Fetch what has been left behind,"""" and the third being, I believe it's, """"Bite only those who attack you."""" So it's great--"
 51;ASHLY;I'm imagining Mad Max with dogs, in my mind now.
 52;IVAN;But it's fantasy, it's still fantasy.|So you could be like, a pincer cleric, or you could be a dachshund rogue or something like that.
 53;MATT;That's fantastic.
@@ -57,7 +57,7 @@
 55;MATT;Do it. Check it out, guys. It's pretty fantastic. So, another cool thing about having Paizo, the folks from Pathfinder here, is we have a bunch of giveaways to give out throughout the evening to all you guys in chat.
 56;MARISHA;Like, there's a bag of stuff. I don't even know what it is. It's exciting.
 57;TALIESIN;I think that's edamame.
-58;MATT;"First off, you guys can go to paizo.com/goblins, and store.syrinscape.com/geek to get 25% off a number of their goblin goods and stuff as part of tonight's promotional thing. Go check it out, a lot of cool things there to grab.|But throughout the evening we'll be giving away small giveaways that include Pathfinder Core rulebook pdfs in chat, the ""Burnt Offerings Adventure"" pdf, the soundset from Syrinscape that accompanies the ""Burnt Offerings Adventure,"" and one grand prize winner tonight will get a whole bunch of stuff that includes the Core book, the Monster Codex, the ""Inner Seas Races,"" the ""Burnt Offerings,"" the ""We be goblins"" set, the goblin promo figure, the town square flip mat, goblin bank, goblin plush, a whole bunch of crazy stuff.|So, big old grand prize for one of you guys out there, so make sure you're engaging."
+58;MATT;"First off, you guys can go to paizo.com/goblins, and store.syrinscape.com/geek to get 25% off a number of their goblin goods and stuff as part of tonight's promotional thing. Go check it out, a lot of cool things there to grab.|But throughout the evening we'll be giving away small giveaways that include Pathfinder Core rulebook pdfs in chat, the """"Burnt Offerings Adventure"""" pdf, the soundset from Syrinscape that accompanies the """"Burnt Offerings Adventure,"""" and one grand prize winner tonight will get a whole bunch of stuff that includes the Core book, the Monster Codex, the """"Inner Seas Races,"""" the """"Burnt Offerings,"""" the """"We be goblins"""" set, the goblin promo figure, the town square flip mat, goblin bank, goblin plush, a whole bunch of crazy stuff.|So, big old grand prize for one of you guys out there, so make sure you're engaging."
 59;IVAN;Yeah.
 60;MATT;Anyway. Now that that's over with--
 61;PHIL;Woo! (laughter)
@@ -73,7 +73,7 @@
 71;IVAN;Guffeye.
 72;MATT;An ancient goblin oracle of nearly 30 years of age, who enjoyed the idea of having her own troop of personal guardians, she shouts that she is touched by the sight of Zogmugot, Lady Last-Breath and the goblin hero-god of flotsam and scavenging, though many of her visions have led to grave misfortune and her favor within the tribe has waned. But you guys believe her! Mostly.
 73;IVAN;Zogmugot looks favorably upon our lovely Guffeye.
-74;MATT;"This cold, overcast autumn morning rolls in, and the five of you are returning from a morning snare run, when you hear the sound of crackling shouts from old Guffeye's crag porch. ""Come! Come! The dream! The sight! Come!"" And she darts back into her little cave hole."
+74;MATT;"This cold, overcast autumn morning rolls in, and the five of you are returning from a morning snare run, when you hear the sound of crackling shouts from old Guffeye's crag porch. """"Come! Come! The dream! The sight! Come!"""" And she darts back into her little cave hole."
 75;IVAN;Guffeye has another dream! You know what that means!
 76;PHIL;Someone's going to lose a hand.
 77;MARISHA;Usually this means she's been drinking, I just want to point that out.
@@ -82,48 +82,48 @@
 80;MARISHA;Let's go!
 81;MATT;Entering her home, the familiar smell of pungent spices and rotting wood hits your nose, and this hoarder hole of a home is crammed to the brim with driftwood, molded leather, metal scraps, torn hides, broken pottery, all sorts of other beautiful pieces of junk.
 82;IVAN;It's amazing.
-83;MATT;"Nostalgia comes over you as you glance at the empty iron cages you once grew up in, now partially buried and filled with wet wool. As you guys enter, old Guffeye steps onto a small box and turns, her snow-blind eyes clouded and bulging above her toothy grin: ""My runts! The Lady gifts Guffeye. The wait is broken! I have a vision once more. A thing, a great thing was shown to Guffeye, in both these eyes: a stone of crack and thoom! A rock that barks like the storm! This rock, this stone, Guffeye must have! This Guffeye must get! You! You must get this stone, bring it to me, for the Lady's blessing."""
+83;MATT;"Nostalgia comes over you as you glance at the empty iron cages you once grew up in, now partially buried and filled with wet wool. As you guys enter, old Guffeye steps onto a small box and turns, her snow-blind eyes clouded and bulging above her toothy grin: """"My runts! The Lady gifts Guffeye. The wait is broken! I have a vision once more. A thing, a great thing was shown to Guffeye, in both these eyes: a stone of crack and thoom! A rock that barks like the storm! This rock, this stone, Guffeye must have! This Guffeye must get! You! You must get this stone, bring it to me, for the Lady's blessing."""""
 84;ASHLY;Guffeye, if I give it to you first will you like me the best?
-85;MATT;"""I already like you the best--"""
+85;MATT;"""""I already like you the best--"""""
 86;ASHLY;Yes!
-87;MATT;"""--but I will like you twice best."""
+87;MATT;"""""--but I will like you twice best."""""
 88;ASHLY;Oh my God.
 89;IVAN;Guffeye, as your esteemed and most intellectual advisor, I have to ask: where did the Lady bestow this vision upon you that we may find the barking rock?
-90;MATT;"""Well, I awoke this morning, envisioning just how much more I like Piglet than the rest of you--"""
+90;MATT;"""""Well, I awoke this morning, envisioning just how much more I like Piglet than the rest of you--"""""
 91;IVAN;But I just got done scrubbing all of your sores last night!
-92;MATT;"""Silence!"""
+92;MATT;"""""Silence!"""""
 93;ASHLY;Sorry, Guffeye.
-94;MATT;"""Upon brewing my morning thatch tea, the vision struck my face! I dropped it, it shattered, in a beautiful clattering of broken pottery, and I saw before me a reminder that today is a special day. The sun. The sun rise highest in the sky! Today is the day of the human festival in Sandpoint-- filthy, stupid human festival! The Lady showed me a man. A man in blue, blue everywhere, in robes, a church man."" (spits) (spitting)|""His name was Zaan-- Hold on."""
+94;MATT;"""""Upon brewing my morning thatch tea, the vision struck my face! I dropped it, it shattered, in a beautiful clattering of broken pottery, and I saw before me a reminder that today is a special day. The sun. The sun rise highest in the sky! Today is the day of the human festival in Sandpoint-- filthy, stupid human festival! The Lady showed me a man. A man in blue, blue everywhere, in robes, a church man."""" (spits) (spitting)|""""His name was Zaan-- Hold on."""""
 95;ALL;Zaan?
-96;MATT;"""Zaan-- Zantos."""
+96;MATT;"""""Zaan-- Zantos."""""
 97;ALL;Zantos!
-98;MATT;"""Guffeye saw the people around the churchman at this festival-- the churchman has the storm rock on him!"""
+98;MATT;"""""Guffeye saw the people around the churchman at this festival-- the churchman has the storm rock on him!"""""
 99;IVAN;Ooh, storm rock.
-100;MATT;"""So. Go to this Sandpoint. Go to this human festival. Find this blue-skinned, blue-robed church-man and take the stone for Guffeye, yes?"""
+100;MATT;"""""So. Go to this Sandpoint. Go to this human festival. Find this blue-skinned, blue-robed church-man and take the stone for Guffeye, yes?"""""
 101;ASHLY;That sounds pretty easy, like nothing bad will happen?
 102;IVAN;Easy! Exactly! We got this!
-103;MATT;"""The Lady also showed me: other goblins know."""
+103;MATT;"""""The Lady also showed me: other goblins know."""""
 104;MARISHA;What?!
-105;MATT;"""Stupid, stupid Seven-Tooth tribe also wants stone, going to city now!"""
+105;MATT;"""""Stupid, stupid Seven-Tooth tribe also wants stone, going to city now!"""""
 106;IVAN;Why would the Lady show them the blue stone?
 107;TALIESIN;Four tooth too many, that's--
 108;IVAN;Seven tooth too much, two tooth is best tooth!
 109;MARISHA;I agree, I agree.
 110;IVAN;Two tooth is best tooth.
-111;MATT;"""You go. Sneak in! Find churchman! Take storm rock before Seven-Tooth dumb-dumbs! Bring back to Guffeye, get blessing-- and good meal, promise."""
+111;MATT;"""""You go. Sneak in! Find churchman! Take storm rock before Seven-Tooth dumb-dumbs! Bring back to Guffeye, get blessing-- and good meal, promise."""""
 112;PHIL;Oh, well, if there's food--
 113;TALIESIN;And drink.
 114;MARISHA;Yeah! Only with a good meal and a drink! You got it?
-115;MATT;"""This I can provide."""
+115;MATT;"""""This I can provide."""""
 116;ASHLY;And dessert?
 117;MARISHA;Yeah!
-118;MATT;"""Piglet, you're now second most favorite."""
+118;MATT;"""""Piglet, you're now second most favorite."""""
 119;ASHLY;(wailing) No! I didn't mean it! I don't want dessert!
 120;PHIL;Greed diminishes you.
 121;ASHLY;(crying)
-122;MATT;"""Bring me stone, become first favorite!"""
+122;MATT;"""""Bring me stone, become first favorite!"""""
 123;ASHLY;Okay, okay.
-124;MATT;"""Now go! Time is wasting!"""
+124;MATT;"""""Now go! Time is wasting!"""""
 125;IVAN;(singing) Blue stone, blue stone, we will get it all! Blue stone, blue stone, then we'll eat them all! Stupid Seven-tooth is going to burn and burn and die! Burn them all, burn burn, burn and burn and die. Yay!
 126;MATT;(laughs) As you guys exit the cavern, you go to your various hidey-holes, gather all your materials, your weaponry, whatever things you think you may require on this journey. You know that the direction is northwest, past the Ravenroost mountain pass, towards this town of Sandpoint, and that is where your path lies. The clouds begin to gather overhead at this point in time.
 127;IVAN;Ooh. Best weather for scavenging!
@@ -241,10 +241,10 @@
 239;MARISHA;That was fun, like a game.
 240;TALIESIN;Was that fun? Because I've experienced what I thought was fun before, and it was nothing like that!
 241;PHIL;Most of my fun does not hurt quite so much.
-242;IVAN;"As they say, ""No pain, no gain!"""
+242;IVAN;"As they say, """"No pain, no gain!"""""
 243;PHIL;I don't like the ones who say that.
 244;MATT;All right, guys--
-245;IVAN;"As they say, ""No pain, no shame."""
+245;IVAN;"As they say, """"No pain, no shame."""""
 246;PHIL;I think they just like to rhyme.
 247;MATT;Following Mezek's path, you eventually make your way through the forest, alongside the southern side of the Lost Coast Road, coming upon the edge of the trees, to the Tyrandarock River.|It surrounds the town of Sandpoint itself and encompasses it. It's a port town that's set on the ocean, and this river surrounds the outskirts of it. So you find the edge. You hit the muddy banks of this river, and looking across you can see now the actual city proper.
 248;PHIL;Browntooth is very into city planning so this is very interesting.|(laughter)
@@ -252,7 +252,7 @@
 250;MARISHA;Especially if they're human cities.
 251;PHIL;Yes!
 252;IVAN;Burning, burning. So, I think because my survival ability is so amazing, I'd like to propose that I try to fashion some sort of flotsam, with Zarongel's guidance, I would like to try to take some flotsam and make some type of floaty-pushy thing, that we might wade the wiver-- wade the river.
-253;ASHLY;"""Wade the wiver""?"
+253;ASHLY;"""""Wade the wiver""""?"
 254;IVAN;Wade the wiver! To get across to the city.|Not even bothering to look for a bridge.
 255;MATT;Sure.
 256;MARISHA;You know we don't use no dirty human-made contraptions.
@@ -300,7 +300,7 @@
 298;ASHLY;Do I roll to not get greased?
 299;PHIL;We dive in the brambles and then begin to grease each other.
 300;MATT;It has started. The game has indeed started.
-301;IVAN;"""I will show you true power!"" As grease spurts out from my hand."
+301;IVAN;"""""I will show you true power!"""" As grease spurts out from my hand."
 302;ASHLY;I will roll against grease.
 303;MATT;Yes, for you, I need you to make a reflex saving throw. So go ahead and roll a d20 and add your reflex.
 304;ASHLY;19, I will have you know. Plus my reflex.
@@ -353,15 +353,15 @@
 351;IVAN;33.
 352;MATT;Okay! You guys deftly, running back and forth along the bank of river, grabbing what you can out of the sand and the dirt, apparently entirely unnoticed as there even is a series of guards that come by, four of them, that just walk on past. One of them you swear stared into the forest right at you and went--
 353;MARISHA;Be garden gnomes you guys, garden gnomes!
-354;MATT;"""Hey, Steven! Did you leave some gnomes out here? Stupid gnomes."" And they keep on walking past."
+354;MATT;"""""Hey, Steven! Did you leave some gnomes out here? Stupid gnomes."""" And they keep on walking past."
 355;MARISHA;Haha, garden gnome act gets 'em every time! Heh, heh, heh.
-356;MATT;"""Wait, I want some garden gnomes!"" And he comes back in. ""Nah, they look filthy. All green.|From the mold. Stupid garden gnomes."" And he keeps going."
+356;MATT;"""""Wait, I want some garden gnomes!"""" And he comes back in. """"Nah, they look filthy. All green.|From the mold. Stupid garden gnomes."""" And he keeps going."
 357;IVAN;He's the first one that's going to get pew-pewed.
 358;MARISHA;I agree. Boom-boom! Heh.
 359;IVAN;Boom-boom, pew-pew.
 360;TALIESIN;Two arms, two legs, one head, we'll find him at the end.
 361;IVAN;I've got his face. I've got his beady face.
-362;MATT;"So you've crafted this ""raft"". It's less of a raft and more of a pool noodle buoy thing."
+362;MATT;"So you've crafted this """"raft"""". It's less of a raft and more of a pool noodle buoy thing."
 363;IVAN;Yes! Yes, let's all get on a pool noodle which is basically a giant branch.
 364;PHIL;That's the first smart thing you've said all day!
 365;MATT;This is less like Tom Hanks in Castaway, more Gollum in the river. You guys are having to hold on and move across. However, as you push it into the water, it is buoyant and it does seem to carry you. The current does tend to push it, so you guys are going to have to guide it across the current. If I could have you all make a swim check.
@@ -381,11 +381,11 @@
 379;MARISHA;I hate water!
 380;PHIL;Our fearless leaders!
 381;ASHLY;That feels perfectly appropriate.
-382;MATT;"As part of the screaming echoes out, you hear someone in the distance go, ""D'you hear that?"""
+382;MATT;"As part of the screaming echoes out, you hear someone in the distance go, """"D'you hear that?"""""
 383;ASHLY;Shut up! Shut up!
 384;IVAN;(screams quietly)
 385;MARISHA;(hyperventilates quietly)
-386;MATT;"Okay. You guys stop moving and the current carries you, and you slowly begin to rotate in the water and you're being rained on in the face. And you see a couple guards look as you drift under the bridge on the far left side of where you entered and they look down and go, ""Man, they'll throw away anything these days. Perfectly good piece of wood."" As it drifts under the bridge, you guys have a moment to go ahead and try and push to shore. Go ahead and roll swim checks again."
+386;MATT;"Okay. You guys stop moving and the current carries you, and you slowly begin to rotate in the water and you're being rained on in the face. And you see a couple guards look as you drift under the bridge on the far left side of where you entered and they look down and go, """"Man, they'll throw away anything these days. Perfectly good piece of wood."""" As it drifts under the bridge, you guys have a moment to go ahead and try and push to shore. Go ahead and roll swim checks again."
 387;MARISHA;I'm so afraid.
 388;IVAN;Better.
 389;TALIESIN;16.
@@ -418,7 +418,7 @@
 416;MATT;Puts it in the jug. Closes it off.
 417;TALIESIN;I'll go through it later.
 418;IVAN;Being a goblin is amazing.
-419;MATT;"At which point you hear another voice say, ""Did you hear laughing? I'm going to go check."" And you hear a number of footsteps coming your way."
+419;MATT;"At which point you hear another voice say, """"Did you hear laughing? I'm going to go check."""" And you hear a number of footsteps coming your way."
 420;IVAN;I'm going to cast Ghost Sound.
 421;MATT;Okay.
 422;IVAN;To see if I can distract them away.
@@ -458,10 +458,10 @@
 456;IVAN;Yeah, Grizznak, not being the strongest of the bunch, is easily swayed by intense feats of strength. Oh, my!
 457;PHIL;Grizznak, you look like you want to grease her again in a whole new way!
 458;IVAN;Wishes he had another Grease spell prepared! Woo! Okay.
-459;MATT;"At which point you hear the howl of distant wind and the droplets of condensation within the depths of this sewage system beckoning to you as an entry portal to this city. Secretly, privately, and hopefully to wherever this festival is happening where you can gather this ""Storm Rock."""
+459;MATT;"At which point you hear the howl of distant wind and the droplets of condensation within the depths of this sewage system beckoning to you as an entry portal to this city. Secretly, privately, and hopefully to wherever this festival is happening where you can gather this """"Storm Rock."""""
 460;IVAN;Smells just like home.
 461;PHIL;Yes, moldy and clammy.
-462;IVAN;"Yay. Hey, do you remember when we were in juvie and they threw us down in the ""lock box""? For like a month?"
+462;IVAN;"Yay. Hey, do you remember when we were in juvie and they threw us down in the """"lock box""""? For like a month?"
 463;MARISHA;Oh, dude, and we got so blazed.
 464;IVAN;We got so blazed!
 465;MARISHA;That was so good, man.
@@ -491,16 +491,16 @@
 489;MATT;You go and glance and the slight tiny series of squeaks you hear as the hundreds of tiny spider young have burned to their end. There is a nice waft of cooked scent that hits your nose. And the rumbling in your tummy takes over, as you guys all leap in at once, grabbing small chunks of what you can.
 490;MARISHA;This is the best, when it's crispy on the outside but gooey on the inside.
 491;PHIL;I wish there was tartar sauce.
-492;TALIESIN;"""Oh wait!"" I open up the jar-- (horrified laughter)|Smear some on his spider chunk."
+492;TALIESIN;"""""Oh wait!"""" I open up the jar-- (horrified laughter)|Smear some on his spider chunk."
 493;PHIL;Close enough!
 494;IVAN;Did you season our birds spider egglettes with vomit?
 495;ASHLY;Don't knock it. This is the good shit.
 496;IVAN;I burned it for you!
 497;TALIESIN;I won it fair and square!
-498;IVAN;"I'm going to cast arcane mark on the side of this wall and mark that we were here.|Particularly, ""Grizznak the Greatest was here,"" is what I'm going to mark. But it really looks like a giant butt with like a cloud--"
+498;IVAN;"I'm going to cast arcane mark on the side of this wall and mark that we were here.|Particularly, """"Grizznak the Greatest was here,"""" is what I'm going to mark. But it really looks like a giant butt with like a cloud--"
 499;TALIESIN;I was about to say, can you read and write?
 500;PHIL;No words?
-501;IVAN;"No, no words. The symbol for ""Grizznak the Greatest"" is a goblin with two cheeky farts and a cloud coming out of it."
+501;IVAN;"No, no words. The symbol for """"Grizznak the Greatest"""" is a goblin with two cheeky farts and a cloud coming out of it."
 502;TALIESIN;I was imagining a goblin dick-butt.|(laughter)
 503;IVAN;That is the mark of Grizznak the Great.
 504;PHIL;A goblin dick looks like a human dick, but with spurs.
@@ -522,7 +522,7 @@
 520;TALIESIN;I attack.|(laughter)
 521;MATT;Go ahead and roll an attack.
 522;TALIESIN;Thank you.
-523;IVAN;"""I attack the darkness!"" (laughter)"
+523;IVAN;"""""I attack the darkness!"""" (laughter)"
 524;TALIESIN;14.
 525;MATT;14, okay. You turn around real fast as a piece of rock that is set loose from this small firecracker explosion, whips through the air and you punch it with your fist.|Go ahead and roll damage.
 526;IVAN;I forgot he's a goblin monk. He punches things.
@@ -589,7 +589,7 @@
 587;TALIESIN;Wait, you got plus six.
 588;PHIL;Ten.
 589;ASHLY;Oh wait. 15.
-590;MATT;"So as you see this and you glance over out of the corner of your eye, you see Piglet. Her eyes go wide and both of you have that immediate knowledge of ""me first"". You both dart off around two different sides of this cistern and starting to get there. However, Piglet, you get there first and immediately leap towards this shiny. And the shiny is bigger than you expected."
+590;MATT;"So as you see this and you glance over out of the corner of your eye, you see Piglet. Her eyes go wide and both of you have that immediate knowledge of """"me first"""". You both dart off around two different sides of this cistern and starting to get there. However, Piglet, you get there first and immediately leap towards this shiny. And the shiny is bigger than you expected."
 591;IVAN;Can I cast Mage Hand to see if I can snatch it from all three of them or away from the two of them?
 592;MATT;Is it a five-pound maximum?
 593;IVAN;Five pounds, yeah.
@@ -642,14 +642,14 @@
 640;ASHLY;Hooray!
 641;MATT;Piglet, go ahead and roll perception.
 642;ASHLY;(singing) I forget where my perception is every time. There it is. 19.
-643;MATT;"19, okay. All righty, so as you go-- as you put your new shiny hat on and begin stepping forward across where the paths converge. You-- big, knees forward, stomping steps and you put your head forward and stop as there's a distortion in the air before you. And you breathe out, ""huh?"" and it (wobbling noise) quivers."
+643;MATT;"19, okay. All righty, so as you go-- as you put your new shiny hat on and begin stepping forward across where the paths converge. You-- big, knees forward, stomping steps and you put your head forward and stop as there's a distortion in the air before you. And you breathe out, """"huh?"""" and it (wobbling noise) quivers."
 644;IVAN;Step aside, step aside! Grizznak the Great is here.
 645;PHIL;Great. Let's get ready to be hit by lightning.
 646;IVAN;Well. It looks like something wobbly, so it's probably magic.
 647;MATT;You make a perception check.
 648;IVAN;I'm going to percept the shit out of this
-649;MARISHA;"""Probably magic."""
-650;IVAN;"""Probably magic."" 14."
+649;MARISHA;"""""Probably magic."""""
+650;IVAN;"""""Probably magic."""" 14."
 651;MATT;14. You pull her aside. There's nothing visible in the air before you. You're wondering why she stopped, and as you step forward, you hit something. At which point you guys watch as you suddenly notice there is a large cube-like creature made of some quivering gelatinous material. As Grizznak is slowly being pulled into it.
 652;IVAN;No!
 653;MATT;Everyone roll initiative.
@@ -696,7 +696,7 @@
 694;MATT;Nice. All right, so as you rush forward taking your five-foot step and attack with your first goblin cleaver, you slice through part of its form, then slice through with your second one.|As you cut each time you can see it leaves a giant opening and you cut a wedge out that (slurping noise) slops onto the ground and turns into a slowly liquefying piece of water. The section that you cut out begins to slowly reform but, however, it does lose the mass that you cut of it. So it appears to be having some sort of impact. That finishes your turn, Browntooth. Mezek, you're up.
 695;TALIESIN;All right. I'm going to--
 696;MATT;However, actually real fast. 'Cause this is part of the fun of it. Nope, actually, you're good. You're up, Mezek. Sorry, keeping track of the rules for the creature. I haven't used gelatinous cube in so long.
-697;IVAN;"I was waiting to hear, ""And Grizznak, you were eaten."" (laughter)"
+697;IVAN;"I was waiting to hear, """"And Grizznak, you were eaten."""" (laughter)"
 698;MATT;Technically, you were.
 699;TALIESIN;I'm going to take a deep breath.|(screams)
 700;ASHLY;Here he goes again.
@@ -863,7 +863,7 @@
 861;PHIL;Because I've decided I don't want any more hand-to-hand combat. Seems like a bad idea.
 862;MATT;A pseudopod swings out towards you but you-- it misses you entirely. As you dart backward with your crossbow loaded, you take aim and go ahead and fire.
 863;PHIL;This one, right? Fuck. Seven plus nine. 16.
-864;MATT;"You've heard the term ""couldn't hit the broad side of a barn""? Thankfully, this creature is the size of a barn. You manage to sink the bolt into it. Go ahead and roll damage. You feel a slight bit of pain at your back as a bolt nips you in the butt. But you can't do anything about it because you're paralyzed. Five points of damage.|All right. You guys can see the creature's shaking and shimmering as it's moving forward. It's having a hard time keeping its form together, it's looking really rough as it's slowly dissolving your two friends."
+864;MATT;"You've heard the term """"couldn't hit the broad side of a barn""""? Thankfully, this creature is the size of a barn. You manage to sink the bolt into it. Go ahead and roll damage. You feel a slight bit of pain at your back as a bolt nips you in the butt. But you can't do anything about it because you're paralyzed. Five points of damage.|All right. You guys can see the creature's shaking and shimmering as it's moving forward. It's having a hard time keeping its form together, it's looking really rough as it's slowly dissolving your two friends."
 865;MARISHA;Burn! Fire!
 866;MATT;All right, that's going to go ahead and bring us to Mezek.
 867;TALIESIN;I am going to charge it with my quarterstaff and hit it with a flurry of blows. I don't have any Ki points right now, do I?
@@ -937,14 +937,14 @@
 935;MATT;Yes, a normal d10 plus-- you're not raging, so that would be a plus four.
 936;ASHLY;Five.
 937;MATT;Five points of damage. As you guys are pulling, the hammer comes down as Piglet smashes into the side of this wall. The stones crumble inward and you both go flung forward into the darkness, tumbling over each other before you both (impact noise) against the wall, slowly slide down. As you look around, you're inside this darkened chamber.|Glancing around you, first off you immediately notice that there is a heavy smell of alcohol in this room.
-938;IVAN;"We're in one of those, humans call them a ""Ta-vern"" or one--"
+938;IVAN;"We're in one of those, humans call them a """"Ta-vern"""" or one--"
 939;MARISHA;This is one of those cel-lar. Cel-lar?
 940;IVAN;It's, yeah, it's where they do their fighting at. It's basically where humans go to beat up each other. It's a goblin pit!
 941;TALIESIN;Sounds like heaven.
 942;IVAN;It's amazing.
-943;ASHLY;"I've heard they also ""pick up chicks"".|Whatever that means."
+943;ASHLY;"I've heard they also """"pick up chicks"""".|Whatever that means."
 944;TALIESIN;Baby chickens?
-945;ASHLY;"(loudly) There are chickens here?! It's like a ""hoo-er house"", right?"
+945;ASHLY;"(loudly) There are chickens here?! It's like a """"hoo-er house"""", right?"
 946;PHIL;Do they eat owls, too? Chickens and owls? I'm getting hungry!
 947;TALIESIN;Baby owls!
 948;MATT;Which, as you guys are getting hungry, you look around this chamber you're in, you see a sack of moldy grains, small containers of salts and spices, dried meats that are put on racks against the wall, casks and bottles of wine, and ale all throughout this--
@@ -1272,7 +1272,7 @@
 1270;PHIL;32.
 1271;MATT;All right. As you stumble into the shady alley, looking about, you glance over the side of the window real fast into the tavern, and you do see there are probably a dozen patrons in there.|Some drinks being served, a guard at the door on the inside. However, looking to your left, there the alleyway spills out into a main street thoroughfare, and you can see people walking by, families with children. There's a general air of jovial energy to it, and some people are wearing flower crowns on their heads. You can see carts being put along the street. Seems like the festival you were told of, this terrible, human festival seems to be in full swing. Go ahead and make a survival check.
 1272;PHIL;16.
-1273;MATT;"You come out to the edge of the alleyway, glance about. First thing you notice is the sun in the sky. You were like ""eh, it's probably mid-day-ish"". No, it's pushing toward sunset now.|You probably have another hour of sunlight. So you don't know how much longer this festival's going to be going. You spent quite a while getting here and wandering the sewers."
+1273;MATT;"You come out to the edge of the alleyway, glance about. First thing you notice is the sun in the sky. You were like """"eh, it's probably mid-day-ish"""". No, it's pushing toward sunset now.|You probably have another hour of sunlight. So you don't know how much longer this festival's going to be going. You spent quite a while getting here and wandering the sewers."
 1274;IVAN;As per typical goblin fashion.
 1275;MATT;Indeed. However, you notice that everyone is walking a certain direction. And, one, there are a number of carts that are going by. There are currently unmanned, closed carts that would be used to sell fruit and fish. This being a port town, fish is a big export here. And the alleyways that you came out of? There is a second alleyway that offshoots from where the outhouse is that goes between the buildings off the main thoroughfare. This is what you're able to gauge in your time out here.
 1276;PHIL;I go back and tell them what I've seen. So everybody's going that way.
@@ -1305,12 +1305,12 @@
 1303;ASHLY;30.
 1304;TALIESIN;31.
 1305;PHIL;33.
-1306;MATT;"Woo! You guys duck behind every single possible piece of discarded material, empty crates and boxes, barrels that are available. You jump at certain times, following the lead of Browntooth.|You manage to find your way through the thoroughfare to an entrance to the kitchen on the side of this tavern. The door is partially ajar.|You look in and there is one person manning the kitchen. You see this poor, older woman, who is in the process of running around with four things burning and is like, ""There's too many! I hate festivals! Coming!"" She's not paying attention to the door right now."
+1306;MATT;"Woo! You guys duck behind every single possible piece of discarded material, empty crates and boxes, barrels that are available. You jump at certain times, following the lead of Browntooth.|You manage to find your way through the thoroughfare to an entrance to the kitchen on the side of this tavern. The door is partially ajar.|You look in and there is one person manning the kitchen. You see this poor, older woman, who is in the process of running around with four things burning and is like, """"There's too many! I hate festivals! Coming!"""" She's not paying attention to the door right now."
 1307;ASHLY;So we could stealth by her, too?
 1308;MATT;You could try.
 1309;PHIL;Or we could kill her.
 1310;ASHLY;Look, I know I'm a goblin and I love human blood, but she looks like she's trying her best, you know?
-1311;MATT;"She seems largely distracted. You guys, with your current stealth, not an issue. You make your way through the kitchen unnoticed. You make your way into the tavern proper. You can see a handful of patrons around a table playing cards, talking to each other. You hear a couple of them. One person's like, ""Stupid tradition. I'm just going to stay here and drink until I care."" Takes a big old sip. Somebody on the other side of the table goes, ""Speeches every year, speeches! Father Zantas has shown that religion has no sense of brevity!"" You see this other guy at the far end table gets up, ""And what about you, Zed?"" And slaps the shoulder of the guy who has the large coat on. He's leaning forward and goes, ""At least the meals were good. I'm probably going to skip out on the consecration. I've no stomach for prayer these days."" He's face down on the bar right there. ""Oh, Zed! That'll be me in an hour."" He goes and sits down at the table. There's just the barkeep at the bar who's close. Everyone else is at the table now at the card game and Zed is passed out at the bar. What are you going to do?"
+1311;MATT;"She seems largely distracted. You guys, with your current stealth, not an issue. You make your way through the kitchen unnoticed. You make your way into the tavern proper. You can see a handful of patrons around a table playing cards, talking to each other. You hear a couple of them. One person's like, """"Stupid tradition. I'm just going to stay here and drink until I care."""" Takes a big old sip. Somebody on the other side of the table goes, """"Speeches every year, speeches! Father Zantas has shown that religion has no sense of brevity!"""" You see this other guy at the far end table gets up, """"And what about you, Zed?"""" And slaps the shoulder of the guy who has the large coat on. He's leaning forward and goes, """"At least the meals were good. I'm probably going to skip out on the consecration. I've no stomach for prayer these days."""" He's face down on the bar right there. """"Oh, Zed! That'll be me in an hour."""" He goes and sits down at the table. There's just the barkeep at the bar who's close. Everyone else is at the table now at the card game and Zed is passed out at the bar. What are you going to do?"
 1312;ASHLY;Guys, what was the name of that dude we were supposed to find?
 1313;PHIL;Something with a 'Z,' with two parts. It's not him.
 1314;ASHLY;It's not him?
@@ -1325,9 +1325,9 @@
 1323;MATT;You guys dart under one table, wait for a moment, the barmaid walks by, dart under another table. You're chaining your way across this room between these men. Eventually, finding your way right to the outside of this passed-out Zed whose arm drifts and hangs loosely to his side. His body is half against the bar and is a good two minutes from slumping directly onto the ground and off his stool.
 1324;ASHLY;How do we steal it?
 1325;PHIL;Should we wait for him to slump?
-1326;MATT;"The barkeep is like, ""You okay, Zed?"" Pokes him a little bit."
+1326;MATT;"The barkeep is like, """"You okay, Zed?"""" Pokes him a little bit."
 1327;TALIESIN;(heavy sigh)
-1328;MATT;"""He's all right."" Goes back to cleaning a mug."
+1328;MATT;"""""He's all right."""" Goes back to cleaning a mug."
 1329;ASHLY;Maybe one of us should distract the barkeep while the other two grab the coat. Make noise in the corner or something.
 1330;IVAN;We're still outside, right?
 1331;MATT;Yeah, you're just waiting.
@@ -1343,7 +1343,7 @@
 1341;TALIESIN;I'm going to pop one on the opposite side of us to try and knock it over.
 1342;MATT;Mezek, you pull out your goblin jag star, which is essentially the equivalent of a shuriken, but it's carved out of pieces of odd, rusted metal that had been tied together. It's more of a cluster of broken whatever you found from a wagon wheel that was busted weeks ago, but you throw it as a ranged weapon. Roll an attack.
 1343;TALIESIN;That's 20.
-1344;MATT;"20. A bottle shatters and sprays across the back of the barkeep who's like, ""Hey, what the hell is that?!"""
+1344;MATT;"20. A bottle shatters and sprays across the back of the barkeep who's like, """"Hey, what the hell is that?!"""""
 1345;TALIESIN;Grab it!
 1346;MATT;He seems currently distracted. The three of you together make sleight of hand checks right now as you rush up to try and pull this off.
 1347;TALIESIN;Where's sleight of hand?
@@ -1365,7 +1365,7 @@
 1363;TALIESIN;What am I rolling?
 1364;MATT;This is another sleight of hand.
 1365;TALIESIN;15.
-1366;MATT;"15. Okay! You snatch it and all of a sudden you hear a voice from the front door go, ""Hey, what's that? I saw something! Is someone trying to steal from Zed?!"" You hear footsteps as somebody begins walking over to where he was right now."
+1366;MATT;"15. Okay! You snatch it and all of a sudden you hear a voice from the front door go, """"Hey, what's that? I saw something! Is someone trying to steal from Zed?!"""" You hear footsteps as somebody begins walking over to where he was right now."
 1367;ASHLY;Go! We run?
 1368;MATT;You guys run? Make stealth checks, guys.
 1369;ASHLY;We have the coat, though, right?
@@ -1374,12 +1374,12 @@
 1372;PHIL;40.
 1373;ASHLY;15.
 1374;TALIESIN;34.
-1375;MATT;"Okay, you guys run. As you're running, Piglet, you're running behind them hanging on the back of the coat and you slam your head at the bottom of the table, putting a big old knot on it.|It happens to be the table where the card game was being played. All the cards go (crashing), all the coins scatter in the air. The guys go, ""Whoa what the hell is that?!"" And they see as this coat scampers off into the kitchen on its own. You guys hear voices go, ""Did you see that?!"" ""It went in the kitchen, come on!"" You hear the sound of chairs scooting as all of a sudden people are beginning to stand up and rush towards the kitchen after you."
+1375;MATT;"Okay, you guys run. As you're running, Piglet, you're running behind them hanging on the back of the coat and you slam your head at the bottom of the table, putting a big old knot on it.|It happens to be the table where the card game was being played. All the cards go (crashing), all the coins scatter in the air. The guys go, """"Whoa what the hell is that?!"""" And they see as this coat scampers off into the kitchen on its own. You guys hear voices go, """"Did you see that?!"""" """"It went in the kitchen, come on!"""" You hear the sound of chairs scooting as all of a sudden people are beginning to stand up and rush towards the kitchen after you."
 1376;TALIESIN;While we're running, I'm going to take my jar of puke and pour it out on the ground behind us like a mud slick.
 1377;ASHLY;I have puke, too!
-1378;MATT;"You're holding the knot on your head, you pull the jar, pour it out, and spill this slick mass of goblin vomit and whatever else liquid you put inside there. As you dart through the kitchen, the cook goes, ""Your food's ready! What the--?!"" And sees you guys dart out the door as the crowd comes in and two of them (yell) and fall on their backs immediately there. A third man steps over and follows you into the alleyway. The cook's like, ""You can't be in here! What are you doing?!"" As the door slams, you guys make your way into the alley. You see the three of them rush out holding the coat."
+1378;MATT;"You're holding the knot on your head, you pull the jar, pour it out, and spill this slick mass of goblin vomit and whatever else liquid you put inside there. As you dart through the kitchen, the cook goes, """"Your food's ready! What the--?!"""" And sees you guys dart out the door as the crowd comes in and two of them (yell) and fall on their backs immediately there. A third man steps over and follows you into the alleyway. The cook's like, """"You can't be in here! What are you doing?!"""" As the door slams, you guys make your way into the alley. You see the three of them rush out holding the coat."
 1379;MARISHA;What's going on? (frantic yelling)|I'm so glad I planned for this. And I go, go guys. Smoke bomb!
-1380;MATT;"As the door opens again, you see this breastplate-adorned guard of the city who is essentially the bouncer of this place, rushes out, blade drawn, helmet half-cocked on his face where it doesn't fit right and one eye looks higher than the other, and he goes, ""You!"" (explosion) As smoke fills this entire alleyway, he begins coughing."
+1380;MATT;"As the door opens again, you see this breastplate-adorned guard of the city who is essentially the bouncer of this place, rushes out, blade drawn, helmet half-cocked on his face where it doesn't fit right and one eye looks higher than the other, and he goes, """"You!"""" (explosion) As smoke fills this entire alleyway, he begins coughing."
 1381;MARISHA;Before the cloud gets too thick, I go-- and run.
 1382;ASHLY;We should go in the outhouse and assemble our Mary Kate and Ashley situation.
 1383;MARISHA;Okay, let's do it!
@@ -1445,11 +1445,11 @@
 1443;ASHLY;No! Blue!
 1444;PHIL;Look for the guy in the blue!
 1445;IVAN;I see a blue sky!
-1446;MATT;"As this is happening, a drunk man, 30-something, a red chin-strap beard, and long hair pulled into a top knot has a tankard in front of him and, (hiccup) ""Hey, happy Autumn's-thing."""
+1446;MATT;"As this is happening, a drunk man, 30-something, a red chin-strap beard, and long hair pulled into a top knot has a tankard in front of him and, (hiccup) """"Hey, happy Autumn's-thing."""""
 1447;IVAN;Happy Autumn's-thing!
 1448;MATT;Make a bluff check.
 1449;IVAN;Oh, I'm so good at bluff. 15.
-1450;MATT;"He goes, ""I think you need some more of this than I do."""
+1450;MATT;"He goes, """"I think you need some more of this than I do."""""
 1451;IVAN;Yeah, I do!
 1452;MATT;He pats you on the back with a hefty arm.
 1453;MARISHA;Whoa!
@@ -1461,7 +1461,7 @@
 1459;ASHLY;Kids, I want to talk to you about safe sex.
 1460;IVAN;I am reflecting upon the glory that is this most holy day--
 1461;PHIL;Stop talking!
-1462;MATT;"""Oh, you're one of them church types. Never mind."" And the guy stumbles off. At this point, you see the crowd starting to hush a little and gather towards--"
+1462;MATT;"""""Oh, you're one of them church types. Never mind."""" And the guy stumbles off. At this point, you see the crowd starting to hush a little and gather towards--"
 1463;TALIESIN;Hup!
 1464;MATT;You get back up. Make a perception check if you could, Grizznak.
 1465;IVAN;Okay, that was very close. 17.
@@ -1494,7 +1494,7 @@
 1492;ASHLY;But we have boom-boom rocks back home!
 1493;MATT;With this, suddenly, you hear screams. You hear dogs starting to bark in the distance and you see the glow of flames over across the way as two streets, three streets away, you see fire beginning to glow and plumes of smoke build up.
 1494;MARISHA;Fire!
-1495;MATT;"People begin to run, and chaos breaks in the crowd as people begin looking about, screaming, ""What's going on?! We're under attack! Goblins are here!"""
+1495;MATT;"People begin to run, and chaos breaks in the crowd as people begin looking about, screaming, """"What's going on?! We're under attack! Goblins are here!"""""
 1496;IVAN;Okay, so Goblon is going to lurch forward, and I'm going to try and see-- does he have like a pouch of boom-boom rocks? Or anything like that?
 1497;MATT;No, all you see is the single stone rolling off the top of the stage--
 1498;IVAN;Mage Hand.
@@ -1514,11 +1514,11 @@
 1512;MATT;Okay.
 1513;ASHLY;Nine.
 1514;TALIESIN;Ten.
-1515;MATT;"Okay, so: as you're rushing forward you can see the crowd look at you as you turn and be like, ""No! Don't go that way! The goblins are that way!"" And they're actually genuinely trying to save you."
+1515;MATT;"Okay, so: as you're rushing forward you can see the crowd look at you as you turn and be like, """"No! Don't go that way! The goblins are that way!"""" And they're actually genuinely trying to save you."
 1516;IVAN;I will save us from this goblin scum!
 1517;MATT;And as you say that, the firecracker goes off behind. Everyone looks around distracted, as both of your legs tumble forward and you tumble forward. The coat unravels as what was once a single entity rolls into five goblin balls that all (rolling thumps) across the stonework, slamming into the base of this platform. You guys can hear the distant screams of goblins two or three streets over where the main battle's happening. The guards have moved in that direction. This open thoroughfare is mostly empty of all people at this time. You glance over and can see the stone is in the center of a light piece of mud that hasn't fully dried from the earlier storm.
 1518;PHIL;I go to get the stone.
-1519;MATT;"You rush forward, grab the stone, and put it in your hand. You hear a voice say, ""Halt! You will walk no further, foul creature! Sarenrae's vengeance will end your existence."" You all glance over to the left of you and you see a woman dressed in gold armor and light blue cloth clutching a scimitar in one hand and a small gold statue of a winged woman in the other. As she glares at you, you hear a voice behind her say, ""Come on, Kyra, don't think we'll let you have all the fun to yourself."" You see, walking up behind her, a small halfling man grinning with shaggy blond hair saunters up, pulling out a flute. Behind him, a human in heavy armor, his long brown, unkempt hair around his shoulders draws two blades and scowls. ""Goblins, of course."" He readies himself as a shield appears before him as another heavily armored figure steps in front of the lot. A tall woman wielding a longsword, her hair pulled back tight and her face tense goes, ""Behind me. We shall smite them where they stand."" Behind all of them, you see an older man with long white hair and a beard hold up a staff and smirk.|""Well, Seelah, I can just destroy them from here.|That's fine with me."" I need you all to roll initiative."
+1519;MATT;"You rush forward, grab the stone, and put it in your hand. You hear a voice say, """"Halt! You will walk no further, foul creature! Sarenrae's vengeance will end your existence."""" You all glance over to the left of you and you see a woman dressed in gold armor and light blue cloth clutching a scimitar in one hand and a small gold statue of a winged woman in the other. As she glares at you, you hear a voice behind her say, """"Come on, Kyra, don't think we'll let you have all the fun to yourself."""" You see, walking up behind her, a small halfling man grinning with shaggy blond hair saunters up, pulling out a flute. Behind him, a human in heavy armor, his long brown, unkempt hair around his shoulders draws two blades and scowls. """"Goblins, of course."""" He readies himself as a shield appears before him as another heavily armored figure steps in front of the lot. A tall woman wielding a longsword, her hair pulled back tight and her face tense goes, """"Behind me. We shall smite them where they stand."""" Behind all of them, you see an older man with long white hair and a beard hold up a staff and smirk.|""""Well, Seelah, I can just destroy them from here.|That's fine with me."""" I need you all to roll initiative."
 1520;TALIESIN;Oh, shit.
 1521;IVAN;Adventuring party.
 1522;MARISHA;Damn adventuring parties.
@@ -1551,7 +1551,7 @@
 1549;PHIL;I've got the rock.
 1550;IVAN;Glad that we were able to keep it.
 1551;PHIL;So far.
-1552;MATT;"These humans look ready and eager, and there's a part of you that's like, ""Oh man, it would feel good to cut them down."" It is up to you what you want to do."
+1552;MATT;"These humans look ready and eager, and there's a part of you that's like, """"Oh man, it would feel good to cut them down."""" It is up to you what you want to do."
 1553;PHIL;How many of them are there?
 1554;TALIESIN;Four.
 1555;IVAN;Four against five. Those are good goblin numbers.
@@ -1628,9 +1628,9 @@
 1626;ASHLY;Seven plus six is 13.
 1627;MATT;13 points of damage. As you rush up to the man that's on fire, you leap into the air (yells) and plant your goblin Skullbreaker Hammer right square in the chest. You can see his armor bend inward and he goes (gasping) as the air escapes with a spatter of blood that crosses your face.|It's warm and you take it in. As you pull back the hammer, the flames still burning on him. He's coughing up blood now from the impact. He's already taken a very poor round.|That ends your turn?
 1628;ASHLY;Mm-hmm.
-1629;MATT;"Angry Piglet's up front. First and foremost, the little halfling bard shouts out to the rest of the group, ""Valeros, you okay, bud? All right, let's do this. Great!"" And he jumps up onto this cart right here and pulls out his flute and begins singing, ""And as their footfalls to the ground, the strength and mighty muscles bound! They raise their blades into the sky and cut those goblins nigh and high!"" As he begins to sing, he bolsters all his allies in song. You see all of them begin to rally themselves for the battle, hearing their friend accompanying this rousing fight. That finishes his turn. They all have bonuses to their combat prowess."
+1629;MATT;"Angry Piglet's up front. First and foremost, the little halfling bard shouts out to the rest of the group, """"Valeros, you okay, bud? All right, let's do this. Great!"""" And he jumps up onto this cart right here and pulls out his flute and begins singing, """"And as their footfalls to the ground, the strength and mighty muscles bound! They raise their blades into the sky and cut those goblins nigh and high!"""" As he begins to sing, he bolsters all his allies in song. You see all of them begin to rally themselves for the battle, hearing their friend accompanying this rousing fight. That finishes his turn. They all have bonuses to their combat prowess."
 1630;PHIL;That's bullshit.
-1631;MATT;"The paladin, who watched her friend get pummeled in the chest and set aflame, goes, ""Not on my watch!"" and steps in to you and is going to take a swing with her longsword."
+1631;MATT;"The paladin, who watched her friend get pummeled in the chest and set aflame, goes, """"Not on my watch!"""" and steps in to you and is going to take a swing with her longsword."
 1632;PHIL;Paladin who worships cliches, apparently.
 1633;MATT;Would you consider yourself an evil character?
 1634;ASHLY;I'm just trying to get mine, you know what I mean? Probably, yeah.
@@ -1646,11 +1646,11 @@
 1644;MARISHA;Foul play, man, foul play. Thought you were trying to tell me something.
 1645;MATT;What's your armor class?
 1646;MARISHA;17.
-1647;MATT;"17. Okay! As this arcane arrow full of acid streaks towards you, you do a goblin cartwheel out of the way and it hits a barrel behind you. It begins to melt the barrel and you can see a thick series of berries begin to spill out onto the thoroughfare. He goes, ""Oh, damn it!"" He ducks into this alleyway between those buildings here.|That ends his turn. The cleric, now, is going to step up to the center, holds her scimitar in one hand and her holy symbol to the sky and goes, ""Sarenrae, protect us!"" Energy drifts off. All of her allies heal up six hit points."
+1647;MATT;"17. Okay! As this arcane arrow full of acid streaks towards you, you do a goblin cartwheel out of the way and it hits a barrel behind you. It begins to melt the barrel and you can see a thick series of berries begin to spill out onto the thoroughfare. He goes, """"Oh, damn it!"""" He ducks into this alleyway between those buildings here.|That ends his turn. The cleric, now, is going to step up to the center, holds her scimitar in one hand and her holy symbol to the sky and goes, """"Sarenrae, protect us!"""" Energy drifts off. All of her allies heal up six hit points."
 1648;PHIL;All right, I'm going to kill her.
 1649;MATT;You also heal six hit points because you are a living creature and you're in the radius, so you heal six. Unintended consequence of her circumstance.
 1650;IVAN;Because her god considers you collateral.
-1651;ASHLY;"Her god's like, ""I like this one!"""
+1651;ASHLY;"Her god's like, """"I like this one!"""""
 1652;IVAN;I like this one's spunk!
 1653;ASHLY;This one's got the moxie!
 1654;MATT;"The fighter who's on fire is going to grin and bear the flames because he wants to take down the one who smashed him with the hammer. He's going to take another 1d6 fire damage; go ahead and roll for that."
@@ -1711,7 +1711,7 @@
 1709;TALIESIN;I am using my deadly aim. That can't possibly go poorly. That's 18.
 1710;MATT;18 hits. Go ahead and roll damage with the additional plus two damage for the deadly aim.
 1711;TALIESIN;I don't have to roll damage, it's an auto. That's six points of damage. (yells)
-1712;MATT;"As you rush up, you throw it, it embeds in the side of his throat and he's like (coughing).|He reaches up and pulls it out and a gout of blood goes (spraying). He's like (grunting) holding his longsword in one hand. ""Stupid goblins!"" As the flames are still burning around him. You move all the way up to him."
+1712;MATT;"As you rush up, you throw it, it embeds in the side of his throat and he's like (coughing).|He reaches up and pulls it out and a gout of blood goes (spraying). He's like (grunting) holding his longsword in one hand. """"Stupid goblins!"""" As the flames are still burning around him. You move all the way up to him."
 1713;TALIESIN;I'm straight up in their business.
 1714;MATT;Ending your turn, we're back up to the top of the round. Browntooth, you're up.
 1715;IVAN;Drunken master.
@@ -1802,7 +1802,7 @@
 1800;ASHLY;I want to knock his head off with the hammer and I want it to fall into the lap of his now grieving friend and spray blood all over them.|The most adjacent friend. No, the bard.|I hate the bard.
 1801;MATT;The bard?
 1802;ASHLY;Hit the bard in the head with his friend's head.
-1803;MATT;"You swing as the fighter goes to parry your blow. Your goblin rage gets you a faster speed than he ever expected. As he goes to swing it to the side, the hammer comes straight across from the direction he wasn't expecting, like an unintentional feint. His eyes goes wide for a second before the hammer (slams) and the head gets carried off of his shoulders. It spins backwards, and the bard, who's singing his song, looks up as his friend's head towards him. Falls onto his feet and goes (yells). Makes a concentration. Fails his concentration. I'll say the song ends, he has to start it again because he just saw his friend's head land at his feet. He goes, ""Valero? You!"" You can see there is a genuine horror and sadness in his face."
+1803;MATT;"You swing as the fighter goes to parry your blow. Your goblin rage gets you a faster speed than he ever expected. As he goes to swing it to the side, the hammer comes straight across from the direction he wasn't expecting, like an unintentional feint. His eyes goes wide for a second before the hammer (slams) and the head gets carried off of his shoulders. It spins backwards, and the bard, who's singing his song, looks up as his friend's head towards him. Falls onto his feet and goes (yells). Makes a concentration. Fails his concentration. I'll say the song ends, he has to start it again because he just saw his friend's head land at his feet. He goes, """"Valero? You!"""" You can see there is a genuine horror and sadness in his face."
 1804;ASHLY;I go: Yay!
 1805;TALIESIN;You still have a bite attack!
 1806;ASHLY;I still have a bite attack!
@@ -1815,7 +1815,7 @@
 1813;ASHLY;Is that a six or a nine?
 1814;TALIESIN;That's a nine.
 1815;ASHLY;That's a nine? Okay, so 13?
-1816;MATT;"13? Oh, the paladin? Yeah, it definitely misses the paladin. Her shield's too big. You go to bite her and she slams the shield out and you catch metal instead. She pulls the shield away and you scrape tooth marks against the metal, which is impressive for a goblin. She looks at you and goes, ""You! You foul, terrible creature! You will pay for what you've done!"" You see tears in her eyes. That ends your turn?"
+1816;MATT;"13? Oh, the paladin? Yeah, it definitely misses the paladin. Her shield's too big. You go to bite her and she slams the shield out and you catch metal instead. She pulls the shield away and you scrape tooth marks against the metal, which is impressive for a goblin. She looks at you and goes, """"You! You foul, terrible creature! You will pay for what you've done!"""" You see tears in her eyes. That ends your turn?"
 1817;ASHLY;I go: Heh, loser. I'm going to stay there.|Maybe that's unwise, but I'm just going to stay there.
 1818;MATT;The bard is too angry to even consider-- no.|No, he's too angry. He's not going to be able to do his bard performances this turn. He's too fraught with frustration.|He's going to cast Sleep.
 1819;MARISHA;Oh, shit.
@@ -1829,11 +1829,11 @@
 1827;ASHLY;I go (blows raspberry).
 1828;MATT;Unaffected by it. That ends his turn. The paladin, friend is gone, cannot do anything yet, is going to angrily move this way to begin a pincer movement and is going to power attack you.|That is a natural 20.
 1829;ASHLY;Oh no!
-1830;MATT;"See if it confirms. With a natural 18, I'm pretty sure that hits. That's times two on that.|You take-- it's not too bad, you take 12 points of damage as the sword streaks down, cleaving off part of your ear and ends up embedding in your shoulder. You look over, grab the sword, and pull it out and throw her backward. She's caught off guard by how this tiny thing has so much might.|That ends the paladin's turn there. We're going to bring us to the cleric. The cleric is going to see how rough this is, circumstantially. She is looking over at the bombing one. Moves over here, turns to you and goes, ""You will set nothing more ablaze, creature!"" I need you to make a will saving throw."
+1830;MATT;"See if it confirms. With a natural 18, I'm pretty sure that hits. That's times two on that.|You take-- it's not too bad, you take 12 points of damage as the sword streaks down, cleaving off part of your ear and ends up embedding in your shoulder. You look over, grab the sword, and pull it out and throw her backward. She's caught off guard by how this tiny thing has so much might.|That ends the paladin's turn there. We're going to bring us to the cleric. The cleric is going to see how rough this is, circumstantially. She is looking over at the bombing one. Moves over here, turns to you and goes, """"You will set nothing more ablaze, creature!"""" I need you to make a will saving throw."
 1831;MARISHA;Eh? What? Natural one. Again.
 1832;IVAN;You shouldn't even sit next to me.
 1833;PHIL;Your luck is rubbing off.
-1834;MATT;"As the Hold Person takes effect, your muscles lock up. As you're reaching for a bomb (grunting).|You just can't move! You see a grin across the cleric's face. ""That's what I thought."" Ending the cleric's turn. The fighter is gone. Boom.|Grizznak, you're down to negative two."
+1834;MATT;"As the Hold Person takes effect, your muscles lock up. As you're reaching for a bomb (grunting).|You just can't move! You see a grin across the cleric's face. """"That's what I thought."""" Ending the cleric's turn. The fighter is gone. Boom.|Grizznak, you're down to negative two."
 1835;IVAN;Yeah, negative two. Can I make a constitution check to see if I can stabilize?
 1836;MATT;Go ahead and make a fortitude save.
 1837;IVAN;Fortitude save. Oh! 20!
@@ -1898,15 +1898,15 @@
 1896;ASHLY;A d3 plus three.
 1897;MATT;Roll a d6, halve that, add three.
 1898;ASHLY;Four.
-1899;MATT;"Four points of damage. As she's reacting from that and spits the blood out, looks down, you run up the side of her shield and bite into the chin you just broke and tear a chunk out of her face! She's like, (screaming) ""Who does that?!"""
+1899;MATT;"Four points of damage. As she's reacting from that and spits the blood out, looks down, you run up the side of her shield and bite into the chin you just broke and tear a chunk out of her face! She's like, (screaming) """"Who does that?!"""""
 1900;ASHLY;Piglet does, bitches!
 1901;MATT;That ends Piglet's turn. The bard, whose spell has been less than active, and the wizard who spent his last term in absolute horror of his friend, regains his senses and is going to step up.
 1902;ASHLY;Oh, I forgot about the wizard.
 1903;MATT;Yeah, the wizard hid off to the side and watched his friend get beheaded and spent the turn looking in horror. The bard is going to attempt to cast Sleep on you again.|Make another willpower save.
 1904;ASHLY;I'm raging, so it still applies, right? 18 plus three.
-1905;MATT;"18 plus three. Once again, shrug off the effect. And he's like, ""Why won't you stay down, stupid thing?!"" He's pointing his finger, clutching his flute angrily in the other hand.|Nothing is affecting you."
+1905;MATT;"18 plus three. Once again, shrug off the effect. And he's like, """"Why won't you stay down, stupid thing?!"""" He's pointing his finger, clutching his flute angrily in the other hand.|Nothing is affecting you."
 1906;TALIESIN;Red Bull!
-1907;MATT;"He's going to rush over to the side behind the cleric now and be like, ""Can you heal me? Please!"" He's running off to the side and asking for a heal. The paladin is going to, as a reaction to you, furiously swing at you with the longsword.|That is a 22 to hit."
+1907;MATT;"He's going to rush over to the side behind the cleric now and be like, """"Can you heal me? Please!"""" He's running off to the side and asking for a heal. The paladin is going to, as a reaction to you, furiously swing at you with the longsword.|That is a 22 to hit."
 1908;ASHLY;It hits.
 1909;MATT;That hits. You take seven points of slashing damage as the blade streaks down across you.|You're still chewing the chunk of her face that's running around in your jaw, but the blade goes across the front of your torso, and leaves an opening that begins to spill dark, brackish, goblin blood. You don't even feel the pain. You're in such a furious bloodlust right now.
 1910;ASHLY;So, next round might be my last round, guys.
@@ -1951,7 +1951,7 @@
 1949;ASHLY;You did it!
 1950;TALIESIN;Quarterstaff one to the front and then I just want the quarterstaff to find a chink in the armor and just watch the head cleave with just stick. A big melty, awful cleave. Like, wood should not cleave.
 1951;ASHLY;You should aim it at someone.
-1952;MATT;"So, after you slam her in the side of the head, stunning her, she leans forward from the impact. You spin the staff in one hand and then do a golf swing up the side of the head. You hit at such a way that you cause the bent metal of the helmet to act like a guillotine-like blade. With a (boomp) her head, up in the air, rolls on the ground, the bard who came up to ask for healing, ""Heal me, Heal me!"" and the body slumps down on the ground in front of him, and the head lands a second later."
+1952;MATT;"So, after you slam her in the side of the head, stunning her, she leans forward from the impact. You spin the staff in one hand and then do a golf swing up the side of the head. You hit at such a way that you cause the bent metal of the helmet to act like a guillotine-like blade. With a (boomp) her head, up in the air, rolls on the ground, the bard who came up to ask for healing, """"Heal me, Heal me!"""" and the body slumps down on the ground in front of him, and the head lands a second later."
 1953;IVAN;That's two heads for you!
 1954;MATT;And he rolls a one on his will save, he is currently horribly shaken by this experience and is having penalties from watching his two friends lose their head in the same battle.
 1955;TALIESIN;Am I within quarterstaff contact of anyone else?
@@ -2022,7 +2022,7 @@
 2020;MARISHA;18!
 2021;MATT;18 does hit. His armor, with mage armor, of 16. Go ahead and roll damage on that. That's 2d6 plus three plus 1d4 because of your explosive feat.
 2022;MARISHA;Six plus three plus two, so 11 damage.
-2023;MATT;"11 points of damage and he is on fire. As he looks over and is like, ""My friends. What?!"" (explosion) He's screaming on fire."
+2023;MATT;"11 points of damage and he is on fire. As he looks over and is like, """"My friends. What?!"""" (explosion) He's screaming on fire."
 2024;PHIL;Water balloon from hell.
 2025;IVAN;Whee!
 2026;MATT;That's Snizzler's turn. Piglet, you're up.
@@ -2032,10 +2032,10 @@
 2030;ASHLY;As expected, I rage. I'm going to do the Skullbreaker on him.
 2031;MATT;Go for it. Leaping in the air.
 2032;ASHLY;Oh no! That was terrible! 11.
-2033;MATT;"You go and swing with the hammer, and because the flames are hot in your face, you swing wide and end up smashing part of the cart instead.|He looks at you through the fire going, ""No!"""
+2033;MATT;"You go and swing with the hammer, and because the flames are hot in your face, you swing wide and end up smashing part of the cart instead.|He looks at you through the fire going, """"No!"""""
 2034;TALIESIN;Can you take a bite?
 2035;ASHLY;No.
-2036;MATT;"You have to be right up close to do that.|That finishes your turn, Piglet. Everyone else is dead. The wizard is in the flames going, ""No!"" and put out his hands like this and a gout of fire like a flamethrower bursts from the arcane energies. Go ahead and roll d6 fire damage, by the way."
+2036;MATT;"You have to be right up close to do that.|That finishes your turn, Piglet. Everyone else is dead. The wizard is in the flames going, """"No!"""" and put out his hands like this and a gout of fire like a flamethrower bursts from the arcane energies. Go ahead and roll d6 fire damage, by the way."
 2037;MARISHA;Burn, wizard, burn! Another point of damage.
 2038;ASHLY;Man, that's going to be a bummer way to go out after I missed a hammer attack.
 2039;MATT;Go ahead and make a reflex save, if you could.
@@ -2086,7 +2086,7 @@
 2084;IVAN;Nose.
 2085;TALIESIN;Nose is good, we haven't done that.
 2086;PHIL;Right through his nose. Up the nose, into the brain.
-2087;MATT;"He's over there and he's like (heavy breathing). As he looks over, up to the sky, for the first time in his entire existence becoming a religious man. At the cathedral. The flames behind the cathedral from the mounting goblin hordes that are descending upon this square. He goes, ""Why?"" as the bolt strikes him right in the center. His eyes go wide and, slo-mo, (thud). The flames (sizzling) consuming the rest of his body on the ground."
+2087;MATT;"He's over there and he's like (heavy breathing). As he looks over, up to the sky, for the first time in his entire existence becoming a religious man. At the cathedral. The flames behind the cathedral from the mounting goblin hordes that are descending upon this square. He goes, """"Why?"""" as the bolt strikes him right in the center. His eyes go wide and, slo-mo, (thud). The flames (sizzling) consuming the rest of his body on the ground."
 2088;MARISHA;Whoa! That was rad! Rad!
 2089;MATT;You guys can now hear the screams in the distance still growing louder. You can barely see the shadows of the Seven-Tooth goblin horde coming down the mountain, coming through the alleyway here.
 2090;TALIESIN;Back to the sewers!
@@ -2124,12 +2124,12 @@
 2122;ASHLY;Aren't you? That was pretty sick.
 2123;MATT;You head past to the west side of the Devil's Platter Mountains to the home of where your--
 2124;PHIL;Old Guffeye.
-2125;MATT;"Yep. Where Old Guffeye is. You head back into her cavernous abode. She sits there waiting.|There's a smell of extremely nasty boiling liquid.|She spins around. ""You! You've returned! And do you bring me the promised stone?"""
+2125;MATT;"Yep. Where Old Guffeye is. You head back into her cavernous abode. She sits there waiting.|There's a smell of extremely nasty boiling liquid.|She spins around. """"You! You've returned! And do you bring me the promised stone?"""""
 2126;ASHLY;Well, I helped a lot! But--
 2127;PHIL;I brought the stone!
-2128;MATT;"""Give me it. Give it to me."""
+2128;MATT;"""""Give me it. Give it to me."""""
 2129;PHIL;I hand to her.
-2130;MATT;"She takes the stone. ""Yes!"" The Lady's blessing upon you all. She spins around, drops the stone in the pot and begins stirring it. ""Stone soup for meal tonight! Flavored well with victory.|You've earned a fine meal, my goblins!"" (cheering)|As she pours you all your evening's meal of boom-boom stone soup, you recount the tales of the horrible slaughter that befell those who walked in your path. You realize you managed to bring back a trench coat as part of your victory prize."
+2130;MATT;"She takes the stone. """"Yes!"""" The Lady's blessing upon you all. She spins around, drops the stone in the pot and begins stirring it. """"Stone soup for meal tonight! Flavored well with victory.|You've earned a fine meal, my goblins!"""" (cheering)|As she pours you all your evening's meal of boom-boom stone soup, you recount the tales of the horrible slaughter that befell those who walked in your path. You realize you managed to bring back a trench coat as part of your victory prize."
 2131;PHIL;Stir in a little bit of dried meat with it.
 2132;IVAN;We throw it on top of our trophy pile.
 2133;TALIESIN;And an empty snuff box tin.
@@ -2154,10 +2154,10 @@
 2152;TALIESIN;I was prepared to go down in a blaze of glory.
 2153;ASHLY;Yeah, me too! I thought we were all going to die.
 2154;MATT;For those who weren't aware, the Attack on Sandpoint is actually the very first encounter adventure in The Rise of the Runelords campaign setting and adventure guide for Pathfinder. You guys played the other half of that battle. What's normally the first fight for the heroes, they got slaughtered by five goblins.
-2155;ASHLY;"So this merry band of people came together, are like, ""We're going adventuring!"" Their first day out, they fight a group of goblins that beheaded all of them."
+2155;ASHLY;"So this merry band of people came together, are like, """"We're going adventuring!"""" Their first day out, they fight a group of goblins that beheaded all of them."
 2156;IVAN;In an alternate dimension, we TPKed another Pathfinder game.
 2157;TALIESIN;Congratulations, we are the darkest timeline.
-2158;MARISHA;"Somewhere, there's a whole new set of gamers being like, ""This RPG shit's bullshit. I died at level two. It was stupid. I'm over it."""
+2158;MARISHA;"Somewhere, there's a whole new set of gamers being like, """"This RPG shit's bullshit. I died at level two. It was stupid. I'm over it."""""
 2159;MATT;Well done, guys.
 2160;IVAN;Thank you, Matt!
 2161;ASHLY;Thank you, Matt! Amazing!
@@ -2200,7 +2200,7 @@
 2198;MATT;It's really cool stuff. If you have spells, like a fire spell, which you didn't get to hear over the music when you burst into flame last time.
 2199;MARISHA;Did you do it, though?
 2200;MATT;Yeah.
-2201;TALIESIN;"This, by the way, is what an evening at Matt Mercer's house is like. He's sitting going, ""Look at this!"" (trombone)"
+2201;TALIESIN;"This, by the way, is what an evening at Matt Mercer's house is like. He's sitting going, """"Look at this!"""" (trombone)"
 2202;MATT;I make the sounds happen!
 2203;TALIESIN;This was Sunday evening, pretty much.|Add YouTube and that's pretty much it.
 2204;MARISHA;Yeah, we don't do a lot when we have the opportunity.

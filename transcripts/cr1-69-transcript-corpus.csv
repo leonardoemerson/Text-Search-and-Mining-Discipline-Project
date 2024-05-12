@@ -74,17 +74,17 @@
 72;LIAM;Hold on a second. I walk over. Do you have the blade?
 73;MATT;(stammers) He looks down and he seems to have dropped it after everything that transpired.|And he picks it up and holds it.
 74;LIAM;I've come a long way for that.
-75;MATT;"""Take it."" He throws it to your feet and it spins and scatters and comes to a halt at the tip of your boot"
+75;MATT;"""""Take it."""" He throws it to your feet and it spins and scatters and comes to a halt at the tip of your boot"
 76;LIAM;Wait here a moment, please. I bend down, I take the knife, and I walk it over to Keyleth and put it in her hands. And I walk back to him. How?
-77;MATT;"""I didn't mean for any of this to happen."""
+77;MATT;"""""I didn't mean for any of this to happen."""""
 78;LIAM;How? There are people behind me who want you dead, and I cannot blame them. How?
-79;MATT;"""I wouldn't blame them, either. Look, after we met, I was hurt. I was angry. I knew I could be someone, despite what you told me, and I could prove it, prove that I was worth your attention.|And I left Emon and my home to seek that destiny and I'm sure many of you did the same."""
+79;MATT;"""""I wouldn't blame them, either. Look, after we met, I was hurt. I was angry. I knew I could be someone, despite what you told me, and I could prove it, prove that I was worth your attention.|And I left Emon and my home to seek that destiny and I'm sure many of you did the same."""""
 80;LIAM;Do you know what shape Emon is in right now? And this is what you choose to do with your time?
-81;MATT;"""You don't know what I've been through!"""
+81;MATT;"""""You don't know what I've been through!"""""
 82;LIAM;What has that man done to you? What has she done to you? What have any of them, except for me, done to you? And what have I done except be an asshole?
-83;MATT;"""Look, when she picked me up in Kymal, she taught me a lot. I learned a lot. She also told me that you weren't who I thought you were. When everything went down in Emon, with the dragons.|She said you did that!"""
+83;MATT;"""""Look, when she picked me up in Kymal, she taught me a lot. I learned a lot. She also told me that you weren't who I thought you were. When everything went down in Emon, with the dragons.|She said you did that!"""""
 84;LIAM;Summoned the dragons?
-85;MATT;"""You were responsible for it. She had me listen in to a conversation where you admitted that it was your fault."""
+85;MATT;"""""You were responsible for it. She had me listen in to a conversation where you admitted that it was your fault."""""
 86;LIAM;I'd like to make an insight check.
 87;MATT;Go for it.
 88;LIAM;(sighs) No.
@@ -92,20 +92,20 @@
 90;LIAM;Kynan, what am I to do with you?
 91;LAURA;We'll deal with him later.
 92;LIAM;I ought to cut the heart from your ribs. I ought to cut out my own! Is there anyone else here, now? Is that it?
-93;MATT;"""Well, we went back to the cavern to set up, but you got here too quickly--"""
+93;MATT;"""""Well, we went back to the cavern to set up, but you got here too quickly--"""""
 94;LIAM;How long have you been here?
-95;MATT;"""Only a few hours."""
+95;MATT;"""""Only a few hours."""""
 96;LIAM;A few hours was all it took for that? Are there more of you?
-97;MATT;"""We have a few people on the ship."""
+97;MATT;"""""We have a few people on the ship."""""
 98;TRAVIS;Not anymore.
 99;LIAM;Listen to me. I don't know what's going to happen in the next 24 hours for you, but the best thing you can do right now is help us. When anyone asks you to do something, you do it.
-100;MATT;"""Well, I would ask for a chance to redeem myself, but I am also beginning to understand what I've done. And I accept whatever judgment you see fit. Just know that-- just know that I've been very confused."""
+100;MATT;"""""Well, I would ask for a chance to redeem myself, but I am also beginning to understand what I've done. And I accept whatever judgment you see fit. Just know that-- just know that I've been very confused."""""
 101;LIAM;Look at me. Kynan, look at me. You help right now. Put all that out of your mind. Right now, you help. Can you do that?
-102;MATT;"(whispering) ""How can I help?"""
+102;MATT;"(whispering) """"How can I help?"""""
 103;LIAM;Just do whatever we ask.
-104;MATT;"""Whatever you want me to tell you. I know a little bit. Anything, just let me know."""
+104;MATT;"""""Whatever you want me to tell you. I know a little bit. Anything, just let me know."""""
 105;LIAM;We're going to table this. Just be Johnny-on-the-spot right now, all right?
-106;MATT;"""Okay."""
+106;MATT;"""""Okay."""""
 107;LAURA;(tearfully) Grog? Can you pick him up? Percy?
 108;TRAVIS;Yeah. Where am I taking him?
 109;MARISHA;I have nothing left. I have no way to get us out of here quickly right now.
@@ -189,7 +189,7 @@
 187;TRAVIS;Can I see the little stone with the runes on it?
 188;SAM;Why don't we ask Kynan what it is? Maybe he's seen her use it.
 189;TRAVIS;Kynan, what is this?
-190;MATT;"""That's what she used to listen in on you guys."""
+190;MATT;"""""That's what she used to listen in on you guys."""""
 191;MARISHA;Ugh. Hang on, wait let me see it. Does it look like the other Scrying Stone that we have?
 192;MATT;No. It's a very different enchantment. This one looks a little simpler, and upon looking at it there's no magic left in it. You did disenchant the other side of the enchantment, of her old gun.
 193;TRAVIS;What about the little latch box that's closed?
@@ -200,13 +200,13 @@
 198;SAM;Should I take it out and take a look?
 199;TRAVIS;Read that.
 200;LAURA;Have you seen her messing with that, Kynan?
-201;MATT;"""That was something we found in the cave when we got here. But she quickly grabbed it and put it away and wouldn't tell us what it was."""
+201;MATT;"""""That was something we found in the cave when we got here. But she quickly grabbed it and put it away and wouldn't tell us what it was."""""
 202;LIAM;What is this cave?
-203;MATT;"""I only got to the outside of it. I was standing guard."""
+203;MATT;"""""I only got to the outside of it. I was standing guard."""""
 204;TRAVIS;So you haven't been inside?
-205;MATT;"""No."""
+205;MATT;"""""No."""""
 206;LIAM;How far off?
-207;MATT;"""Maybe a couple of miles. It's at the base of the mountain."""
+207;MATT;"""""Maybe a couple of miles. It's at the base of the mountain."""""
 208;TRAVIS;What if that was her escape route? What if there's a way out?
 209;SAM;Yeah, could be. I'll open it and look it over.
 210;MATT;Okay. Make an arcana check.
@@ -353,37 +353,37 @@
 351;LIAM;We'll just hold onto it for now.
 352;SAM;Okay.
 353;LAURA;I'll fly up to the airship.
-354;MATT;"Okay. It's a little ways south of the island, but it was at the ready. All of its various arbalest setups are still ready for war.|They're basically just waiting for your guys' order to come and attack. As you come to the edge, you see Captain Damon immediately rush up and goes, ""We saw some sort of explosion on the island. Is everyone all right?"" Immediately his expression drops, and he steps on to the back of his heels and drops his hands in front of him in a very business-type setup. ""I'm sorry."""
+354;MATT;"Okay. It's a little ways south of the island, but it was at the ready. All of its various arbalest setups are still ready for war.|They're basically just waiting for your guys' order to come and attack. As you come to the edge, you see Captain Damon immediately rush up and goes, """"We saw some sort of explosion on the island. Is everyone all right?"""" Immediately his expression drops, and he steps on to the back of his heels and drops his hands in front of him in a very business-type setup. """"I'm sorry."""""
 355;LAURA;We're going to find another way back home.|You can take the airship back to Ank'Harel if you want.
-356;MATT;"""Where are you going?"""
+356;MATT;"""""Where are you going?"""""
 357;LAURA;Somewhere with... clerics. I don't know.
-358;MATT;"""Very good. I guess, if you need me and my crew, come find us in Ank'Harel."""
+358;MATT;"""""Very good. I guess, if you need me and my crew, come find us in Ank'Harel."""""
 359;LAURA;Of course. Thank you.
-360;MATT;"""Safe travels. Crew!"" And he starts shouting out to the rest of everyone on the deck. As you coast off, you hear him shouting at a distance over the wind, ""We're going home.|Whatever that is these days."" You hear the flare of various magical crystals.|The vibration creaks. They glow a brighter blue as the ship turns around."
+360;MATT;"""""Safe travels. Crew!"""" And he starts shouting out to the rest of everyone on the deck. As you coast off, you hear him shouting at a distance over the wind, """"We're going home.|Whatever that is these days."""" You hear the flare of various magical crystals.|The vibration creaks. They glow a brighter blue as the ship turns around."
 361;LAURA;Oh shit. I go back.|(laughter)
 362;MARISHA;Did you leave your purse?
 363;LAURA;Oh, my wallet! No, but I go back up and I say to Captain Damon: Are you willing to join a fight?
-364;MATT;"""Explain."""
+364;MATT;"""""Explain."""""
 365;LAURA;Those dragons destroyed our home. We could use an airship in the fight against them.
-366;MATT;"""We're outfitted to take down relatively dangerous prey, but--"""
+366;MATT;"""""We're outfitted to take down relatively dangerous prey, but--"""""
 367;LAURA;You wouldn't be fighting alone.
-368;MATT;"""I mean no offense here, and the honorable goal is fantastic, but I also have a crew to feed."""
+368;MATT;"""""I mean no offense here, and the honorable goal is fantastic, but I also have a crew to feed."""""
 369;LAURA;Of course. There's a lot of gold there. A lot of riches.
 370;MATT;Make a persuasion roll.
 371;LAURA;I've been rolling so well tonight.
 372;LIAM;This is the one.
 373;LAURA;20?
-374;MATT;"""We'll learn the details later, but I'm happy to help. Convincing them will take some coin, but where would you like us to go?"""
+374;MATT;"""""We'll learn the details later, but I'm happy to help. Convincing them will take some coin, but where would you like us to go?"""""
 375;LAURA;(quietly) Oh shit. Should I?
 376;SAM;We're not there.
 377;LAURA;(sighs) Do you know where Whitestone is?
-378;MATT;"""I've not been there, but I can figure it out."""
+378;MATT;"""""I've not been there, but I can figure it out."""""
 379;LAURA;It's in the mountains.
-380;MATT;"He looks over, and you can see Teera, who is the halfling with the rotted teeth, comes up and goes, ""I know that's by the Alabaster Sierras.|I can get us there."""
+380;MATT;"He looks over, and you can see Teera, who is the halfling with the rotted teeth, comes up and goes, """"I know that's by the Alabaster Sierras.|I can get us there."""""
 381;LAURA;I'm trusting you with that location.
-382;MATT;"""All right."" She bows her head and backs away, uncomfortable with the tension of the situation.|Captain Damon goes, ""We'll meet you in Whitestone."""
+382;MATT;"""""All right."""" She bows her head and backs away, uncomfortable with the tension of the situation.|Captain Damon goes, """"We'll meet you in Whitestone."""""
 383;LAURA;Thank you.
-384;MATT;"""Safe travels."""
+384;MATT;"""""Safe travels."""""
 385;LAURA;You, as well.
 386;MATT;The ship continues making its way southward, turning around slowly to start turning more northeast direction. You guys watch as you see the ship go overhead from the island, heading in the opposite direction of Ank'Harel. Eventually, Vex makes her way back to your location on the island.
 387;SAM;How'd it go with Damon?
@@ -418,9 +418,9 @@
 416;LAURA;Thank you, you already said it.|You said it's mine. It's mine.|I take one of the blankets, and I cover up Percy.
 417;MATT;You take that and cover him up and put him currently to rest on the ground.|Kynan is still by the door.
 418;LIAM;Come here. Two things. One, there's blue people all over the place in here.|Don't pay them any mind.
-419;MATT;"""Yeah."""
+419;MATT;"""""Yeah."""""
 420;LIAM;Stay in the room, but give us a little bit of space.
-421;MATT;"""Of course."""
+421;MATT;"""""Of course."""""
 422;LIAM;Hey. We'll work it out. Have faith.
 423;MATT;He doesn't say anything.
 424;LIAM;I go back to the group.
@@ -459,10 +459,10 @@
 457;MATT;As you guys arrive, a number of people who live in Whitestone--
 458;LAURA;What?
 459;TRAVIS;Yeah, around my shoulders. Yeah. No.|Fireman carry.
-460;MATT;"As you guys begin walking away from the Sun Tree, you can see a bunch of townsfolk and some guards begin to walk up to greet you, and be like, ""You've returned--"" Immediately, the energy is felt and everyone steps away and gives you space as people begin to see the limp body of Percival being held over Grog's shoulder."
+460;MATT;"As you guys begin walking away from the Sun Tree, you can see a bunch of townsfolk and some guards begin to walk up to greet you, and be like, """"You've returned--"""" Immediately, the energy is felt and everyone steps away and gives you space as people begin to see the limp body of Percival being held over Grog's shoulder."
 461;LAURA;Someone should get Cassandra.
 462;MARISHA;Immediately. Tell them we're coming. To prepare quarters.
-463;MATT;"""Right away."" The guard rushes off up towards the Castle Whitestone. Are you guys walking towards the Castle Whitestone, as well?"
+463;MATT;"""""Right away."""" The guard rushes off up towards the Castle Whitestone. Are you guys walking towards the Castle Whitestone, as well?"
 464;SAM;That's where Pike is, right?
 465;LAURA;Is she building a temple here?
 466;MATT;There is a temple being built here, yes.
@@ -573,7 +573,7 @@
 571;MARISHA;Pike, I can try Greater Restoration, if you want to save your healing magic.|Do you want me to try it?
 572;ASHLEY;I mean, in case this doesn't work--
 573;MARISHA;I'll try to recreate what Pike did to Grog.
-574;MATT;"You take Animus from her, the pepperbox, and even holding it there is this dark weight to it.|It feels like lead and cold in your hands. As you concentrate, channeling the divine druidic energies that currently you're focusing into it, your vision comes to a similar dark, shadowy mass that Pike had seen during the attempt at the resurrection ritual. You can see there is indeed a connection, there is a tangible gateway between this weapon and Orthax, the shadow demon.|There, enveloped in the darkness, you can sense in your heart of hearts: that's where Percy lies.|As you begin to focus on Greater Restoration, you begin to feel the nature of the curse that binds him to it. And you reach out in this space. You guys watch as Keyleth reaches out into the air of nothing, but within your sight and your vision, you can see that thread, and you grasp it.|As you hold it with your fingers, you feel it fight. You watch as Keyleth's hand bolts around with nothing in her grasp. You hear the voice whisper, ""No! No, I finally have him. I finally--"" And with that, you snap with your fist.|The shadow screams and vanishes and there you see a brief glimmer of light, the remaining spirit of Percival as it drifts off into the Astral Sea."
+574;MATT;"You take Animus from her, the pepperbox, and even holding it there is this dark weight to it.|It feels like lead and cold in your hands. As you concentrate, channeling the divine druidic energies that currently you're focusing into it, your vision comes to a similar dark, shadowy mass that Pike had seen during the attempt at the resurrection ritual. You can see there is indeed a connection, there is a tangible gateway between this weapon and Orthax, the shadow demon.|There, enveloped in the darkness, you can sense in your heart of hearts: that's where Percy lies.|As you begin to focus on Greater Restoration, you begin to feel the nature of the curse that binds him to it. And you reach out in this space. You guys watch as Keyleth reaches out into the air of nothing, but within your sight and your vision, you can see that thread, and you grasp it.|As you hold it with your fingers, you feel it fight. You watch as Keyleth's hand bolts around with nothing in her grasp. You hear the voice whisper, """"No! No, I finally have him. I finally--"""" And with that, you snap with your fist.|The shadow screams and vanishes and there you see a brief glimmer of light, the remaining spirit of Percival as it drifts off into the Astral Sea."
 575;MARISHA;I scream: Percy!
 576;MATT;The spell finishes. The gun itself, you guys see a flash of shadow around it, and it dulls.|All the names on the side vanish as well.|The barrels are now clean.
 577;MARISHA;Pike, do it!
@@ -690,16 +690,16 @@
 688;TALIESIN;Not now.
 689;LIAM;Yeah, your sister's going to be running up in here very soon.
 690;TALIESIN;Oh god, no. I'm going to lie back down.
-691;MATT;"At which point, the door slams open and Cassandra's there with what appears to be Seeker Asum and a couple of the guards from Whitestone.|""Where is he? Is he all right?"""
+691;MATT;"At which point, the door slams open and Cassandra's there with what appears to be Seeker Asum and a couple of the guards from Whitestone.|""""Where is he? Is he all right?"""""
 692;TALIESIN;I'm going to throw up.
-693;MATT;"""Oh, he's all right."" (laughter)|""You scared me. I heard he was--"""
+693;MATT;"""""Oh, he's all right."""" (laughter)|""""You scared me. I heard he was--"""""
 694;LAURA;Everything's fine, dear.
-695;MATT;"She walks up to you at the table and leans over and, ""Stop getting into trouble, brother.|Please?"""
+695;MATT;"She walks up to you at the table and leans over and, """"Stop getting into trouble, brother.|Please?"""""
 696;TALIESIN;Well, just a few more dragons and I'll take a break. It'll be fine. I'm tired.
-697;MATT;"She runs her fingers through your hair a couple of times and looks down. Her stern expression melts into a warmth and appreciation.|And she feels the coldness of the body and goes-- You can see her putting together the setup, the ritual, your emotional state and the damp cheeks.|She looks over towards you, Pike, and nods and says, ""Thank you."""
+697;MATT;"She runs her fingers through your hair a couple of times and looks down. Her stern expression melts into a warmth and appreciation.|And she feels the coldness of the body and goes-- You can see her putting together the setup, the ritual, your emotional state and the damp cheeks.|She looks over towards you, Pike, and nods and says, """"Thank you."""""
 698;ASHLEY;You're welcome.
 699;TALIESIN;(sighs heavily)
-700;MATT;"""Get some food in you and stop being so bloody useless,"" and slaps you upside the face and turns around and leaves the temple."
+700;MATT;"""""Get some food in you and stop being so bloody useless,"""" and slaps you upside the face and turns around and leaves the temple."
 701;TALIESIN;If everybody had just slapped my face while I was dead, that would have been so much more convenient.
 702;LAURA;Who says we didn't?
 703;LIAM;That wasn't the worst of it.
@@ -771,9 +771,9 @@
 769;TALIESIN;I don't know if cozy is really the point. I'm going to lie down somewhere soft.
 770;TRAVIS;We should all go back to the castle, then.
 771;MARISHA;I'll go dump a few healing spells and stuff into him. Let's get you to lie down first.
-772;MATT;"So you go and heal him up. You guys make your way back to the castle. The guards are there waiting. As you enter, you can see there, sitting in the foyer, talking and discussing, is Jarett and Gilmore, who both look a little nervous and intense about apparently recently hearing what happened. As soon as you enter, Gilmore turns. ""I take that as a good sign. He's standing."""
+772;MATT;"So you go and heal him up. You guys make your way back to the castle. The guards are there waiting. As you enter, you can see there, sitting in the foyer, talking and discussing, is Jarett and Gilmore, who both look a little nervous and intense about apparently recently hearing what happened. As soon as you enter, Gilmore turns. """"I take that as a good sign. He's standing."""""
 773;TALIESIN;I am literally using my gun as a crutch.
-774;MATT;"""Oh, come here, you white-haired fool!"" Then he runs forward and lifts you up with a hug that hurts so much. He holds you up for a second and sets you back down. ""I know that hurt."" (laughter)|""And what did we learn? Don't get killed again!"""
+774;MATT;"""""Oh, come here, you white-haired fool!"""" Then he runs forward and lifts you up with a hug that hurts so much. He holds you up for a second and sets you back down. """"I know that hurt."""" (laughter)|""""And what did we learn? Don't get killed again!"""""
 775;TALIESIN;Third time's the charm, in theory.|Should we show them what we got?
 776;SAM;What do we have?
 777;MARISHA;You heal 48 hit points, by the way.
@@ -787,7 +787,7 @@
 785;LAURA;I pull out the cloak.
 786;MATT;Okay.
 787;SAM;Get it identified.
-788;MATT;"Gilmore goes, ""I see you've also been prolific.|Here, let me have a look."" He takes the cloak and folding it over his hands, you see the sparkle of energy through the blue inside of it. He's like, ""Very interesting."" He puts his hand over it, and his eyes flare with arcane energy. ""This is indeed Cabal's Ruin, one of the Vestiges of Divergence.|Well, to be specific about this: once attuned to whoever's wearing it, you have advantage on saving throws against spells and other magical effects, which is pretty badass, if I do say so myself. Also, when you're hit by some sort of asshole's spell out there, you can use your reaction to have the cloak swallow part of it.|You halve the damage you take from the spell, if there's any damage to be taken, and the cloak gains a number of charges equal to the spell level of the triggering spell."""
+788;MATT;"Gilmore goes, """"I see you've also been prolific.|Here, let me have a look."""" He takes the cloak and folding it over his hands, you see the sparkle of energy through the blue inside of it. He's like, """"Very interesting."""" He puts his hand over it, and his eyes flare with arcane energy. """"This is indeed Cabal's Ruin, one of the Vestiges of Divergence.|Well, to be specific about this: once attuned to whoever's wearing it, you have advantage on saving throws against spells and other magical effects, which is pretty badass, if I do say so myself. Also, when you're hit by some sort of asshole's spell out there, you can use your reaction to have the cloak swallow part of it.|You halve the damage you take from the spell, if there's any damage to be taken, and the cloak gains a number of charges equal to the spell level of the triggering spell."""""
 789;LIAM;All this arcane terminology is fascinating.
 790;MATT;It's the filter of game rules. You don't get a Vestige now! You get Whisper, Keyleth.|(laughter)|Essentially, what this does is you can use your reaction to swallow a spell if you're hurt by one. Even if you're not hurt by it, you can still swallow a spell. You can only use it once per short rest. But it does half damage to you and-- (static from Ashley's microphone)
 791;LIAM;Excuse you.
@@ -811,22 +811,22 @@
 809;TRAVIS;What about the other Vestige?
 810;SAM, LAURA, MARISHA;Whisper.
 811;LIAM;How are you doing, Shaun?
-812;MATT;"""What do you mean? I'm doing fantastic."""
+812;MATT;"""""What do you mean? I'm doing fantastic."""""
 813;LIAM;How are you holding up?
-814;MATT;"""It's a little rough, but it's okay."" (chuckles) ""I'm doing my job just as you are.|I mean, you all look tired, exhausted, and emotionally drained. So do I! So I think we're all doing our part."""
+814;MATT;"""""It's a little rough, but it's okay."""" (chuckles) """"I'm doing my job just as you are.|I mean, you all look tired, exhausted, and emotionally drained. So do I! So I think we're all doing our part."""""
 815;MARISHA;Your parents are lovely, by the way.
-816;MATT;"(chuckles) ""Ah, yes."""
+816;MATT;"(chuckles) """"Ah, yes."""""
 817;MARISHA;Thank you so much again.
 818;TRAVIS;We gave them a bunch of water.
 819;SAM;Didn't he give us something to give to them? Did we do that? Yes, we gave them what you told us to.
 820;LAURA;The locket.
-821;MATT;"""Thank you. I appreciate that."""
+821;MATT;"""""Thank you. I appreciate that."""""
 822;MARISHA;We told them you're doing great and we told them you were doing fantastic and wonderful and successful.
-823;MATT;"""Well, thank you. When all this is done, I should go visit. It's been a while."""
+823;MATT;"""""Well, thank you. When all this is done, I should go visit. It's been a while."""""
 824;LIAM;They seem very proud of you.
-825;MATT;"""Taken a while."""
+825;MATT;"""""Taken a while."""""
 826;SAM;They told us you weren't potty-trained until you were six. Is that true?
-827;MATT;"""Give me your dagger."" He takes it, runs his fingers on the blade. The slight curvature to it out there to the point. He does his Identify.|Forged with a mercurial metal pulled from the Far Realm. Light dances and shifts across this curved blade. It has a plus three bonus to attack and damage rolls made with the dagger. It also deals an additional 1d8 psychic damage on a hit.|Whenever Whisper is thrown, you can choose to transform into shadow and merge with the blade, teleporting instantly to wherever the blade impacts. Which means you can teleport as far as you can throw the dagger, which is the max range of the dagger. Yeah, so 60 feet, you go wherever it throws to. If the target is a creature, you emerge adjacent to the target in a space of your choice around the creature. Whenever you critically hit a creature with an attack with Whisper, the target has to make a wisdom saving throw against a DC 18 or become frightened of you for one minute."
+827;MATT;"""""Give me your dagger."""" He takes it, runs his fingers on the blade. The slight curvature to it out there to the point. He does his Identify.|Forged with a mercurial metal pulled from the Far Realm. Light dances and shifts across this curved blade. It has a plus three bonus to attack and damage rolls made with the dagger. It also deals an additional 1d8 psychic damage on a hit.|Whenever Whisper is thrown, you can choose to transform into shadow and merge with the blade, teleporting instantly to wherever the blade impacts. Which means you can teleport as far as you can throw the dagger, which is the max range of the dagger. Yeah, so 60 feet, you go wherever it throws to. If the target is a creature, you emerge adjacent to the target in a space of your choice around the creature. Whenever you critically hit a creature with an attack with Whisper, the target has to make a wisdom saving throw against a DC 18 or become frightened of you for one minute."
 828;LIAM;Well, it's either Pike or me.|(laughter)
 829;LAURA;What about Keyleth?
 830;MATT;It's up to you guys.
@@ -853,25 +853,25 @@
 851;LIAM;Yeah, all of these.
 852;MATT;You have to be attuned to Whisper, yeah.
 853;TRAVIS;Somebody else can have it.
-854;MATT;"""If there was anything else you need me to look at, I still have a full score of simple tricks."""
+854;MATT;"""""If there was anything else you need me to look at, I still have a full score of simple tricks."""""
 855;TRAVIS;Simple tricks?
-856;MATT;"""Is there anything else you want me to look at before I go to bed, because it's late."""
+856;MATT;"""""Is there anything else you want me to look at before I go to bed, because it's late."""""
 857;LIAM;What time is it, Shaun?
 858;MATT;At this point now, the sun has gone down.|It's, I'd say, nine in the evening.
 859;LIAM;Nine. Percival, you should go to bed.
 860;LAURA;Wait, I have an old music box. Can you look at it and see if it's magical?
 861;TRAVIS;An old wooden music box?
-862;MATT;"He takes the music box. Eyes flare up. ""No, it's an impressive music box."""
+862;MATT;"He takes the music box. Eyes flare up. """"No, it's an impressive music box."""""
 863;LAURA;Just a music box? Lovely.
 864;SAM;Hey, you read Marquesan. The language of Marquet.
 865;MATT;Marquesian, but yeah.
 866;SAM;Marquesian. I got this book, found this book in this shitty casino office. It's written in Marquesian.
-867;MATT;"""Don't pronounce it, please. It's offensive.|Huh. Well."" He blushes a little and closes it.|""I think it found the right owner."""
+867;MATT;"""""Don't pronounce it, please. It's offensive.|Huh. Well."""" He blushes a little and closes it.|""""I think it found the right owner."""""
 868;SAM;Oh. It's a porno.
-869;MATT;"""It's an instructional guide. You might learn something."""
+869;MATT;"""""It's an instructional guide. You might learn something."""""
 870;LAURA;It's an instructional guide?
 871;SAM;I can't read it, though. How will I learn?
-872;MATT;"""Maybe you start taking classes in Marquesian."""
+872;MATT;"""""Maybe you start taking classes in Marquesian."""""
 873;LAURA;Are there any illustrations?
 874;LIAM;Yeah, pictures. You like pictures, Scanlan.
 875;SAM;Are there?
@@ -883,42 +883,42 @@
 881;SAM;I don't think so.
 882;TRAVIS;No, I believe there is something you acquired for one of these two gents.
 883;SAM;Ix-nay on the ice-spay. There are authorities around.
-884;TRAVIS;"Why are you calling spice ""ice-spay?"""
+884;TRAVIS;"Why are you calling spice """"ice-spay?"""""
 885;SAM;Grog, if someone hears you talking about this shit, you could be in deep trouble.
 886;TALIESIN;I literally am the law here.|I am literally the living embodiment of law and justice.
 887;SAM;Jarett.
-888;MATT;"""Yes? I'm glad to hear everyone is doing okay, and it's good to see you here in one piece.|How was your journey?"""
+888;MATT;"""""Yes? I'm glad to hear everyone is doing okay, and it's good to see you here in one piece.|How was your journey?"""""
 889;SAM;It was great! (quietly) Do you spice?
-890;MATT;"""Right!"""
+890;MATT;"""""Right!"""""
 891;SAM;We had a great time! (quietly) Do you spice, boss? Do you want to spice something?
-892;MATT;"""If you brought some, yes."""
+892;MATT;"""""If you brought some, yes."""""
 893;SAM;I like the way you look.|(laughter)|All right. I give him one bag of spice.
-894;MATT;"""That is a lot of fusaka. Thank you very much. That lasts a long time."""
+894;MATT;"""""That is a lot of fusaka. Thank you very much. That lasts a long time."""""
 895;LAURA;He spent 50 gold on it.
-896;MATT;"""You paid 50 gold for this?!"""
+896;MATT;"""""You paid 50 gold for this?!"""""
 897;SAM;For the pair.
-898;MATT;"""Oh, you got swindled, my friend!"" (laughter)|""But I appreciate it. It's very thoughtful."""
+898;MATT;"""""Oh, you got swindled, my friend!"""" (laughter)|""""But I appreciate it. It's very thoughtful."""""
 899;SAM;It was worth it to see the smile on your face.
-900;MATT;"""Well, thank you."""
+900;MATT;"""""Well, thank you."""""
 901;SAM;I'll keep this bag, if that's all right with you. I've grown quite accustomed to the stuff.|It's really quite lovely.
-902;MATT;"""Great! I'll give you some tips on how to prepare it, but you know what? I'll cook a classic Marquesian feast in the coming days for all of us in thank you for the spice."""
+902;MATT;"""""Great! I'll give you some tips on how to prepare it, but you know what? I'll cook a classic Marquesian feast in the coming days for all of us in thank you for the spice."""""
 903;LAURA;Thank you.
 904;LIAM;Oh, Jarett.
-905;MATT;"""Yes?"""
+905;MATT;"""""Yes?"""""
 906;LIAM;This is Kynan.
 907;MATT;Who's been ghosting you guys the whole time, looking extremely nervous.
 908;LIAM;Kynan has been telling me that he wanted to help protect Whitestone. He hasn't anywhere to live. He needs something to do with his time, and he has a fire in his belly and wants to serve.
-909;MATT;"""All right. A friend of you is a friend of ours. You are able-bodied?"" Kynan is taken aback by the whole thing. His eyes are wide, still staring at you. Slowly, he starts talking out the side of his mouth to Jarett. ""Yes.|Anything. Whatever I can do."" Jarett walks up and puts his hand on his shoulder and goes, ""Well, first off, you need to be more assertive. You are talking like a sniveling coward. You need to project your chest, shoulders back, and when you speak, you speak with intent and-- ah, it's late. We'll work on it tomorrow."""
+909;MATT;"""""All right. A friend of you is a friend of ours. You are able-bodied?"""" Kynan is taken aback by the whole thing. His eyes are wide, still staring at you. Slowly, he starts talking out the side of his mouth to Jarett. """"Yes.|Anything. Whatever I can do."""" Jarett walks up and puts his hand on his shoulder and goes, """"Well, first off, you need to be more assertive. You are talking like a sniveling coward. You need to project your chest, shoulders back, and when you speak, you speak with intent and-- ah, it's late. We'll work on it tomorrow."""""
 910;TALIESIN;I may have a thought for the boy later.
-911;MATT;"""Oh! Before I forget, this came for you, Keyleth."""
+911;MATT;"""""Oh! Before I forget, this came for you, Keyleth."""""
 912;MARISHA;What now?
 913;LAURA;A letter?
 914;SAM;(singing) Letters! We got letters!
-915;MATT;"""Traders came in. A parcel in your name.|Don't know who it's from."""
+915;MATT;"""""Traders came in. A parcel in your name.|Don't know who it's from."""""
 916;MARISHA;What did they look like?
 917;SAM;How did they get through the invisible wall?
 918;MARISHA;How do they know my name?
-919;MATT;"""I don't know. They were sent from Westruun, I think it was."""
+919;MATT;"""""I don't know. They were sent from Westruun, I think it was."""""
 920;TRAVIS;Oh shit. Open that.
 921;LAURA;What is it?
 922;MARISHA;It's got something thick in it, which isn't--
@@ -996,9 +996,9 @@
 994;TRAVIS;Oh, Pike, you're getting too strong for your own good!
 995;ASHLEY;(laughs) Hey! (laughter)|Oh man. Should we all have a drink or something?
 996;LIAM;Jarett, Shaun, can you get away?
-997;MATT;"Shaun goes, ""For a moment, maybe. I should probably rest, as well. Jarett?"" Jarett goes, ""You know what? Yes. Drink sounds nice. It's been a while. Good company."""
+997;MATT;"Shaun goes, """"For a moment, maybe. I should probably rest, as well. Jarett?"""" Jarett goes, """"You know what? Yes. Drink sounds nice. It's been a while. Good company."""""
 998;LIAM;Kynan, come on.
-999;MATT;"Kynan's still in shock and nods and slinks-- as he walks behind you, he walks with his head low and you can see he averts his gaze towards the ground, watching where he's going to be walking.|Gilmore individually gives you all a brief hug or handshake. ""I'm sure we'll talk more tomorrow.|I'm going to go join Percy's plan of action."""
+999;MATT;"Kynan's still in shock and nods and slinks-- as he walks behind you, he walks with his head low and you can see he averts his gaze towards the ground, watching where he's going to be walking.|Gilmore individually gives you all a brief hug or handshake. """"I'm sure we'll talk more tomorrow.|I'm going to go join Percy's plan of action."""""
 1000;TRAVIS;Can I walk over to Vax? So I'm assuming you're taking this little chick under your wing.
 1001;LIAM;Well, I'm not taking him with us to Draconia or anywhere, no.
 1002;TRAVIS;No, but you're sure he's clean?
@@ -1009,7 +1009,7 @@
 1007;MATT;You recognize him, Pike, as you say that, looking at him, though much more harrowed, a little more built than you last saw him, but this is the young man who was waiting for you guys outside of Greyskull Keep a few months back, asking to join, who was bright-eyed and inexperienced.
 1008;LIAM;And I clocked him.
 1009;ASHLEY;Oh yeah. Hi, again.
-1010;MATT;"""Hi."" It's one of the things where he's always looking down, but you step into his field of vision, already being shorter than him. As you're looking up at him with your gauntlets there at your side, he's looking at you, but he's also not wanting to look you in the eyes a little bit.|""Hello, Pike. It's good to see you."""
+1010;MATT;"""""Hi."""" It's one of the things where he's always looking down, but you step into his field of vision, already being shorter than him. As you're looking up at him with your gauntlets there at your side, he's looking at you, but he's also not wanting to look you in the eyes a little bit.|""""Hello, Pike. It's good to see you."""""
 1011;ASHLEY;Good to see you.
 1012;TRAVIS;Pike, do us a favor and give him a once-over. Make sure there's no funk on him.
 1013;LAURA;He was traveling with Ripley, Pike.
@@ -1035,63 +1035,63 @@
 1033;MATT;You don't sense any evil in the sense of what the spell would gather. You do sense from looking at his expression, his reaction, and what bit of information you have, this is a person that's been heavily brainwashed, and their idea of what the world was, or as it was, has been broken, probably many times. Kynan's in a rough spot, and the guilt is weighing so heavily on him right now that it's probably best that somebody keep an eye on him.
 1034;ASHLEY;I put my hand on his shoulder and I say: Kynan, you look like a man who feels like he's made a mistake, and you just need to turn that frown upside down.|(laughter)
 1035;SAM;Wise.
-1036;MATT;"Looking down at your smiling blue gnomish eyes, this broken boy of a man does mutter a slight chuckle in reaction, then catches himself and nods. ""I have a lot to think about.|I have a lot of penance to deal with. Thank you."""
+1036;MATT;"Looking down at your smiling blue gnomish eyes, this broken boy of a man does mutter a slight chuckle in reaction, then catches himself and nods. """"I have a lot to think about.|I have a lot of penance to deal with. Thank you."""""
 1037;ASHLEY;You're welcome.
-1038;MATT;"""Maybe a drink would help."""
+1038;MATT;"""""Maybe a drink would help."""""
 1039;ASHLEY;Of course. That always helps.
-1040;MATT;"Jarett smacks him on the shoulder. ""All right, then. Let's get this pup trashed. Follow me."" He leads you down to one of the two taverns.|The one that had been destroyed as part of the initial battle here in Whitestone has been constructed. The roof's still mostly missing, but they have a covering over it. It doesn't appear to be a rainy evening, so it should be fine. There's a handful of folk in there having drinks. Jarett treats you all to a round of finer ale of Whitestone brand. They don't have a large selection of rare imported drinks here, but it's enough to at least get the job done. Anything you guys want to do specifically while you're all having drinks tonight?"
+1040;MATT;"Jarett smacks him on the shoulder. """"All right, then. Let's get this pup trashed. Follow me."""" He leads you down to one of the two taverns.|The one that had been destroyed as part of the initial battle here in Whitestone has been constructed. The roof's still mostly missing, but they have a covering over it. It doesn't appear to be a rainy evening, so it should be fine. There's a handful of folk in there having drinks. Jarett treats you all to a round of finer ale of Whitestone brand. They don't have a large selection of rare imported drinks here, but it's enough to at least get the job done. Anything you guys want to do specifically while you're all having drinks tonight?"
 1041;TRAVIS;Wait, Jarett! While we were in your hood, I acquired this delicious little bit. And I pull out the sandkheg bottle. This is called Seraph's Swine Swallow. And I pour a little into a glass and I hand it to him.
-1042;MATT;"He goes, ""I am not familiar with this.|You say this is from Ank'Harel?"""
+1042;MATT;"He goes, """"I am not familiar with this.|You say this is from Ank'Harel?"""""
 1043;TRAVIS;Yeah, and it's all in one. Hit the back of the throat and swallow it all in one.
-1044;MATT;"""To friends?"""
+1044;MATT;"""""To friends?"""""
 1045;TRAVIS;Yes. To friends, and to health.
-1046;MATT;"""And to survival."""
+1046;MATT;"""""And to survival."""""
 1047;TRAVIS;And to fukasa. Sukasa. Mi casa.|(laughter)
 1048;MATT;Make a deception check.
 1049;TRAVIS;14.
-1050;MATT;"He gives you a keen look, looks to Vex, nods. ""To friends and trust."""
+1050;MATT;"He gives you a keen look, looks to Vex, nods. """"To friends and trust."""""
 1051;LIAM;It's so worth it.
 1052;TRAVIS;I take his cup. I pour a little, and I'm like, can't let him take this ride by himself.|I pound it, as well.
 1053;MATT;Make a constitution saving throw.
 1054;LAURA;Oh no!
 1055;TRAVIS;Not great. 13.
-1056;MATT;"The fiery rumble in your stomach is matched directly behind by the heavy flow of numbness that fills the entirety of your chest, jaw, and tongue.|Jarett goes, (heavily slurred) ""That was quite strong."""
+1056;MATT;"The fiery rumble in your stomach is matched directly behind by the heavy flow of numbness that fills the entirety of your chest, jaw, and tongue.|Jarett goes, (heavily slurred) """"That was quite strong."""""
 1057;TRAVIS;(slurred) I think so, too.
-1058;MATT;"(slurred) ""You fucker."" (laughter)|Slams the glass down. (slurred) ""Well, I'm not going to have any conversation for a while."" (laughter)"
+1058;MATT;"(slurred) """"You fucker."""" (laughter)|Slams the glass down. (slurred) """"Well, I'm not going to have any conversation for a while."""" (laughter)"
 1059;TRAVIS;(slurred) You're talking really funny.|Let's braid each other's hair.
-1060;MATT;"""Please don't. I think that I have far more than you do, and it's too short, anyway.|Be a waste of your time."" He became Castilian, suddenly."
+1060;MATT;"""""Please don't. I think that I have far more than you do, and it's too short, anyway.|Be a waste of your time."""" He became Castilian, suddenly."
 1061;LIAM;I get three drinks at the bar and I walk past Keyleth and leave one on the table by her and go and sit down by Kynan. I want to show you something. I bought these months ago. And I root around in my pack and I pull out the three finely made daggers that I bought.
 1062;LAURA;They were expensive!
 1063;LIAM;She's right. They were expensive. I'm actually not going to give them to you tonight because you're worrying me a little bit, but in a day or two, these are yours. I bought these for you months ago. I looked for you. I visited the butcher shop, and I missed you. I'm very sorry about that. I wish that this had not... I wish this had not played out the way it had.
-1064;MATT;"""Me, too."""
+1064;MATT;"""""Me, too."""""
 1065;LIAM;You can atone. It is not too late. I see the look in your eye. It is not too late.
 1066;MATT;He keeps looking over at Keyleth, and you see every time he sees her, he has that spike of guilt in his heart.
 1067;MARISHA;Yeah. You better, motherfucker.
 1068;LIAM;You fucked up, clearly. Big time. And you can either curl in on yourself and rot in a ball, or you can make up for it. You know what's going on in Tal'Dorei. You know what's going on. I spent too much time looking inward. It's pointless.|Be of use.
 1069;MATT;Make a persuasion check.
 1070;LIAM;I'm going to use Luck. That is a 17.
-1071;MATT;"Most of this conversation, his eyes have been darting away from connecting with yours. The evasion has been persistent, but as soon as those words finish, his eyes finally lock with yours and stay with you. He takes a beat and goes, ""I know what I've done. And there's no way I can express how sorry I am. The woman I followed, she was confident, she was persuasive, and she picked up what others wouldn't, and I bought into that.|And that shows once again that I was never ready to begin with, like you said, and I appreciate that wisdom in hindsight."""
+1071;MATT;"Most of this conversation, his eyes have been darting away from connecting with yours. The evasion has been persistent, but as soon as those words finish, his eyes finally lock with yours and stay with you. He takes a beat and goes, """"I know what I've done. And there's no way I can express how sorry I am. The woman I followed, she was confident, she was persuasive, and she picked up what others wouldn't, and I bought into that.|And that shows once again that I was never ready to begin with, like you said, and I appreciate that wisdom in hindsight."""""
 1072;LIAM;I was kind of a dick.
-1073;MATT;"""You were kind of a dick. But still. I'll do my best. I can't make any promises, but I'll do my best."""
+1073;MATT;"""""You were kind of a dick. But still. I'll do my best. I can't make any promises, but I'll do my best."""""
 1074;LIAM;That's all any of us can do.
-1075;MATT;"""Yeah."""
+1075;MATT;"""""Yeah."""""
 1076;LIAM;You're battered. You're not broken.|Do better.
-1077;MATT;"""Okay."""
+1077;MATT;"""""Okay."""""
 1078;LIAM;Drink up.
 1079;MATT;You guys share a silent drink.
 1080;MARISHA;I shoot him daggers whenever his eyes meet mine at one point.
 1081;MATT;And he immediately goes back to his drink and takes another sip.
 1082;ALL;Oh no!
-1083;MATT;"We're living in the broken future of technology. Thank you for your patience. So as Kynan's avoiding eye contact with Keyleth and getting progressively drunk as the evening goes on, occasionally, you see him smile hearing other bits of conversation. The positive presence, at least, of you guys being somewhat forgiving in the moment and the fact that Percy did come back alleviated some of his guilt. He's doing better than he was earlier, definitely, but he's still very inward.|Jarett is having hilarious conversation with Grog as it progresses. (slurred) ""It is great to have all of you back, and I hope my hometown was very kind to all of you. I do miss it, and perhaps when all this is said and done and I can get a proper-- maybe a writ of approval from you folks here at Whitestone.|Maybe they can absolve me of a couple of things on the books I would like to say goodbye to."""
+1083;MATT;"We're living in the broken future of technology. Thank you for your patience. So as Kynan's avoiding eye contact with Keyleth and getting progressively drunk as the evening goes on, occasionally, you see him smile hearing other bits of conversation. The positive presence, at least, of you guys being somewhat forgiving in the moment and the fact that Percy did come back alleviated some of his guilt. He's doing better than he was earlier, definitely, but he's still very inward.|Jarett is having hilarious conversation with Grog as it progresses. (slurred) """"It is great to have all of you back, and I hope my hometown was very kind to all of you. I do miss it, and perhaps when all this is said and done and I can get a proper-- maybe a writ of approval from you folks here at Whitestone.|Maybe they can absolve me of a couple of things on the books I would like to say goodbye to."""""
 1084;TRAVIS;(slurred) I can't understand what you're saying.
-1085;MATT;"(slurred) ""I can't understand what I'm saying. Where did you get this?"""
+1085;MATT;"(slurred) """"I can't understand what I'm saying. Where did you get this?"""""
 1086;TRAVIS;(slurred) It is the best!
-1087;MATT;"(slurred) ""It's pretty great."""
+1087;MATT;"(slurred) """"It's pretty great."""""
 1088;ASHLEY;What is it?
 1089;LAURA;Oh, Pike!
 1090;MARISHA;Pike, you have to try some!
 1091;TRAVIS;(slurred) Pike, do you want a little bit?
-1092;MATT;"(slurred) ""You have to have some. It's not very tasty, I'll tell you that, but let me tell you, what it will do is this."""
+1092;MATT;"(slurred) """"You have to have some. It's not very tasty, I'll tell you that, but let me tell you, what it will do is this."""""
 1093;ASHLEY;That's okay. You don't drink alcohol for the taste.
 1094;TRAVIS;That's my monster! And I pour her a little glass.
 1095;MATT;All right. Do you down the shot, Pike?
@@ -1111,7 +1111,7 @@
 1109;TRAVIS;I pour her another one.
 1110;MATT;All right. Make another saving throw, Pike.
 1111;ASHLEY;Oh shit. (laughs) I just rolled a one! (laughter)
-1112;MATT;"So Pike takes the second shot, slams the drink down on the table. You feel the numbness hit your lips, Pike, and you feel a little strange, a little sparkly and numb for a second. Your tongue isn't quite functioning as you would hope as everyone's looking towards you.|(slurred) ""A second shot? That is obviously very brave of you, Pike."""
+1112;MATT;"So Pike takes the second shot, slams the drink down on the table. You feel the numbness hit your lips, Pike, and you feel a little strange, a little sparkly and numb for a second. Your tongue isn't quite functioning as you would hope as everyone's looking towards you.|(slurred) """"A second shot? That is obviously very brave of you, Pike."""""
 1113;TRAVIS;(slurred) Yes, she's got quite the tolerance.
 1114;ASHLEY;Well, I thought it-- I don't even know...|(garbled speech) (laughter)
 1115;MATT;And with that, Pike faceplants onto the ground and passes the fuck out.|(laughter)
@@ -1121,11 +1121,11 @@
 1119;TRAVIS;Can I try to pick her up by her collar and try to hold her up? Is she just limp?
 1120;MATT;She's limp in your grasp, man. She's snoring loudly, too.
 1121;TRAVIS;(slurred) Well, that's one way to go for the night.
-1122;MATT;"(slurred) ""I think this is an important lesson for all of us-- at least the two of us-- no more of that."""
+1122;MATT;"(slurred) """"I think this is an important lesson for all of us-- at least the two of us-- no more of that."""""
 1123;TRAVIS;Yeah, no. I put it in the bag of holding.|(slurred) Did you know that it comes from a venomous part of a big animal?
-1124;MATT;"(slurred) ""You should have prefaced that before we had a drink."""
+1124;MATT;"(slurred) """"You should have prefaced that before we had a drink."""""
 1125;TRAVIS;(slurred) Didn't I say that? That was my fault.
-1126;MATT;"(slurred) ""It's fine. Too late now."""
+1126;MATT;"(slurred) """"It's fine. Too late now."""""
 1127;TRAVIS;I go lay Pike in a booth or something.
 1128;MATT;She's slumped over.|(laughter)|Anything else you guys wish to accomplish while drinking? Or do you want to call it a night?
 1129;SAM;Do we need to talk about our plans, or are we waiting for Percy for that?
@@ -1136,61 +1136,61 @@
 1134;LAURA;Can I check out that letter that I found on Percy's--
 1135;TALIESIN;I'm going to fucking kill you.
 1136;SAM;Well, while she reads, I pull Jarett aside and I say: Listen, I know you've had legal troubles before in your homeland, but we're buddy-buddy with the leader now. In fact, I have this symbol. They gave me this symbol.
-1137;MATT;"(slurred) ""Look, Scanlan, I've known you long enough to know that you are a master of tall tales."""
+1137;MATT;"(slurred) """"Look, Scanlan, I've known you long enough to know that you are a master of tall tales."""""
 1138;SAM;This is the gods' honest truth, man. This is a real deal. This is diplomatic immunity, man.|I can get you off!
-1139;MATT;"(slurred) ""I honestly don't even know if you're real right now. I am so fucked up on this."""
+1139;MATT;"(slurred) """"I honestly don't even know if you're real right now. I am so fucked up on this."""""
 1140;TRAVIS;(slurred) Jarett, I'd listen to him. It's not very often he offers to get people off.
-1141;MATT;"(slurred) ""You're telling me that you've made friends with J'mon Sa Ord."""
+1141;MATT;"(slurred) """"You're telling me that you've made friends with J'mon Sa Ord."""""
 1142;SAM;We met them in their palace, and we're pretty tight now, so I bet I could get you free and clear.
-1143;MATT;"(slurred) ""Then please do."" (laughter)"
+1143;MATT;"(slurred) """"Then please do."""" (laughter)"
 1144;SAM;Will you do something for me?
-1145;MATT;"(slurred) ""If it is within my ability, as your employee, of course."""
+1145;MATT;"(slurred) """"If it is within my ability, as your employee, of course."""""
 1146;SAM;You're a man who knows things, knows how to get things.
-1147;MATT;"(slurred) ""Depending, maybe."""
+1147;MATT;"(slurred) """"Depending, maybe."""""
 1148;SAM;I was a little disappointed with the samplings in your home. I was wondering if around here, you couldn't find me a little something-something.
-1149;MATT;"(slurred) ""What?"""
+1149;MATT;"(slurred) """"What?"""""
 1150;SAM;A little pick-me-up? A little ride? A little dipsy doodle? (laughter)|Drugs, man. Drugs. I want drugs. I want you to go find me drugs. Listen, I've had a really rough time. I saw my friend die. We found the body of another friend.
-1151;MATT;"(slurred) ""I understand that. I don't really deal with these things."""
+1151;MATT;"(slurred) """"I understand that. I don't really deal with these things."""""
 1152;SAM;But you know people who know people.
-1153;MATT;"(slurred) ""Not here in Whitestone!"""
+1153;MATT;"(slurred) """"Not here in Whitestone!"""""
 1154;SAM;I'm going to get you cleared of murder, man!
-1155;MATT;"(slurred) ""Look, if you want to get some suude, go down to the Turst Fields, or maybe over in Kymal."""
+1155;MATT;"(slurred) """"Look, if you want to get some suude, go down to the Turst Fields, or maybe over in Kymal."""""
 1156;SAM;What were those words? The thirst feels?
-1157;MATT;"(slurred) ""The Turst Fields! South of the Alabaster Sierras."""
+1157;MATT;"(slurred) """"The Turst Fields! South of the Alabaster Sierras."""""
 1158;SAM;There's way too many S's in what you just said!
-1159;MATT;"(slurred) ""Looking for drugs, yes?"""
+1159;MATT;"(slurred) """"Looking for drugs, yes?"""""
 1160;SAM;Yes.
-1161;MATT;"(slurred) ""Get some suude!"""
+1161;MATT;"(slurred) """"Get some suude!"""""
 1162;SAM;Some thuude?
-1163;MATT;"(slurred) ""Suude!"""
+1163;MATT;"(slurred) """"Suude!"""""
 1164;SAM;I don't know what you're saying! Spell it!
-1165;MATT;"(slurred) ""S-U-U-D-E. Suude."""
+1165;MATT;"(slurred) """"S-U-U-D-E. Suude."""""
 1166;SAM;Suude.
-1167;MATT;"(slurred) ""Yeah, suude!"" (laughter)"
+1167;MATT;"(slurred) """"Yeah, suude!"""" (laughter)"
 1168;SAM;What is that? Is that place? Is that a person?
-1169;MATT;"(slurred) ""No, it's a drug!"" (laughter)|(slurred) ""What did-- do you even know what you're asking me for?"""
+1169;MATT;"(slurred) """"No, it's a drug!"""" (laughter)|(slurred) """"What did-- do you even know what you're asking me for?"""""
 1170;SAM;I don't! I don't know it at all!
-1171;MATT;"(slurred) ""You confuse me, gnome."""
+1171;MATT;"(slurred) """"You confuse me, gnome."""""
 1172;SAM;I am confused, too!
-1173;MATT;"(slurred) ""Look, as your employee, this is a very uncomfortable conversation to have."""
+1173;MATT;"(slurred) """"Look, as your employee, this is a very uncomfortable conversation to have."""""
 1174;SAM;This will not affect our professional relationship one bit. You have my word.
-1175;MATT;"(slurred) ""I can send a courier, maybe, but that's very highly illegal stuff.|Mind you, to be fair, the prison where they put you is currently being sat on by a giant red dragon, so if there was a time to buy, this would be it."""
+1175;MATT;"(slurred) """"I can send a courier, maybe, but that's very highly illegal stuff.|Mind you, to be fair, the prison where they put you is currently being sat on by a giant red dragon, so if there was a time to buy, this would be it."""""
 1176;SAM;There you go!
-1177;MATT;"(slurred) ""Look, I'm in charge, of well, that!"" And you look over.|Kynan's face-down on the table, trashed.|(slurred) ""In charge of that, now, apparently.|Still training, along with Kash, a bunch of people. I cannot do this myself.|It would not behoove our current state here in Whitestone. I could ask around, maybe send somebody. It'll be a while.|I can't get you suude here in Whitestone!"""
+1177;MATT;"(slurred) """"Look, I'm in charge, of well, that!"""" And you look over.|Kynan's face-down on the table, trashed.|(slurred) """"In charge of that, now, apparently.|Still training, along with Kash, a bunch of people. I cannot do this myself.|It would not behoove our current state here in Whitestone. I could ask around, maybe send somebody. It'll be a while.|I can't get you suude here in Whitestone!"""""
 1178;SAM;It's okay. Just try your best.
-1179;MATT;"""All right."""
+1179;MATT;"""""All right."""""
 1180;SAM;I believe in you.
-1181;MATT;"(slurred) ""Thanks."" (laughter)"
+1181;MATT;"(slurred) """"Thanks."""" (laughter)"
 1182;SAM;(lisping) You're the best.
-1183;MATT;"(slurred) ""Now you're just making fun of me."""
+1183;MATT;"(slurred) """"Now you're just making fun of me."""""
 1184;SAM;No. I'm going to clear your name, man. I'm your ticket to freedom.
-1185;MATT;"(slurred) ""I'll go and get you some suude."""
+1185;MATT;"(slurred) """"I'll go and get you some suude."""""
 1186;SAM;Thank you.
-1187;MATT;"""You're welcome."""
+1187;MATT;"""""You're welcome."""""
 1188;SAM;That would make me so happy.
-1189;MATT;"(slurred) ""That's all I want. Be pleased."" (laughter)"
+1189;MATT;"(slurred) """"That's all I want. Be pleased."""" (laughter)"
 1190;LIAM;Vax paid attention to that entire conversation.
-1191;MATT;"Eventually, Jarett: (slurred) ""All right, I need to sleep this off, whatever this is. Good night, everyone.|See you in the morning."""
+1191;MATT;"Eventually, Jarett: (slurred) """"All right, I need to sleep this off, whatever this is. Good night, everyone.|See you in the morning."""""
 1192;LAURA;Good night.
 1193;MATT;He stumbles his way out the door frame into the Whitestone night. Anything else you guys wish to accomplish tonight, or are you going to go ahead and get some sleep?
 1194;MARISHA;I was looking anxiously over at Vex when she was--
@@ -1208,9 +1208,9 @@
 1206;TALIESIN;Only those of you who don't care about my privacy.
 1207;LIAM;Taliesin, would you like this to be in your voice?
 1208;TALIESIN;No! It was never supposed to be in my voice.
-1209;LIAM;"""My friends, I have just taken an audience with the Raven Queen, who has snuffed any hope of my redemption, for which I am truly grateful. With new clarity, I can finally see my life as a series of compounding poor choices. There was nothing I could have done to save my family, yet I still sold my soul in search of vengeance. Later, I allowed Ripley to leave, knowing full well she was a greater threat to the world than the Briarwoods would ever be. I traded the world's safety for the belief that I could murder my way to peace, that if I could be a greater horror, it would bring my family back. Once this lie was shattered, I scrambled to find a solution, to make a deal, to undo my mistakes and balance the scales. I now understand that there are no scales. There is no redemption, and no ledger that judges me good or evil. I am free to simply be myself and live with the terrible mistakes I've made.|Tomorrow, I start upon a new path beyond the gods and demons who have tormented me, and it's your friendship that makes this possible. Though a shadow lingers, the need for vengeance is gone.|I will try and do my best for you all. I will strive to buy the future more time free of my legacy.|I will stand against the children of my madness in hope, rather than in anger. And if you are reading this, then my travels on this path have come to an end.|Scanlan, thank you for destroying my gun. Do not let the weight of life's consequences crush your bravado. It is your greatest weapon.|Grog, remember that your compassion has brought you this far, not just strength. For the record, I would have wiped the floor with you that time.|Vax, you often remind me of myself, and yes, I know that that is a bit of an insult. Stop indulging your desire to sacrifice and try being the man that these two women seem to think you are. They may actually need you one day.|Vex, you often remind me of myself, and that is the highest of compliments."" Oh, true to form, Percival, true to form. ""I hope you free yourself of whatever voices haunt you. Also, since I'm gone, you're the clever one now."" Still the clever one.|""Keyleth, don't let the world break you. Learn to forgive it for not living up to your standards.|We promise to try harder."""
+1209;LIAM;"""""My friends, I have just taken an audience with the Raven Queen, who has snuffed any hope of my redemption, for which I am truly grateful. With new clarity, I can finally see my life as a series of compounding poor choices. There was nothing I could have done to save my family, yet I still sold my soul in search of vengeance. Later, I allowed Ripley to leave, knowing full well she was a greater threat to the world than the Briarwoods would ever be. I traded the world's safety for the belief that I could murder my way to peace, that if I could be a greater horror, it would bring my family back. Once this lie was shattered, I scrambled to find a solution, to make a deal, to undo my mistakes and balance the scales. I now understand that there are no scales. There is no redemption, and no ledger that judges me good or evil. I am free to simply be myself and live with the terrible mistakes I've made.|Tomorrow, I start upon a new path beyond the gods and demons who have tormented me, and it's your friendship that makes this possible. Though a shadow lingers, the need for vengeance is gone.|I will try and do my best for you all. I will strive to buy the future more time free of my legacy.|I will stand against the children of my madness in hope, rather than in anger. And if you are reading this, then my travels on this path have come to an end.|Scanlan, thank you for destroying my gun. Do not let the weight of life's consequences crush your bravado. It is your greatest weapon.|Grog, remember that your compassion has brought you this far, not just strength. For the record, I would have wiped the floor with you that time.|Vax, you often remind me of myself, and yes, I know that that is a bit of an insult. Stop indulging your desire to sacrifice and try being the man that these two women seem to think you are. They may actually need you one day.|Vex, you often remind me of myself, and that is the highest of compliments."""" Oh, true to form, Percival, true to form. """"I hope you free yourself of whatever voices haunt you. Also, since I'm gone, you're the clever one now."""" Still the clever one.|""""Keyleth, don't let the world break you. Learn to forgive it for not living up to your standards.|We promise to try harder."""""
 1210;MARISHA;(chuckles) Smartass.
-1211;LIAM;"""Pike, it is wonderful to have you home. You bring everyone closer to their best selves, and I can only imagine what a burden that must be."" Oh, she's out. ""Allow yourself some vice and failure.|Done and done. They'll still love you just the same. All true.|As to what must be done, I'd be content to be left in a ditch, my weapons and notes burnt and broken."" Fucker. ""But I imagine that would upset Cass. If you can, take me home. If you can't, I understand.|She knows where to find the rest of my instructions. Times being what they are, burn my work or bring it home in the hopes of aiding in the defense of Whitestone.|I leave this judgment in your capable hands.|Please find Ripley before she does too many terrible things and erase my legacy wherever you find it. That silence would be the greatest eulogy I could ever hope for."" Oh dear. ""With eternal gratitude, Percival of Vox Machina."""
+1211;LIAM;"""""Pike, it is wonderful to have you home. You bring everyone closer to their best selves, and I can only imagine what a burden that must be."""" Oh, she's out. """"Allow yourself some vice and failure.|Done and done. They'll still love you just the same. All true.|As to what must be done, I'd be content to be left in a ditch, my weapons and notes burnt and broken."""" Fucker. """"But I imagine that would upset Cass. If you can, take me home. If you can't, I understand.|She knows where to find the rest of my instructions. Times being what they are, burn my work or bring it home in the hopes of aiding in the defense of Whitestone.|I leave this judgment in your capable hands.|Please find Ripley before she does too many terrible things and erase my legacy wherever you find it. That silence would be the greatest eulogy I could ever hope for."""" Oh dear. """"With eternal gratitude, Percival of Vox Machina."""""
 1212;TRAVIS;I'm going to kick his fucking ass.
 1213;SAM;Why? He didn't mention you, did he?
 1214;TRAVIS;Yeah, he did! He said he could have wiped the floor with me!
@@ -1263,9 +1263,9 @@
 1261;ASHLEY;Did I do that?
 1262;TRAVIS;Yes! I'm very disappointed. You should apologize to the owner.
 1263;ASHLEY;I'm sorry, owner.|(laughter)
-1264;MATT;"The older woman over in the corner who owns the bar is like, ""It's fine."""
+1264;MATT;"The older woman over in the corner who owns the bar is like, """"It's fine."""""
 1265;TRAVIS;I flip her a gold coin.
-1266;MATT;"She watches it hit the ground and goes, ""Thanks."""
+1266;MATT;"She watches it hit the ground and goes, """"Thanks."""""
 1267;TRAVIS;Welcome. All right, let's go home! I pick up Pikey.
 1268;MATT;All right. You guys find your way back to Whitestone Castle to your respective rooms.
 1269;LAURA;No. I sneak into Percy's room.
@@ -1292,19 +1292,19 @@
 1290;MATT;Okay. You gently close the door. No issue.
 1291;LIAM;Cucumber sandwiches...
 1292;LAURA;Oh, so this is yours. Here, I don't need it any more.|(laughter)
-1293;MATT;"All right. As you guys go to rest for the evening, sleep takes you eventually, some of you longer than others, because you woke up not too long before. Sunrise comes in Castle Whitestone once again. The previously somewhat cloudy day is now a very gray sky day. There is a slight mist in the air. Looking out over the forest from the windows, you can see that the forest itself has a very thick, low fog and mist that does cover portions of it. It's a cold, cold morning and it's a brisk way to wake up.|As you guys all begin to come down to eat your meal for the morning as the guards go about business within the castle, Seeker Asum comes into the room with you guys and goes, ""I am sorry to intrude. There is some new information while you were gone that I would like to discuss with you. When you finish eating, we'll meet in the war room.|I'll be waiting for you."" He leaves, looking a little spooked."
+1293;MATT;"All right. As you guys go to rest for the evening, sleep takes you eventually, some of you longer than others, because you woke up not too long before. Sunrise comes in Castle Whitestone once again. The previously somewhat cloudy day is now a very gray sky day. There is a slight mist in the air. Looking out over the forest from the windows, you can see that the forest itself has a very thick, low fog and mist that does cover portions of it. It's a cold, cold morning and it's a brisk way to wake up.|As you guys all begin to come down to eat your meal for the morning as the guards go about business within the castle, Seeker Asum comes into the room with you guys and goes, """"I am sorry to intrude. There is some new information while you were gone that I would like to discuss with you. When you finish eating, we'll meet in the war room.|I'll be waiting for you."""" He leaves, looking a little spooked."
 1294;SAM;That's ominous.
 1295;LIAM;Let's throw it back and go.
 1296;SAM;Yeah, let's chug and go.
 1297;MATT;Okay. You guys finish your meal as fast as you can. You head up and meet in the war room.
 1298;LAURA;The war room down by the orb?
-1299;MATT;"No, this is actually a meeting room in the castle that has been converted into a war room for planning and such. This is where you met with Cassandra and Allura and people in the past to discuss about important matters. You come into the room. There's the big window facing out across Whitestone on the second floor for this room.|There's the table in the center, and Asum is sitting there, fingers steepled, looking at the table. ""Thank you. Please, come in.|Close the door behind you. I think we should have some privacy for this."""
+1299;MATT;"No, this is actually a meeting room in the castle that has been converted into a war room for planning and such. This is where you met with Cassandra and Allura and people in the past to discuss about important matters. You come into the room. There's the big window facing out across Whitestone on the second floor for this room.|There's the table in the center, and Asum is sitting there, fingers steepled, looking at the table. """"Thank you. Please, come in.|Close the door behind you. I think we should have some privacy for this."""""
 1300;MARISHA;Very foreboding, Asum.
-1301;MATT;"""This is an important conversation."""
+1301;MATT;"""""This is an important conversation."""""
 1302;LAURA;Should we have this downstairs, then?
-1303;MATT;"""I'd prefer to have it here, in private."""
+1303;MATT;"""""I'd prefer to have it here, in private."""""
 1304;LIAM;Out with it.
-1305;MATT;"Asum stands up for a second and goes, ""Thank you for coming. I think it's time we discuss something of extreme importance."""
+1305;MATT;"Asum stands up for a second and goes, """"Thank you for coming. I think it's time we discuss something of extreme importance."""""
 1306;LAURA;I want to insight.
 1307;MARISHA;I agree.
 1308;MATT;Go for it. Insight checks.
@@ -1324,13 +1324,13 @@
 1322;SAM;Ashley, we all died. It's just you now.|You versus the dragons.
 1323;MATT;Asum stands up, hands on the table.
 1324;MARISHA;Asum, I'm sorry. I don't mean to be insistent here, but if this is as private of information as you seem to be making it out to be, maybe we should go to the room where we know cannot be spied upon.
-1325;MATT;"""I assure you, this room is safe. It's going to be a brief discussion."""
+1325;MATT;"""""I assure you, this room is safe. It's going to be a brief discussion."""""
 1326;LAURA;I would feel more comfortable downstairs.|We talked about this.
-1327;MATT;"""Before I continue, hear my words.|Think before you act. I implore you.|Understand that not all is what it seems, and I come to you as an ally."""
+1327;MATT;"""""Before I continue, hear my words.|Think before you act. I implore you.|Understand that not all is what it seems, and I come to you as an ally."""""
 1328;TALIESIN;All right.
-1329;MATT;"Asum's eyes flash a vibrant green for a second and then become yellowish reptilian orbs.|You see a hint of green scales curl across the face. ""Now please, let us talk. Violence will not end in your favor. You have no plan, no trap.|I am smarter, more prepared, and more powerful than all of you.|I know of Whitestone. I know your tricks, and I know your weaknesses. If I wished you destroyed right now, I could have done it a thousandfold already. So consider the fact that we're even having this conversation is me putting forth a lot of effort and intent to have this discussion. No rash actions."""
+1329;MATT;"Asum's eyes flash a vibrant green for a second and then become yellowish reptilian orbs.|You see a hint of green scales curl across the face. """"Now please, let us talk. Violence will not end in your favor. You have no plan, no trap.|I am smarter, more prepared, and more powerful than all of you.|I know of Whitestone. I know your tricks, and I know your weaknesses. If I wished you destroyed right now, I could have done it a thousandfold already. So consider the fact that we're even having this conversation is me putting forth a lot of effort and intent to have this discussion. No rash actions."""""
 1330;TALIESIN;Noted.
-1331;MATT;"""Now, let us put our cards on the table, shall we? I, as I'm sure you've noticed, am Raishan. It is a pleasure to meet you in person, slayers of the Hope Devourer and the Iron Storm. I need your help.|I wish to kill the Cinder King."" And that's where we'll end tonight's session! (screaming)"
+1331;MATT;"""""Now, let us put our cards on the table, shall we? I, as I'm sure you've noticed, am Raishan. It is a pleasure to meet you in person, slayers of the Hope Devourer and the Iron Storm. I need your help.|I wish to kill the Cinder King."""" And that's where we'll end tonight's session! (screaming)"
 1332;LIAM;You fucking Machiavelli!
 1333;TRAVIS;You came into our home with that shit?!
 1334;MARISHA;Fucking you come into our house!

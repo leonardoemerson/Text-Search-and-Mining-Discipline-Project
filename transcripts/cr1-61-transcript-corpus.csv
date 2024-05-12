@@ -78,7 +78,7 @@
 76;LAURA;Ten.
 77;MATT;Okay, yeah, it takes you a little bit, about ten minutes or so. Parts of it got scattered and lost amongst the rest of the objects left around, but you manage to reassemble your collection of tea accessories.
 78;LAURA;Yeah, cool, it was a golden cursed tea set.
-79;TRAVIS;"Nobody else is concerned about the commotion that happened behind the trees, and we're all just like ""Hi."" What happened?"
+79;TRAVIS;"Nobody else is concerned about the commotion that happened behind the trees, and we're all just like """"Hi."""" What happened?"
 80;LAURA;There was a big fucking bear. You might actually not want to look in that cave, because it came out of there and it was rather angry when it did.
 81;LIAM;What it? What came out?
 82;LAURA;A guardian spirit of the forest.
@@ -118,9 +118,9 @@
 116;LAURA;What about Garmelie. Would he know?
 117;MATT;You're welcome to ask him if you want to.
 118;LAURA;Hey, Garmelie. What do you know about this fucking bear?
-119;MATT;"He's in the very back, just watching you guys. ""I know what you know. It's apparently here and people leave him little presents, and seemed pretty scary from the way you describe him, so--"""
+119;MATT;"He's in the very back, just watching you guys. """"I know what you know. It's apparently here and people leave him little presents, and seemed pretty scary from the way you describe him, so--"""""
 120;TRAVIS;Did you know he was going to be here at this cave?
-121;MATT;"""No, I would have avoided this!"""
+121;MATT;"""""No, I would have avoided this!"""""
 122;TRAVIS;Somebody insight check that little bastard.
 123;LAURA;Yeah, I'll insight check that little bastard.
 124;MATT;Roll insight.
@@ -136,12 +136,12 @@
 134;TRAVIS;Oh my god, we're in the Feywild, we're about to pull a bow out of a tree, and you don't want to see what's in the creepy cave.
 135;LAURA;Maybe we should save our strength for the fucking bow in the tree.
 136;LIAM;Plus, do you know there's a theater here?
-137;MATT;"""We're not going to the theater."""
+137;MATT;"""""We're not going to the theater."""""
 138;LIAM;I understand, but just so we don't accidentally go there, where is it in relation to this tree? Is it on the way?
-139;MATT;"""I couldn't tell you. Certain things move.|Shift. Change location."""
+139;MATT;"""""I couldn't tell you. Certain things move.|Shift. Change location."""""
 140;SAM;It's a touring production.
 141;LIAM;I don't trust anyone who doesn't like the theater. What exactly is your issue with it?
-142;MATT;"""Don't worry about it. Anyway. Shall we?"" And he begins marching back."
+142;MATT;"""""Don't worry about it. Anyway. Shall we?"""" And he begins marching back."
 143;LAURA;I really don't think we should mess with this thing.
 144;MARISHA;Look, Grog, I touched a flower and the whole realm almost collapsed, okay? I don't know.
 145;TRAVIS;I know, I'm looking at the scandalous one over there that's always trying to get little goodies for himself.
@@ -149,7 +149,7 @@
 147;TRAVIS;All right, you went (boop). I'm just saying.
 148;TALIESIN;It's just not pretty enough. It's really not pretty enough. We've already won something here.
 149;TRAVIS;All right, fine. I'm happy.
-150;SAM;"I'm one hundred percent behind any decision you made or make, by the way. You say ""go,"" we go.|You say ""stay,"" we stay."
+150;SAM;"I'm one hundred percent behind any decision you made or make, by the way. You say """"go,"""" we go.|You say """"stay,"""" we stay."
 151;TRAVIS;What if we run, touch the back of the cave, run back. We don't even have to pick up anything. Just to say we did it.
 152;MARISHA;Last time I touched something, I didn't hear the end of it. And now we're just going to let this happen?
 153;TALIESIN;Well, yes, because we don't care if they die.
@@ -338,22 +338,22 @@
 336;LAURA;So I can take off this negative seven hit points that I don't even remember how I got, probably.
 337;MATT;Actually, that you would have gotten from the large bear, so no.
 338;LAURA;You're right.
-339;MATT;"Nice try. All right, so as you guys gather here, Garmelie goes, ""All right, so duskward is-- that way. Who's leading?"""
+339;MATT;"Nice try. All right, so as you guys gather here, Garmelie goes, """"All right, so duskward is-- that way. Who's leading?"""""
 340;TALIESIN;You are.
-341;MATT;"""Oh, I'm not leading. I'm guiding you."""
+341;MATT;"""""Oh, I'm not leading. I'm guiding you."""""
 342;LAURA;You guide. In the front.
-343;MATT;"""I'm guiding you duskward. I've never been inside the Moonbrush! I know of things around it."""
+343;MATT;"""""I'm guiding you duskward. I've never been inside the Moonbrush! I know of things around it."""""
 344;LAURA;How were you planning to guide us through it if you don't even know how to do it?
 345;SAM;He was just going to get us to the outskirts.|That was always the plan.
-346;MATT;"""I'm getting you to your destination by helping guide you there."""
+346;MATT;"""""I'm getting you to your destination by helping guide you there."""""
 347;MARISHA;But if you can't guide us through the Moonbrush--
-348;MATT;"""I am guiding you through the Moonbrush, I just think somebody should take the lead."""
+348;MATT;"""""I am guiding you through the Moonbrush, I just think somebody should take the lead."""""
 349;MARISHA;But you said you've never been here.
 350;TALIESIN;He wants something big in the front.
 351;MARISHA;Yeah, I'm just wondering what his use will be from here on out.
 352;LAURA;How about you and I, we can be in the front.
 353;LIAM;She's Duchess of the Grape Hunt so she's very good to lead.
-354;MATT;"""Great, wondrous. That'll work fine."""
+354;MATT;"""""Great, wondrous. That'll work fine."""""
 355;LAURA;Duchess of the Grape Hunt, what a wonderful title.
 356;MARISHA;Hang on a second, Garmelie. Huddle real quick. Why don't we send him home? He could die.
 357;TALIESIN;I'm all right with that.
@@ -375,7 +375,7 @@
 373;LIAM;We're so much cooler now.
 374;SAM;All right, let's just put Vex and Vax.
 375;LAURA;Hold my hand, dear?
-376;MATT;"""All right."" He takes your hand. Roll a survival check."
+376;MATT;"""""All right."""" He takes your hand. Roll a survival check."
 377;LIAM;He eats her hand.
 378;LAURA;17.
 379;MATT;17, okay. Holding your hand, you guys quietly begin to make your way through the Moonbrush.
@@ -399,13 +399,13 @@
 397;MATT;There is no breeze. There is no sound in the forest here. There is no sound of leaves clattering. He's just doing that.
 398;MARISHA;Because it makes him seem smart.
 399;LAURA;What does the licking do?
-400;MATT;"""Licking is how I initiate the specialization of my arcane understanding of the flow and ebb of the fey--"""
+400;MATT;"""""Licking is how I initiate the specialization of my arcane understanding of the flow and ebb of the fey--"""""
 401;LAURA;You're bullshitting.
-402;MATT;"""No! This is a technique. And it's leading us to your destination. Have a little faith. You hired me for a reason."""
+402;MATT;"""""No! This is a technique. And it's leading us to your destination. Have a little faith. You hired me for a reason."""""
 403;LAURA;So much faith in you.
 404;LIAM;Is he taking us to the theater right now?
 405;LAURA;Definitely the theater.
-406;MATT;"""Not the theater!"" Pressing on, I want you to make another survival check."
+406;MATT;"""""Not the theater!"""" Pressing on, I want you to make another survival check."
 407;LAURA;Natural 20. And I don't even need to roll again.
 408;MATT;All right.
 409;MARISHA;As we go, I just want to Druidcraft little green pebbles. No, let's do brighter-- red pebbles to start leaving behind Hansel and Gretel style.
@@ -420,9 +420,9 @@
 418;MATT;25! Shit, girl. Eventually, you come to what appears to be a river that's cutting through this portion of the Moonbrush. Just on the other side of that river, you hear a faint sound of music.
 419;MARISHA;The theater!
 420;LAURA;(whispering) What is that?
-421;MATT;"""What is what? I don't--"""
+421;MATT;"""""What is what? I don't--"""""
 422;LAURA;The music, do you hear it?
-423;MATT;"""No?"""
+423;MATT;"""""No?"""""
 424;TRAVIS;Hold on, are you saying you don't hear anything right now?
 425;MATT;Actually, right now nobody hears it except for you.
 426;LAURA;What does it sound like?
@@ -434,9 +434,9 @@
 432;LAURA;Yes.
 433;TALIESIN;Could be dangerous.
 434;SAM;Can I listen?
-435;MATT;"The rest of you guys, as you gather up, you begin to hear the sound and so does Garmelie.|Garmelie's like, ""We really don't need to go in that direction."""
+435;MATT;"The rest of you guys, as you gather up, you begin to hear the sound and so does Garmelie.|Garmelie's like, """"We really don't need to go in that direction."""""
 436;LAURA;Do you know anything about music playing randomly in the woods?
-437;MATT;"""Music can be good, it can be bad. Who knows? Dangerous music is very often a thing in places you don't understand. I would not recommend wandering into places of phantom music."""
+437;MATT;"""""Music can be good, it can be bad. Who knows? Dangerous music is very often a thing in places you don't understand. I would not recommend wandering into places of phantom music."""""
 438;TRAVIS;We should check it out.
 439;SAM;I want to hear some music.
 440;LAURA;What direction is it coming from?
@@ -459,7 +459,7 @@
 457;TRAVIS;He said it's lazy, right? It's just going along, but I call bullshit 'cause we're in the Feywild.
 458;TALIESIN;You're very clever about that.
 459;LIAM;You said we have to get across, regardless, Garmelie?
-460;MATT;"""Well, yes, if we're heading toward your destination, we have to cross."""
+460;MATT;"""""Well, yes, if we're heading toward your destination, we have to cross."""""
 461;MARISHA;We have to get across the river, regardless?
 462;SAM;Can you make us a bridge, Keyleth?
 463;MARISHA;I can control water and part the river for a second.
@@ -472,9 +472,9 @@
 470;SAM;Should we send Vax ahead?
 471;LIAM;I don't think it's a good idea but if we're going to check it out you and I should go ahead.|Yeah, let's go.
 472;LAURA;Garmelie? Do you want to come with us? Go invisible?
-473;MATT;"""Um. Okay?"""
+473;MATT;"""""Um. Okay?"""""
 474;LAURA;I will hold your hand, don't worry dear.
-475;MATT;"""All right."" So he vanishes from sight. The two of you guys make your stealth checks."
+475;MATT;"""""All right."""" So he vanishes from sight. The two of you guys make your stealth checks."
 476;LAURA;Oh, can I cast Pass Without a Trace on us?
 477;MATT;If you want to.
 478;LAURA;I'm going to do that.
@@ -552,7 +552,7 @@
 550;SAM;I start singing.
 551;MATT;Okay.
 552;SAM;Countercharm. (jazzy saxophone riff)
-553;MATT;"The gentle sounds of Careless Whisper keeping any possible invasion of your mind at bay, hopefully. You just hear Garmelie behind you going ""No! What are you doing?!"" echoing through the trees as you guys dart in towards the center of this camp. You--"
+553;MATT;"The gentle sounds of Careless Whisper keeping any possible invasion of your mind at bay, hopefully. You just hear Garmelie behind you going """"No! What are you doing?!"""" echoing through the trees as you guys dart in towards the center of this camp. You--"
 554;LIAM;I'm on, man. I'm lit.
 555;MATT;You are totally on. This is an amazing experience. You feel the color and the music surging through you, and all through this endless surge of energy inside as you begin to now join into this other dancing trio.
 556;LIAM;Fucking werewolf guy look good.
@@ -771,9 +771,9 @@
 769;LAURA;It was the worst play I've ever seen.
 770;TALIESIN;It's more of an intermission.
 771;LAURA;Garmelie! Why didn't you warn us that could happen?
-772;MATT;"Garmelie, who's there by the side, comes out of his invisibility, and says, ""I tried! I really tried! But you guys continually insist to go face-first in whatever I warn you about, because you don't trust me, apparently, when you hired me to be your guide!"""
+772;MATT;"Garmelie, who's there by the side, comes out of his invisibility, and says, """"I tried! I really tried! But you guys continually insist to go face-first in whatever I warn you about, because you don't trust me, apparently, when you hired me to be your guide!"""""
 773;LAURA;We trust you, dear.
-774;MATT;"""Hopefully you've learned a lesson! God."" (sighs)"
+774;MATT;"""""Hopefully you've learned a lesson! God."""" (sighs)"
 775;SAM;Wow. That was amazing.
 776;TRAVIS;"So the fire's out; instruments are gone.|Should we loot the campfire?"
 777;LAURA;We should not go back out there.
@@ -792,9 +792,9 @@
 790;MATT;So what are you guys doing?
 791;LAURA;We move towards the dusk.
 792;TRAVIS;We're moving towards the Gilded Run.
-793;MATT;"All right. As you guys begin moving away, Garmelie scoots up a little bit and gets a look in the edge, and goes, ""Well, you certainly found the happy campsite, so good job."""
+793;MATT;"All right. As you guys begin moving away, Garmelie scoots up a little bit and gets a look in the edge, and goes, """"Well, you certainly found the happy campsite, so good job."""""
 794;TRAVIS;Oh, you told us about that earlier.
-795;MATT;"""Yes! Yes, I did."""
+795;MATT;"""""Yes! Yes, I did."""""
 796;MARISHA;Oh, that's the happy campsite.
 797;TALIESIN;Have you not figured that out yet?
 798;MARISHA;I thought he was being metaphorical. I didn't know it was literal.
@@ -823,11 +823,11 @@
 821;LIAM;Is the footing here precarious? I know she's leading us through, but is it all viney and shitty?
 822;MATT;It's not great. It would slow your pace if you didn't have her leading you through. It's still not the fastest pace in the world, but you're able to keep going at a decent rate.
 823;TRAVIS;Can I jog up to Garmelie and Vex real fast? You said that there were lycans at some point, and you said they move through the trees, right?
-824;MATT;"""Yes, from what I've heard."""
+824;MATT;"""""Yes, from what I've heard."""""
 825;TRAVIS;Would that be these trees?
-826;MATT;"""Possibly."""
+826;MATT;"""""Possibly."""""
 827;TRAVIS;Right. Have you seen a lycan?
-828;MATT;"""I haven't."""
+828;MATT;"""""I haven't."""""
 829;TRAVIS;Great. We should be keeping an eye on the trees.
 830;LAURA;I was trying to.
 831;MATT;All right, make a perception check.
@@ -839,18 +839,18 @@
 837;TRAVIS;Well, they're here.
 838;LIAM;I give Scanlan a little boot in the butt forward a couple of steps.
 839;SAM;Hello. We come in peace. We mean you no harm.|If we've tread into your territory, we will exit immediately, and we apologize for offending you or your gods.
-840;MATT;"Some of the wolf-men creatures look at each other. The tiger individual steps further out of the shadows and appears to have two iron-like bracers on, a longbow strapped across his back, and steps forward to meet you from beyond the tree that he was partially obscured from. ""Intruders.|Your terrible fate brings you within our domain.|For what purpose?"""
+840;MATT;"Some of the wolf-men creatures look at each other. The tiger individual steps further out of the shadows and appears to have two iron-like bracers on, a longbow strapped across his back, and steps forward to meet you from beyond the tree that he was partially obscured from. """"Intruders.|Your terrible fate brings you within our domain.|For what purpose?"""""
 841;SAM;We seek passage through this marshland to what lies beyond it. We are searching for--
 842;MARISHA;The Shademirk bog.
 843;SAM;The Shademirk bog.
 844;LAURA;We hope to rid the land of a cancerous tree that has been a blight for a very long time.
-845;MATT;"""I know not of this tree."""
+845;MATT;"""""I know not of this tree."""""
 846;SAM;It's a source of great evil that's been corrupting this plane and ours.
-847;MATT;"""There are many evils that corrupt this plane, small tasty thing."""
+847;MATT;"""""There are many evils that corrupt this plane, small tasty thing."""""
 848;SAM;I'm not tasty.
 849;LAURA;He's not. Many diseases.
 850;TALIESIN;Dozens.
-851;MATT;"The tiger looks about at the other werewolves who are now stepping in, and the bear, who's put the greataxe over its back now at this point, begins to step closer in. The tiger, whose eyes are now bent on you, takes another step forward, ""So."" (buzzing)|The audio on my iPad needs some help, apparently. Time to get new music. Oh, that's an expenditure I don't need."
+851;MATT;"The tiger looks about at the other werewolves who are now stepping in, and the bear, who's put the greataxe over its back now at this point, begins to step closer in. The tiger, whose eyes are now bent on you, takes another step forward, """"So."""" (buzzing)|The audio on my iPad needs some help, apparently. Time to get new music. Oh, that's an expenditure I don't need."
 852;SAM;A new iPad for no reason?
 853;LAURA;Something else? It's our computer?
 854;CREW;We're going to switch out the one that we usually use.
@@ -865,71 +865,71 @@
 863;LIAM;Works for us.
 864;LAURA;That's how we did it at home, man!
 865;TALIESIN;This is the best simulation of our old home game that I've had.
-866;MATT;"That's enough to give you the feel. The tiger takes that step forward, leans in to you, and goes, ""To parley or continue our hunt?"" Looks at the other wolves. ""Call Ukurat."" And roars out to the air. The other wolves all together begin to howl in unison. (howls) Loudly into the sky.|(howls)"
+866;MATT;"That's enough to give you the feel. The tiger takes that step forward, leans in to you, and goes, """"To parley or continue our hunt?"""" Looks at the other wolves. """"Call Ukurat."""" And roars out to the air. The other wolves all together begin to howl in unison. (howls) Loudly into the sky.|(howls)"
 867;LAURA;What's Trinket doing?
 868;MATT;Trinket's backed up with you guys, growling and facing off with the bear-like entity that's keeping eyes on Trinket but is still (growling) up into the air of the forest.
 869;TRAVIS;Shit.
 870;LAURA;Oh. Ukurat. Isn't that the big ghost bear?
 871;MARISHA;No, that was Oralan. Ukurat's the lycan leader.
-872;MATT;"A few moments pass as the howling subsides and they all stare intently, keeping a bestial cage around you in the center of this forest. It's at that point you begin to hear (footfalls) what sounds like a series of heavy footfalls at a speed, and the sound of trees thrashed as various hanging vines and branches are snapped or passed at such a speed. There is a mass of black shadow that comes emerging from the brush, slamming into the side of one of the trees near you with a clattering (crash). You see it pressed up against the side before leaping off, rebounding, landing right beside you guys, separating your group, giving Scanlan, Vex, Trinket, and Garmelie pushed to one side and the rest of you to the other.|You now see this giant, feral beast, humanoid in shape once it begins to stand, but larger than anything you've seen before, as the large wolf-man creature stands at full height, about 12, 13 feet tall, its shoulders wider than yours, Grog. A series of various jeweled necklaces adorn its throat, and you can see what appears to be a makeshift leather belt and armored leg piece that sit upon it. Rings glimmer around its fingers, and you can see a series of scars drawn across one side of its cheek that go down to its throat. It looks about at the rest of you, separated, glancing at each side. ""So. You seek passage, yes?"""
+872;MATT;"A few moments pass as the howling subsides and they all stare intently, keeping a bestial cage around you in the center of this forest. It's at that point you begin to hear (footfalls) what sounds like a series of heavy footfalls at a speed, and the sound of trees thrashed as various hanging vines and branches are snapped or passed at such a speed. There is a mass of black shadow that comes emerging from the brush, slamming into the side of one of the trees near you with a clattering (crash). You see it pressed up against the side before leaping off, rebounding, landing right beside you guys, separating your group, giving Scanlan, Vex, Trinket, and Garmelie pushed to one side and the rest of you to the other.|You now see this giant, feral beast, humanoid in shape once it begins to stand, but larger than anything you've seen before, as the large wolf-man creature stands at full height, about 12, 13 feet tall, its shoulders wider than yours, Grog. A series of various jeweled necklaces adorn its throat, and you can see what appears to be a makeshift leather belt and armored leg piece that sit upon it. Rings glimmer around its fingers, and you can see a series of scars drawn across one side of its cheek that go down to its throat. It looks about at the rest of you, separated, glancing at each side. """"So. You seek passage, yes?"""""
 873;SAM;Yes, that's right.
-874;MATT;"""There is a toll to pay. A favor to the Fendir is granted. A favor in kind."""
+874;MATT;"""""There is a toll to pay. A favor to the Fendir is granted. A favor in kind."""""
 875;SAM;A favor to you?
 876;MARISHA;The Fendir, is that what you said?
-877;MATT;"""We are the Fendir."""
+877;MATT;"""""We are the Fendir."""""
 878;SAM;Well, we would be happy to help if we can. We are here to do good, anyway. We've already done some. We conquered the devastating campsite of Soradun the Happy, and we're up to doing more tasks like that, if it would help.
-879;MATT;"The wolf creature that you expect, at this point, is the Lord Ukurat that you heard mentioned before by both Garmelie and the wolf and beast kin, leans down towards you, making you uncomfortable, as his head is larger than your entire body, Scanlan. The lips curl back, and you can see the glistening white teeth, and drool slowly dripping off the edge of its curled purple-black lips. (sniffs) ""We will not eat this day if you agree to do us this favor."""
+879;MATT;"The wolf creature that you expect, at this point, is the Lord Ukurat that you heard mentioned before by both Garmelie and the wolf and beast kin, leans down towards you, making you uncomfortable, as his head is larger than your entire body, Scanlan. The lips curl back, and you can see the glistening white teeth, and drool slowly dripping off the edge of its curled purple-black lips. (sniffs) """"We will not eat this day if you agree to do us this favor."""""
 880;LAURA;Name it.
-881;MATT;"""The pixie Wishers carry a madness, one that pits them against all who wander these woods. They prey upon us Fendir, take our forms to desecrate their twisted garden and decorate their lives. We lose family. We, the Fendir, and I, lord of this brood, ask you to take into this home, find these Wishers, destroy a relic of their people. In particular, a circle of crystal stones they keep.|It sits among their homes, tended by their mystic, Iotha. She wields the power to subjugate us all.|Do you agree to these terms, or does our hunt continue?"""
+881;MATT;"""""The pixie Wishers carry a madness, one that pits them against all who wander these woods. They prey upon us Fendir, take our forms to desecrate their twisted garden and decorate their lives. We lose family. We, the Fendir, and I, lord of this brood, ask you to take into this home, find these Wishers, destroy a relic of their people. In particular, a circle of crystal stones they keep.|It sits among their homes, tended by their mystic, Iotha. She wields the power to subjugate us all.|Do you agree to these terms, or does our hunt continue?"""""
 882;LAURA;They sound really powerful, these pixies.
 883;SAM;If you are not powerful enough to conquer them, how would we have a chance?
-884;MATT;"""If you do not think you have a chance, perhaps you're best suited as our meal for the night."""
+884;MATT;"""""If you do not think you have a chance, perhaps you're best suited as our meal for the night."""""
 885;LAURA;No, we have a very good chance of defeating them. We are quite powerful. Just wondering why you haven't done it before.
-886;MATT;"""We have fallen to their magic. We are not tested and tempered against such trickster cunning creatures. But if you speak like you've passed the campsite unscathed, perhaps you have skills we lack."""
+886;MATT;"""""We have fallen to their magic. We are not tested and tempered against such trickster cunning creatures. But if you speak like you've passed the campsite unscathed, perhaps you have skills we lack."""""
 887;SAM;That is true. We probably do. We made quick work of the camp. It was a proud moment for us, one that will be storied for generations.
 888;MARISHA;This mystic-- Iotha, you said-- she has the power to subjugate your kind?
-889;MATT;"""Yes."""
+889;MATT;"""""Yes."""""
 890;MARISHA;Does she have the power to create more lycans?
-891;MATT;"""She sees our kind to be exterminated."""
+891;MATT;"""""She sees our kind to be exterminated."""""
 892;SAM;Where can we find this site?
-893;MATT;"""Follow the lights."""
+893;MATT;"""""Follow the lights."""""
 894;SAM;The lights?
 895;MATT;The small, glittering fey lights that you've seen throughout many of the darker forested areas of the Feywild since you arrived, now taking a look, they all slowly, gently drift in a singular direction before touching the ground and dissipating. Even though the wind that blew through with their arrival has faded, they all still drift in a direction as if they're being called a specific way.
 896;LAURA;Cool. Hey, question. Should we help you with this terrible problem you've been facing, do you think there's any way you would want to help us when we try to take out this cancerous tree? It needs to be taken care of. Teamwork?
-897;MATT;"""Cancerous tree?"""
+897;MATT;"""""Cancerous tree?"""""
 898;LAURA;It's really bad. Whole other area for you to dominate. It's quite wonderful.
 899;MARISHA;The Shademirk bog.
 900;MATT;Make a persuasion check.
 901;LAURA;Goddamn it! Wait, it's my favored terrain.
 902;MATT;Doesn't work for every single thing you do.|The forest isn't going to help you with your persuasion check, sorry.
 903;LAURA;Natural one.
-904;MATT;"The wolf leans forward, and the mouth comes right up to you for a second. The nose almost nudges you, and you instinctually stand back as it (snorts). ""This is not part of our parley. We grant you passage and to take what you wish off their pixie corpses. That is the deal. Take it, or we hunt."""
+904;MATT;"The wolf leans forward, and the mouth comes right up to you for a second. The nose almost nudges you, and you instinctually stand back as it (snorts). """"This is not part of our parley. We grant you passage and to take what you wish off their pixie corpses. That is the deal. Take it, or we hunt."""""
 905;SAM;I think we'll take the deal. Happy to enter into this contract with you. No problem.
 906;MARISHA;We're just stacking contracts.
 907;SAM;Is there a timetable to this? Do we have to do this now? Can we do this on the way out of the Feywild?
-908;MATT;"""There is no out until this agreement is completed."""
+908;MATT;"""""There is no out until this agreement is completed."""""
 909;SAM;Do we have your word that we have completely safe passage? We don't have to worry about any other sort of monsters getting us in our sleep on the way there?
-910;MATT;"""They and us rule this brush. Against each other, nothing will take your path away. We can guide you if need be."""
+910;MATT;"""""They and us rule this brush. Against each other, nothing will take your path away. We can guide you if need be."""""
 911;MARISHA;If we take out the pixies, what is the future of your tribe?
-912;MATT;"""The brush will be ours. We will no longer be taken, our people left there to wither and waste away to the elements."""
+912;MATT;"""""The brush will be ours. We will no longer be taken, our people left there to wither and waste away to the elements."""""
 913;MARISHA;Just a question. Do you guys hunt the pixies? Because I'm getting the sense that this is a weird turf war, and I just want to know the full story before we enter into this contract.
 914;MATT;The bear, who's closer to you, takes a step forward, and you feel the ground shake behind you.
 915;TRAVIS;I match his step.
-916;MATT;"Match his step, okay. Grog steps forward.|The other of the wolves nearby see you, and they all (snarl) crouch down, snarling in your direction. Lord Ukurat puts his hands out. ""Calm, my brethren. We wish to live in peace amongst the woods, away from those who would hunt us, outside and in."""
+916;MATT;"Match his step, okay. Grog steps forward.|The other of the wolves nearby see you, and they all (snarl) crouch down, snarling in your direction. Lord Ukurat puts his hands out. """"Calm, my brethren. We wish to live in peace amongst the woods, away from those who would hunt us, outside and in."""""
 917;MARISHA;Why don't you guys just agree? You guys take this half of the forest, and they'll take the other? I can even help you guys build a big wall, if you want, not to get oddly political. Maybe death is not the answer here?
-918;MATT;"One of the wolves nearby speaks up, ""She speaks like she knows this place."" And you hear some laughter. The wolf's head, which is turned to you, Lord Ukurat turns to you."
+918;MATT;"One of the wolves nearby speaks up, """"She speaks like she knows this place."""" And you hear some laughter. The wolf's head, which is turned to you, Lord Ukurat turns to you."
 919;MARISHA;They think I'm funny.
 920;SAM;How many total are there?
 921;MATT;There were seven, including the 12-foot-tall one.
 922;SAM;We can probably take them.
 923;MARISHA;I'm not trying to take sides here. Just from a third party looking in. Trying to understand both perspectives, maybe.
-924;MATT;"""You have only heard one perspective."""
+924;MATT;"""""You have only heard one perspective."""""
 925;MARISHA;Exactly!
-926;MATT;"""Then go speak with them, if you'd like.|Learn what we have learned. Perhaps that will help guide your choice."""
+926;MATT;"""""Then go speak with them, if you'd like.|Learn what we have learned. Perhaps that will help guide your choice."""""
 927;MARISHA;Not a bad idea.
 928;TALIESIN;I find that very reasonable.
 929;LAURA;That is very agreeable.
-930;MATT;"""We will be watching."" At this point, Lord Ukurat crouches down, leaps up into the canopy of the forest, and you hear (impacts) as he leaps off in the distance. The other wolves (howl) follow suit and dart off in separate directions, and you hear as the bear backs away, Trinket growls back at him."
+930;MATT;"""""We will be watching."""" At this point, Lord Ukurat crouches down, leaps up into the canopy of the forest, and you hear (impacts) as he leaps off in the distance. The other wolves (howl) follow suit and dart off in separate directions, and you hear as the bear backs away, Trinket growls back at him."
 931;LAURA;Be nice to him, Trinket!
 932;MATT;(bear growl) The bear goes, (grunt). Trinket goes (grunt). Broseph bear snarls. You guys are left to the quiet of the forest now.
 933;SAM;We could probably kill them all. I'm just throwing that out there.
@@ -949,7 +949,7 @@
 947;LIAM;Yeah, we ran in for 30 seconds, shit the bed, and then got the hell out. We didn't try to end them. We didn't finish anything.
 948;TRAVIS;It also bears remarking that Garmelie said we're not supposed to side with either, right?
 949;LAURA;Right, Garmelie?
-950;MATT;"""It's really up to you guys. I don't know if you have much of a choice right now."""
+950;MATT;"""""It's really up to you guys. I don't know if you have much of a choice right now."""""
 951;LIAM;Can't we just thread the needle and play them both?
 952;MARISHA;Until we get out of here. We're talking about exterminating the group of fairies--
 953;TRAVIS;No, we're destroying one of their relics.
@@ -974,27 +974,27 @@
 972;MARISHA;Maybe they can work with us.
 973;SAM;I'm okay with at least going to do some recon.
 974;TRAVIS;Go see the pixies. We send in Garmelie. If he dies, then we make a choice. Do you have a revision to that plan?
-975;MATT;"""I would think that would be the last portion of the plan. Everything else goes forward, and then, all else fails, perhaps Garmelie would have a hard time."""
+975;MATT;"""""I would think that would be the last portion of the plan. Everything else goes forward, and then, all else fails, perhaps Garmelie would have a hard time."""""
 976;MARISHA;Garmelie. Go, Percy.
 977;TALIESIN;You're our guide. Guide us. We're supposed to go where we're going, so you're supposed to get us there. How do we get there?
 978;LAURA;Follow the lights.
-979;MATT;"""You know exactly how to go there. Follow the lights."""
+979;MATT;"""""You know exactly how to go there. Follow the lights."""""
 980;TRAVIS;Wow, you're so brave.
 981;MARISHA;We brought you here.
 982;TALIESIN;Garmelie, I'm so curious as to what happens if you're going to renege on our contract.
 983;LAURA;Would you want to draw some of the pixies if we see them?
-984;MATT;"""If they let me."""
+984;MATT;"""""If they let me."""""
 985;LAURA;You can hide behind Grog, and you draw the pixies.
-986;MATT;"""I can maybe do that."""
+986;MATT;"""""I can maybe do that."""""
 987;TRAVIS;They're going to be pixies with giant dickbutts everywhere.
 988;MARISHA;Garmelie, is there anything in particular about pixies we desperately need to be aware of?
-989;MATT;"""They're tiny. They're frail, mostly mischievous."""
+989;MATT;"""""They're tiny. They're frail, mostly mischievous."""""
 990;TRAVIS;How tiny?
 991;MATT;He makes a motion with his hands about like that.
 992;LAURA;They're really that small? Are they super strong?
-993;MATT;"""No, they're quite the opposite, actually."""
+993;MATT;"""""No, they're quite the opposite, actually."""""
 994;SAM;But there are lots of them, and they're fast and invisible.
-995;MATT;"""They are fairly magical entities. Depending on which type of pixie they are, their dispositions can shift dramatically. The Feywild entities that live and exist in certain areas tend to adapt to those areas. There are creatures of all emotional and moral backgrounds and interests.|It's hard to say."""
+995;MATT;"""""They are fairly magical entities. Depending on which type of pixie they are, their dispositions can shift dramatically. The Feywild entities that live and exist in certain areas tend to adapt to those areas. There are creatures of all emotional and moral backgrounds and interests.|It's hard to say."""""
 996;TALIESIN;I'll also say, if we are going to attack the were-creatures, it would be nice to have a little help, maybe.
 997;SAM;Help? From whom?
 998;TALIESIN;From the pixies. If we explain our situation, we can make a decision and either help the were-creatures or--
@@ -1010,11 +1010,11 @@
 1008;SAM;Reading.
 1009;LAURA;How many hours do you have left of reading?
 1010;SAM;After two and half more, I have about four and a half.
-1011;MATT;"So close. You're on the cusp of your week end, too. You guys make your way-- hoping that the music now is fixed. We shall see. It's a cable issue, not an iPad issue, it looks like. As you guys push on, you eventually see a cluster of small glowing lights in the distance, Vex.|Garmelie immediately goes, ""I'm going to hide now,"" and he goes invisible."
+1011;MATT;"So close. You're on the cusp of your week end, too. You guys make your way-- hoping that the music now is fixed. We shall see. It's a cable issue, not an iPad issue, it looks like. As you guys push on, you eventually see a cluster of small glowing lights in the distance, Vex.|Garmelie immediately goes, """"I'm going to hide now,"""" and he goes invisible."
 1012;LAURA;Garmelie, won't they see you?
-1013;MATT;"""That's possible. Should I just stay back?"""
+1013;MATT;"""""That's possible. Should I just stay back?"""""
 1014;LAURA;You should probably just hold onto Grog. If he runs in, just trail behind him.
-1015;MATT;"""Okay,"" and you feel the little hand grab the back of your belt again, a similar situation.|You hear (groans).|You guys now see what appears to be a thicket in the center of this portion of the forest. Maybe 20 or so natural-looking homes forming a small glowing community, almost like they were grown out of the ground of the local trees. The bark itself protrudes from the side of a tree and creates a dome-like abode that has carved little windows in it and a glowing interior. It's a very pretty fairy community out there, right in there in the center. All of the fey lights in the forest are slowly drifting in towards the center of this community. At a hundred-foot distance, you can just make out the faintest details."
+1015;MATT;"""""Okay,"""" and you feel the little hand grab the back of your belt again, a similar situation.|You hear (groans).|You guys now see what appears to be a thicket in the center of this portion of the forest. Maybe 20 or so natural-looking homes forming a small glowing community, almost like they were grown out of the ground of the local trees. The bark itself protrudes from the side of a tree and creates a dome-like abode that has carved little windows in it and a glowing interior. It's a very pretty fairy community out there, right in there in the center. All of the fey lights in the forest are slowly drifting in towards the center of this community. At a hundred-foot distance, you can just make out the faintest details."
 1016;LAURA;They're teeny, though? It's teeny little houses?
 1017;MATT;Yes.
 1018;SAM;Like doghouse size?
@@ -1024,7 +1024,7 @@
 1022;MARISHA;This is so cute.
 1023;LIAM;And Vex is the only one that can see it.
 1024;MATT;She's the furthest ahead, yes.
-1025;TRAVIS;"I feel like ""cute"" is the last word we should use for this."
+1025;TRAVIS;"I feel like """"cute"""" is the last word we should use for this."
 1026;TALIESIN;It will be the last word you ever say.
 1027;LAURA;Definitely pixie city is up ahead.
 1028;TRAVIS;Should we look for perimeter alarms or traps?
@@ -1133,7 +1133,7 @@
 1131;SAM;I will buy into this idea if we have a plan for when the pixies are about to literally attack us five minutes from now.
 1132;MARISHA;Well, we can do Hallucinatory Terrain, and if we run into the lycans, all we have to do is say we did it.
 1133;LAURA;Do Hallucinatory Terrain. Garmelie, which direction should we run if we're running towards where we're supposed to be going?
-1134;MATT;"Garmelie has watched this thing with eyes wide, and he's like, ""That way."""
+1134;MATT;"Garmelie has watched this thing with eyes wide, and he's like, """"That way."""""
 1135;LAURA;All right.
 1136;TRAVIS;Weren't you dropping little green rocks?
 1137;MARISHA;I was dropping little green rocks.
@@ -1201,13 +1201,13 @@
 1199;TRAVIS;Fuck that little bastard.
 1200;MATT;That was fun. Eventually, you begin to see a thinning of the trees, like the forest is coming to an end. You're beginning to hit the edge of the duskward side of the Moonbrush.
 1201;LAURA;Are we going the right direction, Garmelie?
-1202;MATT;"""As far as I know! Yes, we're going the right way!"""
+1202;MATT;"""""As far as I know! Yes, we're going the right way!"""""
 1203;MARISHA;You're taking us through the bog?
-1204;MATT;"""Through the Moonbrush. That's what we're going through."""
+1204;MATT;"""""Through the Moonbrush. That's what we're going through."""""
 1205;MARISHA;Still to the bog.
-1206;MATT;"""Of course! Where else would I want to go?!"" He's holding his hat and rushing along."
+1206;MATT;"""""Of course! Where else would I want to go?!"""" He's holding his hat and rushing along."
 1207;LIAM;You want to go to the theater.
-1208;MATT;"""No theater!"""
+1208;MATT;"""""No theater!"""""
 1209;LIAM;What's your problem with the arts, man?
 1210;MATT;You guys, at this point in time, come to the final tree line, Vex and Vax and Garmelie helming at the front of the pace before all three of you slam into something extremely hard.
 1211;MARISHA;Oh fuck.
@@ -1218,16 +1218,16 @@
 1216;LAURA;Seriously. A wall?
 1217;MATT;You stand back up and you guys catch up, and same thing: you come up to the edge between where the trees that hit the perimeter of the forest are, and there's a barrier, an invisible barrier right there that's preventing you from crossing.
 1218;LIAM;What is this thing, Garmelie?
-1219;MATT;"""I don't know! I haven't encountered this."""
+1219;MATT;"""""I don't know! I haven't encountered this."""""
 1220;LIAM;Never ever?
-1221;MATT;"""I don't walk into the middle of dangerous forests for fun!"""
+1221;MATT;"""""I don't walk into the middle of dangerous forests for fun!"""""
 1222;TALIESIN;I don't think we can leave until we take care of this.
 1223;TRAVIS;Wait. You can go invisible. Is it magic? Can you tell?
-1224;MATT;"""I can have a look at it."""
+1224;MATT;"""""I can have a look at it."""""
 1225;TRAVIS;Yeah, have a look.
-1226;MATT;"He comes up and looks over it for a bit. ""To be honest, this is a large-scale enchantment. This is some sort of-- this is very powerful, very old magic."""
+1226;MATT;"He comes up and looks over it for a bit. """"To be honest, this is a large-scale enchantment. This is some sort of-- this is very powerful, very old magic."""""
 1227;MARISHA;Fucking old magic.
-1228;MATT;"He turns around, looking at you guys. ""Hi."""
+1228;MATT;"He turns around, looking at you guys. """"Hi."""""
 1229;LAURA;Hi.
 1230;MATT;Looking past you.
 1231;LAURA;Oh shit.
@@ -1235,17 +1235,17 @@
 1233;LIAM;See what we did to those pixies? Wrecked.
 1234;LAURA;Fucking destroyed.
 1235;TRAVIS;Cut me real quick.
-1236;MATT;"At this point, you now see as Lord Ukurat steps from them, and they all begin to form a semicircle around you. He goes, ""Were you trying to flee?"""
+1236;MATT;"At this point, you now see as Lord Ukurat steps from them, and they all begin to form a semicircle around you. He goes, """"Were you trying to flee?"""""
 1237;TALIESIN;We were running from the pixies.
 1238;LAURA;We destroyed their home, and then we took off running. That's what you wanted, right?
 1239;MARISHA;They're so scary.
-1240;MATT;"""If you had done what we asked, you would have been able to leave this forest."""
+1240;MATT;"""""If you had done what we asked, you would have been able to leave this forest."""""
 1241;TALIESIN;So we have to try harder. It didn't work.
 1242;LAURA;Apparently, our methods were not complete.|We will go back and we will do it better this next time.
 1243;MARISHA;To be fair, I don't remember entering a formal contract.
 1244;LIAM;You took off before we shook hands or anything.
 1245;MARISHA;You told us to go take a look at the pixies first. And to get a second opinion. And we have made it to the edge of the bog safely, without your need of safe passage.
-1246;MATT;"He's already turned around and walking away.|He says, ""Do what you will. I have no interest in you. Liars, deceivers! You talk too much. Your meat would taste like ash in my mouth. Well, good luck. Enjoy your time locked in this prison like the rest of us!"" The wolves turn around and walk away."
+1246;MATT;"He's already turned around and walking away.|He says, """"Do what you will. I have no interest in you. Liars, deceivers! You talk too much. Your meat would taste like ash in my mouth. Well, good luck. Enjoy your time locked in this prison like the rest of us!"""" The wolves turn around and walk away."
 1247;LAURA;Wait, you're locked in here because of the pixies?
 1248;TALIESIN;I feel like they're terrible communicators.
 1249;MARISHA;Yeah, they should've told us that. I don't think they wanted to tell us that.
@@ -1271,22 +1271,22 @@
 1269;TALIESIN;Let's sit down and camp, and in the morning, we'll go and kill some pixies.
 1270;SAM;Wait. Are we trapped in here because we were deceitful to these wolf-men, or because the pixies are trapping everybody?
 1271;LIAM;The pixies are bitter little assholes.
-1272;MATT;"Garmelie goes, ""That doesn't make sense.|People enter and exit the forest without an issue."""
+1272;MATT;"Garmelie goes, """"That doesn't make sense.|People enter and exit the forest without an issue."""""
 1273;SAM;We entered.
 1274;MARISHA;Yeah, we entered.
 1275;SAM;So why are we trapped here? Because we lied?
-1276;MATT;"""I don't know."""
+1276;MATT;"""""I don't know."""""
 1277;TRAVIS;I just don't think we can go this way.|(belches)
 1278;TALIESIN;I'm going to attempt to cast Minor Illusion on the other side of the wall. Just an image of myself.
 1279;MATT;Okay. As you attempt to cast the spell, the arcane energy dissipates upon impact with the barrier.
 1280;LAURA;Garmelie, who do you know that's left these woods?
-1281;MATT;"""That would be my uncle Jameson, who's the person I learned most of this information about the Moonbrush from."""
+1281;MATT;"""""That would be my uncle Jameson, who's the person I learned most of this information about the Moonbrush from."""""
 1282;LAURA;Your uncle Jameson, and he was definitely telling the truth that he went in the woods?
-1283;MATT;"""He was probably a little intoxicated when he was spinning these tales, but--"""
+1283;MATT;"""""He was probably a little intoxicated when he was spinning these tales, but--"""""
 1284;TALIESIN;Is Jameson his real name or a nickname?
-1285;MATT;"""As far as I know, it's his real name."""
+1285;MATT;"""""As far as I know, it's his real name."""""
 1286;LAURA;So he knew about the happy camp.
-1287;MATT;"""These were the things I was warned of, yes."""
+1287;MATT;"""""These were the things I was warned of, yes."""""
 1288;LIAM;Do we want to waste any time trying to take your broom up and see how high this barrier goes?
 1289;MARISHA;I can dig and see if we can go under, just in case.
 1290;TALIESIN;That doesn't jive.
@@ -1333,11 +1333,11 @@
 1331;SAM;Looks like a seven. Nope, that's a one.
 1332;MATT;As you're stalking through, looking about, you catch a scent, a new scent. One you're unfamiliar with. It smells sweet, like a freshly fallen and opened fruit. You immediately instinctively look down and sniff across the ground. Out of the corner of your eye, you see a glow as you see two small, humanoid entities with pairs of wings flutter in in front of you and stop. What languages do you know?
 1333;MARISHA;Elven, Sylvan, Primordial.
-1334;MATT;"Okay. You do understand what they're saying, as they are both talking to each other in Sylvan.|One says, ""I'm not familiar with this one! I don't think I've seen this creature in here before."" The other one glances over and goes, ""You don't think she could've done it?"""
+1334;MATT;"Okay. You do understand what they're saying, as they are both talking to each other in Sylvan.|One says, """"I'm not familiar with this one! I don't think I've seen this creature in here before."""" The other one glances over and goes, """"You don't think she could've done it?"""""
 1335;MARISHA;What was that last bit? Sorry.
-1336;MATT;"""You don't think that she could've done it? It's just a cat."" ""Is it, though?"" They both get closer and inspect you. They're both rotating around your face and fluttering. One starts pulling on your ear a little bit, tugging on it."
+1336;MATT;"""""You don't think that she could've done it? It's just a cat."""" """"Is it, though?"""" They both get closer and inspect you. They're both rotating around your face and fluttering. One starts pulling on your ear a little bit, tugging on it."
 1337;MARISHA;I start purring.
-1338;MATT;"""It's okay."" They move underneath, under your neck, and scratch just a little bit.|The other one backs up and goes, ""We have to keep looking. Something did this."""
+1338;MATT;"""""It's okay."""" They move underneath, under your neck, and scratch just a little bit.|The other one backs up and goes, """"We have to keep looking. Something did this."""""
 1339;MARISHA;I wait for a second, and then start stalking them.
 1340;MATT;You follow them?
 1341;MARISHA;Yeah.
@@ -1352,19 +1352,19 @@
 1350;MATT;All right. As you creep forward in the middle of their discussion, the three of them all whip around at you. One of them pulls a wand out and puts it out in front, and the other two back up.
 1351;MARISHA;I just start eating grass.
 1352;LAURA;That's totally tiger-like.
-1353;MATT;"The two that saw you before are like, ""She's been following us."" ""Why?"""
+1353;MATT;"The two that saw you before are like, """"She's been following us."""" """"Why?"""""
 1354;MARISHA;I roll over and show my belly.
-1355;MATT;"The one that has the wand out goes, ""I don't want to take chances."" Puts the wand out. How many hit points do you have? In Minxie form?"
+1355;MATT;"The one that has the wand out goes, """"I don't want to take chances."""" Puts the wand out. How many hit points do you have? In Minxie form?"
 1356;LIAM;Shuffle shuffle, flip page, flip page, flip page.
 1357;MARISHA;Sorry. 52. They're going to Finger of Death me, aren't they? They're going to do something bad.
-1358;MATT;"Okay. Raises the wand. There's a slight tingling sensation, and then nothing happens, and looks at the wand. ""Strange."" They all convene and start whispering to each other very close."
+1358;MATT;"Okay. Raises the wand. There's a slight tingling sensation, and then nothing happens, and looks at the wand. """"Strange."""" They all convene and start whispering to each other very close."
 1359;MARISHA;I look distracted with other stuff. I sniff and wander off.
 1360;MATT;They separate a bit.
 1361;MARISHA;Just doing cat-like things.
 1362;LIAM;Just start pissing.
 1363;MARISHA;I mark my territory. I spray a little bit.
 1364;LAURA;Gross. That's foul, Keyleth.
-1365;MATT;"You hear one of them say, ""We can always correct it later, but best to be safe than sorry."" As you're peeing, I need you to make a--"
+1365;MATT;"You hear one of them say, """"We can always correct it later, but best to be safe than sorry."""" As you're peeing, I need you to make a--"
 1366;LAURA;If she gets petrified while she's pissing, it's going to be--
 1367;MATT;I need you to make a constitution saving throw.
 1368;SAM;It's either a one or a 20.
@@ -1376,7 +1376,7 @@
 1374;MARISHA;Oh, that's a 16, that's good. Saving throw, so 21.
 1375;MATT;Constitution saving throw is 21 total?
 1376;MARISHA;I've got my ring of protection, which gives me a plus two.
-1377;MATT;"Oh, right. So as you're peeing, you feel another warm tingle over one shoulder, and you feel your muscles tense a little bit, and then relax as the effect passes over you to no effect.|The three pixies go, ""We have to tell her. I don't trust it."" And they all flutter off."
+1377;MATT;"Oh, right. So as you're peeing, you feel another warm tingle over one shoulder, and you feel your muscles tense a little bit, and then relax as the effect passes over you to no effect.|The three pixies go, """"We have to tell her. I don't trust it."""" And they all flutter off."
 1378;MARISHA;Okay. I head back to camp.
 1379;MATT;A few hours pass. Keyleth hasn't returned.|You're still reading.
 1380;LAURA;Keyleth? Keyleth, dear? Shit.
@@ -1538,31 +1538,31 @@
 1536;SAM;How about I just sing a happy tune?
 1537;LAURA;Sounds good, too.
 1538;SAM;I'll sing a song about myself. The best kind of songs. (singing) Cube, glorious cube! You really should try it. If you're in the mood, I won't even hide it. I'll pull down my trousers for any gal or dude, O cube, glorious cube, wonderful cube, magical cube!
-1539;MATT;"The sounds of your voice, accompanied by the music box playing through the air as the Wisher pixies arrive, at least this troupe of them come rushing up. You see they are all behind one that appears to have-- while all of them have a slight white with a hint of pinkish glow, there is one that has a deeper purple halo around it. As they all approach, they stop, and the purple one goes up to the paper that was left on the tree. ""So! Enjoy your nap?"""
+1539;MATT;"The sounds of your voice, accompanied by the music box playing through the air as the Wisher pixies arrive, at least this troupe of them come rushing up. You see they are all behind one that appears to have-- while all of them have a slight white with a hint of pinkish glow, there is one that has a deeper purple halo around it. As they all approach, they stop, and the purple one goes up to the paper that was left on the tree. """"So! Enjoy your nap?"""""
 1540;LAURA;I wasn't quite rested, but it was lovely here.
 1541;TALIESIN;There is tea. Would you like some tea?
 1542;SAM;We might have straws.
 1543;TALIESIN;I am tempted to fashion the thing that I use to pour my molds into little sippy cups that can be shared.
 1544;LAURA;We've been trying to prepare for your coming. Unfortunately, we don't have very much to make it appropriate.
 1545;TALIESIN;We are aware we need to have a conversation. Good morning.
-1546;MATT;"""Yes, we do."" And the other pixies flutter down to the ground. She flutters down, as well, and they approach the tea set."
+1546;MATT;"""""Yes, we do."""" And the other pixies flutter down to the ground. She flutters down, as well, and they approach the tea set."
 1547;MARISHA;I say good morning to them in Sylvan.
-1548;MATT;"They all look over, and they give a slight curtsey bow. You now have a closer look at them.|They're all various lithe young men and women with little leaf-based or vine-based bits of attire.|The one that has the purplish halo is an older one with whiter hair that's a little wild around the face. You can see the wings themselves look a little more tattered and worn. She's probably the respected elder of the troupe that's there. As they all step forward, she inspects the tea set and looks up. ""So."""
+1548;MATT;"They all look over, and they give a slight curtsey bow. You now have a closer look at them.|They're all various lithe young men and women with little leaf-based or vine-based bits of attire.|The one that has the purplish halo is an older one with whiter hair that's a little wild around the face. You can see the wings themselves look a little more tattered and worn. She's probably the respected elder of the troupe that's there. As they all step forward, she inspects the tea set and looks up. """"So."""""
 1549;LAURA;I'm afraid there's been a misunderstanding.|You see, we were trying to pass through these woods, and we ran into a band of very big, very mean-looking wolves.
-1550;MATT;"All the pixies at once go (gasps) and they pull back. The purple one says, ""You ran into them?"""
+1550;MATT;"All the pixies at once go (gasps) and they pull back. The purple one says, """"You ran into them?"""""
 1551;SAM;Not only did we run into them, but they forced us against our will to attempt to do you harm.
 1552;LAURA;Which, of course, we didn't want to do.
 1553;TALIESIN;So we thought we would just trick them.
 1554;MATT;The pixies at this point are darting around to each of you. You each have a pixie hovering right in front of you, quickly inspecting your bodies. You can see now the central one, the glowing purple, is in the air, backing up.
 1555;MARISHA;They didn't bite any of us or get any of us. We're not infected.
-1556;MATT;"They all look around. You see the pixies all turn back, looking, okay. One of them by Grog turns and goes, ""He's been wounded!"" Pointing at his head."
+1556;MATT;"They all look around. You see the pixies all turn back, looking, okay. One of them by Grog turns and goes, """"He's been wounded!"""" Pointing at his head."
 1557;LAURA;His cut?
 1558;TALIESIN;Oh, that was him.
 1559;SAM;I cut his eyebrow, and then he fucked himself by trying to smash through the barrier that I assume you created.
 1560;TRAVIS;Yeah, don't go through that wall. But bidet.
 1561;TALIESIN;We're on a mission, though.
 1562;LAURA;A great mission.
-1563;MATT;"""If we are to continue this conversation, we need comfort. He is disquieting. Allow us."""
+1563;MATT;"""""If we are to continue this conversation, we need comfort. He is disquieting. Allow us."""""
 1564;LAURA;What are you going to--
 1565;TRAVIS;No, it's cool. Please, do as you will.
 1566;LIAM;What are we talking about?
@@ -1571,16 +1571,16 @@
 1569;TRAVIS;Natural one. (laughs)
 1570;MATT;As you grin, you watch as his flesh goes an even duller gray color as his entire body turns to solid stone.
 1571;LIAM;Is that temporary? Is that going to last?
-1572;MATT;"""Now. Let us have a conversation."""
+1572;MATT;"""""Now. Let us have a conversation."""""
 1573;LAURA;Okay.
-1574;MATT;"""So. You've encountered these beasts."""
+1574;MATT;"""""So. You've encountered these beasts."""""
 1575;LAURA;Yes.
 1576;MARISHA;And they instructed us to kill you.
 1577;TALIESIN;No, not to kill.
 1578;LAURA;They wanted us to hurt you. To destroy your circle of stones.
-1579;MATT;"""They sent you to come and kill us and destroy our home?"""
+1579;MATT;"""""They sent you to come and kill us and destroy our home?"""""
 1580;LIAM;We misspoke. To destroy this circle.
-1581;MATT;"""You speak in many words that do not meet as one thought or theory."""
+1581;MATT;"""""You speak in many words that do not meet as one thought or theory."""""
 1582;TALIESIN;Well, you're a bit intimidating.
 1583;MATT;As the very tiny pixies all look at each other and look at you large folk, there's a little chuckle under their breath.
 1584;TALIESIN;We are wise enough to not judge a man or woman by their size, good sir.
@@ -1597,36 +1597,36 @@
 1595;MARISHA;Can I understand what they're saying?
 1596;MATT;No, they're very small, and they're very distant.
 1597;LAURA;That's really, really off-putting.
-1598;MATT;"It's impressive. The two pixies separate.|The elder one crosses her fingers. ""Few are those who would deal with such miscreants and foul entities as those wolf kin, so much as to give our little hearts a possible scare of death to our homes in an attempt to escape without but a conversation. This puts us at unease. We do not like being at unease."""
+1598;MATT;"It's impressive. The two pixies separate.|The elder one crosses her fingers. """"Few are those who would deal with such miscreants and foul entities as those wolf kin, so much as to give our little hearts a possible scare of death to our homes in an attempt to escape without but a conversation. This puts us at unease. We do not like being at unease."""""
 1599;LAURA;Understandable. But we weren't trying to deal with them. In fact, we made no deal with them. We told them we wouldn't make a deal until we spoke with you. But we were scared. We were too scared.
 1600;MARISHA;They were trying to exploit our abilities. We were being held against our will. We were threatened with life or death. There was nothing personal.
 1601;LIAM;Their leader is massive. We were scared.|This one wet his leg, and he's gigantic. We just didn't know what to do.
-1602;MATT;"She puts her hands up. ""Very well. Mistakes are made, and punishments are doled out. So. We shall return to our village. We shall lower the barrier to you, and all shall be fine."""
+1602;MATT;"She puts her hands up. """"Very well. Mistakes are made, and punishments are doled out. So. We shall return to our village. We shall lower the barrier to you, and all shall be fine."""""
 1603;SAM;And our gray stone friend?
-1604;MATT;"""He is your punishment for your infraction.|But we've learned our lessons, and you may go about your way."""
+1604;MATT;"""""He is your punishment for your infraction.|But we've learned our lessons, and you may go about your way."""""
 1605;SAM;How can we buy his freedom?
 1606;LIAM;We've got a tea set.
 1607;LAURA;How can we buy his freedom?
-1608;MATT;"""There is no freedom to be bought. In these worlds, words and actions speak volumes, and you've crossed our people. Right now, we could take you all as new entries to our garden. We took but one. Be thankful you got off quite as easy.|The Wishers set you free."""
+1608;MATT;"""""There is no freedom to be bought. In these worlds, words and actions speak volumes, and you've crossed our people. Right now, we could take you all as new entries to our garden. We took but one. Be thankful you got off quite as easy.|The Wishers set you free."""""
 1609;LAURA;Thanks, Wisher.
 1610;MARISHA;It's okay. I can fix it.
 1611;SAM;What? What do you mean?
 1612;MARISHA;I have Greater Restoration. She left, right? That wasn't in front of her. I didn't say that to her.
-1613;MATT;"Okay. She says, ""Very well. Good luck on your endeavor."" The rest of the pixies gather up around Grog's body, and you watch as they all glow and his stone form, as heavy as it should be, suddenly becomes weightless."
+1613;MATT;"Okay. She says, """"Very well. Good luck on your endeavor."""" The rest of the pixies gather up around Grog's body, and you watch as they all glow and his stone form, as heavy as it should be, suddenly becomes weightless."
 1614;SAM;Wait.
 1615;TALIESIN;Wait, no, we need that.
 1616;MARISHA;Oh, they're taking him. Oh! I cast Earthbind on Grog.
 1617;SAM;Earthbind?
 1618;MARISHA;Yeah. It should ground him.
-1619;MATT;"It does. He slams into the ground with all the weight of a falling stone goliath into the dirt. At which point the pixies immediately go off and turn around. ""You would cast incantations towards us?"""
+1619;MATT;"It does. He slams into the ground with all the weight of a falling stone goliath into the dirt. At which point the pixies immediately go off and turn around. """"You would cast incantations towards us?"""""
 1620;MARISHA;No, I cast it to my friend, who is about 12 foot tall and a giant target. Come on, don't make stories up where there aren't any.
-1621;MATT;"""Stories, nothing."""
+1621;MATT;"""""Stories, nothing."""""
 1622;MARISHA;What? You fairies are manifesting these ideas, okay? You are creating a dichotomy that does not exist.
 1623;MATT;They all gather and begin to whisper to each other, their heads darting around.
 1624;MARISHA;Oh, see, look. They're doing it right now.
-1625;MATT;"At this point: ""This display is enough. Your words and your actions speak in difference, in entirely opposing directions. If you are to continue to throw these words, these deceptions, these lies in our direction, then perhaps we'll take you all for our garden."""
+1625;MATT;"At this point: """"This display is enough. Your words and your actions speak in difference, in entirely opposing directions. If you are to continue to throw these words, these deceptions, these lies in our direction, then perhaps we'll take you all for our garden."""""
 1626;TALIESIN;I wouldn't advise that.
-1627;MATT;"""Then let us take him, and you move on with your lesson."" And they go and pick him up once more."
+1627;MATT;"""""Then let us take him, and you move on with your lesson."""" And they go and pick him up once more."
 1628;LAURA;Wouldn't you rather have a song? Wouldn't you rather have-- how often do you get a performance?
 1629;TALIESIN;I cast Hex on the main pixie.
 1630;MATT;You do?
@@ -1635,7 +1635,7 @@
 1633;MATT;At this point, you guys watch as a shadow all of a sudden darts up from the ground and clings around the pixie. She whips around, at which point you now hear another (impact) as the stone Grog slams into the ground, all the pixies scattering around.
 1634;MARISHA;See, that is what it looks like when an incantation is targeted at you.
 1635;TALIESIN;It's not very nice, is it?
-1636;MATT;"You now watch as all of the various very gently falling fairy lights begin to (flitting) and be absorbed by the pixies of the forest. As their glows intensify, the purple halo growing, you see the central elder figure of the Wisher pixies say, ""At least our allegiances now lie bare."" I need you all to roll initiative."
+1636;MATT;"You now watch as all of the various very gently falling fairy lights begin to (flitting) and be absorbed by the pixies of the forest. As their glows intensify, the purple halo growing, you see the central elder figure of the Wisher pixies say, """"At least our allegiances now lie bare."""" I need you all to roll initiative."
 1637;LAURA;Can you quickly--
 1638;MARISHA;It's one action. It's one fucking action.|I just looked it up for that reason. That's not good. That's not a good initiative at all.
 1639;LAURA;Natural 20 on an initiative. I don't know what I can do to them.
@@ -1741,7 +1741,7 @@
 1739;MATT;It begins reciting under its breath.
 1740;SAM;I'll do Counterspell at level six.
 1741;MARISHA;Oh snapricot.
-1742;TALIESIN;"Did you just say ""snapricot?"""
+1742;TALIESIN;"Did you just say """"snapricot?"""""
 1743;MARISHA;I'm a fucking hipster.
 1744;TALIESIN;This is going so poorly.
 1745;LIAM;(Gollum voice) Nasty.
@@ -2170,9 +2170,9 @@
 2168;TALIESIN;There's one left.
 2169;LAURA;We shouldn't kill it! See if it can unfreeze our friends!
 2170;SAM;I got nothing left. That was my action and bonus.
-2171;MATT;"All right, end of Scanlan's turn. The pixie then turns about and begins running. As it disappears past the trees a little bit, you watch as a large, dark form lands right in front of it.|It stops for a second, and two giant claws reach down and grasp it in its hand, pick it up, and you can see before you, Lord Ukurat is now clutching this one pixie that was trying to escape. Looks inside for a second. (chuckles) ""Vengeance is tasty."" (chomps) ""Not very filling."" Stomps forward."
+2171;MATT;"All right, end of Scanlan's turn. The pixie then turns about and begins running. As it disappears past the trees a little bit, you watch as a large, dark form lands right in front of it.|It stops for a second, and two giant claws reach down and grasp it in its hand, pick it up, and you can see before you, Lord Ukurat is now clutching this one pixie that was trying to escape. Looks inside for a second. (chuckles) """"Vengeance is tasty."""" (chomps) """"Not very filling."""" Stomps forward."
 2172;LAURA;Be confident!
-2173;MATT;"""So. You called."""
+2173;MATT;"""""So. You called."""""
 2174;SAM;We called because our plan worked perfectly, and we were able to fulfill your deal to the letter, as we had always intended.
 2175;MATT;Make a deception check.
 2176;MARISHA;Come on, Scanlan!
@@ -2184,11 +2184,11 @@
 2182;LAURA;Oh no! Should you add it? Add it!
 2183;MATT;It's too late.
 2184;SAM;We'll never know.
-2185;MATT;"You're going to know pretty quick. As you say this, he comes forward and gets really low to the ground with his arms out at the sides, face right up to you. He could snatch you up in one bite. He goes, ""Clever gnome."" Stands back up. ""So. One pixie, two pixie, three, four. Where is their leader?"""
+2185;MATT;"You're going to know pretty quick. As you say this, he comes forward and gets really low to the ground with his arms out at the sides, face right up to you. He could snatch you up in one bite. He goes, """"Clever gnome."""" Stands back up. """"So. One pixie, two pixie, three, four. Where is their leader?"""""
 2186;TALIESIN;I walk over and scrape the tree.
-2187;MATT;"Takes a look at it. (howls) All the rest of the various members of his clan of the Fendirs begin to arrive in the distance.|""Yes, my lord?"" ""The mystic is dead. Wipe up the village. Come.|You have the rest of your deal to attend to."" Turns around and begins walking back toward the city of the pixies."
+2187;MATT;"Takes a look at it. (howls) All the rest of the various members of his clan of the Fendirs begin to arrive in the distance.|""""Yes, my lord?"""" """"The mystic is dead. Wipe up the village. Come.|You have the rest of your deal to attend to."""" Turns around and begins walking back toward the city of the pixies."
 2188;LAURA;We have some friends that are stone right now.
-2189;MATT;"""Then bring them along!"""
+2189;MATT;"""""Then bring them along!"""""
 2190;SAM;Keyleth, do you need help?
 2191;MARISHA;I take my last 5th-level spell to dump a Greater Restoration into Grog to bring him back from petrification.
 2192;SAM;You can't do it to two people at the same time?
@@ -2227,9 +2227,9 @@
 2225;LAURA;We have to go finish what we started, though. They want us to still desecrate the stones.
 2226;LIAM;Scanlan?
 2227;SAM;I'm ready. I've eaten a lot of things today.
-2228;MATT;"Garmelie appears behind one of the trees.|""Is everything cool? Everything good?"""
+2228;MATT;"Garmelie appears behind one of the trees.|""""Is everything cool? Everything good?"""""
 2229;MARISHA;Oh my god, you're still here!
-2230;MATT;"""Okay. No, I was-- got you guys' back."""
+2230;MATT;"""""Okay. No, I was-- got you guys' back."""""
 2231;LAURA;Did you draw a lot of the fight? I hope you did, because we kicked some ass there.
 2232;MATT;He opens his sketch pad, and you can see there's a bunch of hastily drawn sketches of Vax turned to stone with his finger up his nose, Grog in the ground with his stone thumb up his butt, smiling with his other thumb up in the air like he was. And the rest of you fumbling your attacks as the pixies are laughing.
 2233;LAURA;Sweet. Nice. Very good. That tree just moved.
@@ -2243,11 +2243,11 @@
 2241;SAM;Grog, care to do the honors?
 2242;TRAVIS;Absolutely. I walk up to Lord Pup.
 2243;LIAM;I'm going to follow close behind Grog.
-2244;MATT;"All the rest of the Fendirs, which are now a few more in number than you initially met before.|We have two more that have turned to stone, so there's now five total that are stone in the center of this village, but looks to be about nine of them now gathered up centrally to this space, Lord Ukurat in the center. They're beginning to follow in around you guys, keeping a perimeter.|Ukurat looks down at you as you approach. ""So. Honor comes at the end of the journey. We made a pact, and you completed your end. We complete ours. You are free to pass through this forest."" As Lord Ukurat reaches down and grabs two of the stones, you can see as his fingers grab them, they're burning his palms, singeing. There's a bunch of energy pushing back on him as his fur is blown and there's a bright light emanating from the center of the circle. Wrestles them forth from the ground. As he does, there's a crack of thunder that cascades throughout the center of the forest.|All of you feel the impact. The stone circle, the glowing quartz now dims and goes cold. The center where it used to be vibrant grass slowly turns to a dull gray and withers between the stones. Throws them to the ground. ""Now, we are all free. You say you travel duskward to the corrupted tree, yes?"""
+2244;MATT;"All the rest of the Fendirs, which are now a few more in number than you initially met before.|We have two more that have turned to stone, so there's now five total that are stone in the center of this village, but looks to be about nine of them now gathered up centrally to this space, Lord Ukurat in the center. They're beginning to follow in around you guys, keeping a perimeter.|Ukurat looks down at you as you approach. """"So. Honor comes at the end of the journey. We made a pact, and you completed your end. We complete ours. You are free to pass through this forest."""" As Lord Ukurat reaches down and grabs two of the stones, you can see as his fingers grab them, they're burning his palms, singeing. There's a bunch of energy pushing back on him as his fur is blown and there's a bright light emanating from the center of the circle. Wrestles them forth from the ground. As he does, there's a crack of thunder that cascades throughout the center of the forest.|All of you feel the impact. The stone circle, the glowing quartz now dims and goes cold. The center where it used to be vibrant grass slowly turns to a dull gray and withers between the stones. Throws them to the ground. """"Now, we are all free. You say you travel duskward to the corrupted tree, yes?"""""
 2245;LAURA;Yes.
-2246;MATT;"""I will follow as my people find a new home for tonight. Should you need my help, just call, and I will be at your back."""
+2246;MATT;"""""I will follow as my people find a new home for tonight. Should you need my help, just call, and I will be at your back."""""
 2247;LAURA;You are a powerful ally.
-2248;MATT;"""As are you. Brethren, go. Spread. Find a home again. I will return to you once this debt is paid. Now, I'll be watching."" He leaps into the treetops as the rest of the wolves begin to back away from you and vanish into the shadows of the forest."
+2248;MATT;"""""As are you. Brethren, go. Spread. Find a home again. I will return to you once this debt is paid. Now, I'll be watching."""" He leaps into the treetops as the rest of the wolves begin to back away from you and vanish into the shadows of the forest."
 2249;LAURA;Is there anything around that looks good to take?
 2250;SAM;Should we loot the mini city?
 2251;TALIESIN;I am abso-fucking-lutely looting this city. Are you mad?
@@ -2279,18 +2279,18 @@
 2277;LAURA;Yeah, but then they let us out.
 2278;TALIESIN;They didn't really let us out.
 2279;SAM;Everyone was bad, including us, and we lived.|That's it.
-2280;MATT;"You guys begin trekking duskward again, finally getting to the outskirts of the city. As you reach the outer perimeter of the forest, you reach up and you find no barrier there. It has been dispelled, and you guys step forth into the field, hearing now as you travel further northward, duskward, the gentle sounds of rushing water begin to approach. Garmelie glances past you and goes, ""Well, good news. We've reached the Gilded Run."""
+2280;MATT;"You guys begin trekking duskward again, finally getting to the outskirts of the city. As you reach the outer perimeter of the forest, you reach up and you find no barrier there. It has been dispelled, and you guys step forth into the field, hearing now as you travel further northward, duskward, the gentle sounds of rushing water begin to approach. Garmelie glances past you and goes, """"Well, good news. We've reached the Gilded Run."""""
 2281;TRAVIS;Oh, we're here!
-2282;MATT;"""Bad news, we've reached the Gilded Run."""
+2282;MATT;"""""Bad news, we've reached the Gilded Run."""""
 2283;LAURA;Let's sleep in the mansion tonight.
 2284;MARISHA;I'm pretty tapped out.
 2285;SAM;I would love to.
 2286;LAURA;But you can't?
 2287;SAM;I used my 7th-level spell to kill a pixie.
 2288;TRAVIS;Why is reaching the Gilded Run a bad thing?
-2289;MATT;"""It's a difficult thing to pass. Those rivers are quite expedient."""
+2289;MATT;"""""It's a difficult thing to pass. Those rivers are quite expedient."""""
 2290;TRAVIS;Like rapids?
-2291;MATT;"""Yeah."""
+2291;MATT;"""""Yeah."""""
 2292;MARISHA;If we sleep, I can come prepared with lots of Control Water spells.
 2293;SAM;Maybe we can sleep in the treetops, where Lord Ukurat sleeps.
 2294;LAURA;Yeah, let's sleep up in the trees tonight, before we make our way into this area.

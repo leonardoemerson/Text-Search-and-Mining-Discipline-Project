@@ -143,29 +143,29 @@
 141;MATT;You got here just after dusk.
 142;LAURA;We should have a Heroes' Feast before tomorrow. I have no idea what a kraken does, or--
 143;MARISHA;Me neither. Actually, is Uvenda still around? She's still there, are we still in front of her?
-144;MATT;"Uvenda is around, yeah. You can find her. As you approach her, she's finished her meal and is half-napping in this, almost a high chair, though it's built beautifully of what look to be petrified bleach-white shells and coral structures. This looks to be her seat at this open natural gazebo-like eating space. She's half-resting off to the side with her staff, leaning off a bit, and as you start approaching, one eye flies open and rolls in your direction, and she leans forward. ""Young Keyleth. What do you require?"""
+144;MATT;"Uvenda is around, yeah. You can find her. As you approach her, she's finished her meal and is half-napping in this, almost a high chair, though it's built beautifully of what look to be petrified bleach-white shells and coral structures. This looks to be her seat at this open natural gazebo-like eating space. She's half-resting off to the side with her staff, leaning off a bit, and as you start approaching, one eye flies open and rolls in your direction, and she leans forward. """"Young Keyleth. What do you require?"""""
 145;MARISHA;Sorry. I hope I'm not interrupting.
-146;MATT;"""My nap, yes, but you seem intent. What do you wish?"""
+146;MATT;"""""My nap, yes, but you seem intent. What do you wish?"""""
 147;MARISHA;I was just curious, I guess, if you had any advice for tomorrow morning.|Is there anything I should know in particular about the kraken?
-148;MATT;"""From what we know, the kraken is a very hungry beast. It carries with it a swarm of long, grasping tentacles. It moves unimpeded and destroys structures in its path. Seems nigh-unstoppable, which is why maintaining the rift is so important. To unleash more of these entities into our plane would be disastrous, not just for our city, but for the entirety of the Ozmit. Do be aware that you will be encountering this beast deep, deep in the fathomless depths of the water elemental plane, so be prepared best you can to swim."""
+148;MATT;"""""From what we know, the kraken is a very hungry beast. It carries with it a swarm of long, grasping tentacles. It moves unimpeded and destroys structures in its path. Seems nigh-unstoppable, which is why maintaining the rift is so important. To unleash more of these entities into our plane would be disastrous, not just for our city, but for the entirety of the Ozmit. Do be aware that you will be encountering this beast deep, deep in the fathomless depths of the water elemental plane, so be prepared best you can to swim."""""
 149;MARISHA;Right. You mentioned it being hungry.|What does it hunger for?
-150;MATT;"""Anything that crosses its path. You'll see, the sand below the vicinity of the rift is partially soot, dirt, and sand, but a lot of it is sprinkled bone of things that failed to make it through the rift."""
+150;MATT;"""""Anything that crosses its path. You'll see, the sand below the vicinity of the rift is partially soot, dirt, and sand, but a lot of it is sprinkled bone of things that failed to make it through the rift."""""
 151;MARISHA;And I imagine it's pretty dark down there.
-152;MATT;"""It's not the brightest place, no."""
+152;MATT;"""""It's not the brightest place, no."""""
 153;LAURA;How large are these lodestones that we're looking for?
-154;MATT;"""We will show you these down in the Aerie tomorrow, but they're roughly--"" and she gives a motion about that big in her hands. ""About that large. But you can take time and research the ones that are dwindling within the temple. That way, you'll know what to look for."""
+154;MATT;"""""We will show you these down in the Aerie tomorrow, but they're roughly--"""" and she gives a motion about that big in her hands. """"About that large. But you can take time and research the ones that are dwindling within the temple. That way, you'll know what to look for."""""
 155;LIAM;And in all your experience with these beasts, are their attacks mainly physical?
-156;MATT;"""Mainly. However, they have a degree of control over the waters that surround them. Those who have returned, the Waverunners who do these passes every few years, they speak of currents swiftly changing, it leaving bursts of darkened ink-like material to obstruct the space. And they speak of sudden surges of energy that rock through the nearby waters."""
+156;MATT;"""""Mainly. However, they have a degree of control over the waters that surround them. Those who have returned, the Waverunners who do these passes every few years, they speak of currents swiftly changing, it leaving bursts of darkened ink-like material to obstruct the space. And they speak of sudden surges of energy that rock through the nearby waters."""""
 157;LAURA;Great.
 158;TRAVIS;So we need snorkels.
 159;LAURA;Lots and lots of snorkels.
 160;LIAM;Long ones.
 161;MARISHA;Are there other creatures that live in the rift?
-162;MATT;"""There are creatures, but those of flesh and bone usually find themselves in the belly of the beast, and due to the nature of its presence, and the rift's energy, elementals do occasionally wander half-crazed, directionless in that space as well. So be careful."""
+162;MATT;"""""There are creatures, but those of flesh and bone usually find themselves in the belly of the beast, and due to the nature of its presence, and the rift's energy, elementals do occasionally wander half-crazed, directionless in that space as well. So be careful."""""
 163;MARISHA;All right. Is there a particular creature that you know is good at evading this kraken?
-164;MATT;"""Our Waverunners. They travel usually in various forms of their mer-form."""
+164;MATT;"""""Our Waverunners. They travel usually in various forms of their mer-form."""""
 165;MARISHA;All right.
-166;MATT;"""Anything that can swim quickly, swiftly, search fast, and retrieve and return.|Whatever that is to you, that's your choice."""
+166;MATT;"""""Anything that can swim quickly, swiftly, search fast, and retrieve and return.|Whatever that is to you, that's your choice."""""
 167;MARISHA;Okay.
 168;LAURA;Keyleth, I know you have the ability to turn us into different things.
 169;MARISHA;Yes.
@@ -203,7 +203,7 @@
 201;MARISHA;(sings) We are the daughters of Trident!
 202;TRAVIS;(sings) I want to go where the people are.
 203;LIAM;Look at our DM.
-204;MATT;"""Anyway."""
+204;MATT;"""""Anyway."""""
 205;SAM;I could also think of a spell that would give you a clever Rastafarian crab sidekick.
 206;LAURA;Ooh, I like it. Oh, Trinket!
 207;TALIESIN;Turn Trinket into a--
@@ -216,13 +216,13 @@
 214;LAURA;No, 'cause that would waste a spell on the day.
 215;TRAVIS;Keyleth? I don't think she's done talking.
 216;MARISHA;Who? What?
-217;MATT;"""Just be warned..."""
+217;MATT;"""""Just be warned..."""""
 218;MARISHA;Sorry, we get carried away.
-219;MATT;"""I would recommend taking some time in the water first. Learn how it reacts to you and you react to it. Know that the limitations of not combating in air can be restrictive."""
+219;MATT;"""""I would recommend taking some time in the water first. Learn how it reacts to you and you react to it. Know that the limitations of not combating in air can be restrictive."""""
 220;LAURA;Makes sense. I don't know how my bow's going to work underwater.
 221;TALIESIN;I don't know how my guns are going to work underwater.
 222;MARISHA;Do you have a training ground? Like an arena that's kind of comparable we can test in tonight?
-223;MATT;"""Tonight? We could escort you to one of the more deep areas in Vesrah if you'd like."""
+223;MATT;"""""Tonight? We could escort you to one of the more deep areas in Vesrah if you'd like."""""
 224;TRAVIS;Does it have to be tonight?
 225;SAM;Well, yes, if we want to recover all our abilities for tomorrow.
 226;MARISHA;We're leaving in the morning.
@@ -512,7 +512,7 @@
 510;SAM;All right. Just strategizing, chum.
 511;TRAVIS;I understand that.
 512;MARISHA;Because I can Alter Self at will and you have to take a spell slot, or can you do it at will?
-513;SAM;"I don't know what ""at will"" means, but I'm very impressed."
+513;SAM;"I don't know what """"at will"""" means, but I'm very impressed."
 514;MARISHA;Yes.
 515;GROG;That's not a terrible idea, 'cause I'm gonna be able to do dick diddly shit in there. That's, like, zero.
 516;MARISHA;It means one of us might have to borrow your bag of holding.
@@ -540,7 +540,7 @@
 538;LAURA;Only attack if truly necessary.
 539;SAM;New guy here--
 540;TRAVIS;Bait. I like it. Way to volunteer, captain.
-541;SAM;"No, nope, nope. New guy here, just a process question. I'm new to these sort of strategy ""seshes"" that you guys have. Is this how it always is, with people just throwing out random bad ideas constantly for, like, 15 minutes?"
+541;SAM;"No, nope, nope. New guy here, just a process question. I'm new to these sort of strategy """"seshes"""" that you guys have. Is this how it always is, with people just throwing out random bad ideas constantly for, like, 15 minutes?"
 542;LIAM;Yeah.
 543;TALIESIN;That's about right.
 544;LIAM;We do that and then we kind of take it like jazz on the day, you know?
@@ -559,7 +559,7 @@
 557;SAM;That sounds like the stupidest fucking plan I've ever heard.
 558;LIAM;I'm still breathing.
 559;TRAVIS;Yeah.
-560;TALIESIN;"It's much like those people who give you instructions of how to survive an encounter with a tiger. It's that, you think about it, but you've never actually met anybody who's said, ""Yes, I've met a tiger, that's exactly what I did and I'm fine."" No, anybody who does that's probably been eaten anyway. It's a terrible idea. You don't try and look bigger, you don't do any of that. You're gonna get eaten."
+560;TALIESIN;"It's much like those people who give you instructions of how to survive an encounter with a tiger. It's that, you think about it, but you've never actually met anybody who's said, """"Yes, I've met a tiger, that's exactly what I did and I'm fine."""" No, anybody who does that's probably been eaten anyway. It's a terrible idea. You don't try and look bigger, you don't do any of that. You're gonna get eaten."
 561;MARISHA;It's true.
 562;SAM;I've read some of those.
 563;TALIESIN;You survive an encounter by a tiger by running really quickly in the other direction or hopefully hacking it to death before it kills you.
@@ -735,7 +735,7 @@
 733;LIAM;This is the meal I was waiting on.
 734;TALIESIN;A Heroes' Sundae Bar.
 735;LAURA;Mm-hm.
-736;MATT;"The finest of gluttonous sweets available in Tal'Dorei are summoned upon this fine mahogany table that thrusts itself out of the sand.|Everyone in the vicinity steps back and kind of, ""Ooh, ahh,"" at this display of unexpected magic.|Other folks step forward to try and take a piece from it, before somebody else stops them with a hand, ""It's not for you!"" You guys spend the next hour eating your meal, and gain the benefits of your Heroes' Feast! (all cheer)|So let's go ahead and--"
+736;MATT;"The finest of gluttonous sweets available in Tal'Dorei are summoned upon this fine mahogany table that thrusts itself out of the sand.|Everyone in the vicinity steps back and kind of, """"Ooh, ahh,"""" at this display of unexpected magic.|Other folks step forward to try and take a piece from it, before somebody else stops them with a hand, """"It's not for you!"""" You guys spend the next hour eating your meal, and gain the benefits of your Heroes' Feast! (all cheer)|So let's go ahead and--"
 737;TRAVIS;Oh.
 738;TALIESIN;(sings Zelda music)
 739;LIAM;That's extra hit points, yeah?
@@ -900,37 +900,37 @@
 898;MARISHA;I turn to her guards and say, do I wake her up? Does she not like being-- I don't want to be rude! But I kinda need to talk to her and I'm only here for a few more hours, and I--
 899;MATT;One of them takes his bladed trident and hits her just gently on the side with the butt of it. She goes (snorts awake).
 900;MARISHA;Ah, that's how you do it.
-901;MATT;"""Ugh, yes, young Keyleth, hm."""
+901;MATT;"""""Ugh, yes, young Keyleth, hm."""""
 902;MARISHA;Hi.
-903;MATT;"She leans forward, putting on the presentation, but you can hear just that slight undertone of frustration. ""What can I do for you?"""
+903;MATT;"She leans forward, putting on the presentation, but you can hear just that slight undertone of frustration. """"What can I do for you?"""""
 904;MARISHA;Uh, yeah. I was just curious. I'm so sorry, first off--
-905;MATT;"""Keep talking, please. What do you want?"" (all laugh)"
+905;MATT;"""""Keep talking, please. What do you want?"""" (all laugh)"
 906;MARISHA;You mentioned that there were only remnants of my mother that came back. Was she defeated by the kraken, or do you think this was from another means? Do you have any more information on her?
-907;MATT;"""Child. There was little left of her and her allies. We found other pieces of her friends, but, pieces. Her leg was all we found. We could not recover much else, but the sea floor is littered with the many corpses and pieces of the kraken's various prey.|It does not take much to ascertain the nature of her end."""
+907;MATT;"""""Child. There was little left of her and her allies. We found other pieces of her friends, but, pieces. Her leg was all we found. We could not recover much else, but the sea floor is littered with the many corpses and pieces of the kraken's various prey.|It does not take much to ascertain the nature of her end."""""
 908;MARISHA;And you're sure of this? This is what the kraken does to people?
-909;MATT;"""What it does to anything that crosses its path. It eats to survive."""
+909;MATT;"""""What it does to anything that crosses its path. It eats to survive."""""
 910;MARISHA;Hm. I was just wondering. If there was any other potential explanation or--?
-911;MATT;"""I'm sure there is. There are many potential possibilities for anything that happens. I only have the information I was able to glean from the various scouts and teams."""
+911;MATT;"""""I'm sure there is. There are many potential possibilities for anything that happens. I only have the information I was able to glean from the various scouts and teams."""""
 912;MARISHA;How long ago was this?
-913;MATT;"""This was four, five years back?"""
+913;MATT;"""""This was four, five years back?"""""
 914;MARISHA;Really? All right. That's not that long, really. Did she stay long?
-915;MATT;"""A few days. Prepared for the journey much like you did. That was the last we saw of them."""
+915;MATT;"""""A few days. Prepared for the journey much like you did. That was the last we saw of them."""""
 916;MARISHA;All right. I was just curious. Thank you.
-917;MATT;"""I wish I had different news for you."""
+917;MATT;"""""I wish I had different news for you."""""
 918;MARISHA;Did you keep anything? From what you found?
-919;MATT;"Her head turns curiously. ""I fear I did not."""
+919;MATT;"Her head turns curiously. """"I fear I did not."""""
 920;MARISHA;Okay.
-921;MATT;"""We gave a quiet burial to what we were able to recover, but that's all."""
+921;MATT;"""""We gave a quiet burial to what we were able to recover, but that's all."""""
 922;MARISHA;Well, I appreciate that much. Thank you for doing that.
-923;MATT;"""Of course, and once again, I am sorry for your loss, Keyleth."""
+923;MATT;"""""Of course, and once again, I am sorry for your loss, Keyleth."""""
 924;MARISHA;Oh. It's part of the duty.
-925;MATT;"""Yes. Yes, it is."""
+925;MATT;"""""Yes. Yes, it is."""""
 926;MARISHA;Well, I should be getting my rest.
-927;MATT;"""Yes, you should."""
+927;MATT;"""""Yes, you should."""""
 928;MARISHA;Yeah, big day! Swimming! Lots of calories! I'm gonna go now.
-929;MATT;"""Yes."""
+929;MATT;"""""Yes."""""
 930;MARISHA;All right, bye.
-931;MATT;"""Yes, you will. Goodbye."""
+931;MATT;"""""Yes, you will. Goodbye."""""
 932;MARISHA;Goodnight.
 933;MATT;(snores) Just conks right out again.|Anything else you guys wish to do for the evening?
 934;LIAM;Well, I'm gonna follow Keyleth back to our room.
@@ -968,11 +968,11 @@
 966;TRAVIS;I just want Vax and Keyleth to do the original Superman movie dialogue while he and Lois are flying.
 967;MARISHA;Oh god, that weird poetry! (all laugh)
 968;LAURA;Oh yeah--
-969;TRAVIS;"""Can you hear my thoughts?"""
+969;TRAVIS;"""""Can you hear my thoughts?"""""
 970;MATT;Just like slow narration of Keyleth disembodied as they're both just flying over Vesrah at night.
 971;TALIESIN;I have a thing just for you.
 972;MARISHA;Is he God?
-973;TRAVIS;"""Can you read my mind?"" (all laugh)"
+973;TRAVIS;"""""Can you read my mind?"""" (all laugh)"
 974;MATT;Perfect.
 975;LIAM;I don't think they went anywhere.
 976;MATT;That's perfect.
@@ -1039,7 +1039,7 @@
 1037;TALIESIN;Is it possible to grab a spare set of goggles and choker, just in case?
 1038;MATT;Asking around--
 1039;TALIESIN;We'll return them all.
-1040;MATT;"-- you approach Uvenda to ask this question.|Even as you approach, they're looking out in the distance. She says, ""Yes, that could be certainly mustered."" And she snaps her little gnomish fingers."
+1040;MATT;"-- you approach Uvenda to ask this question.|Even as you approach, they're looking out in the distance. She says, """"Yes, that could be certainly mustered."""" And she snaps her little gnomish fingers."
 1041;TALIESIN;Thank you.
 1042;MATT;And one of the guards wanders off, comes back a few moments later and retrieves an extra pair of goggles, and the throat bead.
 1043;TALIESIN;Excellent.
@@ -1116,15 +1116,15 @@
 1114;TALIESIN;You'll know, if we need them, we have them. Just an extra set.
 1115;LIAM;All right, Freddie.
 1116;MARISHA;Uvenda, these beads.
-1117;MATT;"""Yes?"""
+1117;MATT;"""""Yes?"""""
 1118;MARISHA;Can you guys also track where we are based on them?
-1119;MATT;"""No, unfortunately."""
+1119;MATT;"""""No, unfortunately."""""
 1120;MARISHA;No.
-1121;MATT;"""The magic is only localized."""
+1121;MATT;"""""The magic is only localized."""""
 1122;MARISHA;All right.
-1123;MATT;"""We've recovered as many as we could from previous scouts that have fallen."""
+1123;MATT;"""""We've recovered as many as we could from previous scouts that have fallen."""""
 1124;MARISHA;I go ahead and I Druidcraft one of my bark bracelets to put around her.|For scrying, if you need it.
-1125;MATT;"""All right. Thank you."""
+1125;MATT;"""""All right. Thank you."""""
 1126;SAM;Bigly man over there, do you want a coin in case you lose your whale form?
 1127;TRAVIS;Yeah.
 1128;SAM;What about you, Percival?
@@ -1156,7 +1156,7 @@
 1154;SAM;Okay. Okay. Were your parents fond of you, because to name them that similar would be-- just quite annoying, growing up, you must've gotten confused constantly.
 1155;LIAM;I walk away.|(all laugh)
 1156;LAURA;I follow suit.
-1157;MATT;"About this time, as you've seen Uvenda's been looking out patiently, the water nearby at the very edge of one of the reef drop-offs splashes out, and you watch as a figure darts out and lands and shakes off, and what you see there looks to be a very, very dark-skinned, stocky dwarf, wearing the same goggles and throat bead there. ""Sorry about the delay."" He wanders up and pulls his goggles off and rustles his hair a bit.|""Hello. So you're the ones traveling to the Aerie today? Waverider Durent. Pleasure to meet you."" And he reaches over and grabs-- as he takes your hand-- you put it out to extend it, he grasps it and gives a firm shake.|You see he's got very, very short dirty-blonde hair--"
+1157;MATT;"About this time, as you've seen Uvenda's been looking out patiently, the water nearby at the very edge of one of the reef drop-offs splashes out, and you watch as a figure darts out and lands and shakes off, and what you see there looks to be a very, very dark-skinned, stocky dwarf, wearing the same goggles and throat bead there. """"Sorry about the delay."""" He wanders up and pulls his goggles off and rustles his hair a bit.|""""Hello. So you're the ones traveling to the Aerie today? Waverider Durent. Pleasure to meet you."""" And he reaches over and grabs-- as he takes your hand-- you put it out to extend it, he grasps it and gives a firm shake.|You see he's got very, very short dirty-blonde hair--"
 1158;MARISHA;Durent?
 1159;SAM;Yeah.
 1160;MATT;And a beard that is just tattered and knotted from not being kept or combed through.
@@ -1165,27 +1165,27 @@
 1163;LAURA;(gasps) That's awesome.
 1164;MATT;Straight-up, actually, now that you point it out.
 1165;LIAM;Just finished going up the ropes and down.
-1166;MATT;"""All right, I'm taking you down to the Aerie. You ready?"""
+1166;MATT;"""""All right, I'm taking you down to the Aerie. You ready?"""""
 1167;LAURA;I think so.
 1168;TALIESIN;Sure.
 1169;MARISHA;Are you gonna be with us the whole time, or are you just getting us there?
-1170;MATT;"""Well, I'm just getting you to the door."""
+1170;MATT;"""""Well, I'm just getting you to the door."""""
 1171;MARISHA;Of course.
 1172;SAM;Wait, there's a door?
 1173;TALIESIN;Oh, now we're really in trouble.
 1174;LAURA;This is where we're gonna check out the lodestones, before we go through the door.
 1175;TRAVIS;Right, yeah. Knew it. Making sure you knew.
 1176;MARISHA;There's doors to the other planes. That's our people's job.
-1177;MATT;"""It's a figure of speech."""
+1177;MATT;"""""It's a figure of speech."""""
 1178;SAM;We're going to another plane?
 1179;ALL;Yes.
 1180;SAM;Oh my. Okay. This is great. This is great.
-1181;MATT;"""Oh, you look really excited."""
+1181;MATT;"""""Oh, you look really excited."""""
 1182;SAM;I am.
-1183;MATT;"""You shouldn't be. Now, come on. See you've got your equipment."" And takes his goggles and puts them back on. They're bulbous, they're just these giant domes that make you look fly-like."
+1183;MATT;"""""You shouldn't be. Now, come on. See you've got your equipment."""" And takes his goggles and puts them back on. They're bulbous, they're just these giant domes that make you look fly-like."
 1184;TALIESIN;I love it.
 1185;LIAM;Nice.
-1186;MATT;"""Okay. Now. Follow suit."" He looks over.|""Thank you, Uvenda."" ""Of course. Take care of them."" ""That's not my job."" And dives into the water."
+1186;MATT;"""""Okay. Now. Follow suit."""" He looks over.|""""Thank you, Uvenda."""" """"Of course. Take care of them."""" """"That's not my job."""" And dives into the water."
 1187;MARISHA;I go in first.
 1188;SAM;Wait, don't you have to make some of us--
 1189;MARISHA;Oh, right.
@@ -1243,7 +1243,7 @@
 1241;LAURA;What does their hair look like?
 1242;MATT;(laughs) You see two of them, one of which is male. No visible hair on him, actually, just the frill that goes down his head. The other is female. Long, deep, dark blue hair that drifts past, and as she shifts and looks in your direction, you watch it hold in place and slowly shift as the water currents push through.
 1243;LAURA;I just stare at her.
-1244;MATT;"(laughs) As you're entranced by this, your attention slowly glides over to the very center, the base of this temple, where you can see there are these three large, smooth, gray-ish rocks that are embedded in the ground, about five feet wide, and in the center of these three rocks, you see what appears to be-- it's almost like an oval shape, about ten feet tall, about five feet wide, that is crackling blue energy. This opening, here.|And you can watch as occasionally clouds of black, murky soot or sand, deep, deep ocean sand, push through. You can see, as you get closer and peer in, this is a doorway into the plane, this is the rift. Unlike the one that you saw at Pyrah, which seemed to flicker and have a barely contained energy when you've seen it at its torn-open stages, this appears to be fairly contained. It's demure, there's not a lot of movement, it's just stationary, and the guards that surround it in the center of this temple all look inward, keeping vigilant watch. As you follow Durent, making his way towards the doorway, you can see within each of these three large, half-buried stones, there is a smaller, deep emerald green, almost jade-looking stone that is about that large that is embedded in each of these. Durent points over to one of them, and you hear him, through the water, the throat bead carrying the sound of his voice through, ""This is what you're looking for. This is a lodestone. Take your time, as much as you need, to study it. Find what you need. Let me know when you're ready to pass through."""
+1244;MATT;"(laughs) As you're entranced by this, your attention slowly glides over to the very center, the base of this temple, where you can see there are these three large, smooth, gray-ish rocks that are embedded in the ground, about five feet wide, and in the center of these three rocks, you see what appears to be-- it's almost like an oval shape, about ten feet tall, about five feet wide, that is crackling blue energy. This opening, here.|And you can watch as occasionally clouds of black, murky soot or sand, deep, deep ocean sand, push through. You can see, as you get closer and peer in, this is a doorway into the plane, this is the rift. Unlike the one that you saw at Pyrah, which seemed to flicker and have a barely contained energy when you've seen it at its torn-open stages, this appears to be fairly contained. It's demure, there's not a lot of movement, it's just stationary, and the guards that surround it in the center of this temple all look inward, keeping vigilant watch. As you follow Durent, making his way towards the doorway, you can see within each of these three large, half-buried stones, there is a smaller, deep emerald green, almost jade-looking stone that is about that large that is embedded in each of these. Durent points over to one of them, and you hear him, through the water, the throat bead carrying the sound of his voice through, """"This is what you're looking for. This is a lodestone. Take your time, as much as you need, to study it. Find what you need. Let me know when you're ready to pass through."""""
 1245;LAURA;Are they all the same color? Every lodestone looks the same?
 1246;MATT;Yeah, you glance through, they're all the same color. Slight variations, and the shapes change a little bit, some are perfectly spherical, some are a little oblong, just whatever shape it eventually hardened into.
 1247;TALIESIN;Kind of a natural jade?
@@ -1258,12 +1258,12 @@
 1256;MARISHA;Do the beads tend to react when they get closer to the lodestone?
 1257;MATT;There is no change. But you do feel that faint hum and vibration of power of the lodestone that is embedded within.
 1258;MARISHA;I turn to Durent. Whereabouts do they tend to be found? The lodestones?
-1259;MATT;"""Well, I mean, all over."""
+1259;MATT;"""""Well, I mean, all over."""""
 1260;MARISHA;All over?
-1261;MATT;"""Who knows where they've been dropped. The ocean tends to swallow things up.|You might have to dig. Mostly we find them buried."""
+1261;MATT;"""""Who knows where they've been dropped. The ocean tends to swallow things up.|You might have to dig. Mostly we find them buried."""""
 1262;MARISHA;Buried.
 1263;TALIESIN;How heavy are they?
-1264;MATT;"""Let me show you."" And he goes over and grabs one and (strains) and pulls it out. The doorway flickers ever so slightly. He's like, ""It's fine for a moment."" And hands it to you. You take it, and for its size, it is surprisingly dense. It has about twice the weight you were expecting, and your arms just (grunts) a little bit. Also, as you're holding it, you notice the clasp on your cloak is being pulled towards it. As you pull it away, and pull towards it, you realize these are actually fairly magnetic."
+1264;MATT;"""""Let me show you."""" And he goes over and grabs one and (strains) and pulls it out. The doorway flickers ever so slightly. He's like, """"It's fine for a moment."""" And hands it to you. You take it, and for its size, it is surprisingly dense. It has about twice the weight you were expecting, and your arms just (grunts) a little bit. Also, as you're holding it, you notice the clasp on your cloak is being pulled towards it. As you pull it away, and pull towards it, you realize these are actually fairly magnetic."
 1265;TALIESIN;They're magnetic?
 1266;MATT;Yes.
 1267;MARISHA;Magnetic. Percy, do you have a compass?
@@ -1274,7 +1274,7 @@
 1272;TALIESIN;Is it possible-- well, we're too deep now, but--
 1273;MATT;As you're having this conversation, you watch as Durent's patiently there.
 1274;TALIESIN;You have a compass, don't you? And I'm going to hand it back to him.
-1275;MATT;"""No, but I need the stone."" Puts it back inside. ""Okay, we're good."""
+1275;MATT;"""""No, but I need the stone."""" Puts it back inside. """"Okay, we're good."""""
 1276;SAM;If I examine it, do I detect any magic on it?
 1277;MATT;You do. Profoundly magical, this is a very, very strong natural magic source.
 1278;TALIESIN;This is going to be weird. I'm going to take out a chunk of Whitestone residuum and just compare the color and see if there's any relation.
@@ -1339,40 +1339,40 @@
 1337;MATT;All right--
 1338;TRAVIS;Are we ready?
 1339;LAURA;Are we ready?
-1340;MATT;"Durent looks at your faces as you're all staring and goes, ""Okay. So. About time?"""
+1340;MATT;"Durent looks at your faces as you're all staring and goes, """"Okay. So. About time?"""""
 1341;LAURA;Have you seen a kraken?
-1342;MATT;"""Oh yeah, I've seen it."""
+1342;MATT;"""""Oh yeah, I've seen it."""""
 1343;LAURA;And?
-1344;MATT;"""Oh, it's fucking terrible."""
+1344;MATT;"""""Oh, it's fucking terrible."""""
 1345;LAURA;How big, are we talking?
 1346;TRAVIS;Immense?
-1347;MATT;"""You know this, this size? It's a lot bigger."""
+1347;MATT;"""""You know this, this size? It's a lot bigger."""""
 1348;LIAM;How many Grogs?
 1349;LAURA;Big enough to swallow him?
-1350;MATT;"""Oh, yeah."""
+1350;MATT;"""""Oh, yeah."""""
 1351;LIAM;Like ten Grogs long?
-1352;MATT;"""Hundred."""
+1352;MATT;"""""Hundred."""""
 1353;LIAM;Hundred Grogs long?!
-1354;MATT;"""It's hard, it's spatial awareness. Look, I'm not a science man like these two, but it's big."""
+1354;MATT;"""""It's hard, it's spatial awareness. Look, I'm not a science man like these two, but it's big."""""
 1355;TALIESIN;I'm a science man!
 1356;TRAVIS;Your beard is glorious.
-1357;MATT;"""Thank you. Yours isn't too bad yourself, boy!"" He tousles it up."
+1357;MATT;"""""Thank you. Yours isn't too bad yourself, boy!"""" He tousles it up."
 1358;TRAVIS;Yeah, hold on. Are there any barnacles down here I can put in that? Is it fast in the water?
-1359;MATT;"""I'd say it's pretty fast, aye."""
+1359;MATT;"""""I'd say it's pretty fast, aye."""""
 1360;LIAM;And you've seen it leave these stones, these lodes?
-1361;MATT;"""I've seen him through the door. Oh, I don't go in there!"""
+1361;MATT;"""""I've seen him through the door. Oh, I don't go in there!"""""
 1362;TRAVIS;Oh, yeah?
-1363;MATT;"""No, I just watch the doorway. That's my job"""
+1363;MATT;"""""No, I just watch the doorway. That's my job"""""
 1364;SAM;You don't watch him drop his lodes.
-1365;MATT;"""I have not yet seen the kraken drop its lodes, no."""
+1365;MATT;"""""I have not yet seen the kraken drop its lodes, no."""""
 1366;LAURA;All right.
 1367;LIAM;I have never felt more prepared than I do right now. Let's do this shit.
 1368;LAURA;Let's.
-1369;MATT;"""If it goes bad, come back."""
+1369;MATT;"""""If it goes bad, come back."""""
 1370;LAURA;Run.
-1371;MATT;"""Just get back."""
+1371;MATT;"""""Just get back."""""
 1372;LAURA;Right.
-1373;MATT;"""You'll fail, but you'll get back."""
+1373;MATT;"""""You'll fail, but you'll get back."""""
 1374;MARISHA;I'll fail?! Did you just say I'll fail? Okay, bye!
 1375;MATT;As you guys, one by one, plunge through the rift in the Aerie of Torrent, into the water elemental plane. And that's where we'll take a break. We'll be back here in just a few moments guys. Real fast, we do have a giveaway from our friends at Wyrmwood.
 1376;TRAVIS;Giveaway!
@@ -1571,32 +1571,32 @@
 1569;LAURA;I'm casting Speak With Animals.
 1570;MATT;That's right.
 1571;LAURA;Trinket, everything's fine! You're just underwater.
-1572;MATT;"(confused bear noises) ""It's very wet."""
+1572;MATT;"(confused bear noises) """"It's very wet."""""
 1573;LAURA;It is.
-1574;MATT;"""What's going on?"" (all laugh)"
+1574;MATT;"""""What's going on?"""" (all laugh)"
 1575;LAURA;We're going to be swimming for a while.|You're gonna make me cry, dear. We're going to be swimming for a little while, all right? Do you feel okay with this?
 1576;MATT;(distressed bear noises)
 1577;TRAVIS;You're drowning him, baby.
 1578;LAURA;He can breathe, just breathe in. Just like land, only not.
 1579;MATT;(bear noises) He kinda lands in the sand.|Looks around, very nervously.|Looks at one of the nearby kinda floating pieces of weird errant plant matter and-- (all laugh)
 1580;LAURA;Yeah. We're good? Are you all right?
-1581;MATT;"""I'm okay."""
+1581;MATT;"""""I'm okay."""""
 1582;LAURA;"All right. Just giving you a heads up; you may be turned into a whale in a little bit."
-1583;MATT;"""What is a whale?"" (all laugh)"
+1583;MATT;"""""What is a whale?"""" (all laugh)"
 1584;LAURA;You'll be really, really big and you'll be able to swim a lot better. All right? Just remember to follow my lead. And I'm gonna hang onto you when you are a whale, all right?
-1585;MATT;"""Okay."""
+1585;MATT;"""""Okay."""""
 1586;LAURA;Okay. I love you.
-1587;MATT;"""I trust you."""
+1587;MATT;"""""I trust you."""""
 1588;LAURA;I trust you, too. I love you.
-1589;MATT;"""Love you."""
+1589;MATT;"""""Love you."""""
 1590;LAURA;I'm proud of you.
-1591;MATT;"""Okay."""
+1591;MATT;"""""Okay."""""
 1592;LAURA;I love him so much. I love him!
 1593;TRAVIS;Say goodbye to him.
 1594;LAURA;Shut up!
 1595;MATT;The slowest. You see him start like, just bear-paddling a little, under the water just like--
 1596;LAURA;It's fun, see? It's fun. But paddle quietly, dear, we're trying to be stealthy!
-1597;MATT;"""Mm-hm. Okay."""
+1597;MATT;"""""Mm-hm. Okay."""""
 1598;LAURA;Okay.
 1599;MATT;Now are you casting-- Oh, no. You're casting Pass Without a Trace, I want everyone to make stealth checks.
 1600;LAURA;I love him. Aw.
@@ -2061,7 +2061,7 @@
 2059;TRAVIS;Fuck you, Costco.
 2060;LIAM;(laughs)
 2061;TRAVIS;I meant Petco.
-2062;LAURA;"(laughs) ""I meant Petco""."
+2062;LAURA;"(laughs) """"I meant Petco""""."
 2063;TALIESIN;That's better!
 2064;LIAM;Oh, yes!
 2065;LAURA;Use Luck, Tary.
@@ -2097,7 +2097,7 @@
 2095;MATT;18 points of lightning damage. Grog.
 2096;TRAVIS;With my #blessed, 27.
 2097;MATT;You take eight points of lightning damage.
-2098;MARISHA;"(laughs) ""#blessed"""
+2098;MARISHA;"(laughs) """"#blessed"""""
 2099;MATT;Or nine-- sorry, nine.
 2100;TRAVIS;Nine?
 2101;MATT;Nine.
@@ -2120,7 +2120,7 @@
 2118;SAM;Hit it!
 2119;LAURA;If I can hit it in its head, that's cool, but--
 2120;MARISHA;It's a Hail Mary pass.
-2121;TRAVIS;"It'll be like, ""Yeah, fuck these treats. I want that meatball."""
+2121;TRAVIS;"It'll be like, """"Yeah, fuck these treats. I want that meatball."""""
 2122;MATT;Is this Light or Daylight?
 2123;MARISHA;Daylight.
 2124;MATT;'Cause Daylight you just choose a sphere for it to happen.
@@ -2141,15 +2141,15 @@
 2139;MARISHA;I don't know if that's allowed, but I know we've done that in the past.
 2140;TRAVIS;(watch talking)
 2141;MATT;Oh, it happened, it happened. So as you hit that--
-2142;TRAVIS;"(watch says: ""Zero miles"")"
+2142;TRAVIS;"(watch says: """"Zero miles"""")"
 2143;SAM;What is going on?
 2144;LAURA;His watch is telling him he's working out.
 2145;MATT;You're not working out.
 2146;TRAVIS;Wow, Siri's fucking drunk right now.|(all laugh)
 2147;MATT;I don't know, man, kraken just showed up.|That sounds like a workout to me.
-2148;TRAVIS;"""Elevated heart rate."""
+2148;TRAVIS;"""""Elevated heart rate."""""
 2149;LAURA;Oh, I know! It said--
-2150;TRAVIS;"""Please, take a moment to breathe."" (all laugh)"
+2150;TRAVIS;"""""Please, take a moment to breathe."""" (all laugh)"
 2151;MATT;Well, on that note. Okay, so you focus as she draws the arrow and pulls with intent in the back of the bow. As you do, you focus and you watch as, Vex, you aim and then close your eyes as you see this spark of energy curl off the front of the arrow. You see bright, nature-based daylight burst out of the arrow as you release it. Go ahead and make an attack against the kraken with disadvantage, please.
 2152;LAURA;Okay.
 2153;MARISHA;Come on.
@@ -2334,7 +2334,7 @@
 2332;TALIESIN;Like Velcro pants.
 2333;SAM;Don't I have some spells on there?
 2334;LIAM;Stop. Tary time.
-2335;MARISHA;"(sings ""Hammer Time"")"
+2335;MARISHA;"(sings """"Hammer Time"""")"
 2336;SAM;Is that from my robe or is that somewhere else? No, you gave me some scroll spells. Some spell scrolls.
 2337;MATT;You have some spell scrolls, you have patches on your robe, and you have your helmet.
 2338;SAM;I wrote down that I have a hypnotic pattern somehow.|Was that a patch or was that something else?
@@ -2352,7 +2352,7 @@
 2350;SAM;Correct.
 2351;MATT;-- of the face of the kraken where the eyes are.
 2352;SAM;Yes.
-2353;MATT;"So as you tear the patch off, you release it in the water and you watch the patch slowly drift up and for a second you're like, ""Nothing happened!"""
+2353;MATT;"So as you tear the patch off, you release it in the water and you watch the patch slowly drift up and for a second you're like, """"Nothing happened!"""""
 2354;SAM;Wait, what?
 2355;MATT;And there's a spark out of your hand (pff) and you watch as suddenly there's an array of colors and various flashes in the face, in the area around the kraken's face.
 2356;SAM;Oh. Oh I do-- it worked! Okay.
@@ -2764,7 +2764,7 @@
 2762;LAURA;(gasps)
 2763;LIAM;Hey.
 2764;SAM;Nice!
-2765;MATT;"As you draw its life force away, grabbing onto the tendrils of its tentacles like, ""Argh!' You watch as the necrotic energy pulses into it and pulls the life force into you"
+2765;MATT;"As you draw its life force away, grabbing onto the tendrils of its tentacles like, """"Argh!' You watch as the necrotic energy pulses into it and pulls the life force into you"
 2766;SAM;Okay.
 2767;MATT;All righty.
 2768;SAM;Y'know, small but okay.
@@ -2890,7 +2890,7 @@
 2888;MATT;Yes.
 2889;MARISHA;Okay--
 2890;TALIESIN;He's happy. He's in a better place.
-2891;MARISHA;"I look at the twins, and I say ""Lodestone! There-ish!"""
+2891;MARISHA;"I look at the twins, and I say """"Lodestone! There-ish!"""""
 2892;LAURA;I'm on the other side of the rock but I can hear you.
 2893;MARISHA;Lodestone! And I do Control Water?
 2894;MATT;Okay.
@@ -2918,7 +2918,7 @@
 2916;MATT;It's your wisdom modifier. It's a wisdom check, not a wisdom saving throw.
 2917;LAURA, LIAM;Not a wisdom save.
 2918;MARISHA;Ooh! That's good! That's a 17!
-2919;LAURA;"(laughs) That was, like, such a grandma reaction. ""Ooh!"""
+2919;LAURA;"(laughs) That was, like, such a grandma reaction. """"Ooh!"""""
 2920;MARISHA;Plus 11, eight, 28! Ooh!
 2921;MATT;The strength of your control water does actually--
 2922;MARISHA;28!
@@ -2961,7 +2961,7 @@
 2959;TALIESIN;(sings)
 2960;LAURA;Awesome.
 2961;MATT;Basically, yeah.
-2962;LAURA;"""I can't, I have to keep my feet on the ground!"""
+2962;LAURA;"""""I can't, I have to keep my feet on the ground!"""""
 2963;MATT;Vex, it's your turn.
 2964;LAURA;That's me.
 2965;SAM;Now that Vax and Keyleth are gone, do you guys hear the faint flapping of wings and moaning?
@@ -2993,7 +2993,7 @@
 2991;LAURA;25.
 2992;MATT;Okay. 25? That does hit. Go ahead and roll damage for cr-- for Trinket.
 2993;LAURA;For creamer! Did you say creamer?
-2994;MATT;"I was thinking ""Crinket""."
+2994;MATT;"I was thinking """"Crinket""""."
 2995;LAURA;Oh, okay.
 2996;MATT;Different creature. That was with disadvantage, right?
 2997;LAURA, TRAVIS;Yes.
@@ -4103,13 +4103,13 @@
 4101;TALIESIN;I can kill an eel. Anybody can.
 4102;MARISHA;All right.
 4103;LIAM;I'm sorry, Matt, what was the hit point damage?
-4104;MATT;"""All right"", you arguing?"
+4104;MATT;"""""All right"""", you arguing?"
 4105;LIAM;There's so much shit--
 4106;LAURA;Eight. Eight.
 4107;MARISHA, TALIESIN;No. No, we're not arguing.
-4108;MARISHA;"""All right"" is not the statement of someone who's arguing."
+4108;MARISHA;"""""All right"""" is not the statement of someone who's arguing."
 4109;MATT;Just making sure. I know. It's all good.
-4110;MARISHA;"""All right"" is literally ""all right."""
+4110;MARISHA;"""""All right"""" is literally """"all right."""""
 4111;SAM;Snakes have, like, two hit points.
 4112;TALIESIN;No that's a kitten, have two hit points.|Snakes have, like, six.
 4113;MATT;I just, I ruled you guys to have ten hit points in that form.
@@ -4679,7 +4679,7 @@
 4677;TRAVIS;I'll take the next tentacle that works.
 4678;MATT;Okay. As you finish that strike, you feel this strange sense piercing into your relatively unprotected skull.
 4679;TRAVIS;It's very unprotected.
-4680;MATT;"As no language peeks through, but you get this very strong, angry, hungry sense-- this emotional force that says, ""Oh, now you've made me angry."""
+4680;MATT;"As no language peeks through, but you get this very strong, angry, hungry sense-- this emotional force that says, """"Oh, now you've made me angry."""""
 4681;SAM;Ooh.
 4682;MATT;You start realising very quickly that this creature, while it seemed like a force of nature, has been just feeding, but you've got its attention now.
 4683;SAM;Ooh.
@@ -5069,7 +5069,7 @@
 5067;LAURA;(laughs)
 5068;MATT;That ends its turn, Grog, you're up.
 5069;TRAVIS;Ah, it's my turn now? I don't even get like a second to think about it?
-5070;MATT;"Nope! Ah, as you're pulled inside the voice comes up again and it's now emanating outward to you as well, Vex, and in the unconscious darkness of Vax and Keyleth, the voice just says, ""I've been here a long time, and I'll be here long after you are dust.|Feed me and give me sustenance, I'll find my way through somehow."" Grog?"
+5070;MATT;"Nope! Ah, as you're pulled inside the voice comes up again and it's now emanating outward to you as well, Vex, and in the unconscious darkness of Vax and Keyleth, the voice just says, """"I've been here a long time, and I'll be here long after you are dust.|Feed me and give me sustenance, I'll find my way through somehow."""" Grog?"
 5071;TRAVIS;I take a greater healing potion. Can I reach Vax at all? Can I find any part of his foot or anything and pull him down to me?
 5072;MATT;All right, so-- you can either reach around for him, try and feel for him-- you can take a healing potion as a bonus action if you'd like.
 5073;TRAVIS;It's not for me.
@@ -5384,7 +5384,7 @@
 5382;MARISHA;But you can swim out-- oh.
 5383;SAM;(laughs) There's very little I can do--
 5384;MARISHA;But you can double your movement.
-5385;SAM;"I will say ""crossbow"" and change my thing, my rod, into a crossbow--"
+5385;SAM;"I will say """"crossbow"""" and change my thing, my rod, into a crossbow--"
 5386;MATT;Uh-huh.
 5387;SAM;And nock the poison bolt and shoot it.
 5388;LAURA;(gasps)
@@ -5393,7 +5393,7 @@
 5391;SAM;I'll also move 15 feet--
 5392;MATT;There you go, go ahead and make your attack with disadvantage.
 5393;SAM;Okay. (mock-sobbing) It was a one.|(all laugh)
-5394;MATT;"You pull it back and fire and it goes (kerplunk) and the bolt just goes and floats up and you're like, ""Shit""."
+5394;MATT;"You pull it back and fire and it goes (kerplunk) and the bolt just goes and floats up and you're like, """"Shit""""."
 5395;TRAVIS;Wow. Wow.
 5396;SAM;But when I moved Matt, I want to move toward it, not away.
 5397;MATT;Okay, so you'll be--
@@ -5496,7 +5496,7 @@
 5494;TRAVIS;That is also a 23.
 5495;MATT;23, that one had taken 13 damage earlier.|That tentacle is destroyed. There is one left.
 5496;TRAVIS;I'm not grappled?
-5497;MATT;"You are no longer grappled. There is one slightly damaged tentacle left. As you do so, the voice says, ""No. Come, join your end here in the depths."" All right, that ends your Retaliation, Percy's, it is now-- Wait, so that was Percy's turn, right?"
+5497;MATT;"You are no longer grappled. There is one slightly damaged tentacle left. As you do so, the voice says, """"No. Come, join your end here in the depths."""" All right, that ends your Retaliation, Percy's, it is now-- Wait, so that was Percy's turn, right?"
 5498;TALIESIN;I already, I just--
 5499;MARISHA;Can't do anything
 5500;TALIESIN;-- there's literally nothing I can do.
@@ -5776,7 +5776,7 @@
 5774;MARISHA;Come on, through the door! He projectile vomits!
 5775;MATT;I'm going to take a picture of that so people--
 5776;MARISHA;Come on!
-5777;MATT;"-- are like, ""That's a little too close."""
+5777;MATT;"-- are like, """"That's a little too close."""""
 5778;TRAVIS;With the rest of my movement, can I turn around and look at him and go, yo, O Ancient One, can you read my mind now? And I walk through the portal.
 5779;MATT;And you do as you step away through the portal. (laughs) I can't believe that shit!
 5780;TRAVIS;Just double birds.

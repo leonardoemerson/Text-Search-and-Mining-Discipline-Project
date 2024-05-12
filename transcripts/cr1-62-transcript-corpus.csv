@@ -1,11 +1,11 @@
 ;Player_Name;Transcription_Text
-0;ANNOUNCER;"Hi, guys! Let's give it up for Claudia for putting almost this whole thing together. So really quick, I just wanted to say very special thanks to you guys from me and Felicia. Doing these kind of events where we have this kind of community has been the number-one goal from Geek and Sundry. So again, thank you guys so much for coming. We're excited to have you; we're excited to keep doing this. So yeah, you're awesome.|(cheering)|All right, let's get down to it. First up, the man with the grog. Travis, come on out! (cheering and chanting ""Grog"")|We got six more people, Travis.|Come on. Fresh off the plane from New York City: Ashley Johnson! (cheering)"
-1;ASHLEY;"Whoa! I'm a monstah! (cheering and chanting ""Monster"")"
-2;ANNOUNCER;"Next up is Travis's better half: Laura Bailey! (cheering and chanting ""Vex"")"
+0;ANNOUNCER;"Hi, guys! Let's give it up for Claudia for putting almost this whole thing together. So really quick, I just wanted to say very special thanks to you guys from me and Felicia. Doing these kind of events where we have this kind of community has been the number-one goal from Geek and Sundry. So again, thank you guys so much for coming. We're excited to have you; we're excited to keep doing this. So yeah, you're awesome.|(cheering)|All right, let's get down to it. First up, the man with the grog. Travis, come on out! (cheering and chanting """"Grog"""")|We got six more people, Travis.|Come on. Fresh off the plane from New York City: Ashley Johnson! (cheering)"
+1;ASHLEY;"Whoa! I'm a monstah! (cheering and chanting """"Monster"""")"
+2;ANNOUNCER;"Next up is Travis's better half: Laura Bailey! (cheering and chanting """"Vex"""")"
 3;LAURA;This is amazing! What?!
-4;ANNOUNCER;"Your favorite druid: Marisha Ray! (cheering and chanting ""Keyleth"")"
+4;ANNOUNCER;"Your favorite druid: Marisha Ray! (cheering and chanting """"Keyleth"""")"
 5;MARISHA;What?!
-6;ANNOUNCER;"And give it up for Taliesin! (cheering and chanting ""Percy"")|And last but not least: Sam Riegel! (cheering and chanting ""Scanlan"")|All right, the man who brings it all to life with his amazing imagination: Matthew Mercer! (cheering and chanting ""DM"")"
+6;ANNOUNCER;"And give it up for Taliesin! (cheering and chanting """"Percy"""")|And last but not least: Sam Riegel! (cheering and chanting """"Scanlan"""")|All right, the man who brings it all to life with his amazing imagination: Matthew Mercer! (cheering and chanting """"DM"""")"
 7;LAURA;Should we sit?
 8;MATT;"Well, first and foremost, guys, I want to thank all of you for being here tonight, for what is already the craziest night of my life in a long time. And we haven't even started, really, which is nuts. I want to give a big thanks to the Dungeons and Dragons team and Wizards of the Coast for gifting us an awesome series of gift bundles that we'll be able to give out to some of you lucky winners here in the audience and some of you lucky folks at home, as well. There'll be information for that throughout the chat as those events arrive. And also, in that same vein, thank you to them for helping me and Chris come together and help make the event of Force Grey: Giant Hunters, a new series we've been working on, recently coming out.|(cheering)|We have four episodes already out for that, if you haven't seen it yet. The fifth one comes out this week on Monday on Nerdist. And this will be introducing Brian Posehn's character; he'll finally be joining the campaign for that, and some crazy shit goes down, so don't miss it. Yeah, and I think we have one other cool announcement, if you guys want to take this one."
 9;ANNOUNCER;"Yeah, so we're really excited that this is Chris Pramas, from amazing Green Ronin, who did the Titansgrave book and series. And we're excited; that's been a labor of love for a long time, but we're able to announce that we will have a Critical Role campaign book coming out.|(cheering)|So Chris, you want to tell them about it?"
@@ -29,7 +29,7 @@
 27;TRAVIS;That's fucked up.
 28;SAM;I will say that Vax looks a little weird.
 29;LAURA;Vax is just strange.
-30;MATT;"Vax turns to you and goes, ""Yeah, I usually feel a bit that way. Quiet."" As you guys are preparing for the morning, there's a strange sound like a simmering, high-pitched whine. Two or three times, you see these sudden bright flashes of light in your vicinity. And there's a burst of white light, as out stepping from it, you see the somewhat-corporeal, divine energy-based form of Pike Trickfoot.|(cheering)"
+30;MATT;"Vax turns to you and goes, """"Yeah, I usually feel a bit that way. Quiet."""" As you guys are preparing for the morning, there's a strange sound like a simmering, high-pitched whine. Two or three times, you see these sudden bright flashes of light in your vicinity. And there's a burst of white light, as out stepping from it, you see the somewhat-corporeal, divine energy-based form of Pike Trickfoot.|(cheering)"
 31;LAURA;Oh my god!
 32;ASHLEY;I'm back.
 33;SAM;No! You are not supposed to trust anything in the Feywild.|(laughter)
@@ -37,13 +37,13 @@
 35;SAM;There's only one way to find out.|I run up and I kiss her.|(laughter)
 36;ASHLEY;That was a little fast, I think.
 37;SAM;It's her.
-38;MATT;"Garmelie, at this point, watching this whole circumstance, walks up to you and goes, ""It's good to see you again. I don't know where you went away last time, but I hope you enjoyed the last sketch I did. If you need any more, let me know. I got plenty of paper."""
+38;MATT;"Garmelie, at this point, watching this whole circumstance, walks up to you and goes, """"It's good to see you again. I don't know where you went away last time, but I hope you enjoyed the last sketch I did. If you need any more, let me know. I got plenty of paper."""""
 39;ASHLEY;Okay. What was that? Who were you?
 40;MATT;You look down and see the small faun who you previously had commissioned to draw--
 41;ASHLEY;Yes. I really love that piece that you did.
-42;MATT;"""Well, thank you kindly."""
+42;MATT;"""""Well, thank you kindly."""""
 43;ASHLEY;You're so welcome.
-44;MATT;"""Let me know. Your form's closer to mine, so it's easy for me to get a full view."" (laughter)"
+44;MATT;"""""Let me know. Your form's closer to mine, so it's easy for me to get a full view."""" (laughter)"
 45;TRAVIS;Whoa.|(laughter)
 46;ASHLEY;That's okay.
 47;TRAVIS;Snap. So are we going across the river, then?
@@ -80,15 +80,15 @@
 78;LAURA;I can.
 79;ASHLEY;You can.
 80;LAURA;Brother, do you want to scout up ahead? Maybe fly up above the river and see down into the oily land? Both of us.
-81;MATT;"""Fine, I'll go ahead and give it a look, I suppose. Although you can fly any time you want, if you wish."""
+81;MATT;"""""Fine, I'll go ahead and give it a look, I suppose. Although you can fly any time you want, if you wish."""""
 82;LAURA;Yes, I can. And I do. I pick my broom up.
 83;MATT;He seemingly ducks down into the grasses that you guys are standing in and vanishes, barely giving a small path as he disappears.
 84;LAURA;I float above him on the broom.
 85;MATT;Occasionally, you see him glance up and loudly grumble.
 86;LAURA;You are so hidden right now. I can barely even see you. So hidden.
-87;MATT;"""I appreciate the backup, sister."" And he keeps continuing forward. As you get to the edge of the water itself, he looks inside. It's pretty clear, the water, as you can see the bottom of it right there. You can see a deep-set blanket of greenish-brown algae-type plant life that cakes the bottom of the river floor, the occasional stone protruding from it and everything is growing and pushed around it. He releases his raven wings from his armor, which shoot out in a large 15-foot wingspan on each side. He jumps in the air, makes his way over the first short river, and lands on the other side."
+87;MATT;"""""I appreciate the backup, sister."""" And he keeps continuing forward. As you get to the edge of the water itself, he looks inside. It's pretty clear, the water, as you can see the bottom of it right there. You can see a deep-set blanket of greenish-brown algae-type plant life that cakes the bottom of the river floor, the occasional stone protruding from it and everything is growing and pushed around it. He releases his raven wings from his armor, which shoot out in a large 15-foot wingspan on each side. He jumps in the air, makes his way over the first short river, and lands on the other side."
 88;LAURA;Oh, okay. I fly up and I stay above him.|I don't want to land on the ground.
-89;MATT;"Okay. Glance over. His wings fold behind him and he's like, ""Was it so hard, sister? Really?"""
+89;MATT;"Okay. Glance over. His wings fold behind him and he's like, """"Was it so hard, sister? Really?"""""
 90;LAURA;You wasted your entire hour of flying for that? (laughter and applause)
 91;MATT;(sighs)
 92;LAURA;Oh, I got a Vax sigh. I like it.
@@ -106,7 +106,7 @@
 104;LAURA;13.
 105;MATT;13? With but an instant of reaction time, it passes a good solid foot and a half in front of his face. His wings furl. A couple of feathers dangle down, and he turns around and decides to hop over the next bit of the river.
 106;LAURA;I hate you sometimes.
-107;MATT;"""I know, sister."" As he takes off."
+107;MATT;"""""I know, sister."""" As he takes off."
 108;LAURA;All right, I get on my broom and fly after him, like a loser.
 109;MATT;Any of you guys also doing anything, or are you just watching them scouting ahead?
 110;TRAVIS;We're just watching them fly around.
@@ -203,7 +203,7 @@
 201;SAM;Okay. 25.
 202;MATT;25. You watch as Bigby's Hand plunges into the river itself, vanishes for a few moments, and then like a reverse cannonball out of the water, coming curving around and at an incredible speed, looks like it's about to spike Vax onto the water's edge before slowing down and limply dropping him on the edge of the bank front.
 203;SAM;I give him a little pat on the head.
-204;MATT;"Which is good, because the pat actually forces the water out of his lungs.|(coughing and panting) ""No flight."""
+204;MATT;"Which is good, because the pat actually forces the water out of his lungs.|(coughing and panting) """"No flight."""""
 205;MARISHA;Grog.
 206;TRAVIS;Yeah?
 207;MARISHA;Grab Percy.
@@ -294,14 +294,14 @@
 292;SAM;Yeah, where's he?
 293;MATT;He's back on the other side.
 294;LAURA;Hi!
-295;MATT;"""Some help, please?"""
+295;MATT;"""""Some help, please?"""""
 296;LAURA;Have you heard any stories about how people crossed these damn rivers before?
-297;MATT;"""I told you I've heard about this land.|I haven't actually been here."""
+297;MATT;"""""I told you I've heard about this land.|I haven't actually been here."""""
 298;LAURA;I know! So tell me what you've heard!
-299;MATT;"""It's dangerous, and it keeps the Shademirk from spreading!"""
+299;MATT;"""""It's dangerous, and it keeps the Shademirk from spreading!"""""
 300;LAURA;Cool.
 301;TRAVIS;Garmelie! Hop in the river!
-302;MATT;"""No!"""
+302;MATT;"""""No!"""""
 303;SAM;Has my minute of Hand worn off yet?
 304;MATT;I'd say it's getting towards the end.
 305;SAM;All right. I'm going to take Garmelie and throw him across as many rivers as I can.|(cheering)
@@ -448,7 +448,7 @@
 446;LAURA;Oh, okay, sure.
 447;SAM;Don't forget Vax.
 448;LAURA;And Vax, of course. Obviously, my brother, who is standing right here very stealthily.
-449;MATT;"He looks to you and his wings (whoosh).|He lets them dissipate, as they're not going to be much of a help in this moment.|""If I'm going to be tied to the rope, I want to be tied close to you, at least."" He shimmies over.|You're all tying yourselves like a daisy chain?"
+449;MATT;"He looks to you and his wings (whoosh).|He lets them dissipate, as they're not going to be much of a help in this moment.|""""If I'm going to be tied to the rope, I want to be tied close to you, at least."""" He shimmies over.|You're all tying yourselves like a daisy chain?"
 450;LAURA;You know, like you do.
 451;MATT;All right. Once you've all affixed it, what is the order in which you guys are affixed? I'm just curious!
 452;TRAVIS;I'll be in the front.
@@ -459,7 +459,7 @@
 457;LAURA;Oh, right, because we've got to pick him up on the way through.
 458;MATT;He's in between the two of you guys right now. He's waiting.
 459;LAURA;We're on our way to you, Garmelie.|Don't worry!
-460;MATT;"""Good!"" He looks over his shoulder at Scanlan and goes, ""Good."" All right, you guys all begin to pull yourselves forward on the rope, taking your time to make sure that if anything bad happens, you take a moment to pause and help out your friends. I need everyone who's on the edge of that rope to make a general athletics check."
+460;MATT;"""""Good!"""" He looks over his shoulder at Scanlan and goes, """"Good."""" All right, you guys all begin to pull yourselves forward on the rope, taking your time to make sure that if anything bad happens, you take a moment to pause and help out your friends. I need everyone who's on the edge of that rope to make a general athletics check."
 461;LAURA;Everybody holding on to the rope?
 462;MATT;Everybody who's currently tied onto the rope, so not the gnomes.
 463;LAURA;Athletics?
@@ -479,9 +479,9 @@
 477;MARISHA;Keyleth's got angry tears of frustration in the back as she's trying to control the water.|Runny eyeliner, like it's 2001.
 478;MATT;All right. You manage to make it across the next six or so rivers. You get to where Garmelie is, who's sitting there tapping his little hoof impatiently.
 479;LAURA;Tie yourself on, there, Garmelie.
-480;MATT;"He looks up at the rope, which is basically head level. ""Give me some slack!"""
+480;MATT;"He looks up at the rope, which is basically head level. """"Give me some slack!"""""
 481;LAURA;(grunts)
-482;MATT;"""Thanks."" He wraps it around his midsection, ties it up, and it's uncomfortably tight because as soon as you start moving it pulls on his midsection. When it's pulled taut, because of his size, he's actually lifted up between you guys, so his feet dangle, and he's top-heavy in how it tied, so he rotates. His feet are in the air.|(cheering)|You bring yourself over to the eighth, the ninth river finally traversed. A few other scary moments. Keyleth, I want you to make a wisdom check again to see if you can aid this next length."
+482;MATT;"""""Thanks."""" He wraps it around his midsection, ties it up, and it's uncomfortably tight because as soon as you start moving it pulls on his midsection. When it's pulled taut, because of his size, he's actually lifted up between you guys, so his feet dangle, and he's top-heavy in how it tied, so he rotates. His feet are in the air.|(cheering)|You bring yourself over to the eighth, the ninth river finally traversed. A few other scary moments. Keyleth, I want you to make a wisdom check again to see if you can aid this next length."
 483;MARISHA;Fuck you, no. It's a 19! Total 19.
 484;MATT;Harnessing the inspiration of frustration at your recent failures to control the elements that you've been so hoping to learn to bring to your beck and call, you look forward at what would be the third-to-last river in your progress forward, and angrily do this with your hands. You guys watch as the river, like a paper, is torn asunder, the water held at bay.
 485;MARISHA;I'm sorry!
@@ -742,19 +742,19 @@
 740;TALIESIN;It might be fine. Oh god.
 741;ASHLEY;Come on, Percy!
 742;TALIESIN;I have the worst strength. Eight.
-743;MATT;"Eight. As you say, ""everyone push away!"" Your feet feebly glide against the muddy surface of the riverbank as the jaws open slightly and you hear the low, guttural (growling). The breath comes pouring out into you in this strange combination of muddy swamp low tide and compost.|It's delightful."
+743;MATT;"Eight. As you say, """"everyone push away!"""" Your feet feebly glide against the muddy surface of the riverbank as the jaws open slightly and you hear the low, guttural (growling). The breath comes pouring out into you in this strange combination of muddy swamp low tide and compost.|It's delightful."
 744;TALIESIN;We technically have our hands free and are tied to the rope, so in theory we could still use our hands and just try and all shift backwards like stupid people.
 745;MATT;But you're all mostly taut on the rope now.|So you can. That's what you tried to do, and it failed miserably. That's your turn, Percy. Vax is up now. Vax tries to push inward. Actually, no.|He's going to stay where he is out of range. He's going to try and throw his daggers from where he is.
 746;LAURA;Come on, brother!
 747;MATT;"He is not going to use his haste boots, though; he's going to save that for later. That's two attacks; both hit. So with the first strike and with the offhand throw. The first one with sneak attack, because it is currently next to Percy. You are threatening it at the moment."
 748;TALIESIN;I hope I have its attention.
-749;MATT;"28 points of damage, and the second strike for a total of nine. So after Vax throws both daggers, both sink into the sides of the giant crocodile. It moves ever so slightly with the first impact, the second one seemingly to no effect. Both daggers appear in a puff of smoke to the side of his belt and he looks to you and goes, ""Sister, what are we going to do?"""
+749;MATT;"28 points of damage, and the second strike for a total of nine. So after Vax throws both daggers, both sink into the sides of the giant crocodile. It moves ever so slightly with the first impact, the second one seemingly to no effect. Both daggers appear in a puff of smoke to the side of his belt and he looks to you and goes, """"Sister, what are we going to do?"""""
 750;LAURA;I don't know!
 751;MATT;He can't really move at that point. It is now Garmelie's turn.
 752;LAURA;Oh, Garmelie!
-753;MATT;"Garmelie, who can't turn invisible, who can't use his normal tactics, is just, ""Um!"""
+753;MATT;"Garmelie, who can't turn invisible, who can't use his normal tactics, is just, """"Um!"""""
 754;LAURA;Sing a song, Garmelie! Charm him! Do something!
-755;MATT;"He pulls up a small pan flute from his side and (whistling). There's an awkward pause, and he goes, ""Shit!"" He then tries to scoot away as far as he can, but is once again caught between the very taut sides of the rope, unable to shift.|That brings us to Pike."
+755;MATT;"He pulls up a small pan flute from his side and (whistling). There's an awkward pause, and he goes, """"Shit!"""" He then tries to scoot away as far as he can, but is once again caught between the very taut sides of the rope, unable to shift.|That brings us to Pike."
 756;ASHLEY;Okay! How far are we from the disgusting thing?
 757;MATT;You guys are over here, so I'd say, from what you can gauge here, you're approximately 40 feet from it.
 758;ASHLEY;40 feet? Great. So I'm going to get a little bit closer.
@@ -789,7 +789,7 @@
 787;SAM;Okay. I'll inspire Keyleth. I'll sing to her: (singing) Believe it or not, you're killing a croc! You never thought you could feel so free! Slashing away on a giant fucking croc.|How can it be? Believe it or not, it's because of me! (laughter and applause)|And I will take out my Wand of Magic Missiles and fire many of them. I think if I use six charges, that's eight darts.
 788;MATT;That's a lot of missiles.
 789;SAM;It's not very powerful, though, and I would not like to shoot at the croc. I would like to shoot at every segment of rope between every single person.|(cheering)
-790;MATT;"After the flash of the Guiding Bolt, the rest of the party, you look across the way as you see Scanlan, after singing this delightful song, turn around Rambo-style and release this burst of arcane energy. These arcane darts come firing straight towards the croc, and in a moment of excitement, expecting each of these impacts to blast into the side of this creature, they suddenly soar up into the sky and arc down towards each of you.|Before you have a moment to really react, the word leaving your voice, ""What?"" They streak back down, slamming into each side of the rope, causing it to burst into frayed, burnt rope chunks and pieces of twine, all hanging loosely to your sides. All of you guys are now free to move about as you wish."
+790;MATT;"After the flash of the Guiding Bolt, the rest of the party, you look across the way as you see Scanlan, after singing this delightful song, turn around Rambo-style and release this burst of arcane energy. These arcane darts come firing straight towards the croc, and in a moment of excitement, expecting each of these impacts to blast into the side of this creature, they suddenly soar up into the sky and arc down towards each of you.|Before you have a moment to really react, the word leaving your voice, """"What?"""" They streak back down, slamming into each side of the rope, causing it to burst into frayed, burnt rope chunks and pieces of twine, all hanging loosely to your sides. All of you guys are now free to move about as you wish."
 791;SAM;And for my movement, I will grab Pike around the waist and pull us back five feet off the edge of the pond there. Thanks.
 792;MATT;Well done. Top of the round again.|Keyleth, you're up.
 793;MARISHA;Okay! You have advantage on the next hit on it?
@@ -827,7 +827,7 @@
 825;TRAVIS;Can I take the Titanstone Knuckles, smash them together-- (cheering)|Can I cast Enlarge on myself?
 826;MATT;You can certainly try. Is that what you want to do?
 827;TRAVIS;Yeah, I'll try that.
-828;MATT;"As your mind is suddenly clouded with the thought of, ""Jug! I need to get the jug... No."" You feel your body, your physical form begin to ripple and swell. You guys watch as the crocodile, now currently recovering from the blight-like withering of its form, suddenly its eyes go wide once more as its gullet begins to swell wider and wider. You hear this low (retching), like a cat coughing up a hairball slowed down, as you watch an enlarged Grog get immediately vomited up and out of the creature to its side."
+828;MATT;"As your mind is suddenly clouded with the thought of, """"Jug! I need to get the jug... No."""" You feel your body, your physical form begin to ripple and swell. You guys watch as the crocodile, now currently recovering from the blight-like withering of its form, suddenly its eyes go wide once more as its gullet begins to swell wider and wider. You hear this low (retching), like a cat coughing up a hairball slowed down, as you watch an enlarged Grog get immediately vomited up and out of the creature to its side."
 829;SAM;His favored terrain is vomit.
 830;MATT;Yes, you do have benefits to that. So yes.|You manage to do that, sir.
 831;TRAVIS;So I get puked out. Can I use whatever movement speed I have left to drag the daisy chain with me away from the crocodile?
@@ -930,7 +930,7 @@
 928;MATT;Immediately decides to put his daggers back away, and then uses a dash action to dart over to the edge of the river where you are, and is going to reach out and try and grab your arms. You guys are reaching for each other right now. That is how it's going to go for this moment. That brings us to Garmelie, who now, free of the rope circumstance and the chaos around, looks and sees you out in the river, scoots around, goes out with, grabs your brother's arm and then reaches out towards your arm and chains his way towards you, putting his hand towards you.
 929;LAURA;Garmelie's helping!
 930;MARISHA;Garmelie!
-931;MATT;"""Grab!"""
+931;MATT;"""""Grab!"""""
 932;LAURA;Okay!
 933;TALIESIN;It's a sign he's going to turn on us at any moment.
 934;LAURA;I know.
@@ -996,7 +996,7 @@
 994;MARISHA;Oh! It's me! Oh dear god. Okay. I am going to do what worked really well last time, and I'm going to do a 4th-level Blight. And what I want to do is, I want to take my staff, because I'm near him, right?
 995;MATT;You are.
 996;MARISHA;Okay, I want to take my staff, and where Pike put that nice little crispy donut hole in the middle of him, I want to take my staff right in the middle and bring it down and cast Blight.
-997;MATT;"All righty. Saving throw against the DC with disadvantage. A six and an eight.|(laughter and applause)|How do you want to do this? (cheering and chanting ""Keyleth"")"
+997;MATT;"All righty. Saving throw against the DC with disadvantage. A six and an eight.|(laughter and applause)|How do you want to do this? (cheering and chanting """"Keyleth"""")"
 998;MARISHA;That's the coolest thing that's ever happened to me.
 999;MATT;You hear the phantom chanting in the back of your head. How do you want to do this?
 1000;MARISHA;My ego loves this. Is Percy still in his mouth?
@@ -1020,7 +1020,7 @@
 1018;LAURA;Thanks, buddy.
 1019;MATT;(moans)
 1020;LAURA;I get up and hug Garmelie. What! You saved me. You're wonderful.
-1021;MATT;"""What was I supposed to do, watch you drown? No! We're almost to the end of our agreement."""
+1021;MATT;"""""What was I supposed to do, watch you drown? No! We're almost to the end of our agreement."""""
 1022;LAURA;I tousle his hair. Good job, Keyleth!
 1023;MARISHA;Thanks.
 1024;LAURA;How you doing, Percy?
@@ -1037,7 +1037,7 @@
 1035;MATT;You do suffer two points of damage from it, but eventually you hit a point in the bank where the jaw cracks into a hundred pieces, and you tumble onto the ground and catch your breath, after being restrained for so long.
 1036;TALIESIN;I stand up and kick one of them.
 1037;MARISHA;Keyleth wants to get down on the grass that she hurt, and I want to cast Druidcraft and heal it, and talk to the grass, and be like: It wasn't personal. I hope you know you were not the intended target, you just happened to be caught in the fray. It's okay. Don't be mad.
-1038;MATT;"As you extend your fingers about you, you see small strands of green go (popping) and you hear a hundred soft voices go, ""Eh."""
+1038;MATT;"As you extend your fingers about you, you see small strands of green go (popping) and you hear a hundred soft voices go, """"Eh."""""
 1039;MARISHA;I like your enthusiasm, grass.
 1040;LAURA;All right. How are you doing over there, gnomesies?
 1041;ASHLEY;Come on, you should get over here! No rush, but.
@@ -1073,7 +1073,7 @@
 1071;ASHLEY;She's laughing. That was awesome!
 1072;TRAVIS;Should I try and skip Vax across the river? (laughter)
 1073;MARISHA;Yeah, do it.
-1074;MATT;"Vax says, ""I'd rather run."" And he goes running forward and attempts to make a leap across the river. He leaps, makes it most of the way, catches his ankle on the edge, and begins to flutter backward."
+1074;MATT;"Vax says, """"I'd rather run."""" And he goes running forward and attempts to make a leap across the river. He leaps, makes it most of the way, catches his ankle on the edge, and begins to flutter backward."
 1075;TRAVIS;That's what you get, stupid!
 1076;LAURA;Can't you save him? Aren't you on the other side?
 1077;SAM;I'm looking at the trees. I'm hanging out.
@@ -1129,25 +1129,25 @@
 1127;MARISHA;I gag a little, try to keep it down. Try to wash my face if I can.
 1128;SAM;Who's left? Garmelie?
 1129;LAURA;Oh, Garmelie!
-1130;MATT;"Garmelie's on the side. He goes, ""Don't worry. You first."""
+1130;MATT;"Garmelie's on the side. He goes, """"Don't worry. You first."""""
 1131;LAURA;No, he's going to leave. I mean, he can.|I guess you got us all the way here, didn't you?
-1132;MATT;"""Once he's across, our accord is complete."""
+1132;MATT;"""""Once he's across, our accord is complete."""""
 1133;TRAVIS;Oh yeah. No, totally. Come here, bitch.
-1134;MATT;"""No!"" Roll an attack. Well, technically, this is a grapple, so it's an athletics check."
+1134;MATT;"""""No!"""" Roll an attack. Well, technically, this is a grapple, so it's an athletics check."
 1135;TRAVIS;A 20. Total.
-1136;MATT;"You reach out and his eyes go wide and he darts around, and your fingers barely catch the edge of his fur, and you get enough of a hold to lift him off the ground. He's now dangling from your giant half-giant ass hand.|""No! I don't have to go there! I'm just going back the other way when we're done!"""
+1136;MATT;"You reach out and his eyes go wide and he darts around, and your fingers barely catch the edge of his fur, and you get enough of a hold to lift him off the ground. He's now dangling from your giant half-giant ass hand.|""""No! I don't have to go there! I'm just going back the other way when we're done!"""""
 1137;TRAVIS;Oh, no, yeah, I totally hear what you're saying. We're going for a ride, bitch.|And I back up.
 1138;MATT;Make an athletics check.
 1139;TRAVIS;20 again. 12 plus eight.
-1140;MATT;"Your large, bounding form (heavy footsteps, impact, scream).|As you make it across, you hit the other side.|The actual bank shifts, and you guys feel the impact on the other side beneath your feet, and there's a small crater in the ground where you landed, and the river bank slowly fills it in as it lowers it just below river water level.|Garmelie is now clutching your arm, his hands and legs wrapped around your forearm.|(laughter)|His head was on the other side. He eventually loosens his grip, plops to the ground, and dusts himself off a bit. ""Very well.|Welcome to the Shademirk. Good luck."""
+1140;MATT;"Your large, bounding form (heavy footsteps, impact, scream).|As you make it across, you hit the other side.|The actual bank shifts, and you guys feel the impact on the other side beneath your feet, and there's a small crater in the ground where you landed, and the river bank slowly fills it in as it lowers it just below river water level.|Garmelie is now clutching your arm, his hands and legs wrapped around your forearm.|(laughter)|His head was on the other side. He eventually loosens his grip, plops to the ground, and dusts himself off a bit. """"Very well.|Welcome to the Shademirk. Good luck."""""
 1141;LAURA;We made it!
 1142;TRAVIS;You don't want to see what happens at the end of the journey? You want to come with us, right?
-1143;MATT;"He looks past you, and you all turn and look into the Shademirk. At this point, you can see the bog itself is an endless dumping form of sludge into the Gilded Run. The water itself is barely tearing it away, what you guys noticed before. The black oily material is itself thick, ichor-like tar. The smell that you're very familiar with, that horrible, acrid, sulfurous scent is very thick in the area, mixed with a terrible rotting leaf and decay. You see bubbles going (bubbling) and churning up in certain parts of it, and there are elements where you see knotted and gnarled roots that tangle up above the surface. It is the most uninviting place in nature you've ever seen and experienced, and you can see in the distance the swamp trees with high root sections overhead so you can walk underneath are scattered throughout ahead of you.|Garmelie slowly turns his head back to you and goes, ""No, I'm all right. But I appreciate that.|Be careful. Don't stay in one place too long.|The longer you stand still, the harder it gets to escape the place you stood. And there's a lot of things that tend to live here, from what I've heard, that wait for stillness as a means of attack. So keep moving."""
+1143;MATT;"He looks past you, and you all turn and look into the Shademirk. At this point, you can see the bog itself is an endless dumping form of sludge into the Gilded Run. The water itself is barely tearing it away, what you guys noticed before. The black oily material is itself thick, ichor-like tar. The smell that you're very familiar with, that horrible, acrid, sulfurous scent is very thick in the area, mixed with a terrible rotting leaf and decay. You see bubbles going (bubbling) and churning up in certain parts of it, and there are elements where you see knotted and gnarled roots that tangle up above the surface. It is the most uninviting place in nature you've ever seen and experienced, and you can see in the distance the swamp trees with high root sections overhead so you can walk underneath are scattered throughout ahead of you.|Garmelie slowly turns his head back to you and goes, """"No, I'm all right. But I appreciate that.|Be careful. Don't stay in one place too long.|The longer you stand still, the harder it gets to escape the place you stood. And there's a lot of things that tend to live here, from what I've heard, that wait for stillness as a means of attack. So keep moving."""""
 1144;LAURA;Keep moving.
 1145;TRAVIS;What kinds of things?
-1146;MATT;"""I don't know. It's time for me to go.|Thank you guys so much. I appreciate this.|It's been something."""
+1146;MATT;"""""I don't know. It's time for me to go.|Thank you guys so much. I appreciate this.|It's been something."""""
 1147;LAURA;Wait, before he goes, I want to give him a kiss on his head.
-1148;MATT;"A little kiss on the head, and he goes, ""Well, at least it's been a pleasure travelling with you, my lady."" He takes your hand and does a little bow and (kiss) on the edge."
+1148;MATT;"A little kiss on the head, and he goes, """"Well, at least it's been a pleasure travelling with you, my lady."""" He takes your hand and does a little bow and (kiss) on the edge."
 1149;LAURA;As I was kissing him, can I give him a little pat down to make sure he didn't steal anything? (laughter and applause)
 1150;MATT;Make an investigation check.
 1151;LAURA;23.
@@ -1159,12 +1159,12 @@
 1157;MARISHA;You're committed now.
 1158;MATT;Grasping onto it, you tug, and pull forth the small onyx mastiff that you had found earlier in the campground.
 1159;LAURA;I take it back.
-1160;MATT;"He goes, ""Oh, that's right. I was holding this for you."""
+1160;MATT;"He goes, """"Oh, that's right. I was holding this for you."""""
 1161;LAURA;Thank you so much. You're so kind.
 1162;TRAVIS;The little black dog statue? Oh, I like that thing.
-1163;MATT;"""Fantastic. Well, wish you all the best of luck. Stay alive."""
+1163;MATT;"""""Fantastic. Well, wish you all the best of luck. Stay alive."""""
 1164;TRAVIS;Wait a minute. How do you plan on getting back across the rivers?
-1165;MATT;"""I have my ways."" And he turns invisible.|You see little sludgy footprints go off down the shore and around the bend."
+1165;MATT;"""""I have my ways."""" And he turns invisible.|You see little sludgy footprints go off down the shore and around the bend."
 1166;MARISHA;Bye!
 1167;TALIESIN;Cast Hunter's Mark really quick.
 1168;LAURA;Oh, on him? Can I cast Hunter's Mark on him really quick?
@@ -1234,9 +1234,9 @@
 1232;MARISHA;I give him a-- from a distance.
 1233;MATT;He shrinks sideways against the tree and is now barely visible, other than his furry chest that's now peeking out one side of the width of the tree.
 1234;MARISHA;I give him a--
-1235;MATT;"No reaction. Vax at this point is like, ""So are we going to move on, then?"""
+1235;MATT;"No reaction. Vax at this point is like, """"So are we going to move on, then?"""""
 1236;LAURA;Yes, but stealthily.
-1237;MATT;"""Let's do it."" Make a stealth check, guys."
+1237;MATT;"""""Let's do it."""" Make a stealth check, guys."
 1238;LAURA;I cast Pass Without Trace on us, so we all got plus ten.
 1239;ASHLEY;Oh!
 1240;LAURA;Did you get something good?

@@ -133,17 +133,17 @@
 131;TALIESIN;Thank you, but count to ten. And now I drop them and go over to my sister.
 132;LIAM;I was afraid she was going to die.
 133;MARISHA;To be fair, you did get her throat slit, but it's okay.
-134;MATT;"As you're saying this, you turn around, you can see she's sat up and she sees this conversation and goes, ""Percy?"""
+134;MATT;"As you're saying this, you turn around, you can see she's sat up and she sees this conversation and goes, """"Percy?"""""
 135;TALIESIN;Hi.
-136;MATT;"""Percy!"""
+136;MATT;"""""Percy!"""""
 137;TALIESIN;I'm so sorry.
 138;MATT;And she gets up off the ground and runs up and just grabs you and embraces you tightly. You can feel all the muscles tense in her body as she just holds you with a slight shake to her body.
 139;TALIESIN;I'm so sorry for leaving you.
-140;MATT;"""I thought you were dead."" She pulls away for a second and just looks at you, and there's a coldness to her face. She's happy, but even for her young age, you can see there's lines at the corners of her eyes. She's probably been through a lot. She smiles and looks up at you again and you can see there's the white shocks in her hair, and she looks up and touches your hair and goes, ""I see we've both survived quite a bit."""
+140;MATT;"""""I thought you were dead."""" She pulls away for a second and just looks at you, and there's a coldness to her face. She's happy, but even for her young age, you can see there's lines at the corners of her eyes. She's probably been through a lot. She smiles and looks up at you again and you can see there's the white shocks in her hair, and she looks up and touches your hair and goes, """"I see we've both survived quite a bit."""""
 141;TALIESIN;I wouldn't trade.
-142;MATT;"She laughs to herself, and you see another tear curl at her eye, and then her face goes cold for a second and she, not breaking this gaze, steps back. ""You shouldn't be here. They were using me to get to you. I'm so sorry."""
+142;MATT;"She laughs to herself, and you see another tear curl at her eye, and then her face goes cold for a second and she, not breaking this gaze, steps back. """"You shouldn't be here. They were using me to get to you. I'm so sorry."""""
 143;TALIESIN;Are you all right? Did they do anything? Are you yourself?
-144;MATT;"She reaches up and holds her neck. ""I'm good. I'm good."" And she steels herself for a second, and even more so, you see there's an intensity to her."
+144;MATT;"She reaches up and holds her neck. """"I'm good. I'm good."""" And she steels herself for a second, and even more so, you see there's an intensity to her."
 145;TALIESIN;Perception check?
 146;MATT;To...?
 147;TALIESIN;Insight. I want to make sure she's not holding anything really important back.
@@ -155,17 +155,17 @@
 153;TALIESIN;11.
 154;MATT;"11. Okay. Best you can tell, she seems very honest. She seems forthright. You're used to the memory of your sister being this bright-eyed, cheerful, youngest of the bunch, and definitely a woman who sees the world with fresh eyes. These eyes are different. They're colder. They're hardened. In ways, you're impressed; in ways, you're also immediately sad to see that that memory of your sister probably is no longer there."
 155;TALIESIN;We're putting an end to the Briarwoods tonight. Before the sun sets. This is the end of them. It's all going to be over, and we're going to stop whatever it is they're doing under the city.
-156;MATT;"""You say this. We've tried twice."""
+156;MATT;"""""You say this. We've tried twice."""""
 157;TALIESIN;I know. This is it.
-158;MATT;"""That's what the others thought. You left me, you know."""
+158;MATT;"""""That's what the others thought. You left me, you know."""""
 159;TALIESIN;I know, and I'm so sorry.
-160;MATT;"""Good. Well, if we're going to do this, let's get ready."""
+160;MATT;"""""Good. Well, if we're going to do this, let's get ready."""""
 161;TALIESIN;You're going to your room.
-162;MATT;"""Yes, I am."""
+162;MATT;"""""Yes, I am."""""
 163;TALIESIN;To wait until this is over.
-164;MATT;"""No. No, I'm not. I'm going to my room to get my things. To get my mother's armor."""
+164;MATT;"""""No. No, I'm not. I'm going to my room to get my things. To get my mother's armor."""""
 165;TALIESIN;(sputters) You're-- I don't think that's a very good idea.
-166;MATT;"""You've been fighting them for what, a few days? I've been fighting them for nearly three years. You have no power over me, brother. And if our goals are aligned to free this city, let's do it together. But I don't have to listen to you."""
+166;MATT;"""""You've been fighting them for what, a few days? I've been fighting them for nearly three years. You have no power over me, brother. And if our goals are aligned to free this city, let's do it together. But I don't have to listen to you."""""
 167;TALIESIN;God, you're irritating. Fine. Ugh!
 168;MATT;She walks out of the room.
 169;MARISHA;Percy!
@@ -280,12 +280,12 @@
 278;SAM;No, he's a bad guy?
 279;MATT;There are letters talking about plotting, diverting political attention away from Whitestone to leave it a political enigma during this period of time. There are letters talking about planting information within Wildmount that would lead their investigation team to believe the Briarwoods had been found dead.
 280;SAM;This is a whole paper trail!
-281;MATT;"And occasionally there are mentions in a lot of these letters that speak of, ""The Undying King shall return, we are his blood."""
+281;MATT;"And occasionally there are mentions in a lot of these letters that speak of, """"The Undying King shall return, we are his blood."""""
 282;MARISHA;Jarl? What?
 283;MATT;The Undying King shall return.
 284;LAURA;Where did she get Jarl from?
 285;MATT;We are his blood.
-286;LAURA;"Oh, ""we are."""
+286;LAURA;"Oh, """"we are."""""
 287;MARISHA;The Undying King...
 288;TALIESIN;Shall return.
 289;TALIESIN, SAM;We are his blood.
@@ -339,11 +339,11 @@
 337;TALIESIN;You've squeezed all you're going to be able to get out of that.
 338;TRAVIS;Percy. Can we get into the underground caverns from here?
 339;TALIESIN;Can I think of a way? I'm assuming I know a way to where this might be.
-340;MATT;"As you have this conversation, a voice from the doorway rings out. ""I can take you."" You look over, and it's Cassandra."
+340;MATT;"As you have this conversation, a voice from the doorway rings out. """"I can take you."""" You look over, and it's Cassandra."
 341;TALIESIN;She's going to take us.
 342;SAM;Is that your sister?
 343;TALIESIN;Apparently.
-344;MATT;"She's currently now dressed in armor you've seen as ornamental before. It was armor that your mother trained in when she was young, but was unused for a long time. It seems to be serviceable; it's been updated and such. She slides a shortsword into a sheath at her side, and her hair is pulled back and tied off, and she looks at the rest of the room. ""So are we ready?"""
+344;MATT;"She's currently now dressed in armor you've seen as ornamental before. It was armor that your mother trained in when she was young, but was unused for a long time. It seems to be serviceable; it's been updated and such. She slides a shortsword into a sheath at her side, and her hair is pulled back and tied off, and she looks at the rest of the room. """"So are we ready?"""""
 345;TRAVIS;Let me see your neck.
 346;MATT;She steps up and lifts her chin up towards you.
 347;SAM;By the way, this is Grog.
@@ -357,7 +357,7 @@
 355;TALIESIN;Lead the way, sister.
 356;MATT;She turns around and she begins walking back down the hallway.
 357;LAURA;Can we expect any more traps that you're aware of?
-358;MATT;"""That I'm aware of, no, but I'm certain that there may be. They know you're coming, it seems.|So be wary. Be careful. I'll take you to the undercroft."""
+358;MATT;"""""That I'm aware of, no, but I'm certain that there may be. They know you're coming, it seems.|So be wary. Be careful. I'll take you to the undercroft."""""
 359;LIAM;Did we just have a short rest here?
 360;MATT;You did.
 361;LIAM;Going to heal up.
@@ -409,22 +409,22 @@
 407;MATT;Yeah. Add your athletics to your roll.
 408;SAM;17!
 409;LIAM;Shut up. 27.
-410;MATT;"As you go to be, ""No, what are you--"" It's already gone. You don't even know where it went, you didn't see him take it, you just all of a sudden see it in his hand as he walks past you."
+410;MATT;"As you go to be, """"No, what are you--"""" It's already gone. You don't even know where it went, you didn't see him take it, you just all of a sudden see it in his hand as he walks past you."
 411;LIAM;And I walk over to Cassandra. I don't give her the gun, I just say, you're Cassandra?
-412;MATT;"""Yes."""
+412;MATT;"""""Yes."""""
 413;LIAM;I was at the door. He had a knife to your throat. He wanted you to say something to us. What did he want you to say?
-414;MATT;"""He wanted me to shout for help. He wanted me to draw you in."""
+414;MATT;"""""He wanted me to shout for help. He wanted me to draw you in."""""
 415;LAURA;Can I insight check her to see if she's telling the truth?
 416;MATT;Yeah.
 417;LIAM;You've been living here. How did it come that he had a blade to your throat today? How did it all unravel? Have you been living here?
 418;LAURA;24.
 419;MATT;24. She's telling the truth.
 420;LAURA;Okay. That's good.
-421;MATT;"""Well, after the arrows felled me-- I guess I should start at the beginning."" And she's walking along with you guys as she's leading you down the stairs and down to the bottom floor. She doesn't look to you. She's still looking ahead, very intent."
+421;MATT;"""""Well, after the arrows felled me-- I guess I should start at the beginning."""" And she's walking along with you guys as she's leading you down the stairs and down to the bottom floor. She doesn't look to you. She's still looking ahead, very intent."
 422;LAURA;I take that pistol back from you.
-423;MATT;"""After the arrows felled me, I recovered.|Father Reynal found me. Brought me from the brink at the temple of Pelor outside of town. Things hadn't fallen quite that far back then. We had more people in the city. At the time, the Briarwood rule was fresh and folks were eager to speak out against what they had wrought on this city, the fall of the de Rolos.|We still thought they had fallen to plague, but through some unfortunate political business, they had come to power, but we began to question it. I knew better. I told the truth once I'd recovered.|We began to build our first rebellion. Two years we built up the resistance before we made our first move. They seemed to know exactly what we were plotting. Cut us off at every angle.|Couldn't see who it was who was giving up our information, but I knew it was close. But before I had the opportunity, I was helming a group that was traveling to utilize the escape route that I took you through when they first attacked. It was just after dusk, and Lord Briarwood was there waiting for us in the forest. He slaughtered most of the men, but he recognized my face from the dinner we had the night they took the castle.|They did not harm me, strangely. They treated me like a guest against my will, in my own house. I seemed to ascertain that by keeping me there, having a member of the house within their grasp, they could use that as leverage. I don't know.|Sylas, he had his charms, and there were many that worked beneath them against their own will.|It did not work on me. My hatred was too strong.|So instead, they tried to provide me with wealth.|Power, here in Whitestone. I just took to reading and ignoring it all. I don't know why they kept me around, but I wasn't going to question it if it gave me a chance to possibly undermine them."" She grabs the side of her sword as you guys have now reached now down the long hallway towards the back of the castle. You know the direction she's taking you. It leads to the cellar, to the undercroft and the de Rolo mausoleum.|""Three years of reading in that library. Father's library. Strategy. Tactics. Old lines of information, as well as the myths and history of Whitestone. I found allies within the castle. I contacted Yennen, and through him, Archibald, who helped me build the first rebellion.|Archibald still lives, Percy. He's been completely necessary for what we've built here."" She looks down at her armor as you guys reach the edge of the cellar, and she pulls the door open quietly. There's wooden stairs that lead down into the cellar. She taps her armor. ""This was Mother's. It's good to know I'm not the only tomboy in the bloodline."" Brushes the hair out of her face, and for the first time really looks at you with a smile since she first saw you."
+423;MATT;"""""After the arrows felled me, I recovered.|Father Reynal found me. Brought me from the brink at the temple of Pelor outside of town. Things hadn't fallen quite that far back then. We had more people in the city. At the time, the Briarwood rule was fresh and folks were eager to speak out against what they had wrought on this city, the fall of the de Rolos.|We still thought they had fallen to plague, but through some unfortunate political business, they had come to power, but we began to question it. I knew better. I told the truth once I'd recovered.|We began to build our first rebellion. Two years we built up the resistance before we made our first move. They seemed to know exactly what we were plotting. Cut us off at every angle.|Couldn't see who it was who was giving up our information, but I knew it was close. But before I had the opportunity, I was helming a group that was traveling to utilize the escape route that I took you through when they first attacked. It was just after dusk, and Lord Briarwood was there waiting for us in the forest. He slaughtered most of the men, but he recognized my face from the dinner we had the night they took the castle.|They did not harm me, strangely. They treated me like a guest against my will, in my own house. I seemed to ascertain that by keeping me there, having a member of the house within their grasp, they could use that as leverage. I don't know.|Sylas, he had his charms, and there were many that worked beneath them against their own will.|It did not work on me. My hatred was too strong.|So instead, they tried to provide me with wealth.|Power, here in Whitestone. I just took to reading and ignoring it all. I don't know why they kept me around, but I wasn't going to question it if it gave me a chance to possibly undermine them."""" She grabs the side of her sword as you guys have now reached now down the long hallway towards the back of the castle. You know the direction she's taking you. It leads to the cellar, to the undercroft and the de Rolo mausoleum.|""""Three years of reading in that library. Father's library. Strategy. Tactics. Old lines of information, as well as the myths and history of Whitestone. I found allies within the castle. I contacted Yennen, and through him, Archibald, who helped me build the first rebellion.|Archibald still lives, Percy. He's been completely necessary for what we've built here."""" She looks down at her armor as you guys reach the edge of the cellar, and she pulls the door open quietly. There's wooden stairs that lead down into the cellar. She taps her armor. """"This was Mother's. It's good to know I'm not the only tomboy in the bloodline."""" Brushes the hair out of her face, and for the first time really looks at you with a smile since she first saw you."
 424;TALIESIN;(sighs) Can we do one thing before we go down into the cellar? This is the best day of my life, and I can't help but be suspicious.
-425;MATT;"""I completely understand."""
+425;MATT;"""""I completely understand."""""
 426;TALIESIN;Is there any way to check if she's being controlled?
 427;TRAVIS;I was thinking the same thing.
 428;TALIESIN;Can we put your helmet on her?
@@ -432,10 +432,10 @@
 430;LAURA;We don't have that?
 431;MARISHA;I didn't learn it. Not for today. I thought Pike's magic would hold up.
 432;TRAVIS;I can try and jog her memory.
-433;MATT;"""What can I do to make you trust me?"""
+433;MATT;"""""What can I do to make you trust me?"""""
 434;SAM;Punch her in the face?
 435;TALIESIN;I do trust you. That's the problem.
-436;MATT;"She smiles a little. ""Whatever you need."""
+436;MATT;"She smiles a little. """"Whatever you need."""""
 437;TALIESIN;I've got nothing. (sighs)
 438;MATT;Does anyone have any creative means with which they would want to check?
 439;TALIESIN;What would happen if we put your helmet on her?
@@ -447,7 +447,7 @@
 445;TALIESIN;Does the hat need to be attuned over a short rest?
 446;MATT;In theory.
 447;LIAM;I want to suggest something to you. We rest here for a half hour, and I give this to you. This came from a very strange creature. It will help you resist any control, if there is any control, and one of us-- you could even choose-- could strike you and try to take you out of it, and if you are not being controlled, then you are being struck across the face, and I'm sorry for that, but if you are, there's a possibility we'd pull you out. I know that would hurt, but it would go a long way to earn our trust.
-448;MATT;"""If that's what it takes."" She takes it from your hand and inspects it for a second. ""Shoddy craftsmanship."" Places it on her head, and it's a little big at first, then it conforms to her head."
+448;MATT;"""""If that's what it takes."""" She takes it from your hand and inspects it for a second. """"Shoddy craftsmanship."""" Places it on her head, and it's a little big at first, then it conforms to her head."
 449;LIAM;Your choice.
 450;MATT;"She sits down a couple of steps deeper into the cellar. Curls around a corner; ushers you all over into the shadows."
 451;MARISHA;Can I see, before we leave, are we near any windows?
@@ -455,11 +455,11 @@
 453;MARISHA;Backyard?
 454;MATT;You guys are on the north side of the castle now. The city is south from you.
 455;MARISHA;All right.
-456;MATT;"So you take a moment and sit. While you guys are waiting, she takes a moment. She's adjusting it and feeling it and inspecting her hands.|(sighs) ""I don't feel any different.|While we wait--"""
+456;MATT;"So you take a moment and sit. While you guys are waiting, she takes a moment. She's adjusting it and feeling it and inspecting her hands.|(sighs) """"I don't feel any different.|While we wait--"""""
 457;LIAM;What if the little one struck you?
 458;SAM;Struck her?
 459;LAURA;Give it some time.
-460;MATT;"She gives a wry grin. ""Whatever you choose."""
+460;MATT;"She gives a wry grin. """"Whatever you choose."""""
 461;SAM;I could try to tell if she's evil or not.|Would that help?
 462;LAURA;Yeah.
 463;LIAM;I don't know. I don't think she's evil. She could be a puppet.
@@ -478,19 +478,19 @@
 476;TALIESIN;I look at her.
 477;MATT;She drinks the potion. Whole thing down.|(coughs)
 478;TALIESIN;That was actually a minor healing potion. I was just seeing if you did it intentionally.|(laughter)
-479;MATT;"She gives a wry grin and wipes her mouth. ""I thought I recognized that terrible earthy taste."" She tosses the crystal decanter to you."
+479;MATT;"She gives a wry grin and wipes her mouth. """"I thought I recognized that terrible earthy taste."""" She tosses the crystal decanter to you."
 480;LIAM;Clever boy.
-481;MATT;"""Huh. You always were the clever one."""
+481;MATT;"""""Huh. You always were the clever one."""""
 482;TALIESIN;I figured it was worth a shot. Best we're going to do.
 483;SAM;Am I supposed to punch her in the face now?
 484;LIAM;No.
-485;MATT;"""Do you need this thing?"""
+485;MATT;"""""Do you need this thing?"""""
 486;LIAM;I'll take it back, yeah.
 487;MATT;She hands it back to you.
 488;TALIESIN;All right.
-489;MATT;"There's a fascination she has with her armor. ""I've not been able to wear this before. It feels good to have something close to Mother."""
+489;MATT;"There's a fascination she has with her armor. """"I've not been able to wear this before. It feels good to have something close to Mother."""""
 490;TALIESIN;It's been a long time. (sighs)
-491;MATT;"""Simon repaired it for me when he was working here. I haven't seen him in a while. I'm worried."""
+491;MATT;"""""Simon repaired it for me when he was working here. I haven't seen him in a while. I'm worried."""""
 492;TALIESIN;Let's go down and take care of this.|Cass?
 493;MATT;She leads you down through the cellar--
 494;MARISHA;Wait, hang on. Before we enter: it's safe to assume they know we're coming, correct?
@@ -501,21 +501,21 @@
 499;SAM;Can I ask Cassandra--
 500;MATT;You can ask her anything you'd like.
 501;SAM;Are the Briarwoods going to be down there? Are they here?
-502;MATT;"She goes, ""I have no confirmation of it, but they spend most of their time down here. They're preparing for something."""
+502;MATT;"She goes, """"I have no confirmation of it, but they spend most of their time down here. They're preparing for something."""""
 503;LIAM;Have you ever been down here?
-504;MATT;"""I'm not allowed down here, by their orders, but I've snuck down a few times out of curiosity.|I've only gotten so far before I had to return, but I've made it through the undercroft, through most of the tunnels, and I've gotten to the distillery, and that's about as far as I've gotten. But I've followed them down here, and they usually come with a group of guards, four or five strong."""
+504;MATT;"""""I'm not allowed down here, by their orders, but I've snuck down a few times out of curiosity.|I've only gotten so far before I had to return, but I've made it through the undercroft, through most of the tunnels, and I've gotten to the distillery, and that's about as far as I've gotten. But I've followed them down here, and they usually come with a group of guards, four or five strong."""""
 505;LAURA;All right.
 506;TRAVIS;Are there sentries? Can we expect to find traps, lookouts?
-507;MATT;"""It's definitely a possibility, so move quietly. Be careful."""
+507;MATT;"""""It's definitely a possibility, so move quietly. Be careful."""""
 508;LAURA;What is Lady Briarwood?
-509;MATT;"""What is Lady Briarwood? She's a wicked beast of a creature, is what she is. I'd use less savory words, but my brother's here."""
+509;MATT;"""""What is Lady Briarwood? She's a wicked beast of a creature, is what she is. I'd use less savory words, but my brother's here."""""
 510;TALIESIN;There's a first time for everything, I suppose.
-511;MATT;"As she leads you guys down the stairs towards the undercroft, she goes, ""She's not like her husband. That I know. As far as I can tell, she's human, but she has a very powerful control over life and death. She's a practitioner of the arcane, definitely, but her focus seems to be necromancy on a wide scale. And while Delilah and Sylas are man and wife, they speak of another."""
+511;MATT;"As she leads you guys down the stairs towards the undercroft, she goes, """"She's not like her husband. That I know. As far as I can tell, she's human, but she has a very powerful control over life and death. She's a practitioner of the arcane, definitely, but her focus seems to be necromancy on a wide scale. And while Delilah and Sylas are man and wife, they speak of another."""""
 512;SAM;They speak of another?
 513;LAURA;The guy that they're trying to bring back.
-514;MATT;"""It's as if a third party completes their union."""
+514;MATT;"""""It's as if a third party completes their union."""""
 515;SAM;Oh, this is the king that will rise again?
-516;MATT;"""They don't say any names. They refer to him as 'him' or 'The Whispered One.' No reference beyond that."""
+516;MATT;"""""They don't say any names. They refer to him as 'him' or 'The Whispered One.' No reference beyond that."""""
 517;LAURA;(gasps)
 518;SAM;What?
 519;LAURA;(whispering) What if it's the guy in Percy?
@@ -527,9 +527,9 @@
 525;LIAM;He's playing both sides, possibly, Percival.
 526;SAM;Oh, another question for Cassandra. The duke, Negmeyer? Vegmeyer? Venkman?
 527;TALIESIN, MARISHA;Quagmire.
-528;MATT;"""Vedmeyer, yes."""
+528;MATT;"""""Vedmeyer, yes."""""
 529;SAM;Vedmeyer. Have you seen him around the castle today, or recently?
-530;MATT;"""I've only seen him in the castle maybe three times since we've been here."""
+530;MATT;"""""I've only seen him in the castle maybe three times since we've been here."""""
 531;SAM;Because Grog? He's a goliath.
 532;TRAVIS;He's-- wait, what?
 533;SAM;He's a big goliath, so if he's here, you should just, you know--
@@ -539,7 +539,7 @@
 537;SAM;I wouldn't say fought, because I beat him really easily, and then I ran away.
 538;TRAVIS;Oh, you killed him?
 539;SAM;No, I just pushed him off a building, then I thought that was enough for the day, so I went home.
-540;MATT;"Cassandra looks over her shoulder at this.|""It's a shame you're not as tall as your tales, small one."""
+540;MATT;"Cassandra looks over her shoulder at this.|""""It's a shame you're not as tall as your tales, small one."""""
 541;SAM;Well, thank you. I'll take that as a compliment.
 542;TALIESIN;No!
 543;SAM;Don't worry.
@@ -561,15 +561,15 @@
 559;MARISHA;He's a Hello Trinket!
 560;TALIESIN;Hello Trinket?
 561;MARISHA;Hello Trinket.
-562;MATT;"Cassandra looks around very confused for a second. ""Curious, yes."""
+562;MATT;"Cassandra looks around very confused for a second. """"Curious, yes."""""
 563;MARISHA;But abrasive. Right? You're put off by it, so it works. It's working.
 564;SAM;Possibly confused.
 565;TALIESIN;Abrasiveness is his most powerful weapon.
-566;MATT;"""So I'm beginning to see. Well, then."" She pulls her shortsword out. ""Shall we?"""
+566;MATT;"""""So I'm beginning to see. Well, then."""" She pulls her shortsword out. """"Shall we?"""""
 567;LAURA;Are we going in to fight now?
 568;TRAVIS;We're going into the cavern.
 569;LAURA;I'm stealthing.
-570;MATT;"""As are we all."" Everyone roll stealth checks."
+570;MATT;"""""As are we all."""" Everyone roll stealth checks."
 571;LAURA;Should I cast Pass Without a Trace? Yeah, I'm going to use Pass Without a Trace, because I don't have a lot of 2nd-level spells.
 572;MATT;Okay.
 573;TALIESIN;Oh yeah. Please.
@@ -705,7 +705,7 @@
 703;SAM;Wow. Sorry, guys. Sorry.
 704;MARISHA;Can I try a nature check on it?
 705;MATT;Sure.
-706;MARISHA;"He's like, ""It's not going to tell you shit, but sure."" 15?"
+706;MARISHA;"He's like, """"It's not going to tell you shit, but sure."""" 15?"
 707;MATT;It's glass. Most glass you understand is designed by usually sand or other materials that at a high temperature or some sort of process is melted and fused.
 708;MARISHA;So it's manufactured.
 709;MATT;It appears to be, or naturally occurred, and the structure of it has this bumpy, wavy-- it's not like smooth glass.
@@ -795,7 +795,7 @@
 793;TALIESIN;Thank you for that.
 794;MARISHA;(laughing) I can't believe I did that.|Rolled a one on it.
 795;MATT;All right. Percy, you're up first. You glance around, and you can see the two entities going (hiss) towards you, towards Keyleth, and you glance over your shoulder and see one drifting out of the distance towards Vax.
-796;TALIESIN;"I yell, ""Look out!"" And I take several steps toward Vax."
+796;TALIESIN;"I yell, """"Look out!"""" And I take several steps toward Vax."
 797;MATT;To there?
 798;TALIESIN;Actually, on the other side of the pillar so I can actually see the one that's getting towards him.
 799;MATT;There?
@@ -969,7 +969,7 @@
 967;TALIESIN;That's my first action. I'm going to use my bonus action to turn to my sister and go, what the hell do we do?
 968;MATT;She looks at you, a little bit frustrated.
 969;MARISHA;Please tell me she trained in cleric.|Please tell me she multiclassed.
-970;MATT;"She looks about, annoyed, and goes, ""I'm sorry. I'm not a holy woman. I have no symbols. I have no power. I have nothing. Let's see what we can do."""
+970;MATT;"She looks about, annoyed, and goes, """"I'm sorry. I'm not a holy woman. I have no symbols. I have no power. I have nothing. Let's see what we can do."""""
 971;TALIESIN;All right. I'm--
 972;MARISHA;You guys have that holy water, right?
 973;TALIESIN;I'm backing up. I'm going to do my best to back up into the tomb right here.
@@ -1021,7 +1021,7 @@
 1019;LAURA;Magic glove.
 1020;MARISHA;Do you want Taliesin to lick it?
 1021;LIAM;18.
-1022;MATT;"18? That gentle glow left behind, that slight sliver of Pike's essence that went into your symbol of Sarenrae, flares for a second. It flares again, and for a moment, in your head, in which darkness has taken your vision, you feel your body moving on its own, but you have no control. You hear Pike's voice whisper in your ear from a distance. It says, ""Vax? It's okay."" At which point, suddenly you feel the coldness sucked out from you. The symbol flares for a second, and the ghost is thrust out of your form."
+1022;MATT;"18? That gentle glow left behind, that slight sliver of Pike's essence that went into your symbol of Sarenrae, flares for a second. It flares again, and for a moment, in your head, in which darkness has taken your vision, you feel your body moving on its own, but you have no control. You hear Pike's voice whisper in your ear from a distance. It says, """"Vax? It's okay."""" At which point, suddenly you feel the coldness sucked out from you. The symbol flares for a second, and the ghost is thrust out of your form."
 1023;MARISHA;(excited shout)
 1024;TALIESIN;Yeah!
 1025;MATT;That is your turn, however. All right.|Scanlan, you're up.
@@ -1078,7 +1078,7 @@
 1076;SAM;Oh, wait! No, that's a ten. That's right.
 1077;MARISHA;It's not a lot of damage, I promise. Oh, see? Even better. Four damage.
 1078;SAM;Oh. I shouldn't have even wasted it.
-1079;TALIESIN;"It's ""ow."""
+1079;TALIESIN;"It's """"ow."""""
 1080;LAURA;It's just your little staff?
 1081;SAM;You're adorable.
 1082;MARISHA;I'm still doing my granny routine.
@@ -1177,7 +1177,7 @@
 1175;LAURA;The first one didn't hit, so you only get the 20.
 1176;TRAVIS;Oh, just the 20!
 1177;MATT;"Just 20, so as the first one misses, you pull back, trying to stop him, but the hammer still slams you in the side; you don't have time to move out of the way, and it pushes you up against the wall. You land on your feet, and you can feel the pulsing of the blood broken beneath the skin. That ends Grog's go. Percy, you're up."
-1178;TALIESIN;"(gasps, sighs) ""Hi!"" I saw what just happened, right?"
+1178;TALIESIN;"(gasps, sighs) """"Hi!"""" I saw what just happened, right?"
 1179;MATT;Yeah.
 1180;TALIESIN;I'm going to try to fix my gun.
 1181;MATT;Go for it.
@@ -1209,9 +1209,9 @@
 1207;MATT;Towards Percy?
 1208;LIAM;Towards Percy. Shit. I'm going to take the keen dagger and stick it into his gut, and I'm going to take the glove with the symbol of Sarenrae and punch him in the nose.
 1209;MATT;Okay.
-1210;LAURA;"I like that you're violent instead of just going, ""Healing hand."""
+1210;LAURA;"I like that you're violent instead of just going, """"Healing hand."""""
 1211;MARISHA;Yeah!
-1212;LAURA;"You go, ""fuck you!"""
+1212;LAURA;"You go, """"fuck you!"""""
 1213;SAM;Can I just say, this is Percy beating up Percy right now.|(laughter)
 1214;MATT;Yeah. You're being attacked and stabbed by yourself. It's weird.
 1215;LIAM;20 for the dagger.
@@ -1294,7 +1294,7 @@
 1292;TRAVIS;That's a 26.
 1293;MATT;Yeah, Trinket rushes over and tries to knock you off your feet, and you just (thud) no effect.|You still have a bonus action and your movement, if you want to.
 1294;LAURA;I'm going to try to roll out of the way.|I'm going to try to duck down and roll out of the way to make him less likely to hit me.
-1295;SAM;"Yeah! The old ""less likely"" trick."
+1295;SAM;"Yeah! The old """"less likely"""" trick."
 1296;MATT;Make an acrobatics check.
 1297;LAURA;Okay. Oh, my dice suck tonight!
 1298;SAM;You're inspired.
@@ -1481,7 +1481,7 @@
 1479;MARISHA;Stop hitting yourself!
 1480;TALIESIN;Thank you for that. I was almost going there.
 1481;MATT;She's right there, and she brings herself around the way. She's not able to do any actions, so she sees another of her brothers possessed but clutching the gun in the hand, and is steeling her blade for the moment and doesn't do anything with her turn. Grog, you're up.
-1482;TRAVIS;"""Percy!"" And I run towards him."
+1482;TRAVIS;"""""Percy!"""" And I run towards him."
 1483;TALIESIN;(creepy voice) I'll swallow your soul!
 1484;TRAVIS;25.
 1485;TALIESIN;Is no one a Sam Raimi fan? Never mind.
@@ -1554,9 +1554,9 @@
 1552;SAM;I vault over Keyleth--
 1553;LIAM;Wait. I ran 20 feet? 30 feet?
 1554;MATT;You were here, so 35.
-1555;LIAM;"35? Can I run the ""west"" of the way--"
-1556;LAURA;"The ""west"" of the way?"
-1557;LIAM;"The ""west"" of the way through it in front of Percy. Yeah."
+1555;LIAM;"35? Can I run the """"west"""" of the way--"
+1556;LAURA;"The """"west"""" of the way?"
+1557;LIAM;"The """"west"""" of the way through it in front of Percy. Yeah."
 1558;MATT;There? You can, yeah.
 1559;LIAM;That's what I want to do.
 1560;MATT;All right. Scanlan?
@@ -1638,7 +1638,7 @@
 1636;LIAM;I'm exhausted.
 1637;TALIESIN;We'll heal, but I think we need to continue down.
 1638;LAURA;We need to keep going.
-1639;MATT;"Cassandra looks about the rest of you, still seeing a group of herself and her brothers. She shakes her head for a second. ""We can rest a moment, but I don't think we can stay here much longer. The more time we spend here, the more chance they have of returning. If they get the jump on us, we're done."""
+1639;MATT;"Cassandra looks about the rest of you, still seeing a group of herself and her brothers. She shakes her head for a second. """"We can rest a moment, but I don't think we can stay here much longer. The more time we spend here, the more chance they have of returning. If they get the jump on us, we're done."""""
 1640;TRAVIS;Let's go.
 1641;LAURA;We need to press on.
 1642;SAM;Yeah, aye.
@@ -1646,7 +1646,7 @@
 1644;SAM;Let's continue.
 1645;TRAVIS;Yeah.
 1646;SAM;Into the tunnel. Into the dark.
-1647;MATT;"She sheathes her sword and her dagger.|(sighs) ""Let's do this."" As you all climb into the beginning of the excavation tunnel leading to the south, slowly making your way towards--"
+1647;MATT;"She sheathes her sword and her dagger.|(sighs) """"Let's do this."""" As you all climb into the beginning of the excavation tunnel leading to the south, slowly making your way towards--"
 1648;SAM;Wait! Sorry. Percival, any point in looting?
 1649;TALIESIN;Don't loot my family's crypt!
 1650;SAM;Sorry! Forget I mentioned it. Let's go kick some ass.
@@ -1725,10 +1725,10 @@
 1723;TALIESIN;There's an amazing photo of a friend of ours dressed as Luke Cage, just beating the shit out of me. It's amazing.
 1724;ZAC;Well, that's good.
 1725;MARISHA;He also sang Gogol Bordello's--
-1726;MARISHA, TALIESIN;"""Start Wearing Purple."""
+1726;MARISHA, TALIESIN;"""""Start Wearing Purple."""""
 1727;MATT;It was good.
 1728;TALIESIN;It was creepy.
-1729;MATT;"I'm just excited to see all the Doctor Who Tennant fans watch the series for Tennant and then be like, ""Oh no, no, no!"""
+1729;MATT;"I'm just excited to see all the Doctor Who Tennant fans watch the series for Tennant and then be like, """"Oh no, no, no!"""""
 1730;ZAC;Yeah. Sorry, guys. No bueno.
 1731;TALIESIN;It's just going to be bad.
 1732;ZAC;Sweet. That's it for tonight, guys.

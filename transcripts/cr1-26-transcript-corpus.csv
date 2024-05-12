@@ -67,7 +67,7 @@
 65;LAURA;Damn it!
 66;MATT;Already off! No. As you peek into the room, the lights are dimmed. What little bit of candles are in there are already down. Glancing in, the sheets are clean and set, the bed's been made, and there is a small piece of parchment that is folded on the edge of the bed.
 67;LAURA;Go and read it.
-68;MATT;"Read it? It reads, ""Vox Machina, thank you all for your hospitality and protection through this past evening. I would stay, but the longer I remain, the more danger I am in, and as such, put all of you in as well. I shall travel across the Ozmit Sea to seek the guidance of my cousin Zahra, in hopes of finally getting out from under my sisters' baneful gaze. Nevertheless, I wish you all the finest of journeys, and I hope we meet again soon. Lillith."""
+68;MATT;"Read it? It reads, """"Vox Machina, thank you all for your hospitality and protection through this past evening. I would stay, but the longer I remain, the more danger I am in, and as such, put all of you in as well. I shall travel across the Ozmit Sea to seek the guidance of my cousin Zahra, in hopes of finally getting out from under my sisters' baneful gaze. Nevertheless, I wish you all the finest of journeys, and I hope we meet again soon. Lillith."""""
 69;LAURA;She's so cute.
 70;MARISHA;I liked her bow. It was cute.
 71;LAURA;I tell everyone that she's gone. Gone.
@@ -94,13 +94,13 @@
 92;SAM;No, he's working too hard. Maybe we should just leave him be. Seems focused, driven, like a madman.
 93;TRAVIS;Oh. I get it. Like a madman?
 94;SAM;I don't think you do.
-95;MATT;"At which point a voice rings out from across the room: Percy unmoving, still continuing his work, shouts over his shoulder, ""Please, leave me be. I have a lot to think about right now."""
+95;MATT;"At which point a voice rings out from across the room: Percy unmoving, still continuing his work, shouts over his shoulder, """"Please, leave me be. I have a lot to think about right now."""""
 96;SAM;Would you like a meal brought down?
-97;MATT;"""I'm fine. Thank you. Really. I need some time."""
+97;MATT;"""""I'm fine. Thank you. Really. I need some time."""""
 98;SAM;All right. If you're making things, a little ladder for the little perch here might be nice.|Just in the future! But not now. That seems low priority.
-99;MATT;"He stops his banging, walks over and scribbles something on a paper, then goes back to banging. ""Noted."" (clanging)"
+99;MATT;"He stops his banging, walks over and scribbles something on a paper, then goes back to banging. """"Noted."""" (clanging)"
 100;TRAVIS;I drop Scanlan and I lean in and I go, beware the water! It burns!
-101;MATT;"""Yes. Yes, it does, Grog. Good boy."""
+101;MATT;"""""Yes. Yes, it does, Grog. Good boy."""""
 102;SAM;All right. So we go back up. Tell the fellows, Percy's in a mood. He's creating right now. I think we should just leave him be.
 103;LAURA;Understandable.
 104;LIAM;Let him get it out of his system.
@@ -128,7 +128,7 @@
 126;MARISHA;This is getting really off subject.
 127;ORION;I'm going to go down to my laboratory.
 128;LAURA;What did he say?
-129;MARISHA;"It was when he was screaming the cluster of things as he was shooting that mercenary in the face, and he said, ""What are you doing? You have no reason to be here. Your soul is now forfeit."" Really, that last part is the most important one.|The first stuff is fairly average. But yeah, ""Your soul is now forfeit."""
+129;MARISHA;"It was when he was screaming the cluster of things as he was shooting that mercenary in the face, and he said, """"What are you doing? You have no reason to be here. Your soul is now forfeit."""" Really, that last part is the most important one.|The first stuff is fairly average. But yeah, """"Your soul is now forfeit."""""
 130;TRAVIS;It's a good line.
 131;LAURA;It's a really good line.
 132;SAM;Thought he was just trash-talking. You think there's more to it?
@@ -139,7 +139,7 @@
 137;LAURA;What, do you think his Pepperbox is-- what?
 138;MARISHA;I think he's not telling us everything, that's for sure.
 139;SAM;Well, we all have some secrets.
-140;MARISHA;"Yeah. But screaming, ""Your soul is now forfeit?"" That's not a secret. That's saying you peed the bed when you were a kid."
+140;MARISHA;"Yeah. But screaming, """"Your soul is now forfeit?"""" That's not a secret. That's saying you peed the bed when you were a kid."
 141;LIAM;I worry, too, but he did lose his entire family.
 142;LAURA;He did pee the bed when he was a kid.
 143;MARISHA;Oh, really?
@@ -280,16 +280,16 @@
 278;TRAVIS;What a dick! We go to see Uriel.
 279;MATT;Okay.
 280;TRAVIS;I made a choice for the team! (laughter)
-281;MATT;"As you're having this discussion, all of you make your way into the city of Emon, across the districts to the Cloudtop. You're greeted and let within the gate into the central district there.|You make your way to the palace of Tal'Dorei, through the front doors. The guards that are there lead you in and one of them says, ""Uriel is waiting within the throne chamber."" You guys are led down the main hallway into the very center of the palace."
+281;MATT;"As you're having this discussion, all of you make your way into the city of Emon, across the districts to the Cloudtop. You're greeted and let within the gate into the central district there.|You make your way to the palace of Tal'Dorei, through the front doors. The guards that are there lead you in and one of them says, """"Uriel is waiting within the throne chamber."""" You guys are led down the main hallway into the very center of the palace."
 282;MARISHA;I come out of Minxie.
-283;MATT;"The nervous guard, thankfully, puts his weapon away and is like, ""Oh! Lady Keyleth, my apologies."" And puts his spear to the side."
+283;MATT;"The nervous guard, thankfully, puts his weapon away and is like, """"Oh! Lady Keyleth, my apologies."""" And puts his spear to the side."
 284;LAURA;Trinket's still here, though.
 285;LIAM;I buzz over to that specific guard and say, do you have a lost and found here? I have this really badass serpent-style belt. Sometimes it crawls around on its own. Sometimes it's just a belt. And I lost it here the other night. And I'm really hoping-- I mean, it ties everything together. Is there anyone I can check with?
-286;MATT;"""Check back after you've spoken with the Sovereign, please. Thank you."" Leads you guys on.|As you head down the main hallway-- and you recall this hallway. This was a long, dangerous trek the first time you came to the palace. This was where Uriel's family was possessed. This is where you had your battle with the glabrezu. This is where Pike was slain. This is where you had to pull the shadows from the bodies of his family. This is a very emotional place that you really haven't been to since that sequence of events. Walking in already has this tenuous state of low-simmering energy. As you're brought into the main chamber, you can see there is the dual thrones for Uriel and his wife. His wife is not present; his family is not present, just Uriel sitting on the throne.|There are a few guards on the different entrances to the room. As you walk in, Uriel just sits there on the throne and gives you acknowledgment and ushers you into the room. You all step in. Trinket behind you keeping an eye out. Like a bear is wont to do.|You guys make your way up towards the very edge of the central raised dais where the thrones are currently set up on. You now see on the opposite side of the room, Seeker Asum and Allura walk in, as well as Arbiter Brom, who is the cleric that is the Master of Law in the city. They walk up and flank the sides of the throne, stepping back a little bit to not gather all the attention, but definitely be there as a show of support. As they enter, the doors on the other side of the room and the door behind you open, and roughly 30 guards enter the chamber quietly. They all filter in, blocking all the exits. The doors close. No weapons are drawn, but there is a very strong showing of muscle in this room that you weren't expecting for this meeting.|Once all the guards are settled and a really awkward silence hits the room, Uriel stands up from the throne and looks upon you. Pacing slightly, back and forth. ""Thank you all for joining me. I must say, I am troubled by recent events, and I wish to speak to you regarding them before taking any action. I owe you that much for all you've done for me. Before you left for Vasselheim, you showed immediate interest in the Briarwoods. Percy in-- Where is Percival?"""
+286;MATT;"""""Check back after you've spoken with the Sovereign, please. Thank you."""" Leads you guys on.|As you head down the main hallway-- and you recall this hallway. This was a long, dangerous trek the first time you came to the palace. This was where Uriel's family was possessed. This is where you had your battle with the glabrezu. This is where Pike was slain. This is where you had to pull the shadows from the bodies of his family. This is a very emotional place that you really haven't been to since that sequence of events. Walking in already has this tenuous state of low-simmering energy. As you're brought into the main chamber, you can see there is the dual thrones for Uriel and his wife. His wife is not present; his family is not present, just Uriel sitting on the throne.|There are a few guards on the different entrances to the room. As you walk in, Uriel just sits there on the throne and gives you acknowledgment and ushers you into the room. You all step in. Trinket behind you keeping an eye out. Like a bear is wont to do.|You guys make your way up towards the very edge of the central raised dais where the thrones are currently set up on. You now see on the opposite side of the room, Seeker Asum and Allura walk in, as well as Arbiter Brom, who is the cleric that is the Master of Law in the city. They walk up and flank the sides of the throne, stepping back a little bit to not gather all the attention, but definitely be there as a show of support. As they enter, the doors on the other side of the room and the door behind you open, and roughly 30 guards enter the chamber quietly. They all filter in, blocking all the exits. The doors close. No weapons are drawn, but there is a very strong showing of muscle in this room that you weren't expecting for this meeting.|Once all the guards are settled and a really awkward silence hits the room, Uriel stands up from the throne and looks upon you. Pacing slightly, back and forth. """"Thank you all for joining me. I must say, I am troubled by recent events, and I wish to speak to you regarding them before taking any action. I owe you that much for all you've done for me. Before you left for Vasselheim, you showed immediate interest in the Briarwoods. Percy in-- Where is Percival?"""""
 287;SAM;Well, he's not feeling well today after the events of last night, so he stayed behind.
-288;MATT;"""Well, then please relay this conversation to him as soon as you see him. You exhibited interest in the Briarwoods before leaving for Vasselheim. I, through trust, did not inquire as to why. But upon your return, eagerly told you they were coming to this feast and invited you as part of the Council of Tal'Dorei to join this feast, as it was your request. I graciously followed through. You showed up. A meal was had.|Questions were asked, although curious ones; I did not pry. Now I have since been notified, and seen a bit of the aftermath, that you, Vox Machina, seemingly attacked our guests shortly-- please.|Listen. Attacked our guests shortly after the meal in their own guest quarters. Forcing them to flee, after you destroyed the hallway, ruined their carriage, murdered two of their guards, two more outside, and leaving Seeker Asum to witness this entire process."" Asum gives a nod. ""You then tortured their carriage driver, requested he be sent to the dungeon beneath your keep. And upon my sentries returning from Greyskull to deliver him, they find a freshly murdered old woman not far behind the path you took. Not long after, Seeker Asum found me and corroborated most of this unexpected, violent behavior. I then asked Arbiter Brom here to divine the nature of this murder. And through his divine sight, through the goddess Ioun, comes to tell me it was none other than you, Tiberius, that slaughtered this elderly woman while she slept."""
+288;MATT;"""""Well, then please relay this conversation to him as soon as you see him. You exhibited interest in the Briarwoods before leaving for Vasselheim. I, through trust, did not inquire as to why. But upon your return, eagerly told you they were coming to this feast and invited you as part of the Council of Tal'Dorei to join this feast, as it was your request. I graciously followed through. You showed up. A meal was had.|Questions were asked, although curious ones; I did not pry. Now I have since been notified, and seen a bit of the aftermath, that you, Vox Machina, seemingly attacked our guests shortly-- please.|Listen. Attacked our guests shortly after the meal in their own guest quarters. Forcing them to flee, after you destroyed the hallway, ruined their carriage, murdered two of their guards, two more outside, and leaving Seeker Asum to witness this entire process."""" Asum gives a nod. """"You then tortured their carriage driver, requested he be sent to the dungeon beneath your keep. And upon my sentries returning from Greyskull to deliver him, they find a freshly murdered old woman not far behind the path you took. Not long after, Seeker Asum found me and corroborated most of this unexpected, violent behavior. I then asked Arbiter Brom here to divine the nature of this murder. And through his divine sight, through the goddess Ioun, comes to tell me it was none other than you, Tiberius, that slaughtered this elderly woman while she slept."""""
 289;ORION;Yes!
-290;MATT;"""Now, I am quite disturbed by the events of these past 14 hours, and I would like to hear an explanation. Arbiter, if you could please, prepare the space."" Arbiter Brom steps forward and pulls forth from underneath his robes a necklace that contains a holy symbol. The same symbol you saw across the temple beneath the Slayer's Take, an eye-like inscription of the god Ioun. Brom grasps it, looks about you all, and prepares this slight hand gesture, and you feel a slight tingle across the skin that lasts a few seconds."
+290;MATT;"""""Now, I am quite disturbed by the events of these past 14 hours, and I would like to hear an explanation. Arbiter, if you could please, prepare the space."""" Arbiter Brom steps forward and pulls forth from underneath his robes a necklace that contains a holy symbol. The same symbol you saw across the temple beneath the Slayer's Take, an eye-like inscription of the god Ioun. Brom grasps it, looks about you all, and prepares this slight hand gesture, and you feel a slight tingle across the skin that lasts a few seconds."
 291;MARISHA;Can I recognize the spell he's casting?
 292;MATT;I'll say go ahead and make a-- this would be a religion check.
 293;MARISHA;He's doing a cleric thing, yeah? Seven.
@@ -302,7 +302,7 @@
 300;LIAM;19.
 301;LAURA;13.
 302;TRAVIS;18.
-303;MATT;"All right. Good to know. Uriel then looks to the rest of you. ""So. I've said my piece for the moment. Explain."""
+303;MATT;"All right. Good to know. Uriel then looks to the rest of you. """"So. I've said my piece for the moment. Explain."""""
 304;LIAM;I step forward.
 305;MARISHA;Can I do a quick insight check on Asum to see if I can still recognize if he's still affected by the mind-control thing?
 306;MATT;Go ahead and make an insight check, sure.
@@ -319,9 +319,9 @@
 317;LAURA;We tried to get your attention. I called for you immediately. As soon as we knew there was danger.
 318;LIAM;And don't take our word for it. Anyone, have them look in here.
 319;ORION;Actually, you take a Stormwind's word for--
-320;MATT;"""Silence! Silence. You're in my court now, Stormwind. You put so much weight upon this trust, and you have done a good service. But also I've heard whispers that you've thrown this trust around in many circles. Remember, we held a parade in your honor; we spread the word of the good deeds you've done. We, at our own costs of Emon, built you a keep, a home, at great expense, to show thanks. And also, I believed, upon allowing you to join the council, put us square. I owe you nothing. Just as you owe me nothing."""
+320;MATT;"""""Silence! Silence. You're in my court now, Stormwind. You put so much weight upon this trust, and you have done a good service. But also I've heard whispers that you've thrown this trust around in many circles. Remember, we held a parade in your honor; we spread the word of the good deeds you've done. We, at our own costs of Emon, built you a keep, a home, at great expense, to show thanks. And also, I believed, upon allowing you to join the council, put us square. I owe you nothing. Just as you owe me nothing."""""
 321;LIAM;Do you not want the truth?
-322;MATT;"""I want the truth, but I also want you to understand the stakes that are here and why there is this question. As the leader of this-- not this city, but this entire countryside, I have to be sure, and this is not the first time I have been lied to by very close, trusted people, so I have to be thorough."""
+322;MATT;"""""I want the truth, but I also want you to understand the stakes that are here and why there is this question. As the leader of this-- not this city, but this entire countryside, I have to be sure, and this is not the first time I have been lied to by very close, trusted people, so I have to be thorough."""""
 323;LIAM;This is why I offer myself completely into your control and put myself under your supervision and any user of the arcane arts you want to peer inside my mind, let them step up to the plate, because I have nothing to hide.
 324;LAURA;Also, while you are inquiring about him, you might inquire about Seeker Asum.
 325;SAM;If you're worried about lies within your own ranks, I think you should start with him.
@@ -329,17 +329,17 @@
 327;SAM;Help him?
 328;MATT;You glance over at Asum, and Asum gives a look to Uriel and Uriel--
 329;LAURA;He was mind-controlled last night.
-330;MATT;"""I have had Asum at my side for the better part of 15 years. He is responsible, far more than your merry band has ever attempted, for keeping and maintaining the good and lawful state of this country."""
+330;MATT;"""""I have had Asum at my side for the better part of 15 years. He is responsible, far more than your merry band has ever attempted, for keeping and maintaining the good and lawful state of this country."""""
 331;LIAM;Uriel, your own family was not themselves! And you know that! Look into my mind! Now! Today! You don't need to guess anything.
-332;MATT;"""It would also do you well to show respect.|We are speaking, half-elf. Now, I would assign Allura to such an endeavor. However, it has also been noticed that she has grown quite friendly and attached to your group, and in this circumstance, there is question. So you will be, in a few days, assigned an individual to this ritual of which you are presenting yourself."""
+332;MATT;"""""It would also do you well to show respect.|We are speaking, half-elf. Now, I would assign Allura to such an endeavor. However, it has also been noticed that she has grown quite friendly and attached to your group, and in this circumstance, there is question. So you will be, in a few days, assigned an individual to this ritual of which you are presenting yourself."""""
 333;MARISHA;Uriel, please--
-334;MATT;"""Shh. The Briarwoods, regardless of what you may think they may be, or we do-- that will show in time-- have shown nothing over the past five years but graciousness, and gone through all proper channels to establish this relationship between our city and theirs. Far more than the previous family ever attempted."""
+334;MATT;"""""Shh. The Briarwoods, regardless of what you may think they may be, or we do-- that will show in time-- have shown nothing over the past five years but graciousness, and gone through all proper channels to establish this relationship between our city and theirs. Far more than the previous family ever attempted."""""
 335;LIAM;Well, one may smile and smile and still be a villain.
-336;MATT;"""That goes both ways. Now, please."""
+336;MATT;"""""That goes both ways. Now, please."""""
 337;MARISHA;Just let me do a quick restoration spell on Asum. If nothing is wrong with him, nothing will happen. It's harmless. It's like taking medicine when you're not sick. It can't hurt. And if I am wrong, then we can continue on. We can have Vax tested. Please, it'll take ten minutes.|What can it hurt?
 338;LAURA;Up until last night, he was himself. Trust us that now he is not.
 339;MARISHA;He came to us.
-340;MATT;"""There has been nothing about his behavior, at all, to insinuate any change of anything of the sort. And I have known the man for quite some time, before I even took this throne. However, I will, in the good graces and the relationship we forged, allow this. Asum, are you all right with this?"" Asum gives a nod. ""Well, if this is to be how it is. Certainly."" And he steps forward. The halfling approaches you, looking you in the face. All right. You would like to attempt your Greater Restoration spell?"
+340;MATT;"""""There has been nothing about his behavior, at all, to insinuate any change of anything of the sort. And I have known the man for quite some time, before I even took this throne. However, I will, in the good graces and the relationship we forged, allow this. Asum, are you all right with this?"""" Asum gives a nod. """"Well, if this is to be how it is. Certainly."""" And he steps forward. The halfling approaches you, looking you in the face. All right. You would like to attempt your Greater Restoration spell?"
 341;MARISHA;First, I meditate for a second, and I cast Enhance Ability on myself.
 342;MATT;As a note, as you begin casting, you notice the guards all go for their weapons and ready themselves, uncertain of what's about to transpire. There is a tension in the room based on what this is going to be.
 343;MARISHA;Can I get some meditation music, Scanlan?
@@ -354,35 +354,35 @@
 352;MARISHA;To enhance wisdom? Wisdom.
 353;MATT;Okay. You reach out with Greater Restoration. You complete the ritual. You touch onto the arms of Asum. It fades, and you see in his eyes there's a moment of clarity and an inhale. A slight gasp, like some realization hits him and his expression changes and looks towards you and just goes-- He puts his hands out like this for a moment, just trying to almost tell you something. Go ahead and make a wisdom check. Just a d20. Or no, make an insight. Make a straight insight. This is more of an insight roll here.
 354;MARISHA;Okay. Oh! 29.
-355;MATT;"You get the sense through the subtlety of physical motion and expression, Asum is telling you, just go with me on this. He steps back into the place next to the throne. There's a brief moment of pause. Uriel says, ""And, Asum?"" Asum goes, ""My stance has not changed. I know not what she is attempting or thought the situation was, but it appears to me that this was either misinformation or at least at the time being, hopefully, not a lie. But I believe Brom has taken care of that, yes?"" And Brom gives a nod. ""I certainly have hoped to."" Uriel goes, ""Hm. All right. Here's the circumstance: as it stands, I fear I must revoke Vox Machina's membership in the council of Tal'Dorei until further notice, for the safety of our countryside and the current tension in our relationship."""
+355;MATT;"You get the sense through the subtlety of physical motion and expression, Asum is telling you, just go with me on this. He steps back into the place next to the throne. There's a brief moment of pause. Uriel says, """"And, Asum?"""" Asum goes, """"My stance has not changed. I know not what she is attempting or thought the situation was, but it appears to me that this was either misinformation or at least at the time being, hopefully, not a lie. But I believe Brom has taken care of that, yes?"""" And Brom gives a nod. """"I certainly have hoped to."""" Uriel goes, """"Hm. All right. Here's the circumstance: as it stands, I fear I must revoke Vox Machina's membership in the council of Tal'Dorei until further notice, for the safety of our countryside and the current tension in our relationship."""""
 356;SAM;Objection! That's it. I just wanted to say that. Please continue. I just want it noted that we object strongly to this.
-357;MATT;"""I understand. And this will only continue until all of our investigations are complete."""
+357;MATT;"""""I understand. And this will only continue until all of our investigations are complete."""""
 358;SAM;Are we still allowed free rein to roam about as we please? Are we under arrest for anything?
-359;MATT;"""You are not under arrest. You are revoked from the council, and you will be closely watched until our investigations are complete."""
+359;MATT;"""""You are not under arrest. You are revoked from the council, and you will be closely watched until our investigations are complete."""""
 360;LAURA;How long will your investigations take?
-361;MATT;"He looks back to Asum and Asum says, ""Well, depends on how quickly we can acquire the information; it could be weeks. I'll do my best to make it thorough and quick."""
+361;MATT;"He looks back to Asum and Asum says, """"Well, depends on how quickly we can acquire the information; it could be weeks. I'll do my best to make it thorough and quick."""""
 362;LAURA;Are we allowed to leave the city in that time?
-363;MATT;"Uriel looks back and says, ""You may leave if you wish. Know that there have been precautions taken. Should you attempt to flee, we will find you."""
+363;MATT;"Uriel looks back and says, """"You may leave if you wish. Know that there have been precautions taken. Should you attempt to flee, we will find you."""""
 364;LIAM;And when are you to look into my mind?
 365;LAURA;Weirdo! (laughter)
 366;LIAM;It freaking ends here. Right away.
 367;TRAVIS;Can you read my mind?
 368;LIAM;There is no spoon.
-369;MATT;"""We ought to speak to the Lyceum to find a proper individual of sufficient power and trust to do this, as Allura right now is being kept out of the scenario."""
+369;MATT;"""""We ought to speak to the Lyceum to find a proper individual of sufficient power and trust to do this, as Allura right now is being kept out of the scenario."""""
 370;SAM;Are we allowed to speak with Allura?
-371;MATT;"""If you wish. Outside of these chambers. Do what you must to clear your name. I would like very much for this all to be true, what you're saying. But do not flee. Do not give an inclination that you attempt to escape this judgment, for we will take that as a sign of guilt."""
+371;MATT;"""""If you wish. Outside of these chambers. Do what you must to clear your name. I would like very much for this all to be true, what you're saying. But do not flee. Do not give an inclination that you attempt to escape this judgment, for we will take that as a sign of guilt."""""
 372;LIAM;We've no intention of going anywhere.
-373;MATT;"""Should we conclude that your actions were beyond reason and the moral fiber of this council before your return, we will have no choice to put a bounty on your heads, should you not return. I really, really do not wish to do this. Do not make me do this."""
-374;ORION;"I stand up. ""No need for threats, friend.|Are we done here?"""
-375;MATT;"""I want to believe you all. I ask you, show that my trust has not been misplaced all this time. Now, you may leave."""
+373;MATT;"""""Should we conclude that your actions were beyond reason and the moral fiber of this council before your return, we will have no choice to put a bounty on your heads, should you not return. I really, really do not wish to do this. Do not make me do this."""""
+374;ORION;"I stand up. """"No need for threats, friend.|Are we done here?"""""
+375;MATT;"""""I want to believe you all. I ask you, show that my trust has not been misplaced all this time. Now, you may leave."""""
 376;SAM;I look forward to the second parade you'll throw for us after our names are cleared.
-377;MATT;"""Very well."""
+377;MATT;"""""Very well."""""
 378;TRAVIS;I turn to the guards that were grabbing at their weapons and I flex real fast at them and then I walk.
 379;MATT;Four of them go, (yelps).
 380;TRAVIS;Bitch! (laughter)
 381;MATT;As you guys go back out the doors that you entered, the guards now a little closely following as you exit, leading you out of the palace, down the front steps, and essentially stand at the front of the palace gates.
 382;LIAM;I'm sorry. I was just talking to one of your friends. Have you seen a belt that is shaped like a snake? Sometimes it moves around on its own. And it answers to the name Simon, but usually it's just a belt and looks really cool. Have you seen it? Is there a lost and found I can check out? It's very dear to me.
-383;MATT;"The guard just looks for a second and goes, ""I think you've got more important matters to deal with before you go looking for a belt, sir."""
+383;MATT;"The guard just looks for a second and goes, """"I think you've got more important matters to deal with before you go looking for a belt, sir."""""
 384;LIAM;Where's that other guy? He was more receptive to this. Do I see that other guy?
 385;LAURA;Darling. Seriously.
 386;MATT;The guards all turn around and start ascending the stairs.
@@ -436,41 +436,41 @@
 434;MATT;She's coming out of the palace, behind you guys. Like after the council had just closed. The meeting had finished. She basically gave chase to you guys and is now catching up to you on the street.
 435;SAM;What the shit happened in there?
 436;MARISHA;We were just talking about you!
-437;MATT;"""Everyone-- I don't fully know what happened last night, and--"" She looks to you, Tiberius, and says, ""You didn't, did you? Please tell me you did not kill that woman."""
+437;MATT;"""""Everyone-- I don't fully know what happened last night, and--"""" She looks to you, Tiberius, and says, """"You didn't, did you? Please tell me you did not kill that woman."""""
 438;ORION;Oh, I absolutely did!
 439;LAURA;But she was attacking us.
 440;SAM;It looks bad, but she was a threat.
 441;ORION;Her and another one with this-- what was he, a tiefling? Named the Broker attacked us. And that's why I killed her.
-442;MATT;"""Brom's divination is very clear. And he divined that the woman was currently filled with fear, attempting to flee, and unconscious when she was murdered."""
+442;MATT;"""""Brom's divination is very clear. And he divined that the woman was currently filled with fear, attempting to flee, and unconscious when she was murdered."""""
 443;LIAM;How did she flee when she was unconscious?
 444;TRAVIS;She fled, went unconscious, then we butchered her.
 445;MARISHA;Just accept it for what it is, guys.
-446;MATT;"""I just worry. I know not what happened here, and I heard what you said, and I honestly do not trust the Briarwoods myself either. There was something about that meal and the conversation, and their presence that put me off entirely. It was strange. And what you say makes a lot of sense. Vampirism is a bit beyond what I was expecting. I did sense some powerful masqueraded arcane essence from Lady Briarwood. Look, I would recommend for this to do your best to be thorough in this. Bring back any and all information you can. From the words I hear, you probably have at best a few weeks before this comes to a close. And if you don't have enough evidence to support your argument-- well, I don't know."""
+446;MATT;"""""I just worry. I know not what happened here, and I heard what you said, and I honestly do not trust the Briarwoods myself either. There was something about that meal and the conversation, and their presence that put me off entirely. It was strange. And what you say makes a lot of sense. Vampirism is a bit beyond what I was expecting. I did sense some powerful masqueraded arcane essence from Lady Briarwood. Look, I would recommend for this to do your best to be thorough in this. Bring back any and all information you can. From the words I hear, you probably have at best a few weeks before this comes to a close. And if you don't have enough evidence to support your argument-- well, I don't know."""""
 447;LIAM;Allura, all I know how to do is break locks, but I've seen these people do things with magic that have defied expectations. Why can no one look into my memory? You have looked across miles.|Cannot anyone look into my mind and see?
 448;LAURA;They're going to do it!
 449;SAM;Yes, but that might not be proof enough for them. Someone could have corrupted your mind.
-450;MATT;"""You have to understand. Not all arcane works that way. There are magics that can dabble in that realm, but none that specialize that here in Emon. Divination, yes there are elements of that. We can see the physical. We can see certain events. But to look into one's mind is a different magic entirely."""
+450;MATT;"""""You have to understand. Not all arcane works that way. There are magics that can dabble in that realm, but none that specialize that here in Emon. Divination, yes there are elements of that. We can see the physical. We can see certain events. But to look into one's mind is a different magic entirely."""""
 451;LIAM;Are there no spells that can divine if someone's speaking true?
-452;MATT;"""That was attempted during that council, but after you left, Brom notified Uriel and the Council that many of you were resistant to the spell, and as such, it could not be verified."""
+452;MATT;"""""That was attempted during that council, but after you left, Brom notified Uriel and the Council that many of you were resistant to the spell, and as such, it could not be verified."""""
 453;LAURA;(laughs) We should have rolled low! Just tell us you're doing it, we won't resist it! What the shit? Doesn't even trust us to tell the truth.
 454;TRAVIS;If we came back with proof?
 455;SAM;What sort of proof do you think they would accept? The head of Lady Briarwood?
 456;LAURA;No, because it'll disappear the minute we kill her or something. They're vampires, I don't know what they do.
-457;MATT;"She gives a thought to that. She goes, ""Interestingly enough, if an artifact or an item brought forth from them could be divined, that should tell all."""
+457;MATT;"She gives a thought to that. She goes, """"Interestingly enough, if an artifact or an item brought forth from them could be divined, that should tell all."""""
 458;MARISHA;Is there still the remaining wreckage of their carriage? Is that still there?
-459;MATT;"""The carriage has been disposed. It's been picked over, and there were remnants within the rubble of some sort of a 'siggle' of teleportation.|But that is no-- a sigil, if you will."" (laughter)"
+459;MATT;"""""The carriage has been disposed. It's been picked over, and there were remnants within the rubble of some sort of a 'siggle' of teleportation.|But that is no-- a sigil, if you will."""" (laughter)"
 460;TRAVIS;What sort of artifact? Like, a brooch? A handbag?
 461;LIAM;Are we talking about that motherfucker's teeth?
 462;ORION;I need to see that sigil.
-463;MATT;"""Sigil. We're all learning together. That, I believe, has all been investigated and kept under lock and key with Asum. You would have to speak with him. I would like to help. I cannot come with you. I'm working on something else at the moment.|Ah!"" And she reaches into her pocket and brings out your Earring of Transcription."
+463;MATT;"""""Sigil. We're all learning together. That, I believe, has all been investigated and kept under lock and key with Asum. You would have to speak with him. I would like to help. I cannot come with you. I'm working on something else at the moment.|Ah!"""" And she reaches into her pocket and brings out your Earring of Transcription."
 464;ORION;Thank you so much, Lady Allura!
 465;MATT;As she hands it to you, she gives you a really, really concerned look. And just gives it to you and hands it back. And it's a look of-- and it hits you: it's a look of disappointment with a hint of heartbreak.
 466;TRAVIS;Oh, that's the worst! I'm not angry, I'm just disappointed. Ugh!
 467;LIAM;I feel like I've failed you.
 468;TRAVIS;Yeah.
-469;MATT;"She looks back to you as you take it and goes, ""Do your best to clear your name."""
+469;MATT;"She looks back to you as you take it and goes, """"Do your best to clear your name."""""
 470;ORION;I shall.
-471;MATT;"""I know you come of noble blood, and many of you stand to inspire many others of noble blood.|As celebrated heroes of this city, there is a lot more on the line here besides just your well-being. There's a lot of people in this town that look up to you. Nevertheless, I've already said more than I should. Good luck."""
+471;MATT;"""""I know you come of noble blood, and many of you stand to inspire many others of noble blood.|As celebrated heroes of this city, there is a lot more on the line here besides just your well-being. There's a lot of people in this town that look up to you. Nevertheless, I've already said more than I should. Good luck."""""
 472;LAURA;Thank you, Allura.
 473;MATT;She looks behind and you can see she takes this small hood of the same material of her robe that she's wearing and puts it up over her head and rushes off towards her white tower towards the edge of the Cloudtop District.
 474;LIAM;Fucking politics.
@@ -538,7 +538,7 @@
 536;TRAVIS;I whistle really loud and say, who are these fucks in front of the keep? to the guard that we have employed.
 537;MATT;Okay. So. Let me try and see who's on duty right now.
 538;LAURA;He has notes on who is on duty.
-539;MATT;"This would still be Shayne and Cordell.|Cordell shouts down from the top of the wall and says, ""I don't think they're a threat."""
+539;MATT;"This would still be Shayne and Cordell.|Cordell shouts down from the top of the wall and says, """"I don't think they're a threat."""""
 540;TRAVIS;Right. We'll be the judge of that. As you were.
 541;SAM;Grog, keep in mind, these are our allies.
 542;LAURA;Hello!
@@ -546,20 +546,20 @@
 544;SAM;We hate old people.|(laughter)
 545;LAURA;Who are you?
 546;TRAVIS;Favored enemy!
-547;MATT;"They begin walking up, and the man steps forward. You can see he's got small dirty glasses at the end of his nose and says, ""Hello, hello! Good afternoon, everyone! I'm sorry to be a bother. But unless my eyes and tales do deceive me, might you all be the heroes known as Vox Machina?"""
+547;MATT;"They begin walking up, and the man steps forward. You can see he's got small dirty glasses at the end of his nose and says, """"Hello, hello! Good afternoon, everyone! I'm sorry to be a bother. But unless my eyes and tales do deceive me, might you all be the heroes known as Vox Machina?"""""
 548;LAURA;Can I insight check to see if these guys are legit?
 549;SAM;Legit what? Old people?
 550;LAURA;It could be Lord and Lady Briarwood, for all I know!
 551;LIAM;Me too. I did well. I rolled 18 on them.
 552;MATT;Okay. From what you can tell, they are both happy, simple folk that are here with a tension of purpose, but nothing that seems to set off any alarms.
 553;SAM;We are Vox Machina. I'm sure word of us has spread far and wide. We're a pretty big deal. Why have you made this journey to us?
-554;MATT;"The woman, who's holding his side, lets go of his arm and says, ""We come to you humbly as representatives of the farming community just north of Emon's walls."""
+554;MATT;"The woman, who's holding his side, lets go of his arm and says, """"We come to you humbly as representatives of the farming community just north of Emon's walls."""""
 555;MARISHA;Oh, I love farmers!
-556;MATT;"""I am Riley Klaus and this is my husband, Ben."" ""Pleasure to meet y'all."""
+556;MATT;"""""I am Riley Klaus and this is my husband, Ben."""" """"Pleasure to meet y'all."""""
 557;LAURA;Hi.
-558;MATT;"""You see, many of us here, we make our living through livestock and small crops."" Ben takes over at this point and says, ""Word is that the Sovereign will be calling down troops from Fort Daxio for a while, so the need for meats and fresh produce has been elevated."" The wife, Riley, then says, ""Around this time, over the past two weeks, a number of our finest cows and sheep have gone missing. No struggle or mess or signs of dire wolves. Nothing! We suspected thieves, initially, but we sent up our neighbor's boy Kyle to watch over them until sunrise and he saw the culprit. From what he described, a giant bird, larger than anything he's ever seen or heard of."" Ben then takes over the conversation, ""Wings at least ten carts long, tip to tip. Just swooped down, he said, without sound and in one motion snatched up one of our most virile bulls. Mr.|Simms, just gone like that!"""
+558;MATT;"""""You see, many of us here, we make our living through livestock and small crops."""" Ben takes over at this point and says, """"Word is that the Sovereign will be calling down troops from Fort Daxio for a while, so the need for meats and fresh produce has been elevated."""" The wife, Riley, then says, """"Around this time, over the past two weeks, a number of our finest cows and sheep have gone missing. No struggle or mess or signs of dire wolves. Nothing! We suspected thieves, initially, but we sent up our neighbor's boy Kyle to watch over them until sunrise and he saw the culprit. From what he described, a giant bird, larger than anything he's ever seen or heard of."""" Ben then takes over the conversation, """"Wings at least ten carts long, tip to tip. Just swooped down, he said, without sound and in one motion snatched up one of our most virile bulls. Mr.|Simms, just gone like that!"""""
 559;MARISHA;Mr. Simms?
-560;MATT;"""That was the bull."" Riley says, ""Kyle said he saw it fly northwest."""
+560;MATT;"""""That was the bull."""" Riley says, """"Kyle said he saw it fly northwest."""""
 561;MARISHA;Northwest? Can I do a nature check to see if I can recognize the creature he's describing?
 562;LIAM;Are we certain he's not describing a dragon?
 563;MARISHA;26.
@@ -567,42 +567,42 @@
 565;MARISHA;But it is a bird?
 566;MATT;That's what they described it as. At night.
 567;LAURA;When did these birds start showing up?
-568;MATT;"""About two weeks ago when the whole thing started to happen."" And then Ben kicks in and says, ""Should this keep up, most of us will lose everything before the year is out. Now, we've talked with the leaders of the farming community this side of Emon. We've scrounged up what we could."" And he brings up a couple of coin purses and she goes, ""512 gold pieces, 37 silver, and 103 copper.|That's all we can spare."""
+568;MATT;"""""About two weeks ago when the whole thing started to happen."""" And then Ben kicks in and says, """"Should this keep up, most of us will lose everything before the year is out. Now, we've talked with the leaders of the farming community this side of Emon. We've scrounged up what we could."""" And he brings up a couple of coin purses and she goes, """"512 gold pieces, 37 silver, and 103 copper.|That's all we can spare."""""
 569;LAURA;Keep your money.
 570;MARISHA;Yes, keep your money.
-571;MATT;"""We can't possibly--"""
+571;MATT;"""""We can't possibly--"""""
 572;LIAM;"What about this? What if you supplied us with a small stream of produce for our servants here at the keep? For cooking, for feeding them, for feeding us when we're here? It'll be a sight less than 500; it wouldn't be nothing. You could still give us something."
-573;MATT;"""Yes! We could, we'd be more than happy to!"""
+573;MATT;"""""Yes! We could, we'd be more than happy to!"""""
 574;SAM;However, despite what my companion is saying, we are not agreeing to go after this winged beast quite yet. We hear your plight, and we sympathize, and we will do what we can, but we have very pressing matters right now. Is there a deadline of some sort? When is your next harvesting season?
-575;MATT;"""I mean, there's no deadline, but the longer that goes by, the more and more we lose by the night. Two weeks in and we've lost half of our livestock. If the creature is this big, I imagine it eats quite a bit."""
+575;MATT;"""""I mean, there's no deadline, but the longer that goes by, the more and more we lose by the night. Two weeks in and we've lost half of our livestock. If the creature is this big, I imagine it eats quite a bit."""""
 576;LAURA;And how long of a ride is it? Is it walking distance?
-577;MATT;"""To... where?"""
+577;MATT;"""""To... where?"""""
 578;LAURA, LIAM, SAM;To your farm.
-579;MATT;"""North side of Emon."""
+579;MATT;"""""North side of Emon."""""
 580;LAURA;Oh, so real close!
-581;MATT;"""Yes."""
+581;MATT;"""""Yes."""""
 582;SAM;We are friends of the elderly, obviously, and also of the farming community, so we are very interested in helping you. May we talk about it a bit before we decide how and when we would tackle this problem?
-583;MATT;"They look at each other and nod and he taps her hand and says, ""Yes. By all means-- If you could, please help us stop this beast from ruining our livelihood."""
+583;MATT;"They look at each other and nod and he taps her hand and says, """"Yes. By all means-- If you could, please help us stop this beast from ruining our livelihood."""""
 584;MARISHA;And can you please tell us how to get to your place. Do you normally stay there? Are you normally home?
-585;MATT;"""We wander about the community, but we do have a homestead. If you look, it's the large red wood and partially brick-based homestead closest to the city walls, on the north farm. Right outside of Emon. It's hard to miss, if you're headed that direction."""
+585;MATT;"""""We wander about the community, but we do have a homestead. If you look, it's the large red wood and partially brick-based homestead closest to the city walls, on the north farm. Right outside of Emon. It's hard to miss, if you're headed that direction."""""
 586;LIAM;Quickly. Presently, we will find you. Guys, we were told to sit and spin basically. I mean, what's wrong with earning some brownie points in the eyes of Uriel?
 587;TRAVIS;Mr. and Mrs. Kraut, as friends of the elderly--
-588;MATT;"""Klaus."""
+588;MATT;"""""Klaus."""""
 589;TRAVIS;Right, Kraut. Do they normally come at night, or have they ever abducted any of your sweet bulls during the day?
-590;MATT;"""We've not seen it during the day. It'd be easier for us to identify if we had. Seems to only hunt at night."""
+590;MATT;"""""We've not seen it during the day. It'd be easier for us to identify if we had. Seems to only hunt at night."""""
 591;SAM;And have they ever messed with a human?
-592;MATT;"""Not that we've heard of. Not yet."" He gives you this sudden look of realization and fear. And pats and comforts his wife who suddenly realizes, oh my. Are they going to take us now?"
+592;MATT;"""""Not that we've heard of. Not yet."""" He gives you this sudden look of realization and fear. And pats and comforts his wife who suddenly realizes, oh my. Are they going to take us now?"
 593;MARISHA;We'll probably be by like tonight or tomorrow morning.
 594;LIAM;Yes. Tomorrow morning at the latest. We have a little bit of business. Yeah.
 595;MARISHA;So we're in the middle of doing something. We'll get to it.
-596;MATT;"""All right. Well, thank you."""
+596;MATT;"""""All right. Well, thank you."""""
 597;LIAM;I take him by the hand and say, we will see you presently.
 598;SAM;Here. My business card.
 599;LIAM;And you can take that to the bank.
 600;LAURA;"You can't actually; it's worth nothing."
-601;MATT;"""Well, thank you for listening to us ramble on, and we look forward to hearing from you in the next day."""
+601;MATT;"""""Well, thank you for listening to us ramble on, and we look forward to hearing from you in the next day."""""
 602;LAURA;You will.
-603;MATT;"""All right."" He pats her on the arm."
+603;MATT;"""""All right."""" He pats her on the arm."
 604;TRAVIS;Travel safe, Mr. Kraut!
 605;LIAM;"Hide your bull; hide your wife."
 606;MATT;They both wander off.
@@ -611,15 +611,15 @@
 609;TRAVIS;Yeah, let's get fucking in there and talk to that little--
 610;MARISHA;It's funny how that type of thing can come back to bite you in the ass.
 611;SAM;I call up to Cordell. Oi, Cordell!
-612;MATT;"""Yeah!"""
+612;MATT;"""""Yeah!"""""
 613;SAM;Remember when I told you not to let anyone linger outside the keep?
-614;MATT;"""To be fair, the Klauses are well-known in the community."""
+614;MATT;"""""To be fair, the Klauses are well-known in the community."""""
 615;TRAVIS;The Krauts?
 616;LAURA;The Klauses.
-617;MATT;"""They came here for business. I figured it was probably something you'd want to hear. I apologize."""
+617;MATT;"""""They came here for business. I figured it was probably something you'd want to hear. I apologize."""""
 618;SAM;By all means, use your judgment over the orders of your master. That's fine.
 619;MARISHA;Scanlan!
-620;MATT;"Cordell bows his head sheepishly. ""I apologize. I'm sorry."""
+620;MATT;"Cordell bows his head sheepishly. """"I apologize. I'm sorry."""""
 621;MARISHA;Ignore him!
 622;LAURA;We are here to help people! We're here to help.
 623;MATT;He does his finger like this and the gates open in towards the inside of the keep wall.
@@ -657,17 +657,17 @@
 655;MARISHA;I go to the edge of the door and knock.
 656;MATT;As you knock on the metal door, it's like a (boom). The pinging stops. Just hangs for a second.
 657;MARISHA;Percy? It's Keyleth.
-658;MATT;"""Not right now. Please. I'm sorry. I just need to clear my head."""
+658;MATT;"""""Not right now. Please. I'm sorry. I just need to clear my head."""""
 659;MARISHA;Okay. We'll be here.
 660;MATT;A moment later, you see Percy's eyes appear at the edge of the door.
 661;MARISHA;Hi!
 662;MATT;Just looking at them, you can see they look a little sunken, a little weary.
 663;MARISHA;Did you sleep?
-664;MATT;"""Not as much as I'd like."""
+664;MATT;"""""Not as much as I'd like."""""
 665;MARISHA;Do you need anything?
-666;MATT;"His eyes look away for a second, looks back at you. ""I'm all right. Thank you."""
+666;MATT;"His eyes look away for a second, looks back at you. """"I'm all right. Thank you."""""
 667;MARISHA;We went and saw Uriel. Everyone in the city hates us. They think we're all criminals.
-668;MATT;"""Great. I have to get back to my work."""
+668;MATT;"""""Great. I have to get back to my work."""""
 669;MARISHA;Okay, yeah.
 670;MATT;The slit shuts.
 671;MARISHA;Oh, we'll see you later, then.
@@ -684,41 +684,41 @@
 682;LAURA;Can I look at his neck?
 683;MATT;Go ahead and make an investigation check.
 684;LAURA;20.
-685;MATT;"Okay. You don't have a whole lot of medicinal experience, but you take a moment and inspect both sides of his neck, tilting his head side-to-side, as he's groaning and coming to.|""What's going on?"" Looking at the sides of his neck, there does not appear to be any sign of any puncture wounds, anything that would be reminiscent of what your brother currently is healing from."
+685;MATT;"Okay. You don't have a whole lot of medicinal experience, but you take a moment and inspect both sides of his neck, tilting his head side-to-side, as he's groaning and coming to.|""""What's going on?"""" Looking at the sides of his neck, there does not appear to be any sign of any puncture wounds, anything that would be reminiscent of what your brother currently is healing from."
 686;MARISHA;Can I do an insight check to see if he is also under a mind-control spell?
 687;MATT;At the moment, no. He is barely coming to consciousness. There isn't enough of a presence at the moment to really read past.
 688;LAURA;Hey, there. Welcome back.
-689;MATT;"""Where am I?"""
+689;MATT;"""""Where am I?"""""
 690;LAURA;You are being held, at the moment, for your own safety.
-691;MATT;"""For my own safety?"""
+691;MATT;"""""For my own safety?"""""
 692;LAURA;Yeah.
-693;MATT;"""How?"" He looks at his hand."
+693;MATT;"""""How?"""" He looks at his hand."
 694;LAURA;Well, you were captured. We're pretty sure the Briarwoods are going to be pissed as hell that you let the carriage get hit. We're just trying to protect you, really.
 695;MARISHA;Really?
 696;SAM;I mean, his friends all died, so.
 697;MARISHA;Do we not feel like terrible people enough already?
 698;SAM;Let's not have this conversation in front of the prisoner. What's your name, boy!
-699;MATT;"""My name is Desmond. Desmond Otham. I am the son of a messenger, a courier of the de Rolo family."""
+699;MATT;"""""My name is Desmond. Desmond Otham. I am the son of a messenger, a courier of the de Rolo family."""""
 700;MARISHA;He's the son of a messenger! That's even more ironic!
 701;LAURA;Keyleth, do you need to step outside?
 702;MARISHA;No, I'm good. Continue. Son of a messenger.
 703;LAURA;Right now, everyone is at risk. The Briarwoods are bad people, you can attest to this, yes?
-704;MATT;"""Yes."""
+704;MATT;"""""Yes."""""
 705;LAURA;Yes. Can you tell us everything you know about them?
-706;MATT;"""It's not going to matter. They're going to find me. No one's supposed to get away."""
+706;MATT;"""""It's not going to matter. They're going to find me. No one's supposed to get away."""""
 707;LAURA;You did!
 708;TRAVIS;There's always a first time.
-709;MATT;"""I don't even know where to begin."" He adjusts himself, sliding back, putting his back against the wall of the cell."
+709;MATT;"""""I don't even know where to begin."""" He adjusts himself, sliding back, putting his back against the wall of the cell."
 710;TRAVIS;I reach into the Bag of Holding. I pull out the little goblet, and I pour some ale into a cup, and I hand him a little bit of ale. No, it's fine. I take a little sip.
-711;MATT;"""Please don't take offense if I don't trust a drink from strangers who've, well, to be honest, put me in this position."""
+711;MATT;"""""Please don't take offense if I don't trust a drink from strangers who've, well, to be honest, put me in this position."""""
 712;TRAVIS;All right. I put it beside him.
-713;MATT;"""What do you want to know?"""
+713;MATT;"""""What do you want to know?"""""
 714;LAURA;We want to know if the Briarwoods--
 715;SAM;Are vampires.
 716;LAURA;Pretty much. They're vampires, right? I mean, they're vampires.
-717;MATT;"""All I know from the stories I've heard.|Mothers would tell their kids not to wander out at night because dark things crawl in the shadows.|From what I know of vampires, they're not supposed to go out during the day, right? But I'm sure I've seen Lady Briarwood walk in the sun many a time."""
+717;MATT;"""""All I know from the stories I've heard.|Mothers would tell their kids not to wander out at night because dark things crawl in the shadows.|From what I know of vampires, they're not supposed to go out during the day, right? But I'm sure I've seen Lady Briarwood walk in the sun many a time."""""
 718;MARISHA;Only Lady Briarwood?
-719;MATT;"""As I recall, yes. Lord Briarwood doesn't make too many public appearances."""
+719;MATT;"""""As I recall, yes. Lord Briarwood doesn't make too many public appearances."""""
 720;SAM;Have there been any strange goings-on in their residence? Sounds you've heard? People disappearing? Boxes coming in or out?
 721;LAURA;I cast Cure Wounds on him. I know Cure Wounds, bitches! Level up!
 722;ORION;Have I reached the keep yet?
@@ -726,37 +726,37 @@
 724;LAURA;11. Do I add anything to that?
 725;MATT;I believe you add your Wisdom modifier to that.
 726;LAURA;14.
-727;MATT;"He goes, ""Look, my father worked for the de Rolo family before the Briarwoods came. My father vanished the night of their fall. My mother was taken in madness and lost to the night this past year. I was left alone. However, I knew the roads well between here and Whitestone and places between, growing up, traveling with my father. So I was made to be a coachman for the new nobles. I was paid, albeit little, and I was left alone.|Now, when I say the new nobles, there were nobles that lived in Whitestone and worked along with the de Rolos, and they helped oversee parts of the town, the business, and the people. They had been there for many generations of their respective families, all under the de Rolos' guidance. But the night the castle fell, those nobles were dragged out.|It's strange. I mean, after the brutality of that first night, it took days before the people of Whitestone knew what had happened. We saw the fires, we heard the battles, but no word of the victors until three days had passed. We were too scared to approach. By then, the Briarwoods called a town meeting. They explained their new rule over the town. A number objected, which is expected. Many strong-willed folk in Whitestone, those days. They were subsequently shot down at arrow-point. The rest were quiet.|They then dragged out the noble families and executed them, gifting their property and titles to the various cut-throats and mercenaries they had hired, brought across the channel to help them take the town. They're not just two people; they've used a lot of money and influence from wherever they came from and brought a whole slew of very dastardly folk, who have since been given the titles once held by the other nobles of Whitestone, living in their homes, taking their tithes and most of the profits made from the businesses they've forced us to continue to run from within the city. A number of families fled into the woods the night after the executions, using the shadows of a moonless evening to keep safe. They were all found hanging from the Sun Tree the next morning.|They kept things going as they were, mostly: farming, logging, manning the white marble mines.|Business went as usual, all filling the pockets of the new nobles and the Briarwoods. We were given food, kept our immediate property. As long as we didn't attempt to leave, we were promised safety.|That lasted for a few years, until the nobles grew bored. Twitchy. They began to abuse the people of Whitestone: scare us for fun, brand, cut, steal the children, leave them back, destroyed. They treat us like animals. Folks went missing. I was beaten so bad by my employer, Count Tylieri. But Lord Briarwood noticed, one night he was passing through the city. He saw wounds on my back when he was meeting with Count Tylieri. When he asked me in private how I got them, I couldn't lie. Couldn't resist him. He has a way of drawing the truth out of you. Now, he told me this unrefined violence was boorish to him and his wife. That was the last I ever saw of Lord Tylieri.|Lord and Lady Briarwood took me in as their own driver and showed me Tylieri hanging from that same Sun Tree the next morning. I was thankful, then. In a strange way, life had been so terrible for so long, it was the first time I saw someone reach out and save me. They took me in as their driver after that. It was a better thing to be away from the anger and the fists of the thugs.|But the more I got to know the Briarwoods, the more nightmarish I realized they were.|Behind the walls of that castle was no longer a grand fortress that we heard it was. Seeing it, keeping watch and guard over our people. No, that was a domain of perverse magics and sacrilege, it was. The green fog drifting out from the ground where it stood. The same servants still run the halls, but they aren't living. They're walking vessels of undeath, their flesh slowly tearing away. The garden in back lies shriveled, a foul green mist forever pouring out. They're excavating something in the dungeon, plundering pieces. A lot of their attention seems to be down there; I don't know why. I dare not wander too far down. They bring up old things. Ancient things. Relics, books, bones.|You live in that world long enough, you believe there is no way out. Death would be easy, though I've seen that death is no real end there. It's just the beginning of a whole new terrible existence. A far worse fate."""
+727;MATT;"He goes, """"Look, my father worked for the de Rolo family before the Briarwoods came. My father vanished the night of their fall. My mother was taken in madness and lost to the night this past year. I was left alone. However, I knew the roads well between here and Whitestone and places between, growing up, traveling with my father. So I was made to be a coachman for the new nobles. I was paid, albeit little, and I was left alone.|Now, when I say the new nobles, there were nobles that lived in Whitestone and worked along with the de Rolos, and they helped oversee parts of the town, the business, and the people. They had been there for many generations of their respective families, all under the de Rolos' guidance. But the night the castle fell, those nobles were dragged out.|It's strange. I mean, after the brutality of that first night, it took days before the people of Whitestone knew what had happened. We saw the fires, we heard the battles, but no word of the victors until three days had passed. We were too scared to approach. By then, the Briarwoods called a town meeting. They explained their new rule over the town. A number objected, which is expected. Many strong-willed folk in Whitestone, those days. They were subsequently shot down at arrow-point. The rest were quiet.|They then dragged out the noble families and executed them, gifting their property and titles to the various cut-throats and mercenaries they had hired, brought across the channel to help them take the town. They're not just two people; they've used a lot of money and influence from wherever they came from and brought a whole slew of very dastardly folk, who have since been given the titles once held by the other nobles of Whitestone, living in their homes, taking their tithes and most of the profits made from the businesses they've forced us to continue to run from within the city. A number of families fled into the woods the night after the executions, using the shadows of a moonless evening to keep safe. They were all found hanging from the Sun Tree the next morning.|They kept things going as they were, mostly: farming, logging, manning the white marble mines.|Business went as usual, all filling the pockets of the new nobles and the Briarwoods. We were given food, kept our immediate property. As long as we didn't attempt to leave, we were promised safety.|That lasted for a few years, until the nobles grew bored. Twitchy. They began to abuse the people of Whitestone: scare us for fun, brand, cut, steal the children, leave them back, destroyed. They treat us like animals. Folks went missing. I was beaten so bad by my employer, Count Tylieri. But Lord Briarwood noticed, one night he was passing through the city. He saw wounds on my back when he was meeting with Count Tylieri. When he asked me in private how I got them, I couldn't lie. Couldn't resist him. He has a way of drawing the truth out of you. Now, he told me this unrefined violence was boorish to him and his wife. That was the last I ever saw of Lord Tylieri.|Lord and Lady Briarwood took me in as their own driver and showed me Tylieri hanging from that same Sun Tree the next morning. I was thankful, then. In a strange way, life had been so terrible for so long, it was the first time I saw someone reach out and save me. They took me in as their driver after that. It was a better thing to be away from the anger and the fists of the thugs.|But the more I got to know the Briarwoods, the more nightmarish I realized they were.|Behind the walls of that castle was no longer a grand fortress that we heard it was. Seeing it, keeping watch and guard over our people. No, that was a domain of perverse magics and sacrilege, it was. The green fog drifting out from the ground where it stood. The same servants still run the halls, but they aren't living. They're walking vessels of undeath, their flesh slowly tearing away. The garden in back lies shriveled, a foul green mist forever pouring out. They're excavating something in the dungeon, plundering pieces. A lot of their attention seems to be down there; I don't know why. I dare not wander too far down. They bring up old things. Ancient things. Relics, books, bones.|You live in that world long enough, you believe there is no way out. Death would be easy, though I've seen that death is no real end there. It's just the beginning of a whole new terrible existence. A far worse fate."""""
 728;LAURA;If we keep you here, protected, would you be willing to tell your story to someone else?
-729;MATT;"""Who would you want me to tell it to?"""
+729;MATT;"""""Who would you want me to tell it to?"""""
 730;LAURA;The emperor. The guards here. An army that could go and fight the Briarwoods.
-731;MATT;"""Maybe."""
+731;MATT;"""""Maybe."""""
 732;MARISHA;This could be an option to save Whitestone, and you would have your freedom.
-733;MATT;"""I don't know. You don't know what it's like. You don't know what they've done. They're going to find me."""
+733;MATT;"""""I don't know. You don't know what it's like. You don't know what they've done. They're going to find me."""""
 734;SAM;We can protect you. We are safe here in this keep, and you're surrounded by very powerful allies now.
 735;TRAVIS;We've stood before them, and we did not fall.
 736;LAURA;It's true.
-737;MATT;"""I'll think about it."""
+737;MATT;"""""I'll think about it."""""
 738;MARISHA;Would you like to stay in the guest room upstairs? You'd be more comfortable. You could get a good night's rest.
 739;LAURA;Far more comfortable. A little less safe.|I'm going to put it out there.
-740;MATT;"That resonates with him immediately, and his eyes flash open. ""I mean no disrespect, but if this is safe, then I'd rather stay here."""
+740;MATT;"That resonates with him immediately, and his eyes flash open. """"I mean no disrespect, but if this is safe, then I'd rather stay here."""""
 741;LAURA;I think it is. And we will bring a bed down to you, make sure you're comfortable. I don't want you sleeping on the floor. That's terrible.
-742;MATT;"""You're all being very accommodating."""
+742;MATT;"""""You're all being very accommodating."""""
 743;TRAVIS;You'll get every consideration for protection. We value your info very much.
 744;MARISHA;You're also the key to our own freedom, so it's important.
 745;SAM;You also caught us on a day where we're trying to be nicer to people.|(laughter)|Lucky for you.
 746;LIAM;Just be glad you're not an old woman.
-747;MATT;"""I'll stay here for now."""
+747;MATT;"""""I'll stay here for now."""""
 748;LAURA;All right.
-749;MATT;"""I need to think on it. I've been promised such protection before."""
+749;MATT;"""""I need to think on it. I've been promised such protection before."""""
 750;SAM;From the Briarwoods?
-751;MATT;"""From a few. And they're dead. An enemy of an enemy doesn't necessarily make them a friend, I've discovered."""
+751;MATT;"""""From a few. And they're dead. An enemy of an enemy doesn't necessarily make them a friend, I've discovered."""""
 752;MARISHA;No, but it can make them allies if they have mutual enemies. Of their enemies. It's a little complicated.
 753;MATT;This whole conversation, the emotional recalling of everything, you can see has been very taxing on him and his still mostly conscious state. He looks exhausted, scared, and still trying to suss out all the information coming at him right now.
 754;MARISHA;Grog, why don't you carry the bed down from upstairs?
 755;TRAVIS;Not a problem. Keep the goblet nearby. It is very nice ale.
 756;MARISHA;Would you like something to eat?
-757;MATT;"""Yes, please."""
+757;MATT;"""""Yes, please."""""
 758;MARISHA;We'll have our staff bring down some food.
 759;MATT;He takes the goblet. He looks at it, smells it, but still holds it at bay as you walk off. You eventually go-- easy enough for you-- take the bed. You have to turn it to the side to take it out, which causes all of the cushions to fall out.
 760;TRAVIS;Aw, shit.|(laughter)|I grab a little pillow with my toes, and I hobble down.
@@ -764,11 +764,11 @@
 762;TRAVIS;Not a problem.
 763;MATT;"When you fit it in the cell-- and it's not a large cell; it's maybe ten by ten feet maximum.|You place it there. As you guys walk back, you notice as you see Grog walking back down the stairway-- right around the corner as you go down the steps, the hallway goes to the cell, and it turns to the right and to the left to the workshop. You see around the corner a shoulder, listening in. There's a person. And you recognize that it is Percy. Percy has stepped out of the workshop and apparently has been hearing everything this entire time."
 764;LAURA;Are you all right?
-765;MATT;"""I'm fine."" And Percy immediately steps away and you hear the door close with a slam."
+765;MATT;"""""I'm fine."""" And Percy immediately steps away and you hear the door close with a slam."
 766;LAURA;Give him time.
 767;SAM;So moody!
 768;LAURA;So yeah, I'm going to lock it. I'm just going to lock your door. To make sure you're safe, make sure nobody can get in.
-769;MATT;"""Keep him away from me. Who is that?"""
+769;MATT;"""""Keep him away from me. Who is that?"""""
 770;SAM;He's a friend. I know it doesn't seem like it from the condition of your paw, but he's a friend.|He's in the same boat as you, trying to stay safe from danger.
 771;LAURA;The Briarwoods destroyed his family, as well.
 772;MATT;And you see now, there's like this look of tension on his face that's mixed with tired. And eventually finding the bed and takes the goblet-- still filled, has not drunk from it-- just slips it next to the side of the bed. Eventually food is brought down.
@@ -795,24 +795,24 @@
 793;MATT;You make your way to the back part of the wall, and there is a small tower that's constructed as part of the back wall. That's where Jarett usually keeps watch. Jarett has the in-between shift between the guards, so he can be present for both sides and keep a watch during the afternoon until the nighttime. Probably till about midnight or so. So as you make your way out of the keep, Tiberius, are you heading back to the keep or are you heading toward the Cloudtop District? This will dictate whether or not you show up around this time.
 794;ORION;I'm going to Allura's.
 795;LAURA;I'm staying down in the prison, just for the time being. I don't want to leave him alone with Percy.
-796;MATT;"You go to find Jarett, who's up at the top of the tower. And as you call to him, Jarett leans over. And you see him, you know, short jet-black hair, darker complexion. Very handsome, younger, early-twenties guy. Well-dressed over his studded leather armor that he wears underneath and has the crossbow on the side. He leans over. ""Scanlan, it has been some time. It is so good to hear from you. What can I be of service for?"""
+796;MATT;"You go to find Jarett, who's up at the top of the tower. And as you call to him, Jarett leans over. And you see him, you know, short jet-black hair, darker complexion. Very handsome, younger, early-twenties guy. Well-dressed over his studded leather armor that he wears underneath and has the crossbow on the side. He leans over. """"Scanlan, it has been some time. It is so good to hear from you. What can I be of service for?"""""
 797;SAM;We need you to watch a prisoner for us, downstairs in our jail cell, which we had built and are now using. You'll be guarding the prisoner to make sure he doesn't escape, but also making sure he stays safe. He possesses information that's very valuable to us. And one of the people who hires you might try to kill him, so if Percy tries to go in there, can you stop him without hurting either party?
-798;MATT;"""I imagine this would be very well-suited for my skill set. It will be strange to keep watch against one of my employers, but he's been a bit sheepish around me anyway."""
+798;MATT;"""""I imagine this would be very well-suited for my skill set. It will be strange to keep watch against one of my employers, but he's been a bit sheepish around me anyway."""""
 799;SAM;You think you could take Percy?
-800;MATT;"""Well, I think I can at least talk some sense into him!"""
+800;MATT;"""""Well, I think I can at least talk some sense into him!"""""
 801;TRAVIS;I like him!
 802;SAM;Wow! Jarett, you're ballsy! Just out of curiosity, if he was running at you, what would you do? (laughter)
-803;MATT;"""Well, first and foremost, I would dive in the forward motion, leg out, to put him off balance. This would be from a frontal melee-- you're messing with me, aren't you?"""
+803;MATT;"""""Well, first and foremost, I would dive in the forward motion, leg out, to put him off balance. This would be from a frontal melee-- you're messing with me, aren't you?"""""
 804;SAM;A little bit!
-805;MATT;"""Ah, gnomes! Very well."""
+805;MATT;"""""Ah, gnomes! Very well."""""
 806;SAM;Do you need anything to help?
-807;MATT;"""I have access to my own private armory, and I have utmost faith."""
+807;MATT;"""""I have access to my own private armory, and I have utmost faith."""""
 808;SAM;All right. Well, keep him safe and there's an extra five gold in it for you?
 809;LAURA;Oh! Pathetic!
 810;SAM;I don't know! Ten! Ten gold!
-811;MATT;"""Gnomes."""
+811;MATT;"""""Gnomes."""""
 812;SAM;I don't know how money works. We'll talk to Vex about it.
-813;MATT;"""Certainly. All right. I will do this."" And he stands up, and goes and starts gathering his general setup supplies inside the guard tower. As you walk back to the keep, you hear him whistle and start calling out to Shayne to go ahead and take over, up in the tower."
+813;MATT;"""""Certainly. All right. I will do this."""" And he stands up, and goes and starts gathering his general setup supplies inside the guard tower. As you walk back to the keep, you hear him whistle and start calling out to Shayne to go ahead and take over, up in the tower."
 814;LIAM;I wasn't there for any of that. I was upstairs on the roof, just thinking.
 815;MATT;Tiberius, you make your way into the Cloudtop District. As you come to the front gates of the district, the guards that normally recognize you and welcome you in, recognize you and stand firm, weapons at the ready.
 816;ORION;At Allura's tower?
@@ -820,9 +820,9 @@
 818;ORION;Is that it? So I just turn around? Go back?
 819;MATT;It's up to you. The guards are just there, standing.
 820;ORION;Greeting and salutations. I'm Tiberius Stormwind from Draconia. Moreover, a member of Vox Machina, over at Greyskull Keep. It seems that you all are posturing and whatnot. (chuckles) It's adorable. But I'm here to see Lady Allura. Could you let her know that I would like to speak to her, or get out of my way so I can just go over there and tell her myself?
-821;MATT;"""We have direct orders to not let you or any other member of Vox Machina into the Cloudtop District until your investigation is complete. So no, and no."""
+821;MATT;"""""We have direct orders to not let you or any other member of Vox Machina into the Cloudtop District until your investigation is complete. So no, and no."""""
 822;ORION;Well, do the second thing. If you don't do one thing, do one of the other things.
-823;MATT;"""Your information and wish has been processed, taken into consideration. Thank you very much. Please be on your way."""
+823;MATT;"""""Your information and wish has been processed, taken into consideration. Thank you very much. Please be on your way."""""
 824;ORION;Oh, it has been, it has been processed! Oh, that's good to know! I appreciate that. Very well.|I cast Fly on myself and I go back to the keep.
 825;MATT;Okay. (whoosh) They both did not expect that exit. You essentially Superman-ed. You're just like (thud). Little cloud of smoke in the shape of a dragonborn left behind. All right. So as you cruise over, you see in the distance, from where you're standing at the top of the keep, you see a distant bead of dark shadow that approaches and grows larger, and it is an air-cruising Tiberius making his way towards the keep.
 826;LIAM;I hide behind-- I don't want to get hit, so I'm going to crouch down a little bit, carefully behind one of the pieces of wall. Yeah. Rough landings, sometimes.
@@ -869,7 +869,7 @@
 867;ORION;Human kissy mouth, with you is-- (vomits) (laughter)|I'm good.
 868;MARISHA;If you touch me one more time!
 869;ORION;Oh! Sorry. Did you need to go somewhere?
-870;MARISHA;"I am doing something else, a request that was already made previously, before ""can we fix drunk Tiberius,"" so I'm a little busy! Why don't you go sleep it off, take a nap, and I will deal with you in a second."
+870;MARISHA;"I am doing something else, a request that was already made previously, before """"can we fix drunk Tiberius,"""" so I'm a little busy! Why don't you go sleep it off, take a nap, and I will deal with you in a second."
 871;ORION;Is it sleepy time?
 872;MARISHA;For you.
 873;ORION;Should I cast Fireball?
@@ -1005,9 +1005,9 @@
 1003;LAURA;What? He's going to go down in the prison with Jarett.
 1004;MATT;Okay. You bring Trinket down. Trinket stands watch right in the center, plops down right up against the bars.
 1005;LAURA;I knock on Percy's door and say, Percy?
-1006;MATT;"""Yes?"""
+1006;MATT;"""""Yes?"""""
 1007;LAURA;Trinket's out here. If you need anything, you just come out and you pet him.
-1008;MATT;"""Thank you."""
+1008;MATT;"""""Thank you."""""
 1009;LAURA;Welcome.
 1010;ORION;I also go up to the door and go, Trinket.|(mumbling) Percy.
 1011;LAURA;Aren't you sober yet?
@@ -1018,14 +1018,14 @@
 1016;LIAM;Oh. Oh, well.
 1017;TRAVIS;And we take the scenic route to let him walk it off as we head up towards Big Bird's house.
 1018;SAM;Great!
-1019;MATT;"All right. So. You guys make your way around the outskirts of Emon under moonlight. It's a three-quarter waxing moon. You make your way to the farm vicinity on the north side of the city.|It doesn't take long for you to eventually suss out the house that matches the description that you were given by the Klauses. You knock on the door, and they eagerly greet your arrival and invite you in. ""So glad you all could make it.|Have you decided? Have you given our community's request some thought?"""
+1019;MATT;"All right. So. You guys make your way around the outskirts of Emon under moonlight. It's a three-quarter waxing moon. You make your way to the farm vicinity on the north side of the city.|It doesn't take long for you to eventually suss out the house that matches the description that you were given by the Klauses. You knock on the door, and they eagerly greet your arrival and invite you in. """"So glad you all could make it.|Have you decided? Have you given our community's request some thought?"""""
 1020;SAM;We're here to help. We're the heroes that you asked for.
 1021;TRAVIS;We love old people.
-1022;MATT;"""Thank you. That's really good of you. We will happily provide you with fresh produce, going forward. We've talked to a few of the members of the community and we're going to make sure that's taken care of."""
+1022;MATT;"""""Thank you. That's really good of you. We will happily provide you with fresh produce, going forward. We've talked to a few of the members of the community and we're going to make sure that's taken care of."""""
 1023;SAM;Where do you think we should stake out this bird? Where are your livestock kept?
-1024;MATT;"""The livestock are kept on the eastern side of this community. If you look about, say about half a mile out to where the actual residences stop being clustered together, you'll see there are a number of large livestock containment areas.|Hard to miss out there. We have pens for sheep; we have pens for cows; we have pens for horses, other beasts of burden. That whole vicinity is where most of these attacks seem to be coming. So that's probably your best bet there."""
+1024;MATT;"""""The livestock are kept on the eastern side of this community. If you look about, say about half a mile out to where the actual residences stop being clustered together, you'll see there are a number of large livestock containment areas.|Hard to miss out there. We have pens for sheep; we have pens for cows; we have pens for horses, other beasts of burden. That whole vicinity is where most of these attacks seem to be coming. So that's probably your best bet there."""""
 1025;LIAM;And the biggest you have are the bulls, you said?
-1026;MATT;"""Bulls. We have a few big cows, as well.|We've lost a few of them, unfortunately."""
+1026;MATT;"""""Bulls. We have a few big cows, as well.|We've lost a few of them, unfortunately."""""
 1027;TRAVIS;That'll be all we need.
 1028;LAURA;Can one of us polymorph into a giant cow?
 1029;SAM;Sure.
@@ -1033,41 +1033,41 @@
 1031;TRAVIS;We head out to the pasture.
 1032;MARISHA;First can I ask her, you said your neighbor boy, Kyle?
 1033;SAM;Kyle. The neighbor boy. The neighbor boy's son. Yes.
-1034;MATT;"""That's true. Kyle's the one who originally spotted it, yeah."""
+1034;MATT;"""""That's true. Kyle's the one who originally spotted it, yeah."""""
 1035;MARISHA;Where does he live?
-1036;MATT;"""He's actually the son of the man who runs most of the livestock areas over there. You can go and head over there. He's probably still up, keeping his eye out in case it comes back."""
+1036;MATT;"""""He's actually the son of the man who runs most of the livestock areas over there. You can go and head over there. He's probably still up, keeping his eye out in case it comes back."""""
 1037;MARISHA;Thank you. I go to Kyle.
-1038;MATT;"Okay. You guys make your way over there.|It's easy to find. There's large pens. You can see that for as big as the pens are built and their structure, they are noticeably dwindled. You can see why there's been some worry in the community here. The fact that it's only been two weeks and this many creatures are gone is a little disconcerting. As you get there, you can see the house has its light on. There are glowing windows.|And sitting in a chair, holding a crossbow across his lap, you see a 19-year-old boy, rugged chin growth, dirty red hair that's disheveled. And he's sitting there looking around in the sky. Rocking back and forth in his chair as you approach. ""Who goes there?"""
+1038;MATT;"Okay. You guys make your way over there.|It's easy to find. There's large pens. You can see that for as big as the pens are built and their structure, they are noticeably dwindled. You can see why there's been some worry in the community here. The fact that it's only been two weeks and this many creatures are gone is a little disconcerting. As you get there, you can see the house has its light on. There are glowing windows.|And sitting in a chair, holding a crossbow across his lap, you see a 19-year-old boy, rugged chin growth, dirty red hair that's disheveled. And he's sitting there looking around in the sky. Rocking back and forth in his chair as you approach. """"Who goes there?"""""
 1039;SAM;Don't worry, we're friends. We're friends of the Klauses. Mr. and Mrs. Klaus.
-1040;MATT;"""Okay. Okay. So you the ones they say was coming to help?"""
+1040;MATT;"""""Okay. Okay. So you the ones they say was coming to help?"""""
 1041;MARISHA;Yes.
 1042;TRAVIS;Aye.
 1043;LAURA;We hear you have a keen eye, Kyle.
-1044;MATT;"""I've seen some things, yeah."""
+1044;MATT;"""""I've seen some things, yeah."""""
 1045;SAM;Where have they been attacking lately?
-1046;MATT;"Points to the whole area in front of him and says, ""Are you keeping watch now? Great. Thank you."""
+1046;MATT;"Points to the whole area in front of him and says, """"Are you keeping watch now? Great. Thank you."""""
 1047;MARISHA;No! Wait! Don't leave yet. We need you.
 1048;ORION;Yes, yes. Keyleth. We are Vox Machina. Over from Greyskull Keep. I'm Tiberius Stormwind.
 1049;MARISHA;That's irrelevant. The point is, I was wondering if you had any more information about the creature.
-1050;MATT;"""I mean, other than the fact that it was just a really big bird. Really big. Huge."""
-1051;MARISHA;"Do you remember any other details? Any other defining details other than ""bird?"""
-1052;MATT;"""It's hard to see in the moonlight."""
+1050;MATT;"""""I mean, other than the fact that it was just a really big bird. Really big. Huge."""""
+1051;MARISHA;"Do you remember any other details? Any other defining details other than """"bird?"""""
+1052;MATT;"""""It's hard to see in the moonlight."""""
 1053;SAM;When it picks up a cow or whatever it's been picking up, does it strike with the beak or the claws? The talons.
-1054;MATT;"""Claws, and sometimes it takes two at a time, one in each claw, and just carries them away. """
+1054;MATT;"""""Claws, and sometimes it takes two at a time, one in each claw, and just carries them away. """""
 1055;ORION;Have you seen any of its droppings anywhere?
-1056;MATT;"""No. """
+1056;MATT;"""""No. """""
 1057;TRAVIS;Have you managed to hit it with your crossbow?
-1058;MATT;"""I've missed."""
+1058;MATT;"""""I've missed."""""
 1059;LIAM;And you're certain this is a feathered beast, or no?
-1060;MATT;"""Best I can see. It's dark out here at that time of night and it looks like a bird. It doesn't make any noise and swoops on down and takes them away and flies off in that direction."""
+1060;MATT;"""""Best I can see. It's dark out here at that time of night and it looks like a bird. It doesn't make any noise and swoops on down and takes them away and flies off in that direction."""""
 1061;TRAVIS;I've heard that those giant birds are attracted to red-headed, 19-year-old, scruffy-chin folk with crossbows.
 1062;MATT;Make an intimidation check.
 1063;TRAVIS;Awesome.
 1064;MATT;This would be with your charisma.
 1065;TRAVIS;22.
-1066;MATT;"Nice. He goes, ""Well, I don't want to be here, then. You guys can keep an eye out. I've got to go."" And unloads the bolt in the crossbow, slings it up under his arm--"
+1066;MATT;"Nice. He goes, """"Well, I don't want to be here, then. You guys can keep an eye out. I've got to go."""" And unloads the bolt in the crossbow, slings it up under his arm--"
 1067;SAM;Wait! Before you leave. I'm sorry. I have an itch. And it can only be scratched with a cowbell.|Do you have a cowbell anywhere around here? I just need a cowbell. Can I borrow a cowbell from you?
-1068;MATT;"""Your kid's weird."" And he keeps walking."
+1068;MATT;"""""Your kid's weird."""" And he keeps walking."
 1069;MARISHA;Your kid is weird!
 1070;SAM;I'm not a child!
 1071;LAURA;Do I see any cowbells on the ground?
@@ -1122,7 +1122,7 @@
 1120;MARISHA;If we use Seeming, we just appear to be cows, but we can still speak, right?
 1121;MATT;Yeah. Anything sees you as cows--
 1122;MARISHA;Would be like, holy shit, those are talking cows!
-1123;SAM;"It's ""cow-moo-flage."" (groaning)|Thank you."
+1123;SAM;"It's """"cow-moo-flage."""" (groaning)|Thank you."
 1124;ORION;That's good.
 1125;MATT;I have to give you experience for that.|(laughter)
 1126;LIAM;Wait. What's going on? Are we turning into cows?
@@ -1151,7 +1151,7 @@
 1149;MATT;You speak Common. You don't know Cow.
 1150;MARISHA;Tiberius, just because you look like a cow doesn't mean you can talk to the cows. The cows don't understand English. No matter if you look like a cow, they still don't understand Common.
 1151;LIAM;Boy, if Uriel could see us now.|(laughter)
-1152;TRAVIS;"We are ""cow-nsel"" worthy."
+1152;TRAVIS;"We are """"cow-nsel"""" worthy."
 1153;MARISHA;I cast Speak With Animals.
 1154;MATT;This is the best Vox Machina adventure ever! All right, you cast Speak With Animals.
 1155;MARISHA;Yes. Actually, how many animals can I hit with Speak with Animals? It is called Animals, right? Or is it just Speak with Animal?
@@ -1164,21 +1164,21 @@
 1162;MARISHA;Okay, so I go up. Is there a cluster of nice-looking ladies, sitting around?
 1163;MATT;All the cows are clustered in this one corner, up against each other for body warmth.|And there are few that are just like (moo).
 1164;MARISHA;Hello, ladies. Good evening.
-1165;MATT;"(moo) Which is what you guys hear. You hear as a response: ""What are you doing? We're trying to sleep."""
+1165;MATT;"(moo) Which is what you guys hear. You hear as a response: """"What are you doing? We're trying to sleep."""""
 1166;MARISHA;I do apologize to awaken you. I was just curious if you could tell me a little bit about some of the events that have been transpiring around here lately? Mainly, the results of your kind getting killed?
-1167;MATT;"""My kind?"""
+1167;MATT;"""""My kind?"""""
 1168;ORION;Just ask about the bird!
 1169;MARISHA;Have you seen a giant bird flying around? Anyone?
-1170;MATT;"At which point, all the cows start shuddering and say, ""Yes. Haven't you? It keeps taking us. Why do you think we're hiding under this?"""
+1170;MATT;"At which point, all the cows start shuddering and say, """"Yes. Haven't you? It keeps taking us. Why do you think we're hiding under this?"""""
 1171;MARISHA;Oh, sure.
-1172;MATT;"""Be careful. If you stay out there, it'll see you."""
+1172;MATT;"""""Be careful. If you stay out there, it'll see you."""""
 1173;MARISHA;Right. Where, exactly? Where have they been-- okay. Damn, cows! It's never--
 1174;SAM;Keyleth, what vital information have you learned?
 1175;MARISHA;I'll get back to you in one second. Can you tell me anything about what it looks like?
-1176;MATT;"""It's big and has wings. It's fast, and it keeps taking us."""
+1176;MATT;"""""It's big and has wings. It's fast, and it keeps taking us."""""
 1177;ORION;Ask her where the moon is at night--
 1178;MARISHA;Does it seem to come at a certain time of the night?
-1179;MATT;"""The dark time."""
+1179;MATT;"""""The dark time."""""
 1180;ORION;It's a cow. This is the same as before.
 1181;TRAVIS;Because nothing is happening I am now trying to eat grass.
 1182;MATT;You bend down, and take clusters with your hand, and start eating grass.
@@ -1288,7 +1288,7 @@
 1286;MATT;Dagger. Roll again for disadvantage because it's just within your secondary throwing range.
 1287;LIAM;Oh yeah. Then I missed.
 1288;MATT;Okay. It vanishes into the dark night ahead of you. So yeah. That is gone. You still have your Belt of Returning, you just don't have your snake belt. Yeah, don't worry guys. I saw the look on your face and I'm like, no, it's fine. It comes back. Okay. Keyleth, you're up. You're currently grappled and held within the talons of this giant bird. You see the entire ground below you.
-1289;MARISHA;"Judging by the fairly close up appearance I have of him at this point, can I tell it is probably a ""beast"" nature?"
+1289;MARISHA;"Judging by the fairly close up appearance I have of him at this point, can I tell it is probably a """"beast"""" nature?"
 1290;MATT;At the sheer size, it's hard to tell. You've never encountered a beast of this size, but you do look up and you can see the talons that are currently holding you in place and piercing the sides of your armor are bird-like talons. And you do see a series of dark feathers coating the entire underbelly of this entity.
 1291;MARISHA;Okay. I'm going to attempt to cast Dominate Beast.
 1292;MATT;Okay. All right.
@@ -1332,7 +1332,7 @@
 1330;MATT;All right. All of you guys, at that point you see Tiberius and you all take off after him.
 1331;LIAM;The cows take off into the night sky.
 1332;ORION;(shouting) Fly, Vox Machina! Moo!
-1333;MARISHA;"Vox ""Moo-china!"" (booing)"
+1333;MARISHA;"Vox """"Moo-china!"""" (booing)"
 1334;MATT;A squadron of weirdly-sized, flying cows lit by moonlight, chasing after a giant bird. I love Dungeons and Dragons.|(laughter)
 1335;TRAVIS;What is this?
 1336;MATT;What's the flying speed on Fly?
@@ -1470,7 +1470,7 @@
 1468;MARISHA;21.
 1469;TRAVIS;14.
 1470;LAURA;28.
-1471;MATT;"Yeah, so. You guys following behind Vex, many of you clumsily and some of you shouting out to each other, ""I think she sees it this way."" And you're like, ""oh my god."" You come around this one bend and you can see one of the larger mountainous spires that has a lot of trees and green growth towards the top at certain places where the rock juts out and gives a shelf for such greenery to grow, outside of its sheer outside surface. You do see a couple of wings fold in against the moonlight in what looks to be an outcropping. And there are multiple layers of rock shelves on the side of this mountain. And on one of these outcroppings, there appears to be some sort of a nest: a cluster of almost like actual trees and pieces of wood that are all jammed into this giant nest that's nestled against where the shadow and the moonlight are fighting for some sort of visual on it."
+1471;MATT;"Yeah, so. You guys following behind Vex, many of you clumsily and some of you shouting out to each other, """"I think she sees it this way."""" And you're like, """"oh my god."""" You come around this one bend and you can see one of the larger mountainous spires that has a lot of trees and green growth towards the top at certain places where the rock juts out and gives a shelf for such greenery to grow, outside of its sheer outside surface. You do see a couple of wings fold in against the moonlight in what looks to be an outcropping. And there are multiple layers of rock shelves on the side of this mountain. And on one of these outcroppings, there appears to be some sort of a nest: a cluster of almost like actual trees and pieces of wood that are all jammed into this giant nest that's nestled against where the shadow and the moonlight are fighting for some sort of visual on it."
 1472;TRAVIS;Big-ass tree fortress.
 1473;LAURA;Did we just find like a mama bird and baby birds?
 1474;MARISHA;Yeah, we did.
@@ -1538,7 +1538,7 @@
 1536;SAM;Fly? Oh, here.
 1537;MATT;I got it. No! There is no range on it. You just touch them. So you're fine. Yeah. As long as you're concentrating on it, you're fine.
 1538;TRAVIS;So we're within 60 feet?
-1539;MATT;"Well, you guys have been keeping a little more of a distance down here. However, at this point, as you guys are all encroaching and Scanlan's gone overhead, a voice rings out against the darkness, ""Flying cows? Really? I care not for this insolence. If you've come to mock me or fight me, do it now! Or leave this creature alone!"""
+1539;MATT;"Well, you guys have been keeping a little more of a distance down here. However, at this point, as you guys are all encroaching and Scanlan's gone overhead, a voice rings out against the darkness, """"Flying cows? Really? I care not for this insolence. If you've come to mock me or fight me, do it now! Or leave this creature alone!"""""
 1540;LAURA;What? Where are you? Who are you? Who said that?
 1541;ORION;I rolled an arcana check of 17 of my surroundings-- where it's coming from.
 1542;LAURA;Ditto. I try to perceive where it's coming from.
@@ -1553,7 +1553,7 @@
 1551;TRAVIS;Okay. I yell out, you've been stealing the farmers' livestock. Give us a reason not to kill you.
 1552;SAM;That's good. That's good. Diplomacy.
 1553;ORION;Or, I mean, moo!
-1554;MATT;"Okay. You guys are all keeping distance from it? The voice comes out again, ""Your nature confuses me and your words seem ill-informed. If you're not going to come to speak of discourse, I'm going to assume that that you're my enemy."""
+1554;MATT;"Okay. You guys are all keeping distance from it? The voice comes out again, """"Your nature confuses me and your words seem ill-informed. If you're not going to come to speak of discourse, I'm going to assume that that you're my enemy."""""
 1555;ORION;Then, as he's saying that, I'll approach.
 1556;MATT;So Tiberius cow goes.
 1557;ORION;And as I approach the thing, I'm going to Dispel Magic on myself.
@@ -1561,14 +1561,14 @@
 1559;ORION;What is that? 11.
 1560;MATT;Okay. It's hard to make out the details, but the voice is definitely coming from the nest. You see there is something vaguely humanoid, but it's hard to make out the shape at this distance with this low light, especially since you aren't a darkvision-gifted entity. However, it's close to this bird creature.
 1561;ORION;I'm going to say, is this big bird thing asleep?
-1562;MATT;"""You will not harm this creature, poachers!"""
+1562;MATT;"""""You will not harm this creature, poachers!"""""
 1563;ORION;I'm not trying to harm it at all. I'm just seeing if it's fine. If we could talk. I can't see anything, and I wanted to cast Light so I could see something, but I don't want to hurt your bird's eyes.
 1564;MATT;You can see the bird's moving and it's looking towards your direction. And it has this like (soft snarl).
 1565;ORION;So it's awake?
-1566;MATT;"It's awake, and it looks hurt. The voice is like, ""You come here masqueraded as whatever manner of beasts that you are--"""
+1566;MATT;"It's awake, and it looks hurt. The voice is like, """"You come here masqueraded as whatever manner of beasts that you are--"""""
 1567;ORION;Cows. We were cows.
-1568;MATT;"""After tormenting and severely wounding this beautiful creature."""
-1569;ORION;"We didn't do anything to the creature. No, we were-- This creature was stealing the farmer's cows, and the farmers were saying, ""You've taken our livestock,"" which is hurting the farm. We came to help them and we posed as cows, and then your bird took our--"
+1568;MATT;"""""After tormenting and severely wounding this beautiful creature."""""
+1569;ORION;"We didn't do anything to the creature. No, we were-- This creature was stealing the farmer's cows, and the farmers were saying, """"You've taken our livestock,"""" which is hurting the farm. We came to help them and we posed as cows, and then your bird took our--"
 1570;LIAM;While he's blithering, can I make an additional cow stealth check?
 1571;MATT;To?
 1572;LIAM;To come up behind the guy. Near him. Not even near him. Just to get a better vantage point.
@@ -1587,7 +1587,7 @@
 1585;SAM;Are you landing somewhere?
 1586;MARISHA;Next to Tiberius.
 1587;ORION;But I'm going to block it with my hand so it's not going to blind the bird.
-1588;MATT;"Okay.  As the light picks up, you can see the bird turns away for a second and starts to like flap its wings instinctually. And once again, seeing it up close, this bird is really big. The humanoid entity becomes immediately visible. And it is a gnome. You can see, he's dressed in hides and roughly crafted leather and furs. He has tousled, greasy black hair that hangs past his shoulders, covering a bedraggled and bearded face.|Holding up his arm-- and looks thin. It's covering the light and he's like, ""You!"""
+1588;MATT;"Okay.  As the light picks up, you can see the bird turns away for a second and starts to like flap its wings instinctually. And once again, seeing it up close, this bird is really big. The humanoid entity becomes immediately visible. And it is a gnome. You can see, he's dressed in hides and roughly crafted leather and furs. He has tousled, greasy black hair that hangs past his shoulders, covering a bedraggled and bearded face.|Holding up his arm-- and looks thin. It's covering the light and he's like, """"You!"""""
 1589;ORION;Sorry. I tried to not blind you. It was very dark. I'm sorry. Hello. We mean you no harm.
 1590;MATT;The gnome slams this small wooden, for lack of a better term, a small staff or cane. Slams it into the ground with a foot stomp and you can see the gnome's entire body suddenly begin to shift and change into this dark, gnarled-looking, hard surface.
 1591;LIAM;I whack him in the back of the head.
@@ -1608,24 +1608,24 @@
 1606;MARISHA;I land beside Tiberius and come out of eagle form. Tiberius, would you please Dispel this cow form from me. Please? Thank you.
 1607;MATT;Okay. And with that, you cast Dispel Magic and Keyleth's form reverts that to Keyleth. Normal Keyleth. Non-cow Keyleth. The gnome character now has the staff at the back and has a hand in front and is like, (panting).
 1608;MARISHA;Are you a druid? I'm also a druid. I think our goals might be aligned.
-1609;MATT;"""Really?"""
+1609;MATT;"""""Really?"""""
 1610;MARISHA;It's okay. What's her name?
-1611;MATT;"""This creature has no name to it yet. I, myself, am a protector of the wild, as you claim to be, as well. I have no tribe but the trees around me. I hear the whisper of the wind, and it calls for justice."""
+1611;MATT;"""""This creature has no name to it yet. I, myself, am a protector of the wild, as you claim to be, as well. I have no tribe but the trees around me. I hear the whisper of the wind, and it calls for justice."""""
 1612;MARISHA;I can relate to that.
-1613;MATT;"""Then why do you follow? Why do you insist on harming this creature?"""
+1613;MATT;"""""Then why do you follow? Why do you insist on harming this creature?"""""
 1614;MARISHA;Because we were seeking justice for other people.
-1615;MATT;"""Why? For the civilized folk of the city? You should know more than most. They sit there, taking beautiful creatures of nature, making them fat and formless and worth nothing. To slaughter them without life and purpose to their existence."""
+1615;MATT;"""""Why? For the civilized folk of the city? You should know more than most. They sit there, taking beautiful creatures of nature, making them fat and formless and worth nothing. To slaughter them without life and purpose to their existence."""""
 1616;ORION;The life and purpose of their existence is to keep those other people alive.
-1617;MATT;"""And why is it not the same with this creature? If they cannot guard their livestock, why is it not food for this thing, as well? It is the natural life cycle that they've removed themselves from."""
+1617;MATT;"""""And why is it not the same with this creature? If they cannot guard their livestock, why is it not food for this thing, as well? It is the natural life cycle that they've removed themselves from."""""
 1618;ORION;When one has an establishment, when one grows its own crop, and one steals something, it is considered a crime.
-1619;MATT;"""Well, when one is not part of that civilization, but the civilization of the world as a whole, which requires hunting for what keeps you alive, perhaps that does not sink or hang on my conscience."""
+1619;MATT;"""""Well, when one is not part of that civilization, but the civilization of the world as a whole, which requires hunting for what keeps you alive, perhaps that does not sink or hang on my conscience."""""
 1620;ORION;Fair point.
 1621;MARISHA;Let's not let this escalate. Okay? What is your name?
-1622;MATT;"""I was once called Byron."""
+1622;MATT;"""""I was once called Byron."""""
 1623;MARISHA;Vyron?
-1624;MATT;"""Byron."""
+1624;MATT;"""""Byron."""""
 1625;MARISHA;Byron.
-1626;MATT;"""I have not heard my name nor spoken words for many years."""
+1626;MATT;"""""I have not heard my name nor spoken words for many years."""""
 1627;ORION;Would you not like to be called Byron, or would you like something else, like B-roy or B-man? My name's Tiberius Stormwind from Draconia.|And this is my friend Keyleth, who is also a druid. And we also have a friend who is a gnome who sings songs and whatnot.
 1628;MATT;The bird, now looking of much better health than it was when it arrived, now flutters its wings out in a stretching motion. And as it does, its head glides down and looks right towards you.|This giant beak that looks like it could snap you in two with a single bite.
 1629;MARISHA;I reach up to it and reach out to pet its beak.
@@ -1647,7 +1647,7 @@
 1645;MARISHA;I turn back to Byron--
 1646;SAM;And say, ow.
 1647;MARISHA;Yeah, and go, that hurt. Now. Please listen to me. Please, please listen to me. We did come here to kill the giant creature.
-1648;MATT;"""I had assumed."""
+1648;MATT;"""""I had assumed."""""
 1649;MARISHA;But upon seeing the situation, upon approach, realized the situation and decided amongst all of us that we did not want to bring such a great creature to its death.
 1650;MATT;Scanlan, you've landed by now. A pterodactyl. A cow-looking pterodactyl.
 1651;ORION;As he swoops, I've never seen anything quite like it.
@@ -1657,23 +1657,23 @@
 1655;MARISHA;20 total.
 1656;MATT;You have advantage on this because Tiberius is aiding you on this conversation.
 1657;MARISHA;I'll take that 20 total.
-1658;MATT;"All right. He looks at you. ""Well, shall you leave us, then?"""
+1658;MATT;"All right. He looks at you. """"Well, shall you leave us, then?"""""
 1659;MARISHA;Under one condition.
-1660;MATT;"""There's always a condition. You call yourself a druid, yet you speak like the civilized folk. I get the feeling that perhaps your connection to nature has not been tended to for some time."""
+1660;MATT;"""""There's always a condition. You call yourself a druid, yet you speak like the civilized folk. I get the feeling that perhaps your connection to nature has not been tended to for some time."""""
 1661;ORION;No, she really knows her stuff. I mean, we just fought this fire guy--
 1662;MARISHA;Just because one can appreciate nature, does not mean that one cannot also appreciate humanity.
-1663;MATT;"""Well, this beautiful creature is the only surviving young of a clutch, bred by a majestic roc high in the Cliffkeep Mountains. Its mother now lies dead, slain by the brutal giants that wander those peaks. This young'un is all that remains of that clutch and the memory of that blessed entity."""
+1663;MATT;"""""Well, this beautiful creature is the only surviving young of a clutch, bred by a majestic roc high in the Cliffkeep Mountains. Its mother now lies dead, slain by the brutal giants that wander those peaks. This young'un is all that remains of that clutch and the memory of that blessed entity."""""
 1664;TRAVIS;That's a young'un?
-1665;MATT;"This is a young one. ""This new home serves us well. Abundance of feed. Lack of large, predatory creatures. I believe this is where we'll stay."""
+1665;MATT;"This is a young one. """"This new home serves us well. Abundance of feed. Lack of large, predatory creatures. I believe this is where we'll stay."""""
 1666;MARISHA;Question. If this is a young, adolescent creature, what do you think of the destruction it could cause once it reaches full adulthood? Are you okay with having that on your conscience? This creature could result in the lives of many. If you relocate out of town, just a few miles. Say like 50 or 100 or so because this thing's really damn big. So I'm sure it's got a pretty big-- you know what I mean.
 1667;ORION;Or just the other way.
 1668;MARISHA;I will help you. I will personally come with you and tend to their safety. And make sure that their location is proper and safe, and handled with respect. Then you will be out of the harms of poachers. You can live off the land, and you can be free and alone.
-1669;MATT;"""Do you think we came straight to this mountain range? Do you think this is the first nest we've constructed? Me and this lone survivor have scoured the length of this side of Tal'Dorei.|This, as far as I can see, is the safest. It's the most ignored by nearby civilization."""
+1669;MATT;"""""Do you think we came straight to this mountain range? Do you think this is the first nest we've constructed? Me and this lone survivor have scoured the length of this side of Tal'Dorei.|This, as far as I can see, is the safest. It's the most ignored by nearby civilization."""""
 1670;MARISHA;Listen--
 1671;SAM;I'm going to drop Seeming and also drop my form of pterodactyl.
 1672;MATT;All of you now, your forms change. As this happens mid-sentence, it's noticed immediately by the gnome druid, who's like (gasps).
 1673;MARISHA;Yes! That is correct. Listen. We are being nice. Don't think that we will be the first.|You will have more people come and hunt you and kill this, as this beast continues. How long do you think you can survive waves of mercenaries coming to try and kill this? We are the nice ones.|I suggest you heed our warning, take our help, and save the life of you and your creature in the long run.
-1674;MATT;"""You have yet to provide a suitable alternative."""
+1674;MATT;"""""You have yet to provide a suitable alternative."""""
 1675;ORION;Oh! I might have an idea.
 1676;MARISHA;There is an alternative. Tiberius can tell you of that alternative.
 1677;ORION;Yes! See, your creature is rather large and powerful, yes? You have a rather strong bond with him, which is quite unique with such a unique looking creature.
@@ -1683,10 +1683,10 @@
 1681;MARISHA;Yeah, I don't know about that.
 1682;MATT;Go ahead and make a deception check.
 1683;ORION;That is a 24.
-1684;MATT;"""Whitestone. How far is this Whitestone?"""
+1684;MATT;"""""Whitestone. How far is this Whitestone?"""""
 1685;MARISHA;Wait! No! Hang on! No! This is getting out of control already. I will not let you all do this! No! Not today. You guys have caused enough problems. We are not going to push this creature on other people. I'm trying, all right? I'm working on it. I don't want to push this problem off on a town that's already being held hostage by vampires. That fucking sucks! That's double shitting on them.
 1686;ORION;Well, the other option was, like I was saying, perhaps you can form an agreement with Emon. I'm sure it would pay in livestock rather well for the protection of you, such a powerful druid, over at least a section of the land. In exchange for free food for your friend.
-1687;MATT;"""You, dragon man, are adorably naive of the ways of men and those that lie and deceive. I have yet to have met any civilized people who have kept their word when it came to creatures like this."""
+1687;MATT;"""""You, dragon man, are adorably naive of the ways of men and those that lie and deceive. I have yet to have met any civilized people who have kept their word when it came to creatures like this."""""
 1688;LAURA;Can I come forward? All right. What about Vasselheim? Not in the city, but outside of it.|There's plentiful forests, tons of giant creatures it could feed on.
 1689;ORION;That's right! That's true!
 1690;MARISHA;That actually is fairly true.
@@ -1712,13 +1712,13 @@
 1710;MARISHA;Listen. She's right. We have friends in Vasselheim. We can contact the Slayer's Take.|We're a part of their guild. We can tell them that you're coming. They'll not bother you. We can tell them they are not allowed to take out a contract on your creature. You will not be harmed.
 1711;LAURA;Don't bring up contracts, Keyleth. Maybe just don't even bring it up.
 1712;MARISHA;Because they don't have mercenaries out there. It has to be approved! So it's really good.
-1713;MATT;"""And what's to stop them from hunting down a majestic creature as rare as this one?"""
+1713;MATT;"""""And what's to stop them from hunting down a majestic creature as rare as this one?"""""
 1714;ORION;Us!
-1715;MATT;"""You, who live here in Emon?"""
+1715;MATT;"""""You, who live here in Emon?"""""
 1716;ORION;Yes. No, us who are members of the guild.
-1717;MATT;"""So you also are monster slayers, who come here under the guise to slay this monster?"""
+1717;MATT;"""""So you also are monster slayers, who come here under the guise to slay this monster?"""""
 1718;ORION;No! Not here. Other places that we're forced to do it. But still we're members.
-1719;MATT;"""It's too much talk."""
+1719;MATT;"""""It's too much talk."""""
 1720;TRAVIS;Can we kill this thing now? You guys are doing awesome.
 1721;MARISHA;I feel like I've done pretty damn good! Come on, man!
 1722;SAM;I start speaking in Gnome to him. Listen.|Earlier, you said that this place was perfect. It was safe. There were no large predators. Well, you're looking at six large predators. We'll keep hunting you down and hunting your beast down until you get out of here. This is your one and only warning. You must leave, and you must leave now.|We're giving you a good choice, a safe choice. We can help you get there and be safe there. But if you don't listen to us, we'll start killing.
@@ -1727,18 +1727,18 @@
 1725;SAM;Persuasion?
 1726;MATT;This is essentially a conversational skill challenge. So every success and failure leads towards where the conversation's going to end.
 1727;SAM;32.
-1728;MATT;"He gives you a look. Very intense, looking into your very essence-type stare. His little beady gnomish eyes meeting yours. (sighs) ""If we're going to make this journey to where you say this Vasselheim is, how far is it?"""
+1728;MATT;"He gives you a look. Very intense, looking into your very essence-type stare. His little beady gnomish eyes meeting yours. (sighs) """"If we're going to make this journey to where you say this Vasselheim is, how far is it?"""""
 1729;SAM;Several days' journey.
 1730;LAURA;It's just across the water. You could fly no problem over it.
-1731;MATT;"""Across the sea?"""
+1731;MATT;"""""Across the sea?"""""
 1732;TRAVIS;It's across the sea.
 1733;SAM;We can draw you a map. We can give you provisions. We'll even make sure the farmers provide you with a few pieces of livestock to chow down on before the journey. A parting gift to fuel up before the big ride. We can give you papers to hand to the Slayer's Take that will ensure that you'll be treated fairly.
 1734;ORION;I'll take out my Scroll of Telescription and start writing a note.
 1735;MATT;He looks back towards Keyleth, looks back at Scanlan, looks back at Keyleth, looks up at the bird.
 1736;MARISHA;Please. We really don't need another death on our conscience today.
-1737;MATT;"""Then looks like we don't have much of a choice, do we? If you can assure us enough food to get across on this journey, we'll make our way towards this Vasselheim. I pray on the solidarity between our kin, and our kin, that you speak the truth that resonates this moment. Because if it does not, may the fall of this entity and myself weigh on your conscience."""
+1737;MATT;"""""Then looks like we don't have much of a choice, do we? If you can assure us enough food to get across on this journey, we'll make our way towards this Vasselheim. I pray on the solidarity between our kin, and our kin, that you speak the truth that resonates this moment. Because if it does not, may the fall of this entity and myself weigh on your conscience."""""
 1738;ORION;I flip over the note that I'm writing to him and then I trigger it (flying noise) as he's reading it.
-1739;MATT;"All right. It (poof) vanishes. ""As the sun rises, two sizable pieces of livestock to be placed at the boundaries of the usual hunting site. If those are there, and it is taken without any sort of aggression, we'll take that as a sign that you are being honest, and we shan't bother you or your people any further."""
+1739;MATT;"All right. It (poof) vanishes. """"As the sun rises, two sizable pieces of livestock to be placed at the boundaries of the usual hunting site. If those are there, and it is taken without any sort of aggression, we'll take that as a sign that you are being honest, and we shan't bother you or your people any further."""""
 1740;SAM;I bow deeply and when I do, it goes (cowbell ringing).
 1741;MATT;For a moment, you think you hear a slight, uncontrollable chuckle from the gnome.
 1742;ORION;As that's going on, because we're going to head back right now to seal this up, right? Then I'll do my Teleportation Circle. Which is closer to the northeast: the Lyceum or the Keep?
@@ -1749,21 +1749,21 @@
 1747;MARISHA;Before he leaves. Well, wait! We've got to go to the farm.
 1748;SAM;We've got to go to the farmers. We've got to buy some cows off them.
 1749;MARISHA;And I tell him, if you're up that way, there's a druidic tribe, a little village called Pyrah. They're Fire Ashari. You can find their headmaster Cerkonos. He's a friend. You might find your people there. Who knows? Maybe friends will do you good.
-1750;MATT;"""Ashari, you say? My dealings with them have been mixed. Perhaps I'll keep my distance."""
+1750;MATT;"""""Ashari, you say? My dealings with them have been mixed. Perhaps I'll keep my distance."""""
 1751;LAURA;Can I see if there's any feathers dropped from the giant bird creature?
 1752;MATT;There are ample around.
 1753;LAURA;Can I grab a few of them?
 1754;MATT;As you go and reach up, slaps you across the knuckles.
 1755;LAURA;Can I have a feather that he dropped?
-1756;MATT;"""Why?"""
+1756;MATT;"""""Why?"""""
 1757;LAURA;Because they're beautiful. You have to admit they're beautiful.
-1758;MATT;"(sighs) ""Elves. All right."""
+1758;MATT;"(sighs) """"Elves. All right."""""
 1759;LAURA;Thank you.
 1760;MATT;You take three roc feathers.
 1761;TRAVIS;They're huge, right?
 1762;MATT;Yeah. They're almost boat size.
 1763;ORION;I put one in my Bag of Holding, too.
-1764;MATT;"You guys manage to get one for you and three for you guys before he's like, ""Now go! Now! My patience wears thin. I'm through with talking words."" (sighs)"
+1764;MATT;"You guys manage to get one for you and three for you guys before he's like, """"Now go! Now! My patience wears thin. I'm through with talking words."""" (sighs)"
 1765;SAM;Sorry.
 1766;LIAM;I walk out from behind him and just walk past.
 1767;MATT;(yelps)
@@ -1781,7 +1781,7 @@
 1779;LAURA;That's way more than I expected.
 1780;MATT;Because they can be used for meat, they can be used for milk.
 1781;LAURA;40 gold each to make up for the loss of your cows.
-1782;MATT;"""Thank you so much. I greatly appreciate you helping with this. And you promise, this will--"""
+1782;MATT;"""""Thank you so much. I greatly appreciate you helping with this. And you promise, this will--"""""
 1783;SAM;Yes, just put them out in the open field.
 1784;TRAVIS;We'll take them.
 1785;SAM;Oh, we'll take them?
@@ -1808,4 +1808,4 @@
 1806;MATT;Well, just imagine a giant bird that grabs you and then drops you off the side of a mountain.|Would have been an interesting fight. Cool. That concludes a unique Percy-less bottle episode of Critical Role.
 1807;TRAVIS;Squadron of cows.
 1808;MATT;Squadron of flying midnight cows. That is probably the weirdest thing that's ever-- no, there's been weirder. That's in the top five of weird things that's happened in DND for me.
-1809;SAM;"Fighting ""formootion."" (groaning) [end of transcript]"
+1809;SAM;"Fighting """"formootion."""" (groaning) [end of transcript]"

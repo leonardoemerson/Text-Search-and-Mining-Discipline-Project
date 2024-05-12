@@ -43,7 +43,7 @@ for episode_name in tqdm(episodes_url):
             dic_transcriptions["Player_Name"].append(player_name)
             current_line += 1
         elif tag.name == "dd":
-            transcript = tag.get_text().strip().replace(" →", "")
+            transcript = tag.get_text().strip().replace(" →", "").replace('"', '""')
             if len(dic_transcriptions["Transcription_Text"]) < current_line:
                 dic_transcriptions["Transcription_Text"].append(transcript)
             else:

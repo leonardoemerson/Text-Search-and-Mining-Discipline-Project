@@ -186,7 +186,7 @@
 184;LAURA;Is Allura still here? Is Allura still around?
 185;MATT;Allura is still around.
 186;LAURA;Allura, do you know anyone in Fort Daxio?
-187;MATT;"""Unfortunately, the one member I know is the Warmaster, Mikael Daxio, the father of Riskel. But as far as I know, he is currently sealed off in Syngorn with the rest of the army."""
+187;MATT;"""""Unfortunately, the one member I know is the Warmaster, Mikael Daxio, the father of Riskel. But as far as I know, he is currently sealed off in Syngorn with the rest of the army."""""
 188;LAURA;Right. Shit.
 189;MARISHA;Okay, hang on, wait. Is Fort Daxio near Syngorn?
 190;LAURA;No. The army, remember, part of the army got sent to Syngorn, and then Syngorn bamfed away.
@@ -198,11 +198,11 @@
 196;MARISHA;I am going to go and see if I can find one of the Whitestone guards.
 197;MATT;Make an investigation check.
 198;MARISHA;"Oh! I am not good at these. I think that it's a 12; let me double check my investigation.|I don't do this a whole lot. Yeah, 12."
-199;MATT;"Okay. You spend the next 30 minutes asking around for various guards, and the few that you do know that are from Emon are like, ""I don't really know anyone from Daxio. It's very regimented. I wasn't interested in the military, I wanted to more sit around the city and get paid to wear armor."""
+199;MATT;"Okay. You spend the next 30 minutes asking around for various guards, and the few that you do know that are from Emon are like, """"I don't really know anyone from Daxio. It's very regimented. I wasn't interested in the military, I wanted to more sit around the city and get paid to wear armor."""""
 200;MARISHA;So they're more militant? Or like, the army?
-201;MATT;"""It is where the military is, yeah."""
+201;MATT;"""""It is where the military is, yeah."""""
 202;MARISHA;You don't have any army friends? Are there any army friends here?
-203;MATT;"""I think there are a few here that at least might know that, but I am not one of them. Sorry."""
+203;MATT;"""""I think there are a few here that at least might know that, but I am not one of them. Sorry."""""
 204;MARISHA;Where? Where? Point me.
 205;MATT;(shouting) I don't know! That way!
 206;MARISHA;(shouting) All right! I go that way!
@@ -218,17 +218,17 @@
 216;SAM;Kraghammer is near-ish.
 217;MARISHA;All right, let's go talk to Gilmore.
 218;LAURA;That's true.
-219;MATT;"Okay. As the rest of your council has essentially scattered throughout Whitestone Castle since your meeting, Gilmore is easy to find, beginning to make his way out of the castle down towards his homestead, and prepare what he has for the coming struggle. So as you intercept him walking down the outside, he says: ""Oh, hi! I'm sorry. What did you need?"""
+219;MATT;"Okay. As the rest of your council has essentially scattered throughout Whitestone Castle since your meeting, Gilmore is easy to find, beginning to make his way out of the castle down towards his homestead, and prepare what he has for the coming struggle. So as you intercept him walking down the outside, he says: """"Oh, hi! I'm sorry. What did you need?"""""
 220;SAM;Do you know anyone in Fort Daxio? Please say yes.
-221;MATT;"(chuckles, sighs) ""You know, I believe I have had a couple of people come through my establishment."""
-222;TRAVIS;"Is that what they call it? ""Come through my establishment?"""
+221;MATT;"(chuckles, sighs) """"You know, I believe I have had a couple of people come through my establishment."""""
+222;TRAVIS;"Is that what they call it? """"Come through my establishment?"""""
 223;TALIESIN;Yes, that is exactly what they call it when you have an establishment.
-224;MATT;"""That is actually exactly what they call it, Grog."""
+224;MATT;"""""That is actually exactly what they call it, Grog."""""
 225;MARISHA;I mean, we don't necessarily need to know anybody if you happen to know a very fast way to get to Daxio.
-226;MATT;"""I mean, there are magics that can get a person there quickly, but--"""
+226;MATT;"""""I mean, there are magics that can get a person there quickly, but--"""""
 227;LAURA;Are there trees? Are there lots of trees? It's grassland.
 228;LIAM;Shaun, could you send one of us there? Is that possible by any chance?
-229;MATT;"""Let me think."""
+229;MATT;"""""Let me think."""""
 230;LAURA;One? Why one?
 231;LIAM;"Because if one of us goes with the Gatestone, Keyleth can jump over, she can see trees there, she can tree her way back here. I mean, I don't know; I'm spitballing."
 232;LAURA;It seems like a really long process--
@@ -237,7 +237,7 @@
 235;SAM;No, Keyleth can scry on you once you're there, and see the tree.
 236;LAURA;Fabulous. Send one of us over there.
 237;MARISHA;Yeah! Yeah.
-238;MATT;"He says: ""Well, I can't. But Allura might be able to help with that. Ask her?"""
+238;MATT;"He says: """"Well, I can't. But Allura might be able to help with that. Ask her?"""""
 239;MARISHA;All right. Back to Allura.
 240;SAM;(sings Yakety Sax)
 241;LIAM;Chickens with our heads cut off, eh?
@@ -246,31 +246,31 @@
 244;MARISHA;Trip three times.
 245;MATT;Exactly. Apparently, Gilmore doesn't seem to have access to the type of translocation magic you're asking about.
 246;MARISHA;All right.
-247;MATT;"You eventually find your way to Allura in Whitestone Castle, who is currently having a conversation with Cassandra. She turns back to you, and as you ask the same question, she responds with a: ""I actually do have prepared-- I can bring up to eight other individuals with me."""
+247;MATT;"You eventually find your way to Allura in Whitestone Castle, who is currently having a conversation with Cassandra. She turns back to you, and as you ask the same question, she responds with a: """"I actually do have prepared-- I can bring up to eight other individuals with me."""""
 248;LAURA;Oh! How perfect!
 249;TRAVIS;Wait, wait. One... Somebody else do this.
 250;LAURA;We're good.
 251;ASHLEY;I think we're okay. It's just right.
 252;MARISHA;Are you fine doing that?
-253;MATT;"""Yes. I can only go there, so we have to have some way of returning, which I believe you can handle that. All right?"""
+253;MATT;"""""Yes. I can only go there, so we have to have some way of returning, which I believe you can handle that. All right?"""""
 254;MARISHA;I can get us back, yeah.
-255;MATT;"""All right. Then whenever you are ready, I suppose."""
+255;MATT;"""""All right. Then whenever you are ready, I suppose."""""
 256;LAURA;Great.
 257;LIAM;Now's as good a time as any. Yeah.
-258;MATT;"""All right, gather round."" She puts her arms out and gestures for you to reach in like a hand circle."
+258;MATT;"""""All right, gather round."""" She puts her arms out and gestures for you to reach in like a hand circle."
 259;ASHLEY;Come on Grog.
 260;SAM;Are we taking Kima?
 261;LAURA;Kima! Can we take Kima?
 262;SAM;Do we want to take Kima?
-263;MATT;"""Of course! I have to go get her"""
+263;MATT;"""""Of course! I have to go get her"""""
 264;LIAM;One too many though, isn't it?
 265;LAURA;No. This is perfect.
 266;LIAM;I swore she said eight. Or eight along with her?
-267;MATT;"""Eight along with me."""
+267;MATT;"""""Eight along with me."""""
 268;TRAVIS;We're just reconning.
 269;LAURA;Yeah, it's fine. Let's just go.
 270;LIAM;You know, we always take her and leave you.|Why don't we flip that?
-271;MATT;"""Just don't tell her. She gets a bit testy when she's not included. All right, very well."" She takes your hands. Some of you close your eyes, some of you don't. That familiar rush of warmth underneath your stomach begins fill--"
+271;MATT;"""""Just don't tell her. She gets a bit testy when she's not included. All right, very well."""" She takes your hands. Some of you close your eyes, some of you don't. That familiar rush of warmth underneath your stomach begins fill--"
 272;TRAVIS;(fart noise)
 273;MATT;"Your chest cavity... (laughs). Grog poots out the side and it distracts you momentarily, before you watch the ground beneath you; this line of blue arcane energy begins to link each one of your feet together in a circle. As it does, these star-like extensions begin to appear out in the center, and as soon as they all meet into one crystalline structure, there is a flash of light.|Your vision goes white, and as it slowly adjusts to the daylight, this light breeze soothing you, you look around and see yourselves now standing in the Othendin Pass, which is this large rocky ravine that rides up on each side of you to these tall, cliff side edges of the very very southwest side of the Cliffkeep Mountains. This is far north of Emon. While you see the ground itself is very cracked land, you can see dry and long dead bushes, you can see bits and pieces of dead trees that have for a long time been petrified, broken over or been left without much of an actual fertile ground to exist in. You glance off to the eastern side of your direction, and you can see a very large cluster of reddish-brown trees; a forest there that has long died, or at least is definitely in the fall season type of color change. But the vegetation around here is very sparse, very scrub and in some cases very dry and dead. You do see to the immediate northwest of your current location, clinging to the side of the mountain cliff, what you assume is Fort Daxio: a massive stronghold, built of gray and brown stone, an outer wall perimeter that completely surrounds it, buttressed against each side of the cliff, and within, you can see a multi-tiered fortress structure within, built specifically for defending against any sort of army siege or incursion."
 274;LAURA;Wow, that is way bigger than I expected it to be.
@@ -341,7 +341,7 @@
 339;LIAM;Do you want to hold up Pike, as we walk closer?
 340;ASHLEY;I can whip my hair.
 341;ALL;(singing) I whip my hair back and forth. I whip my hair back and forth.
-342;MATT;"Yeah, it's 5th-level, you can do that.|(laughter)|As you guys begin to approach the outside of Fort Daxio, you can see a number of the figures on the wall beginning to move faster and gathering at edges. You can see one of a few defensive ballistae being locked in. Allura begins stepping into the front, and she puts her hand out and says: ""Don't worry, let me do the talking for this."""
+342;MATT;"Yeah, it's 5th-level, you can do that.|(laughter)|As you guys begin to approach the outside of Fort Daxio, you can see a number of the figures on the wall beginning to move faster and gathering at edges. You can see one of a few defensive ballistae being locked in. Allura begins stepping into the front, and she puts her hand out and says: """"Don't worry, let me do the talking for this."""""
 343;SAM;Ooh, okay!
 344;MATT;As you guys begin to approach the gate, you hear a small horn give off this arrival notification. This: (pathetic horn noise). But deeper and much cooler sounding than that.|(laughter)
 345;LIAM;(air horn)
@@ -364,18 +364,18 @@
 362;TALIESIN;And no horns.
 363;MATT;(deep and cool horn sound) (cheering)|There you go! To make you happy.
 364;LIAM;"I don't do horns; they sicken me."
-365;MATT;"That's more hit points on Thordak. Just keep a tally. All right. As you approach, and begin to gather and Allura steps forward, she takes a few more steps and then stops, puts her other hand up to give you a signal to hold back. She speaks out across the expanse: ""Arcanist Allura Vysoren, member of the Tal'Dorei Council, here with allies to speak with who resides within. Will you allow us passage?"" There's a pause. You hear the sound of the ballista crank being loosened. And then you see the two front gates slightly open.|She puts her hands down. ""Very well, walk with me."""
+365;MATT;"That's more hit points on Thordak. Just keep a tally. All right. As you approach, and begin to gather and Allura steps forward, she takes a few more steps and then stops, puts her other hand up to give you a signal to hold back. She speaks out across the expanse: """"Arcanist Allura Vysoren, member of the Tal'Dorei Council, here with allies to speak with who resides within. Will you allow us passage?"""" There's a pause. You hear the sound of the ballista crank being loosened. And then you see the two front gates slightly open.|She puts her hands down. """"Very well, walk with me."""""
 366;LAURA;"They didn't even check us out; just letting us in. Be on your guard. They're too trusting."
 367;SAM;Okay.
 368;MATT;As you guys approach the gates and begin to walk through, you can see there is about 15 guards stationed above the top that all have cocked crossbows, that are trained on you guys--
 369;LAURA;Never mind!
-370;MATT;"Not directly ready to fire, but cautiously watching you as you progress. Allura leads through, leading you guys into the main entryway, and as you walk into this front area, the pseudo-courtyard or central area between the wall and the stronghold itself, the same cracked exterior. But you can see there is a trebuchet over there. There are countersiege weaponry. Some of it unused for a while and probably in need of some level of repair. You do see a number of other armored individuals, and the armor you see on the military stationed here is much more than the armors of Emon, or any of the local guard that you are used to. These are very heavy, regimented plate, tower shields, you can see spears that are very nasty looking and very strong in construction. A lot of these almost resemble a lot of the dwarven make you saw in Kraghammer before.|So whether this is an alliance through Kraghammer and Emon that came to this, or the design was borrowed to some extent, a lot of the armor is more square and bulky than the more refined armor you have seen in more southern areas of the Tal'Dorei continent. Immediately, as you step in, while the guards still have their weapons trained on you on the other side of the wall, you see ten individuals approaching, armored. You can see these individuals, their shields are large, heavy tower shields, with a goldish, circular symbol on the front that has an inlay that's almost like a polished mirror. Like, a big old oval mirror as part of the center shield itself. As these armored individuals approach, one of them in the center has her helm off, and seems to be leading this push to greet you at that front. You see a woman, very stern look, dark skinned, very short ebony hair and a very tough, dour expression on her face as she quickly brushes up towards the front, and as she steps forward, she slams her shield into the ground, and gives a nod as the rest of the soldiers stop. She bows her head, and goes: ""Allura. We finally have answer from the council.|It's been silence for weeks."" Allura bows her head, and says, ""Well, General, let me introduce you to our allies here. These are Vox Machina.|They are friends. They are--"" And the general breaks once more into the conversation, and says: ""That's fine! So you are here with your allies.|Any word from Mikael? Any word from the rest of the regiments?"""
+370;MATT;"Not directly ready to fire, but cautiously watching you as you progress. Allura leads through, leading you guys into the main entryway, and as you walk into this front area, the pseudo-courtyard or central area between the wall and the stronghold itself, the same cracked exterior. But you can see there is a trebuchet over there. There are countersiege weaponry. Some of it unused for a while and probably in need of some level of repair. You do see a number of other armored individuals, and the armor you see on the military stationed here is much more than the armors of Emon, or any of the local guard that you are used to. These are very heavy, regimented plate, tower shields, you can see spears that are very nasty looking and very strong in construction. A lot of these almost resemble a lot of the dwarven make you saw in Kraghammer before.|So whether this is an alliance through Kraghammer and Emon that came to this, or the design was borrowed to some extent, a lot of the armor is more square and bulky than the more refined armor you have seen in more southern areas of the Tal'Dorei continent. Immediately, as you step in, while the guards still have their weapons trained on you on the other side of the wall, you see ten individuals approaching, armored. You can see these individuals, their shields are large, heavy tower shields, with a goldish, circular symbol on the front that has an inlay that's almost like a polished mirror. Like, a big old oval mirror as part of the center shield itself. As these armored individuals approach, one of them in the center has her helm off, and seems to be leading this push to greet you at that front. You see a woman, very stern look, dark skinned, very short ebony hair and a very tough, dour expression on her face as she quickly brushes up towards the front, and as she steps forward, she slams her shield into the ground, and gives a nod as the rest of the soldiers stop. She bows her head, and goes: """"Allura. We finally have answer from the council.|It's been silence for weeks."""" Allura bows her head, and says, """"Well, General, let me introduce you to our allies here. These are Vox Machina.|They are friends. They are--"""" And the general breaks once more into the conversation, and says: """"That's fine! So you are here with your allies.|Any word from Mikael? Any word from the rest of the regiments?"""""
 371;LAURA;They're in Syngorn.
-372;MATT;"""Still? In Syngorn?"""
+372;MATT;"""""Still? In Syngorn?"""""
 373;LAURA;As far as we know.
-374;MATT;"""All right. Well."" (sighs) You see the tension that's been building in her since she approached you guys begins to slowly fade with this sense of digesting the difficulty of the situation. There's an awkward pause and Allura says, ""Can we speak in less--"" She looks up at the rest of the battlements, ""--less armed circles, if you don't mind?"" The general looks up and nods.|""Very well. My apologies. I am General Elle Gorgofon."""
+374;MATT;"""""All right. Well."""" (sighs) You see the tension that's been building in her since she approached you guys begins to slowly fade with this sense of digesting the difficulty of the situation. There's an awkward pause and Allura says, """"Can we speak in less--"""" She looks up at the rest of the battlements, """"--less armed circles, if you don't mind?"""" The general looks up and nods.|""""Very well. My apologies. I am General Elle Gorgofon."""""
 375;LAURA;Elle Gorgofon?
-376;MATT;"""Elle Gorgofon. I am the commander of the Aegis Regiment and I welcome you, for the time being, to Fort Daxio. Follow me."" She turns on her heel and begins to march at a very brisk pace back towards the stronghold itself. The other soldiers turning around as well. Allura gives you all a head nudge to follow suit."
+376;MATT;"""""Elle Gorgofon. I am the commander of the Aegis Regiment and I welcome you, for the time being, to Fort Daxio. Follow me."""" She turns on her heel and begins to march at a very brisk pace back towards the stronghold itself. The other soldiers turning around as well. Allura gives you all a head nudge to follow suit."
 377;SAM;Okay! Yeah! Let's go. This is going great. We haven't even done anything wrong yet.
 378;TALIESIN;Give us time.
 379;MATT;As you're walking around, Keyleth, Vex, and Vax, looking over the number of soldiers that are here, you have roughly 20 or so you see on the top of the wall, maybe 25 to 30 that occasionally are stepping around the base of it or the interior of this main courtyard. For the entirety of the army of Emon, the regiment that's here, doesn't seem to be very busy or very well--
@@ -398,36 +398,36 @@
 396;TALIESIN;I'm going to take this moment to change out my attunement for my gloves from my sword. I'm going to put my gloves on and unattune to my sword.
 397;MATT;Okay.
 398;LAURA;General, how many soldiers does this fort support?
-399;MATT;"As she enters the chamber ahead of you and turns around and sits in her chair, her shield set to the side. ""We currently now, as the Aegis Regiment, have a grand total of 225 soldiers."""
+399;MATT;"As she enters the chamber ahead of you and turns around and sits in her chair, her shield set to the side. """"We currently now, as the Aegis Regiment, have a grand total of 225 soldiers."""""
 400;SAM;Pretty good.
 401;LAURA;And how many can be here?
-402;MATT;"""As far as all the regiments?"""
+402;MATT;"""""As far as all the regiments?"""""
 403;LAURA;Yeah.
-404;MATT;"""We're looking at, between how many survive or return from Syngorn, close to 2,000."""
+404;MATT;"""""We're looking at, between how many survive or return from Syngorn, close to 2,000."""""
 405;LAURA;(quietly) All right.
 406;SAM;So you have 225 here currently?
-407;MATT;"""We do."""
+407;MATT;"""""We do."""""
 408;SAM;And how is morale? Everyone have enough supplies and ready to defend the fort if needed?
-409;MATT;"""To be perfectly honest--"" And the door closes behind you as two of the guards step in front and watch it as you all find your seats or at least stand in the space. General Elle goes, ""To be perfectly honest, we are very low on supplies. Any of the trade routes to and from Kraghammer have been constantly harried by wyvern riders. We've had to defend our location a couple times by some errant wandering sentinel wyvern riders. It's been-- (sighs) We're on the edge of starvation."""
+409;MATT;"""""To be perfectly honest--"""" And the door closes behind you as two of the guards step in front and watch it as you all find your seats or at least stand in the space. General Elle goes, """"To be perfectly honest, we are very low on supplies. Any of the trade routes to and from Kraghammer have been constantly harried by wyvern riders. We've had to defend our location a couple times by some errant wandering sentinel wyvern riders. It's been-- (sighs) We're on the edge of starvation."""""
 410;TRAVIS;Shit. Pardon my bluntness, but any flybys by Thordak himself?
-411;MATT;"""Thankfully, no. He would tear into this place in but an instant. We only have bits of information we've had from few scouts we've sent southward. We've had some conversations to and from Emon, but only half of them have even returned, and those that have say that it's a very dire situation, so we've been awaiting any word we can from Mikael-- sorry, from the Warmaster-- and nothing. So as far as I know, and have known, we are on our own and left possibly to die while the rest of this entire country burns to the ground.|So seeing some seemingly friendly faces--"" And she nods towards Allura, ""--is the best news I've had in a very long time."""
+411;MATT;"""""Thankfully, no. He would tear into this place in but an instant. We only have bits of information we've had from few scouts we've sent southward. We've had some conversations to and from Emon, but only half of them have even returned, and those that have say that it's a very dire situation, so we've been awaiting any word we can from Mikael-- sorry, from the Warmaster-- and nothing. So as far as I know, and have known, we are on our own and left possibly to die while the rest of this entire country burns to the ground.|So seeing some seemingly friendly faces--"""" And she nods towards Allura, """"--is the best news I've had in a very long time."""""
 412;LAURA;In your Warmaster's defense, it might be beyond his control to get back here.
 413;TALIESIN;Things are dire.
 414;MARISHA;Thordak is changing the entire landscape to be very similar to the Fire Plane.
 415;LAURA;And he's stuck in the Feywild.
-416;MATT;"""Who's stuck in the Feywild?"""
+416;MATT;"""""Who's stuck in the Feywild?"""""
 417;LAURA;The Warmaster, here.
-418;MATT;"""Mikael?"""
+418;MATT;"""""Mikael?"""""
 419;LAURA;Yeah, Mikael.
 420;MARISHA;All of Syngorn, actually.
 421;SAM;Are we telling them this?
 422;LAURA, TALIESIN;Why not?
-423;MATT;"""Well, at least I know that they weren't wiped out, and that's good news. But still, we're not enough to even attempt an incursion on Emon by our own."""
+423;MATT;"""""Well, at least I know that they weren't wiped out, and that's good news. But still, we're not enough to even attempt an incursion on Emon by our own."""""
 424;TALIESIN;Well, that is true, and that is the purpose for our visit.
 425;TRAVIS;We may be able to help, though. At least where resources are concerned.
 426;TALIESIN;Oh, I would say so. We have to. That will be job one.
 427;MARISHA;How is the land around the fort? Do you have any farm land currently?
-428;MATT;"""What little bit grows here is not of the edible variety. We have to rely on the farmlands of Emon for most of our produce, and those have dried up, so we've been left to hunting and slaughtering what is available, which is not much these days, as we're constantly in battle with the giants of the north to keep some semblance of food intake to keep our soldiers fed and living."""
+428;MATT;"""""What little bit grows here is not of the edible variety. We have to rely on the farmlands of Emon for most of our produce, and those have dried up, so we've been left to hunting and slaughtering what is available, which is not much these days, as we're constantly in battle with the giants of the north to keep some semblance of food intake to keep our soldiers fed and living."""""
 429;SAM;(quietly) We can help a little with that, right?
 430;TALIESIN;Oh, yes. And we'll have to.
 431;LAURA;Maybe throw some food through a tree when we open it up, just chuck some corn.
@@ -440,37 +440,37 @@
 438;TRAVIS;To here?
 439;TALIESIN;To here. Everything will be coming here, if things go the way that we hope they will.
 440;TRAVIS;General, can I ask, are you close with Mikael?
-441;MATT;"""I've been under him for 15 years, yes."""
+441;MATT;"""""I've been under him for 15 years, yes."""""
 442;TRAVIS;Consider yourself friends?
-443;MATT;"""Friends?"""
+443;MATT;"""""Friends?"""""
 444;LIAM;You're the worst.
 445;TRAVIS;I mean, it didn't even take a second. Not one second. Have you no decency?
 446;TALIESIN;I specifically looked left, hoping.
 447;MATT;(clears throat)
 448;LAURA;Sorry. You've been under him for how long?
-449;MATT;"""15 years."""
+449;MATT;"""""15 years."""""
 450;LAURA;15 years. Long time.
 451;TRAVIS;Pick a fight. Pick a fight with the general, then. Good. That's good.
-452;MATT;"""Allura, are these trusted?"" And Allura nods. ""Very. They have a thought. More of a plan.|A plan that if it works should put us in a much more advantageous position in the conflict with the Chroma Conclave. Please, give them your ear.|Give them your respect. They've proven time and time again to be capable."""
+452;MATT;"""""Allura, are these trusted?"""" And Allura nods. """"Very. They have a thought. More of a plan.|A plan that if it works should put us in a much more advantageous position in the conflict with the Chroma Conclave. Please, give them your ear.|Give them your respect. They've proven time and time again to be capable."""""
 453;MARISHA;Forgive us, we've just been through a lot, Elle.
 454;TALIESIN;We've actually already killed three of the five Chroma Conclave.
-455;MATT;"She leans back in her chair. ""Is this true?"""
+455;MATT;"She leans back in her chair. """"Is this true?"""""
 456;MARISHA;I reach in and I pull out one of the teeth and throw it on the table.
 457;TALIESIN;You can't just keep giving those away.
-458;MATT;"She catches it in the middle. She gives you a very stern look, and eyeing you over, trying to give you a read and then slowly it goes from group to group. ""Well, then perhaps this is our salvation."" Throws the tooth back to you."
+458;MATT;"She catches it in the middle. She gives you a very stern look, and eyeing you over, trying to give you a read and then slowly it goes from group to group. """"Well, then perhaps this is our salvation."""" Throws the tooth back to you."
 459;MARISHA;Did you see that?
 460;LAURA;That was a good catch.
 461;MARISHA;Thanks, guys.
 462;TALIESIN;Before we get ahead of ourselves, our hope is that we think we can lure Thordak out of the city, and we think we can get him into a piece of terrain that gives us the advantage. We were hoping this would be where we consolidate our forces and make a stand against him.
-463;MATT;"""You wish to bring the Cinder King here?"""
+463;MATT;"""""You wish to bring the Cinder King here?"""""
 464;SAM;Not just the Cinder King. We would also bring allies to support you and to buffer your forces and hopefully with enough planning time to get you and your men back on their feet, well fed and ready for a fight.
 465;LAURA;We're hoping we'll be able to bring Mikael and Syngorn's army back as well.
 466;SAM;Mikael's navy.
 467;LIAM;Yes.
 468;TALIESIN;I hate you all. We either face him in his home, in his terrain, with his guards everywhere, with people we cannot trust everywhere, or we lure him out and we bring him somewhere where we know the terrain, where we have places to hide, where we are prepared for him.
-469;MATT;"She nods and leans forward, putting one hand over the other and her elbows on the edge of her knees on her chair. ""And what makes you think a creature of such power and intelligence would ever leave such an advantageous position to be vulnerable?"""
+469;MATT;"She nods and leans forward, putting one hand over the other and her elbows on the edge of her knees on her chair. """"And what makes you think a creature of such power and intelligence would ever leave such an advantageous position to be vulnerable?"""""
 470;SAM;To kill us. We are the bait, and we are also the dragon killer. So he will come here to kill us, or to at least investigate our whereabouts, we hope, and when he arrives, we'll wait in ambush.
-471;MATT;"""Very well. If you're confident, you have Fort Daxio and the Aegis Regiment behind you. I just hope you know what you're doing."""
+471;MATT;"""""Very well. If you're confident, you have Fort Daxio and the Aegis Regiment behind you. I just hope you know what you're doing."""""
 472;TRAVIS;Oh, we do. We've killed, like, a number of them and none of us have died yet.
 473;LAURA;Not even a little bit.
 474;TRAVIS;We started with this many, and this many is still here, is what I mean.
@@ -482,24 +482,24 @@
 480;TALIESIN;There's no guarantees, but this is the best bet. This is the best place for us at this point. I'm sure you understand. There are no guarantees.
 481;LAURA;Do you have underground facilities? Something that guards against dragon fire?
 482;MARISHA;We noticed a few of the trebuchets when we walked in. How many of those do you have?
-483;MATT;"""Functional? Three."""
+483;MATT;"""""Functional? Three."""""
 484;TALIESIN;We can work on that.
 485;MARISHA;Percy?
 486;LAURA;How many non-functional?
-487;MATT;"""12."""
+487;MATT;"""""12."""""
 488;TALIESIN;We can work on that.
-489;MATT;"""Very not functional. Look, siege warfare hasn't been necessary for a very long time, let alone counter-siege. Fort Daxio hasn't been under attack in close to 200 years."""
+489;MATT;"""""Very not functional. Look, siege warfare hasn't been necessary for a very long time, let alone counter-siege. Fort Daxio hasn't been under attack in close to 200 years."""""
 490;LAURA;It could happen. When was the last time ancient dragons took over the land?
-491;MATT;"""Which is exactly why we don't have any dragon fire-protected subterranean tunnels. My apologies, but, you know, even our budgets are limited."""
+491;MATT;"""""Which is exactly why we don't have any dragon fire-protected subterranean tunnels. My apologies, but, you know, even our budgets are limited."""""
 492;TALIESIN;Well, we can get to work. We can get people in. We can start making this place ready and we can start making a plan. We have a lot of power and a lot of energy at our disposal.
 493;TRAVIS;Yeah, it's a montage waiting to happen.
-494;MATT;"""How soon do you imagine this to transpire?"""
+494;MATT;"""""How soon do you imagine this to transpire?"""""
 495;LAURA;The montage?
 496;MARISHA;Oh, we can get started right now!
-497;MATT;"""No, I mean, call-- wait, wait, wait!"" She waves her hand and interrupts the montage.|""Wait, wait, wait, wait."""
+497;MATT;"""""No, I mean, call-- wait, wait, wait!"""" She waves her hand and interrupts the montage.|""""Wait, wait, wait, wait."""""
 498;TRAVIS;(singing) Going to build some tunnels, make them look real cool!
 499;SAM;It will take us a few days, if not weeks, to summon all of our allies here, and we'll need to get your forces ready as well. Is this something that you can fully support? Would you rather fight bravely against a dragon than die a slow starvation death?
-500;MATT;"""We exist here as protectors of Emon and the Council of Tal'dorei. With the current state of things, what's left of those things we choose and have given ourselves to protect, if we can we will. So yes."""
+500;MATT;"""""We exist here as protectors of Emon and the Council of Tal'dorei. With the current state of things, what's left of those things we choose and have given ourselves to protect, if we can we will. So yes."""""
 501;SAM;Okay.
 502;TALIESIN;Well, step one is food, then.
 503;TRAVIS;Yeah, resources and food.
@@ -540,7 +540,7 @@
 538;SAM;Sure. Yeah. We can have a bread line going in and out.
 539;TRAVIS;In the meantime, Percy could take a look at some of the weaponry. Maybe look at building a tunnel, or a bunker.
 540;SAM;General, when's the next feeding time for your next shift of men?
-541;MATT;"""We've had to relegate it to just morning and afternoon meals to help ration our supplies.|So I would say four hours til dusk, that would be the next allotted mess time."""
+541;MATT;"""""We've had to relegate it to just morning and afternoon meals to help ration our supplies.|So I would say four hours til dusk, that would be the next allotted mess time."""""
 542;TALIESIN;Can this actually work? Can we use the spell this way?
 543;SAM;What, the mansion? Sure, I think so. Right?
 544;MATT;It's a unique way of utilizing it, but I don't see why not.
@@ -578,13 +578,13 @@
 576;MARISHA;It's like that Fallout minigame that they came out with, the app. Basically that.
 577;TRAVIS;Do we want to crack out the mansion?
 578;SAM;Yeah, sure. I'll crack out the mansion. Where should I put it, General Elle?
-579;MATT;"""I'm not entirely certain as to what you're attempting to do here."""
+579;MATT;"""""I'm not entirely certain as to what you're attempting to do here."""""
 580;SAM;Oh, I'm sorry. Through magical means. We are all, not to brag, we are all super powerful. We're like a band of traveling superheroes. One of the things that I can do is make a room or a home, a magical home, where everyone can go in and get a quick meal and then go back out to work again. So with your permission and a location, I can create this magical dwelling.
-581;MATT;"Keeping her eyes trained on you, she leans over towards Allura. ""I can't tell, is the little man fucking with me?"""
+581;MATT;"Keeping her eyes trained on you, she leans over towards Allura. """"I can't tell, is the little man fucking with me?"""""
 582;TALIESIN;He gets that a lot.
-583;MATT;"Allura goes, ""Usually, yes, but no, he's being completely honest right now."" ""Then, by all means, yes."""
+583;MATT;"Allura goes, """"Usually, yes, but no, he's being completely honest right now."""" """"Then, by all means, yes."""""
 584;SAM;Is there a spot where you would like your men to--
-585;MATT;"""Follow me to the mess hall."" She seems legitimately spooked and unsure what to make of you, but leads you on anyway."
+585;MATT;"""""Follow me to the mess hall."""" She seems legitimately spooked and unsure what to make of you, but leads you on anyway."
 586;SAM;Most women are.
 587;MATT;But yeah, you can set up in the mess hall entranceway. There is a large hall with long tables and she says that would be probably the most optimal place to go ahead and set up shop there.
 588;MARISHA;Question.
@@ -615,7 +615,7 @@
 613;MATT;The three that are still semi-functional are pulled back about 60 or so feet from the edge of the walls, and then the rest of them have actually been wheeled over into the corner and have all been jammed up on the edge, unused and not to take up space.
 614;TALIESIN;Okay. That'll start, at least. I'm going to look for any improvements that can be made in defensive measures against flying creatures in any way. If we use some Stone Shape, we can make this even more defendable against flying creatures, et cetera.
 615;TRAVIS;General? Just because, like, I'm an inquisitive mind, what is the travel time from here to Emon on foot, on a beast? Those two.
-616;MATT;"""On foot, I'd say it would put you at about five to six days. Horseback, straight through without sleep and running the beast into the ground, you could do it in a day."""
+616;MATT;"""""On foot, I'd say it would put you at about five to six days. Horseback, straight through without sleep and running the beast into the ground, you could do it in a day."""""
 617;TRAVIS;Wow. Cool. Good deal.
 618;MARISHA;Are you trying to think of bringing back supplies?
 619;TRAVIS;No, I was seeing if I could run there in a night and back.
@@ -631,9 +631,9 @@
 629;TRAVIS;That mess hall-- is there a gathering quarters for the soldiers?
 630;MATT;There is a barracks built into the stronghold where many of the soldiers sleep. Where there is a common area, with general tables, card games, and things to pass the time. There is a small library, with various books. You get the sense here as you begin to walk around and see the soldiers, since these guys are essentially the defensive reserve for Fort Daxio, and Daxio doesn't see a lot of military action, it's very much a train-and-wait type circumstance. And many of the soldiers, though they have grown a little gaunt in the face from lack of resources, also appear to be emotionally drained from having nothing to do. And this constant stressful uncertainty about their future fate has this air of very low morale within the fort.
 631;TRAVIS;General, please don't take this the wrong way. Do you trust your men?
-632;MATT;"""I do. I trust their ability. I trust that they've stayed with me in the face of all this opposition and believe that my orders and requests to stay vigilant in the face of such possible destruction, having been met with continued agreeance that they will follow me as needed to our end."""
+632;MATT;"""""I do. I trust their ability. I trust that they've stayed with me in the face of all this opposition and believe that my orders and requests to stay vigilant in the face of such possible destruction, having been met with continued agreeance that they will follow me as needed to our end."""""
 633;TRAVIS;And there are none that you worry about, none that have expressed a lack of confidence, none that you're keeping your eye on? Giving you a weird feeling?
-634;MATT;"""None that live."""
+634;MATT;"""""None that live."""""
 635;TRAVIS;I like that answer. Shit.
 636;SAM;Oi, twinsies.
 637;LAURA;Oi.
@@ -690,17 +690,17 @@
 688;LIAM;22.
 689;MATT;22, okay. As you guys come down--
 690;LAURA;Oh, wait, no! 26! My math was wrong.
-691;MATT;"That's okay. As you guys come down into the bottom of the ravine you make it down safely into Fort Daxio to gather with the rest of your compadres for the evening. You at this point, by the way, Scanlan. You are currently, because you have to be present to designate anybody who can enter your mansion. You are like the one-person homeless shelter. You are bringing through soldier after soldier into there. And they all look confused, bewildered. And many of them stop and be like, ""What's going on?"""
+691;MATT;"That's okay. As you guys come down into the bottom of the ravine you make it down safely into Fort Daxio to gather with the rest of your compadres for the evening. You at this point, by the way, Scanlan. You are currently, because you have to be present to designate anybody who can enter your mansion. You are like the one-person homeless shelter. You are bringing through soldier after soldier into there. And they all look confused, bewildered. And many of them stop and be like, """"What's going on?"""""
 692;SAM;Name on the list? What's your name?
-693;MATT;"(stuttering) ""I am--"""
+693;MATT;"(stuttering) """"I am--"""""
 694;SAM;Name?
-695;MATT;"(stuttering) ""Are you--? What is--?"""
+695;MATT;"(stuttering) """"Are you--? What is--?"""""
 696;SAM;Listen, man. Do you want some food or not? What's your name? I've got a big list here, there's no girl with you.
-697;MATT;"""Trevian Simtin. Please, I'm hungry."""
+697;MATT;"""""Trevian Simtin. Please, I'm hungry."""""
 698;SAM;Do you have a plus one?
-699;MATT;"""I have a plus?"""
-700;SAM;"You're in."""
-701;MATT;"""All right!"" One after another, after another. Some of them seem genuinely spooked and freaked out by the spiritual servants, and avoiding them as they go on. The smell of food hits them, though. The ever-smell of chicken cooking through does catch them. And they all seem to eventually get past their fear of the servants as the fantastic meal of relatively neutral flesh is served to them in your dining hall."
+699;MATT;"""""I have a plus?"""""
+700;SAM;"You're in."""""
+701;MATT;"""""All right!"""" One after another, after another. Some of them seem genuinely spooked and freaked out by the spiritual servants, and avoiding them as they go on. The smell of food hits them, though. The ever-smell of chicken cooking through does catch them. And they all seem to eventually get past their fear of the servants as the fantastic meal of relatively neutral flesh is served to them in your dining hall."
 702;LAURA;There's still no veggies, huh? They could probably use some vegetable nutrition.
 703;SAM;I'm sure they boil the chicken in like an onion sort of water.
 704;LAURA;Do they? Or is it like a chicken broth that they boil them in?
@@ -727,8 +727,8 @@
 725;TRAVIS;Yeah! Takes the water skin and just--
 726;MATT;All the soldiers are like--
 727;LAURA;Oh, Percy!
-728;MATT;"There you go. You guys take your evening to rest. The next morning, you find yourselves awake.|Spells restored. Hit points restored. Allura comes in and greets all of you. ""All right, so! I can also bring us back to Whitestone. I've restored the teleportation spell that I had. Thus, what do you wish to do now?"""
-729;LAURA;"Number one. (whispers) Never say ""Whitestone"" in public, ever."
+728;MATT;"There you go. You guys take your evening to rest. The next morning, you find yourselves awake.|Spells restored. Hit points restored. Allura comes in and greets all of you. """"All right, so! I can also bring us back to Whitestone. I've restored the teleportation spell that I had. Thus, what do you wish to do now?"""""
+729;LAURA;"Number one. (whispers) Never say """"Whitestone"""" in public, ever."
 730;TALIESIN;Around us, especially. We could still do work here. Here's what has to happen now. We need to send word to as many people as possible that we are meeting here for the final confrontation. We have to make sure that work continues here. And then, if there's time, while our forces assemble and things prepare, we have several things we can do in the meantime.
 731;TRAVIS;Right. Keyleth is necessary to get to the Feywild.
 732;LAURA;Or Allura.
@@ -748,10 +748,10 @@
 746;MARISHA;Could we? Do we have time for that?
 747;SAM;Sure!
 748;TALIESIN;It's going to take us a week to get this place even remotely ready for this confrontation.
-749;MATT;"Allura at this point, by the way, says, ""A week? I don't know if we have a week."""
+749;MATT;"Allura at this point, by the way, says, """"A week? I don't know if we have a week."""""
 750;TRAVIS;Why?
 751;TALIESIN;What happens in less than a week?
-752;MATT;"""The minute that the information of Vorugal's death finds its way to Thordak, what do you think is going to happen? Their vengeance is going to fall."""
+752;MATT;"""""The minute that the information of Vorugal's death finds its way to Thordak, what do you think is going to happen? Their vengeance is going to fall."""""
 753;TALIESIN;It's going to take a few days for that to happen, to be set in motion.
 754;MARISHA;Are you kidding? I don't know. It could be any minute now. They've been spying on us this whole time. What makes you think it will take a few days?
 755;SAM;Also, throwing it out there. If you guys go to the Feywild, isn't there a chance that you don't come back until a month later or something crazy like that? Doesn't time shift weirdly?
@@ -772,11 +772,11 @@
 770;LAURA;I don't know how we'll be able to get word to them.
 771;TRAVIS;You howl.
 772;LAURA;All right.
-773;MATT;"Allura sneaks in a bit and says, ""My only suggestion here is make sure that you do the things that are absolutely necessary for this because we don't know when this is going to kick off."""
+773;MATT;"Allura sneaks in a bit and says, """"My only suggestion here is make sure that you do the things that are absolutely necessary for this because we don't know when this is going to kick off."""""
 774;LAURA;Well, we have to get armies here.
-775;MATT;"""Then let's do it."""
+775;MATT;"""""Then let's do it."""""
 776;LAURA;That's what we're trying to do.
-777;MATT;"""All right."""
+777;MATT;"""""All right."""""
 778;SAM;Well, wait. Don't we need to send word to other places as well? How do we do that?
 779;TRAVIS;Yeah, I don't know how to reach my herd.
 780;SAM;Isn't there a big horn you blow or something?
@@ -808,7 +808,7 @@
 806;LAURA;Yeah, what about the Platinum Sanctuary?
 807;TRAVIS;That's what I'm saying.
 808;LAURA;Oh, I thought you were talking about--
-809;TRAVIS;"No, no. I said the word ""platinum."" I was there. And you robbed me of it. I did it right."
+809;TRAVIS;"No, no. I said the word """"platinum."""" I was there. And you robbed me of it. I did it right."
 810;LAURA;Sorry, Grog. You're so smart!
 811;SAM;Is there anyone else who's pledged their allegiance to us? Any other band of traveling idiots?
 812;TALIESIN;We could ask for help from Kraghammer, as well.
@@ -832,37 +832,37 @@
 830;LAURA;Yeah. And hopefully they'll show up like Game of Thrones at the last moment. We'll think we're overrun, and then all of a sudden another army shows up, and it's wonderful!
 831;MARISHA;Allura, do you have some way of messaging people and sending messages like super quickly?
 832;SAM;An instant message app?
-833;MATT;"""Actually, depending on who it is."""
+833;MATT;"""""Actually, depending on who it is."""""
 834;TALIESIN;Fassbender?
 835;MARISHA;Fassbender. He's with Wilhand.
-836;MATT;"""To be perfectly honest, if it's a creature that I'm relatively familiar with, I could send it to them instantaneously. Any distance. Across the planes."""
+836;MATT;"""""To be perfectly honest, if it's a creature that I'm relatively familiar with, I could send it to them instantaneously. Any distance. Across the planes."""""
 837;SAM;How many people per day?
 838;MARISHA;Across the planes?
-839;MATT;"""Across the planes."""
+839;MATT;"""""Across the planes."""""
 840;SAM;How many times could you do that per day?
 841;MATT;I could probably muster it three times.
 842;LAURA;Oh, this is major! This is huge!
 843;LIAM;Allura, did you ever meet with our father in Emon?
-844;MATT;"""Yes, many times, actually. Yes, he was an interesting individual of the council. Especially back when Sir Gregory was with us. But they were friends. Yes, I did meet him."""
+844;MATT;"""""Yes, many times, actually. Yes, he was an interesting individual of the council. Especially back when Sir Gregory was with us. But they were friends. Yes, I did meet him."""""
 845;TALIESIN;Well, dwell on that one. Well, that would save us an enormous amount of energy.
 846;MARISHA;That would be great! And me, two seventh-level spells.
 847;MATT;Sir Gregory Fence. That was when you first came to Emon. He's the gentleman who was part of the council. You were hired by their father to go and inspect because he went missing.
 848;LAURA;Remember demons in the succubus' house?
 849;MARISHA;It'll take me a 7th-level spell to get there, and then I'll have to burn my 8th-level spell to get back.
 850;LAURA;Well let's send word to them. Then save us the talk.
-851;MATT;"""All right, so. You require word to your father?"""
+851;MATT;"""""All right, so. You require word to your father?"""""
 852;LAURA;Yes.
-853;MATT;"""Who else?"""
+853;MATT;"""""Who else?"""""
 854;SAM;Who's next on the list?
 855;MARISHA;Bigger allies.
 856;SAM;The Ravenites? The Herd. What about the Herd?
 857;MARISHA;I don't think she knows anyone.
 858;SAM;Well, we can describe them?
 859;LAURA;It's got to be somebody she knows.
-860;MATT;"""I have to have met them."""
+860;MATT;"""""I have to have met them."""""
 861;SAM;Kraghammer?
 862;LAURA;Have you ever met somebody in charge in Kraghammer?
-863;MATT;"""I have a number of individuals I've met there, yes. I cannot guarantee they'll be eager to jump into this fray. I can try."""
+863;MATT;"""""I have a number of individuals I've met there, yes. I cannot guarantee they'll be eager to jump into this fray. I can try."""""
 864;TALIESIN;That's possible, let's put that on the possible list.
 865;SAM;What about that town that we saved from dissolution?
 866;TALIESIN;Westruun, they have the--
@@ -877,36 +877,36 @@
 875;MARISHA;Tofor!
 876;LAURA;Wow, nice pull!
 877;MARISHA;Do you know Tofor?
-878;MATT;"""Tofor? Yes. Tofor's in Emon right now. """
+878;MATT;"""""Tofor? Yes. Tofor's in Emon right now. """""
 879;TRAVIS;She is?
 880;LAURA;Yeah, she is.
 881;MATT;Tofor is a member of the Tal'Dorei Council.|She's one of the council members, one of the survivors who is currently working with-- apparently, from what you've heard--
 882;LAURA;The Clasp.
 883;MARISHA;Is the person at the Slayer's Take Vanessa?
 884;SAM;Vanessa, from the Slayer's Take, do you know her, Allura?
-885;MATT;"""I've not met Vanessa, no."""
+885;MATT;"""""I've not met Vanessa, no."""""
 886;LAURA;Well, who do you know that's really powerful, that also maybe has an army that could help us? Anyone you know that we don't?
-887;MATT;"""I think we've tapped out most of our resources at this point! I've reached out to members of the Arcana Pansophical, but many of them have their own issues to deal with."""
+887;MATT;"""""I think we've tapped out most of our resources at this point! I've reached out to members of the Arcana Pansophical, but many of them have their own issues to deal with."""""
 888;LAURA;They're dicks, aren't they?
-889;MATT;"""No, they're just busy."""
+889;MATT;"""""No, they're just busy."""""
 890;LAURA;Oh, that one guy we met, he was a real dick, though.
 891;SAM;Any underdark-y type people? Do they like us?
 892;LIAM;Long, white hair.
 893;LAURA;Purple eyes. He was in Marquet. Is that what we're thinking of? Am I thinking of a different place?
-894;MATT;"""I don't know if he's a member of the Arcana Pansophical."""
+894;MATT;"""""I don't know if he's a member of the Arcana Pansophical."""""
 895;LAURA;Just kidding!
 896;SAM;Let's start with Syngorn and then see how it works, all right?
 897;MARISHA;Have you ever met my father, Korren of the Air Ashari?
-898;MATT;"""I've had no correspondence from the Air Ashari. My apologies. I'm doing what I can."""
+898;MATT;"""""I've had no correspondence from the Air Ashari. My apologies. I'm doing what I can."""""
 899;MARISHA;Yeah, no, you're great.
 900;TALIESIN;You've saved us a trip to the Feywild and back. Send word that if they can contact the werewolves, the werewolves owe us a favor, I suppose. Not that they would help with that.
-901;MATT;"""If that's the information you need sent, that would require me to make two messages. Just to cover both those bases. To their father--"""
+901;MATT;"""""If that's the information you need sent, that would require me to make two messages. Just to cover both those bases. To their father--"""""
 902;SAM;Let's just get the father.
-903;MATT;"""What was his name again?"""
+903;MATT;"""""What was his name again?"""""
 904;LIAM;Syldor.
-905;MATT;"""Syldor. Syldor, right. Two messages, to gather the army of Emon. And Syngorn, to return and head towards Fort Daxio."""
+905;MATT;"""""Syldor. Syldor, right. Two messages, to gather the army of Emon. And Syngorn, to return and head towards Fort Daxio."""""
 906;LAURA;Yes, if they could get pop Syngorn over to Fort Daxio, that'd be killer.
-907;MATT;"""I don't know if that's how the magic works, but I'll put a message in there for that and to look for werewolves."""
+907;MATT;"""""I don't know if that's how the magic works, but I'll put a message in there for that and to look for werewolves."""""
 908;TALIESIN;As part of the message, that if there's a pack with the werewolves---
 909;SAM;Is that vital? Should we care about that?
 910;TRAVIS;He fucked some shit up.
@@ -918,9 +918,9 @@
 916;LIAM;Michael J. Fox.
 917;TRAVIS;Ukurat.
 918;LAURA, MARISHA;Ukurat!
-919;MATT;"""All right. And I'll enquire about bringing Ukurat and the werewolves. All right! I've got some messaging to do."""
+919;MATT;"""""All right. And I'll enquire about bringing Ukurat and the werewolves. All right! I've got some messaging to do."""""
 920;TALIESIN;And when you're back in Whitestone, send the airship our way loaded with food and supplies if you can.
-921;MATT;"""Very well."""
+921;MATT;"""""Very well."""""
 922;LAURA;Tell them to be on guard!
 923;SAM;Put Kima on there, too?
 924;TALIESIN;And anybody who wishes to come fight.
@@ -929,32 +929,32 @@
 927;SAM;Or Zahra!
 928;LIAM;When you write to our father, will you tell him his children need him?
 929;TRAVIS;Gross!
-930;MATT;"""I can do that, yes."""
+930;MATT;"""""I can do that, yes."""""
 931;LAURA;I don't know if that will help at all.
-932;MATT;"""I'll call for Kima, I'll bring our allies with us. Either me or Shaun have to stay behind to maintain the illusion, so your choice."""
+932;MATT;"""""I'll call for Kima, I'll bring our allies with us. Either me or Shaun have to stay behind to maintain the illusion, so your choice."""""
 933;SAM;Shaun.
 934;TRAVIS;Yeah.
-935;MATT;"""All right, so Shaun will stay behind--"""
+935;MATT;"""""All right, so Shaun will stay behind--"""""
 936;SAM;Wait.
 937;TALIESIN;Yes.
 938;LAURA;Yeah.
 939;SAM;That's certain death.
 940;TALIESIN;Staying in Whitestone is the exact opposite of certain death.
 941;LAURA;He's protecting everyone.
-942;MATT;"""Our purpose is to stay to make sure that they do not see Whitestone."""
+942;MATT;"""""Our purpose is to stay to make sure that they do not see Whitestone."""""
 943;TALIESIN;That is the opposite of certain death.
-944;MATT;"""All right, I'll get these messages off."""
+944;MATT;"""""All right, I'll get these messages off."""""
 945;LAURA;Oh my god is this happening right now?
-946;MATT;"She takes two steps back and puts one finger in the air, and as it curls her eyes glaze over with crackling blue energy. And you watch her tongue click across her mouth like she's speaking quietly to herself. Her eyes come back. ""All right, I've notified your father, Syldor."" Once again her eyes glaze over with crackling blue energy. Her fingers trace in the air, and it looks like she's speaking--"
+946;MATT;"She takes two steps back and puts one finger in the air, and as it curls her eyes glaze over with crackling blue energy. And you watch her tongue click across her mouth like she's speaking quietly to herself. Her eyes come back. """"All right, I've notified your father, Syldor."""" Once again her eyes glaze over with crackling blue energy. Her fingers trace in the air, and it looks like she's speaking--"
 947;SAM;Quick, everyone hide when she's doing this! So when she comes back, we'll all be--
 948;TRAVIS;Yes.
 949;LAURA;She goes back we're like--
 950;LIAM;It's like she's putting on a VR helmet.
-951;MATT;"""All right."" Her eyes return. ""Both messages have been delivered to your father. Who else should require a message?"""
+951;MATT;"""""All right."""" Her eyes return. """"Both messages have been delivered to your father. Who else should require a message?"""""
 952;SAM;You don't know anyone else on our list, do you? The Slayer's Take, you don't know.
 953;LAURA;It might be smart to send one to Warmaster Mikael as well. I know he's in Syngorn as well, but it might be good to have a couple of people there bringing word.
 954;LIAM;That's not a bad idea.
-955;MATT;"""I can do that."" With that, once again the energy crackles and you can see she's trying to find the location of someone's presence. It hits, and she begins to speak quietly to herself.|Finishes. ""Very well! The army's been notified."""
+955;MATT;"""""I can do that."""" With that, once again the energy crackles and you can see she's trying to find the location of someone's presence. It hits, and she begins to speak quietly to herself.|Finishes. """"Very well! The army's been notified."""""
 956;SAM;Just one more message!
 957;MATT;Let me see if she can.
 958;SAM;But wait, what about the Clasp or something?
@@ -1027,7 +1027,7 @@
 1025;TRAVIS;Bassoon, whatever. And what was the other thing?
 1026;LAURA;Some other guy. Was it some other guy?
 1027;TRAVIS;Oh, shit nails!
-1028;SAM;"The last time we talked to Raishan she said, ""All right. I'll be back in a day."" And then we got out of there."
+1028;SAM;"The last time we talked to Raishan she said, """"All right. I'll be back in a day."""" And then we got out of there."
 1029;LAURA;Well it's still a day. It hasn't been a day yet. We haven't spent the night here yet.
 1030;SAM;Yeah, no. We haven't spent the night yet.
 1031;TRAVIS;Oh she was going to Emon to hold up the bluff that everything was cool was Thordak, right? She was going to bluff, and then she was also going to try to bring back Seeker Asum.
@@ -1046,7 +1046,7 @@
 1044;TALIESIN;He's sent all of his dragons and nothing's worked.
 1045;LAURA;That's the goal. We kill the peons, and then he comes.
 1046;TALIESIN;And the more he sends, the more we kill.
-1047;TRAVIS;"What if we go mess up something on the edge of Emon, and then we're like, ""Yeah! Fuck you!"" And then we take off. Or like bamf back."
+1047;TRAVIS;"What if we go mess up something on the edge of Emon, and then we're like, """"Yeah! Fuck you!"""" And then we take off. Or like bamf back."
 1048;TALIESIN;I don't believe he'll suffer that much indignity.
 1049;MARISHA;If we tell Thordak where we are he'll probably come with that wyvern army that almost took out Whitestone, correct?
 1050;LAURA;That's why we need to have a lot of people here. To fight them.
@@ -1061,7 +1061,7 @@
 1059;LAURA;All right. Allura, can you send a message to Gilmore, or Cassandra, or Kima even? Maybe just those three. They're the only ones who know about Raishan. Let them know that Raishan is bringing back Asum.
 1060;TALIESIN;They were there.
 1061;LAURA;I know, but just to make sure everything's fine with that.
-1062;MATT;"""I can do that, yes."""
+1062;MATT;"""""I can do that, yes."""""
 1063;SAM;And then we're going to the Fire Plane?
 1064;TRAVIS;Yeah. Just give it a look-see.
 1065;SAM;Just pop on down for a bit to the basement.
@@ -1073,7 +1073,7 @@
 1071;MARISHA;She knows it better than anybody else.
 1072;TALIESIN;She's not going to come to the Fire Plane. But you're right, she does. If I were her I wouldn't come.
 1073;LAURA;Would you want to go, Allura?
-1074;MATT;"""What, to the Fire Plane? I mean, I can. My skills are probably better used elsewhere. But whatever you think is wisest."""
+1074;MATT;"""""What, to the Fire Plane? I mean, I can. My skills are probably better used elsewhere. But whatever you think is wisest."""""
 1075;TALIESIN;We need agents on the ground right now.
 1076;TRAVIS;True.
 1077;LAURA;All right.
@@ -1082,7 +1082,7 @@
 1080;TALIESIN;If opportunities present themselves to bring more people here or to gather more allies, take them.
 1081;SAM;Let's pop on down!
 1082;MARISHA;My gosh, you guys, the Dawn Martyr is in the City of Brass. Which I'm pretty sure is overrun with fire elementals.
-1083;TRAVIS;"It's just a ""myth,"" though, right? And that was probably written a long time ago which means shit could have totally changed."
+1083;TRAVIS;"It's just a """"myth,"""" though, right? And that was probably written a long time ago which means shit could have totally changed."
 1084;SAM;Plus now we have a lot of money. We can buy our way through the Fire Plane.
 1085;TALIESIN;That works.
 1086;LAURA;Is this stupid? Are we going to die in the Fire Plane?
@@ -1092,7 +1092,7 @@
 1090;MARISHA;I mean, we can go. We can hit the Fire Ashari first and see if Cerkonos is there and maybe see if Cerkonos wants to help us out?
 1091;LIAM;If we're all alive in two weeks I'd be happy to go and get armor for Pike, but there's dragons on top of our backs right now.
 1092;MARISHA;Allura, you're certain as soon as he finds out about Vorugal's death that he's going to seek retribution?
-1093;MATT;"""I'm not certain, but as soon as he found out about Umbrasyl's, that's when he sent things looking for us near Whitestone. That was when Vorugal and the rest of the armies swept through.|That was two days after Umbrasyl's fall."""
+1093;MATT;"""""I'm not certain, but as soon as he found out about Umbrasyl's, that's when he sent things looking for us near Whitestone. That was when Vorugal and the rest of the armies swept through.|That was two days after Umbrasyl's fall."""""
 1094;LIAM;We've also totally spilled our spaghetti with Raishan. She's not going to wait, she's going to push things forward. I don't think we have time.
 1095;TRAVIS;All right, Vax. Do you have a suggestion in place, then?
 1096;LIAM;I think that we talk to Raishan. These two chuckle-heads convince her to let us take a pound of her flesh, or ten. Somehow dump it insultingly at Thordak's feet and brace for the worst.
@@ -1108,12 +1108,12 @@
 1106;TALIESIN;It was a place to be looked at. And they flew over and didn't see it.
 1107;MARISHA;You think they were just scanning?
 1108;TALIESIN;I do.
-1109;SAM;"All in favor of the Fire Plane, say ""Aye."""
+1109;SAM;"All in favor of the Fire Plane, say """"Aye."""""
 1110;SAM, TRAVIS;Aye!
 1111;SAM;That was only two! Wow, that's pretty rough.
 1112;TRAVIS;No, that was four. They're pansies and won't say anything with their voice.
 1113;ASHLEY;I don't know.
-1114;SAM;"All in favor of staying say, ""cooter."""
+1114;SAM;"All in favor of staying say, """"cooter."""""
 1115;TALIESIN;That's not fair.
 1116;SAM;Two to one.
 1117;TRAVIS;Let's go! Even if it sucks, we can just come right back.
@@ -1127,11 +1127,11 @@
 1125;TALIESIN;Do what you can-- Cows eat hay, neigh neigh.|Hey! So we say.
 1126;LIAM;Gather ye rosebuds, while ye may. Vox Machina is dying.
 1127;LAURA;If you hear back from anyone in Syngorn or anyone anywhere, will you send us a message?
-1128;MATT;"""Yes, and I will notify the general of these plans before I head on that way. Very well. Good luck."""
+1128;MATT;"""""Yes, and I will notify the general of these plans before I head on that way. Very well. Good luck."""""
 1129;LAURA;Pretend like we were never here. Let them know. Pretend like we were never here.
-1130;MATT;"""Understood."""
+1130;MATT;"""""Understood."""""
 1131;LAURA;All right.
-1132;MATT;"""Stay safe, friends."" She turns and leaves the room."
+1132;MATT;"""""Stay safe, friends."""" She turns and leaves the room."
 1133;LAURA;We are so stupid. This is going to be fun.
 1134;TALIESIN;Yes! I love it.
 1135;TRAVIS;Do we hold hands again?
@@ -1179,14 +1179,14 @@
 1177;MARISHA;Like two kids! One of those days they might grow up.
 1178;TALIESIN;We're going to take like, 20 of them to the fight. And they'll be fine.
 1179;MARISHA;(nervous laughter) Come on, kids! Have a sword!
-1180;LIAM;"That's a big ""if."""
+1180;LIAM;"That's a big """"if."""""
 1181;MATT;It doesn't take you long to find Cerkonos, who at this point in time has regrown his arm.
 1182;MARISHA;Yeah, I knew he'd be all right.
-1183;MATT;"He approaches now, his darkened skin tattooed, his long hair past his shoulders. He approaches with an expression of surprise and mild confusion. ""It is good to to see all of you. I ask, what brings you to the doorstep of the Pyrah Ashari?"""
+1183;MATT;"He approaches now, his darkened skin tattooed, his long hair past his shoulders. He approaches with an expression of surprise and mild confusion. """"It is good to to see all of you. I ask, what brings you to the doorstep of the Pyrah Ashari?"""""
 1184;MARISHA;Cerkonos, Thordak has taken over Emon.|And in the time that he has broken out of the Fire Plane, it seems there is a certain magic that is allowing him to essentially turn Emon into a second Fire Plane. We believe he still has some sort of connection here based on the binding magic that was used on him in the past. Something called an ember seed. Have you heard of this?
-1185;MATT;"""This does not stir my memory reserves. I'm sorry."""
+1185;MATT;"""""This does not stir my memory reserves. I'm sorry."""""
 1186;MARISHA;Do you remember if Raishan, when she was moving in and out of the Fire Plane, do you remember her mentioning anything about it? Or anything suspicious about wanting to learn about the connection to the Fire Plane?
-1187;MATT;"""There were inquiries, yes. I was surprised by one so young seemingly to be so interested in the inner and outer planes and their interactions.|She found much of her time in solace in the Cinder Grove. She was not quick to pick up the druidic magics, but her research was in depth. She spoke with many elders, myself included."""
+1187;MATT;"""""There were inquiries, yes. I was surprised by one so young seemingly to be so interested in the inner and outer planes and their interactions.|She found much of her time in solace in the Cinder Grove. She was not quick to pick up the druidic magics, but her research was in depth. She spoke with many elders, myself included."""""
 1188;MARISHA;Where is the Cinder Grove? Did we pass through the Cinder Grove?
 1189;MATT;The Cinder Grove is in the center of the caldera. That's the petrified forest that is surrounding where the actual tear in the boundary is. Where the Fire Ashari hold vigil.
 1190;LAURA;Wasn't the ember seed connected to the-- Didn't we knock down some pillars when we came to the Fire Plane the last time? Isn't that part of the reason his hold was broken?
@@ -1196,13 +1196,13 @@
 1194;MATT;No, when you first came here it was part of your Aramente, and you guys just passed through the tear. And you battled Cerkonos and the other druids in elemental form as part of a test. There was some stones on the other side but there was nothing--
 1195;LAURA;Okay, maybe you just thought that and were freaking out a bit.
 1196;MARISHA;Yeah, I got a little panicky at one point. Yeah. Thordak was connected by the soul gem.|And we know he busted through. You know the Fire Plane better than anyone. We are also looking for the Plate of Dawnmartyr in the City of Brass.
-1197;MATT;"When you say the City of Brass, you watch his demeanor change. His arms cross, and he leans back into himself. ""That is not a place for the Ashari. It is a place of tyranny and greed. It is a unique mix of those who exist there, and if you are intent on going, I am happy to escort you, but it is a different experience than we are used to, and perhaps yourself as well."""
+1197;MATT;"When you say the City of Brass, you watch his demeanor change. His arms cross, and he leans back into himself. """"That is not a place for the Ashari. It is a place of tyranny and greed. It is a unique mix of those who exist there, and if you are intent on going, I am happy to escort you, but it is a different experience than we are used to, and perhaps yourself as well."""""
 1198;LAURA;Is it a large city?
-1199;MATT;"""It is quite big, yes."""
+1199;MATT;"""""It is quite big, yes."""""
 1200;TALIESIN;This is the direst of situations.|Extreme measures must be taken.
-1201;MATT;"""The choice is yours. You have come this far."""
+1201;MATT;"""""The choice is yours. You have come this far."""""
 1202;MARISHA;How long is the journey to the City of Brass?
-1203;MATT;"""From the tear, it is about three days' foot travel."" Your Plane Shift spell can bring you directly to a location as long as you're aware of it."
+1203;MATT;"""""From the tear, it is about three days' foot travel."""" Your Plane Shift spell can bring you directly to a location as long as you're aware of it."
 1204;MARISHA;Right.
 1205;SAM;We can go right there. Be right in the center of the city. Land right in Main Street, next to the Reebok store.
 1206;LIAM;I have a sweater. I've hidden it in Manhattan. Go find it.|(laughter)
@@ -1225,28 +1225,28 @@
 1223;SAM;She would probably figure that out.
 1224;TRAVIS;Yeah, she'll figure it out. And we've got an amazing tour guide. It's set up for us.|Can't fail. 0% APR.
 1225;LIAM;You big lovable lug. I still think it's a very bad idea. I'll go if you all want to go.
-1226;MATT;"Cerkonos turns to you, Grog, and says, ""I do not mean to be misunderstanding. I will take you to the city, but I will not enter it."""
+1226;MATT;"Cerkonos turns to you, Grog, and says, """"I do not mean to be misunderstanding. I will take you to the city, but I will not enter it."""""
 1227;TRAVIS;Yeah. I'm good with that. I mean you'll take us there, right? You'll give us a couple of warnings, maybe point at something if it's terrible, and then you've got to go because it's going to mess with you?
-1228;MATT;"""I am of no use in that city."""
+1228;MATT;"""""I am of no use in that city."""""
 1229;TRAVIS;Now why is that, like you've got feelings about it? Or you're afraid of it? Or you'll be powerless there?
-1230;MATT;"""Most of all of that."""
+1230;MATT;"""""Most of all of that."""""
 1231;TRAVIS;Powerless?
-1232;MATT;"""There are many powerful entities that exist in the city. I am not a man for cultured places."""
+1232;MATT;"""""There are many powerful entities that exist in the city. I am not a man for cultured places."""""
 1233;TRAVIS;You've been before?
-1234;MATT;"""I've been near."""
+1234;MATT;"""""I've been near."""""
 1235;SAM;Let's just pop in, pop out, guys. What could go wrong?
 1236;TALIESIN;We're gathering forces at Fort Daxio to fight this dragon. And if you can lend any of your power, or have any power you can send, we'd be forever grateful.
 1237;MARISHA;Do you think you could reach out to Korren?
-1238;MATT;"""I could. How soon?"""
+1238;MATT;"""""I could. How soon?"""""
 1239;TALIESIN;Soon. That is where we will head immediately when we are done here.
-1240;MATT;"""All right. Then I will lead you, if you choose to go to this city. And then I will call for your father, we will send what we can spare."""
+1240;MATT;"""""All right. Then I will lead you, if you choose to go to this city. And then I will call for your father, we will send what we can spare."""""
 1241;MARISHA;Well, if you don't want to go inside, I can Plane Shift us there. We don't necessarily need you, I guess? I mean, we need you, but I'm wondering if you'd be better here.
-1242;MATT;"""No offense taken. If you wish to continue your journey, I can go and try and round up the Ashari that can fight."""
+1242;MATT;"""""No offense taken. If you wish to continue your journey, I can go and try and round up the Ashari that can fight."""""
 1243;SAM;Let's do that.
 1244;MARISHA;Do you know anything of where Thordak was held?
-1245;MATT;"""I did not know Thordak existed until he tore through our people. So unfortunately not."""
+1245;MATT;"""""I did not know Thordak existed until he tore through our people. So unfortunately not."""""
 1246;MARISHA;Is there anyone here left that Raishan spoke to the most? A confidant? Someone who might have been aiding her?
-1247;MATT;"""It's hard to tell. Many who were near those discussions were slain, I'm sorry."""
+1247;MATT;"""""It's hard to tell. Many who were near those discussions were slain, I'm sorry."""""
 1248;MARISHA;Well, that's fair.
 1249;TRAVIS;We're good.
 1250;LAURA;Scanlan, will you be able to do the mansion inside of the Fire Plane? Or did you already use it--
@@ -1256,21 +1256,21 @@
 1254;MATT;Correct, you would still have the ability to use it today.
 1255;TALIESIN;All right. I think we've done an enormous amount towards getting prepared for this.
 1256;LAURA;Does everything over there fight with fire?
-1257;MATT;"""Not everything. But many things there have fire by nature. Or at least, the ability to live among it. There are many parts of the Fire Plane that you should not traverse. It would destroy you immediately."""
+1257;MATT;"""""Not everything. But many things there have fire by nature. Or at least, the ability to live among it. There are many parts of the Fire Plane that you should not traverse. It would destroy you immediately."""""
 1258;LAURA;The City of Brass sucks, but we'll be okay going there, ish?
-1259;MATT;"""It's one of the few places that can support a city, so yes."""
+1259;MATT;"""""It's one of the few places that can support a city, so yes."""""
 1260;LIAM;Kind of hot?
-1261;MATT;"""It is very hot there. The longer you stay, the more difficult it is for such frail beings as us to exist."""
+1261;MATT;"""""It is very hot there. The longer you stay, the more difficult it is for such frail beings as us to exist."""""
 1262;TRAVIS;Speak for yourself.
 1263;LAURA;In and out.
 1264;TRAVIS;Pull the trigger, travel agent.
 1265;MARISHA;Let's do this shit.
-1266;MATT;"""Stay safe. I will see you soon at this Fort Daxio."""
+1266;MATT;"""""Stay safe. I will see you soon at this Fort Daxio."""""
 1267;LAURA;Thank you so much.
 1268;SAM;This was a worthwhile trip already.
 1269;LIAM;I'm setting my armor to fire resistance.
 1270;ASHLEY;Is there anything else we need to know, to be safe, to look out for while we're there?
-1271;MATT;"""Nothing which you haven't already seen.|Just know there are many denizens there that enjoy the tyranny, so be careful. Don't start any wars."""
+1271;MATT;"""""Nothing which you haven't already seen.|Just know there are many denizens there that enjoy the tyranny, so be careful. Don't start any wars."""""
 1272;LAURA;Can I say while this whole talk's been going on, that I've been unattuning my coldsnap armor and reattuning my bracers of archery?
 1273;MATT;Sure. It will take you guys a short rest to do all that. Plus, with your reattune there. You guys take a short rest while Cerkonos takes a couple of the other nearby Pyrah with him and they head off towards the Cinder Grove. Presumably, to communicate with your father.
 1274;MARISHA;Cool.
@@ -1321,8 +1321,8 @@
 1319;MARISHA;That was so well done.
 1320;LIAM;Number two goes to @norfrosch who did the amazing Victor with crazy eyebrows.
 1321;LAURA;So good!
-1322;MATT;"Yeah, it takes a lot to shame my Victor. Not really, I threw mine together. And then that one, the day after, I saw that picture and went, ""Well, damn. I lose."" It was amazing!"
-1323;MARISHA;"He was like, ""Oh, she did way better than I did."""
+1322;MATT;"Yeah, it takes a lot to shame my Victor. Not really, I threw mine together. And then that one, the day after, I saw that picture and went, """"Well, damn. I lose."""" It was amazing!"
+1323;MARISHA;"He was like, """"Oh, she did way better than I did."""""
 1324;MATT;It was amazing.
 1325;LIAM;And in first place--
 1326;MARISHA;We have to go to a commercial break! Stay tuned.
@@ -1361,7 +1361,7 @@
 1359;TRAVIS;One minute.
 1360;MARISHA;Let me double check before I say that.
 1361;SAM;Are we already backing out of this, Grog?
-1362;TRAVIS;"No, I'm making sure that we're not like, ""Oh, we've got to go! Oh shit!"""
+1362;TRAVIS;"No, I'm making sure that we're not like, """"Oh, we've got to go! Oh shit!"""""
 1363;MARISHA;Nope, I lied. It's instantaneous.
 1364;TRAVIS;But we all got to be touching?
 1365;MARISHA;Me and up to eight willing creatures who link hands in a circle.
@@ -1369,9 +1369,9 @@
 1367;LAURA;What's our Jenga?
 1368;MARISHA;Yeah, what's our code word?
 1369;SAM;Super Jenga!
-1370;LAURA;"""Super Jenga"" means everybody run towards each other and link hands."
-1371;LIAM;"So ""Jenga"" means ""I fucked up, my name is Vax."" And ""Super Jenga"" means we have to link hands and bounce."
-1372;TRAVIS;"""Duck, duck, goose"" means it's playtime."
+1370;LAURA;"""""Super Jenga"""" means everybody run towards each other and link hands."
+1371;LIAM;"So """"Jenga"""" means """"I fucked up, my name is Vax."""" And """"Super Jenga"""" means we have to link hands and bounce."
+1372;TRAVIS;"""""Duck, duck, goose"""" means it's playtime."
 1373;LAURA;Yeah.
 1374;SAM;Let's walk into the City of Brass.
 1375;TRAVIS;Yeah.
@@ -1416,13 +1416,13 @@
 1414;LAURA;They're so big.
 1415;MATT;The one that's running eventually catches up to you and slows his gait and puts his hands behind his back, puts his chin up, and begins walking. You can see now he has these two long tufts of black hair that are braided into this long braid that floats gently as the heated breeze continues to blow past you. As he begins to approach, he looks out among the rest of your group and then down at this tiny gnome that has stepped up to greet them.
 1416;SAM;We request passage into your city.
-1417;MATT;"""What is your business?"""
+1417;MATT;"""""What is your business?"""""
 1418;SAM;We are travelling salespeople and we are here to sell our wares.
-1419;MATT;"""What wares are you here to sell?"""
+1419;MATT;"""""What wares are you here to sell?"""""
 1420;SAM;One item in particular, which could be of much value to the people in your city.
-1421;MATT;"""Then show me this item of value."""
+1421;MATT;"""""Then show me this item of value."""""
 1422;SAM;I don't think you want to see it.
-1423;MATT;"""Then you don't want to enter the city."""
+1423;MATT;"""""Then you don't want to enter the city."""""
 1424;SAM;All right. It's a pet of ours that we've been travelling with. It's right back there. And I point behind us to an empty space.
 1425;MATT;He glances over towards the empty space.
 1426;SAM;You don't see it? Oh, I forgot. We've made it invisible. Let me drop the spell. And I will cast Major Image, and I am making a goristro, right behind us, that looks a lot like Yenk because that's the only one I've ever seen.|(laughter)
@@ -1439,9 +1439,9 @@
 1437;SAM;Let's say 60 feet back.
 1438;MATT;All right. The central one looks to the efreet to his left, or to the right of you, gives him a nudge, and that efreeti-- that efreet begins to step away.
 1439;SAM;Ah, ah, ah! You don't get to touch our pet.|Please allow us entry to your city and we will find someone who can afford to touch him.
-1440;MATT;"""Hmm."" The efreet that you halted takes a few more steps, not paying heed as the one that's in front of you goes, ""So you're looking to sell this as a servant. This beast will work as a servant, or does it work in servitude?"""
+1440;MATT;"""""Hmm."""" The efreet that you halted takes a few more steps, not paying heed as the one that's in front of you goes, """"So you're looking to sell this as a servant. This beast will work as a servant, or does it work in servitude?"""""
 1441;SAM;It works for me, for the moment, and I can get it to work for someone else for a price. But if your man goes over there, he's going to die, because I will tell my goristro to kill him.
-1442;MATT;"""Hmph. It is rare to see something so small able to control something so vicious and dangerous."" And you see him leaning in now, closer to you. You see these tiny little burning beads of red flame as the center of his eyes, against a black iris. You see, as he gets closer, the grin begins to curl across the rows and rows of sharpened, white, gleaming teeth. He says, ""You, such a small, easy-to-crush creature, can seem to hold dominion over something that exists in places that would rend your mind asunder."""
+1442;MATT;"""""Hmph. It is rare to see something so small able to control something so vicious and dangerous."""" And you see him leaning in now, closer to you. You see these tiny little burning beads of red flame as the center of his eyes, against a black iris. You see, as he gets closer, the grin begins to curl across the rows and rows of sharpened, white, gleaming teeth. He says, """"You, such a small, easy-to-crush creature, can seem to hold dominion over something that exists in places that would rend your mind asunder."""""
 1443;TALIESIN;I reach into the bag, and I'm going to grab a little chunk of dragon and a chunk of the previous goristro that we still have some bits of, and drop them in front of him on the ground.
 1444;MATT;(dull thud) (sniff)
 1445;SAM;Those were my other pets.
@@ -1452,15 +1452,15 @@
 1450;LAURA;(distressed sounds)
 1451;MATT;(loud sniff) And begins walking back toward the other efreeti. The one before you, whose face is still up in front of you, is reading you. His head is about the size of your entire body. And he goes--
 1452;SAM;I'll put my hands behind my back and stand up a little taller to meet him.
-1453;MATT;"""If you wish to walk the city, then pay the toll."""
+1453;MATT;"""""If you wish to walk the city, then pay the toll."""""
 1454;SAM;How much would the toll be?
-1455;MATT;"""How much do you think the toll is worth?"""
+1455;MATT;"""""How much do you think the toll is worth?"""""
 1456;SAM;Vex?
-1457;MATT;"""If the toll is insufficient, and I find offense at the offer, then you will have bigger problems than entry. But generosity goes a long way."""
+1457;MATT;"""""If the toll is insufficient, and I find offense at the offer, then you will have bigger problems than entry. But generosity goes a long way."""""
 1458;LAURA;So like, money? Is it money, then?
 1459;SAM;The money that we carry with us is from a far-off land. Will it still be good here? It's gold and platinum.
 1460;LAURA;Or would you rather gems?
-1461;MATT;"""Gems are good as well. Money is money. We work and deal with many creatures from many places here. What do you offer?"""
+1461;MATT;"""""Gems are good as well. Money is money. We work and deal with many creatures from many places here. What do you offer?"""""
 1462;LAURA;Should I just, you know what, fuck it? I'm going to put the 20-pound bag of gems in his hand.
 1463;MATT;He takes it and closes the fingers of his hand around it, then shakes it a little and listens.
 1464;SAM;20 pound?
@@ -1468,7 +1468,7 @@
 1466;TRAVIS;Who are you and what have you done with Vex?
 1467;LAURA;The world is fucking ending, you guys. How else am I going to use these things?
 1468;SAM;Who are you right now?
-1469;MATT;"He pulls the tiny drawstring taut once again. ""May you enjoy your time in the City of Brass. Now, I suggest your wineskins be full."" And he turns around and the efreeti all begin to walk away towards the entrance to the city."
+1469;MATT;"He pulls the tiny drawstring taut once again. """"May you enjoy your time in the City of Brass. Now, I suggest your wineskins be full."""" And he turns around and the efreeti all begin to walk away towards the entrance to the city."
 1470;SAM;Loudly and conspicuously I say: Stanley, invisible! And then he poofs away.
 1471;LAURA;Scanlan, I think you let a little bit of scry on the ground there.
 1472;SAM;Let's just get in the city and buy me some new pants.
@@ -1506,7 +1506,7 @@
 1504;LIAM;Do we see anyone who looks remotely like us, who's not from the Fire Plane, here?
 1505;MATT;Well you're just now approaching the front gates where the six efreeti currently stand. As the three that have returned, the central one takes his hand up and does this with his finger.|And as he does, you watch as the criss-cross chains that hold the gate shut suddenly shift, and you watch dust and ash get shaken free from the chains as they're all suddenly pulled upward through these rings to the very top, and the doors shift open very slowly, giving just enough space for people of your physical width to pass through. Grog, you have to squeeze a little.
 1506;TALIESIN;Good sir, one question before we enter your city, since you are such a good friend and we look forward to possibly being friends again someday. Where would one find people who enjoy the sport of watching large creatures battle? If you could think of such a thing?
-1507;MATT;"(laughs) ""Welcome to the City of Brass."""
+1507;MATT;"(laughs) """"Welcome to the City of Brass."""""
 1508;TALIESIN;I love your answer.
 1509;MATT;As you guys walk in, the doors close behind and you watch as the chains that were pulled free, that now dangle loosely, automatically, on their own, strike up like snakes, instantly, and flash back through on the other side. You can hear them retying themselves between the ring-loops to seal off the doorway once again.
 1510;LIAM;We are in a city where everyone is going to despise us.
@@ -1515,7 +1515,7 @@
 1513;TRAVIS;Should we get some jail tattoos before we continue?
 1514;SCANLAN;I can make us all look really rough and ragged.
 1515;TALIESIN;I think there's a lot of magic here.|Well, no, let's--
-1516;MATT;"So as you say ""let's"" and it trails off, you all take a moment to look into the city around you. Marquet offered Ank'Harel, a very beautiful city of ornate culture. This city has been around far longer, and has been constructed by far more intricate artisans since. You see hundreds of buildings of different sizes, all constructed from various types of materials, many of them metallic and brass or bronze in color, reflecting the ever-present sunlight from the sky. You can see buildings carved from dark black obsidian. From other forms of darkened stone you can see natural rock formations of blackened rock and stone jutting outward, where, crafted from that, you can see communities of maybe dozens of buildings and homes that have been constructed from it. You can see towers that are impossibly high, hundreds of feet up in the sky, some broken from previous conflicts and never constructed since. You can see a series of streets that intertwine out before you with these tiny little cobblestones that all seem to have a matching, ruddy, brownish earth tone with a dusting of ash and red earth scattered across them. You see throughout here human beings occasionally. You see dozens upon dozens of efreeti, walking around, crusted with jewelry and wearing fine robes and linens. You can begin to notice quickly that many of these efreeti walk along with some of these humans, these humans walk at their sides, some in chains."
+1516;MATT;"So as you say """"let's"""" and it trails off, you all take a moment to look into the city around you. Marquet offered Ank'Harel, a very beautiful city of ornate culture. This city has been around far longer, and has been constructed by far more intricate artisans since. You see hundreds of buildings of different sizes, all constructed from various types of materials, many of them metallic and brass or bronze in color, reflecting the ever-present sunlight from the sky. You can see buildings carved from dark black obsidian. From other forms of darkened stone you can see natural rock formations of blackened rock and stone jutting outward, where, crafted from that, you can see communities of maybe dozens of buildings and homes that have been constructed from it. You can see towers that are impossibly high, hundreds of feet up in the sky, some broken from previous conflicts and never constructed since. You can see a series of streets that intertwine out before you with these tiny little cobblestones that all seem to have a matching, ruddy, brownish earth tone with a dusting of ash and red earth scattered across them. You see throughout here human beings occasionally. You see dozens upon dozens of efreeti, walking around, crusted with jewelry and wearing fine robes and linens. You can begin to notice quickly that many of these efreeti walk along with some of these humans, these humans walk at their sides, some in chains."
 1517;ALL;Oh, shit.
 1518;MATT;You can see a number of individuals pedaling small carts through, also in comparable levels of enslavement. But not all are enslaved. There are individuals from other areas you've never recognized, various features. You see two humanoids that walk around by themselves, their features are human but not. There's something about them that's a little off, but you can't quite pick up what, and they walk off in the distance. There is a gathering of many cultures that make their way through here, but definitely the dominant culture here appears to be one ruled by the elemental fire djinn that you've already encountered.
 1519;LIAM;The servants, the humans, and I don't know if there's any elves, dwarves, halflings, or anything in the mix, but people who are not from here, how does their health appear?
@@ -1557,7 +1557,7 @@
 1555;LIAM, LAURA;Wow.
 1556;LAURA;You'll be shirtless.
 1557;LIAM;I'm bringing you a new shirt for your birthday, man.
-1558;TRAVIS, ASHLEY;"""Okay, I farted. It was me."""
+1558;TRAVIS, ASHLEY;"""""Okay, I farted. It was me."""""
 1559;LIAM;Holy moly. Bring it back, people. I'm specifically looking for a human who is not a slave, who looks reasonably well off.
 1560;TALIESIN;I'm looking for social gatherings, pubs, and otherwise.
 1561;MARISHA;I'm going to talk to Vex as soon as we get a hot second, whenever that falls.
@@ -1600,12 +1600,12 @@
 1598;SAM;I just got to hell, haven't even unpacked my bags--
 1599;LAURA;No warning, huh?
 1600;LIAM;That's a 20.
-1601;MATT;"20. They both turn and look towards you with a curious glance. The strange, alien-looking one gives a half-cocked grin and shakes his head. The tiefling looks you over for a second. ""Stranger, I mean you no offense, but--"" And as he looks past you at the rest of the group walking behind you.|""You know what, follow me."""
+1601;MATT;"20. They both turn and look towards you with a curious glance. The strange, alien-looking one gives a half-cocked grin and shakes his head. The tiefling looks you over for a second. """"Stranger, I mean you no offense, but--"""" And as he looks past you at the rest of the group walking behind you.|""""You know what, follow me."""""
 1602;MARISHA;Oh, shit.
 1603;TALIESIN;Well, here we go.
 1604;MATT;They both continue to walk in the direction they're walking.
 1605;LIAM;They're together, right?
-1606;MATT;"They're together, but they face away from you. He's just, ""Follow me."" And they both continue walking ahead of you guys."
+1606;MATT;"They're together, but they face away from you. He's just, """"Follow me."""" And they both continue walking ahead of you guys."
 1607;LIAM;All right, so I trip along behind them, and then I turn around and to the group I go--
 1608;TALIESIN;I'm all right with this. This is a great way to die.
 1609;SAM;We're following along behind them.
@@ -1616,7 +1616,7 @@
 1614;MATT;15? Unfortunately, at the distance that he was from you, about 60 feet or so, and what little bit time he was faced away-- his interaction with Vax was so short, it's a blank slate. Nothing you can read off of him.
 1615;LAURA;Are they looking and talking to each other at all?
 1616;MATT;They're not talking to each other, they're looking, facing away from you, and walking the same pace they were. However, Vex, since you were looking up in the sky, you do see, for a brief instant, a large, avian-like entity--
-1617;LAURA;"What does ""avian"" mean?"
+1617;LAURA;"What does """"avian"""" mean?"
 1618;MATT;Bird-like.
 1619;LAURA;Oh, got it.
 1620;MATT;--but massive. And it looks to leave some sort of flame-like trail behind it as it (fiery whooshing).
@@ -1645,17 +1645,17 @@
 1643;LAURA;Get a little closer.
 1644;LIAM;I'm going to wave them away a little bit.
 1645;TRAVIS;I think we're cattle. I'm going to lag.|I'm going to drop another 20 feet back from the group.
-1646;MATT;"Okay. As you drop back from them, you come pretty close to the two efreeti that are following you from behind, and one of them puts his hand out and grabs you by the shoulder and pats you and goes, ""So friend, you are--? You are--?"""
+1646;MATT;"Okay. As you drop back from them, you come pretty close to the two efreeti that are following you from behind, and one of them puts his hand out and grabs you by the shoulder and pats you and goes, """"So friend, you are--? You are--?"""""
 1647;TRAVIS;What?
-1648;MATT;"""Who are you?"""
+1648;MATT;"""""Who are you?"""""
 1649;TRAVIS;I can't hear you.
 1650;SAM;Oh no!
 1651;TALIESIN, MARISHA;No.
 1652;MATT;Make a deception check.
 1653;TRAVIS;17.
-1654;MATT;"""Heh. I like this one. We'll keep him."" And he pats you on the shoulder and they both walk--"
+1654;MATT;"""""Heh. I like this one. We'll keep him."""" And he pats you on the shoulder and they both walk--"
 1655;TRAVIS;Hey! And I smash the Titanstone Knuckles together and I cast Enlarge.
-1656;MATT;"Okay! You guys hear what sounds like a small crack of thunder behind you (thunder crack sound).|As you glance over you can see Grog has swollen to his enlarged size and is now walking shoulder to shoulder with the two efreeti that began to flank from behind. They both take a step back. ""I double down on my statement. We keep him."" And they keep walking shoulder to shoulder to you. They're not doing anything, they're walking shoulder to shoulder."
+1656;MATT;"Okay! You guys hear what sounds like a small crack of thunder behind you (thunder crack sound).|As you glance over you can see Grog has swollen to his enlarged size and is now walking shoulder to shoulder with the two efreeti that began to flank from behind. They both take a step back. """"I double down on my statement. We keep him."""" And they keep walking shoulder to shoulder to you. They're not doing anything, they're walking shoulder to shoulder."
 1657;MARISHA;I stop and turn around and wait for them to catch up.
 1658;ASHLEY;Yeah.
 1659;SAM;Oh god. I hang back as well.
@@ -1682,28 +1682,28 @@
 1680;LAURA;Oh shit.
 1681;ASHLEY;I have a question for one of you fine gentlemen.
 1682;SAM;Oh boy, we're all getting in it.
-1683;MATT;"The other one on the other side of Grog, that wasn't interacting with Keyleth, grunts. ""Hmph."""
+1683;MATT;"The other one on the other side of Grog, that wasn't interacting with Keyleth, grunts. """"Hmph."""""
 1684;ASHLEY;Do you guys--?
 1685;SAM;(imitating efreeti) We're both women.
 1686;ASHLEY;Oh, I'm so sorry. Anyway. Do either of you happen to know where the temple of Pelor is?
 1687;MATT;They both slowly look at each other and grin. And slowly nod their heads.
 1688;ASHLEY;You do!
-1689;MATT;"They turn back and one of them goes, ""Yes, we do, actually. Would you like us to take you there?"""
+1689;MATT;"They turn back and one of them goes, """"Yes, we do, actually. Would you like us to take you there?"""""
 1690;ASHLEY;You can just show us where it is. I think there's going to be a couple more spots we're going to stop.
-1691;MATT;"""You seem like you are not from around here.|It is dangerous to wander these streets unaccompanied."""
+1691;MATT;"""""You seem like you are not from around here.|It is dangerous to wander these streets unaccompanied."""""
 1692;ASHLEY;Well, I got this guy.
-1693;MATT;"""This one?"""
+1693;MATT;"""""This one?"""""
 1694;TRAVIS;Yeah! Hi!
 1695;MARISHA;Man, we've been here five minutes.
-1696;MATT;"He extends a hand next to you, a very large hand, and he says, ""Come. I will carry you to your destination."""
+1696;MATT;"He extends a hand next to you, a very large hand, and he says, """"Come. I will carry you to your destination."""""
 1697;ASHLEY;I don't like to be carried. I don't like to be made to feel smaller than I am, thank you.
-1698;MATT;"""Then let us continue to walk. We will want to take a left at the next big juncture."" They both keep walking alongside the two of you. While this is happening, you guys are keeping behind and glancing over your shoulder and seeing the rest of your party slowly gather at the knees of these two walking, haughty-looking djinn."
+1698;MATT;"""""Then let us continue to walk. We will want to take a left at the next big juncture."""" They both keep walking alongside the two of you. While this is happening, you guys are keeping behind and glancing over your shoulder and seeing the rest of your party slowly gather at the knees of these two walking, haughty-looking djinn."
 1699;LIAM;(clears throat) Yeah, I was hoping for a little bit of advice about town. This is starting to feel a little kinky. Where are we going? I don't need to talk that bad. Where are we going?
 1700;MATT;This is to the tiefling?
 1701;LIAM;Yeah.
-1702;MATT;"The tiefling looks over his shoulder towards you and goes, ""We are going to-- (groans). All right, this just got very-- If you look ahead, one alley, we are going to dart to the right. Follow, quickly."""
+1702;MATT;"The tiefling looks over his shoulder towards you and goes, """"We are going to-- (groans). All right, this just got very-- If you look ahead, one alley, we are going to dart to the right. Follow, quickly."""""
 1703;LIAM;Follow you to talk right now?
-1704;MATT;"""Yes!"""
+1704;MATT;"""""Yes!"""""
 1705;LAURA;Okay. I go.
 1706;MATT;So they begin taking up their pace a little bit, quickening their walk, almost like a light jog.
 1707;LIAM;Okay.
@@ -1749,14 +1749,14 @@
 1747;TALIESIN;Oh, yeah, I follow suit, yeah. I'm running in there.
 1748;MATT;Okay. The three of you dart in. You guys watch as the three of them vanish into that alley.
 1749;MARISHA;Do the efreeti react to them vanishing?
-1750;MATT;"No, but that's about two intersections ahead. The ones immediately before you, the efreet goes, ""Turn left. To Pelor's temple."""
+1750;MATT;"No, but that's about two intersections ahead. The ones immediately before you, the efreet goes, """"Turn left. To Pelor's temple."""""
 1751;TALIESIN;For god's sake, you two, tell them that you have to meet your owner!
 1752;TRAVIS;Oh! Do it. Tell them that we've got to meet our owner.
-1753;MATT;"""Left to Pelor's temple, small one!"" As you guys are coming to the intersection--"
+1753;MATT;"""""Left to Pelor's temple, small one!"""" As you guys are coming to the intersection--"
 1754;ASHLEY;I'm so sorry, what did you say? Left at where?
-1755;MATT;"""Right here."""
+1755;MATT;"""""Right here."""""
 1756;ASHLEY;We're supposed to meet out master at the temple of Pelor, so--
-1757;MATT;"""Then I am taking you. Take a left."""
+1757;MATT;"""""Then I am taking you. Take a left."""""
 1758;ASHLEY;I'm going to cast a Zone of Truth and ask him some questions.
 1759;MATT;Well, hold on a second.
 1760;TALIESIN;Yeah!
@@ -1819,7 +1819,7 @@
 1817;MARISHA;A saving throw. Oh, that was almost so good, that was almost great! 13.
 1818;MATT;13. Basically his hand grabs you and, like, his fingers close around the back of your head, holding you like a ball, and lifts you a little off the ground and throws you into the alley. So as Keyleth gets chucked off to the side of the alley, you're finishing getting pushed off.|Scanlan, what are you doing with your command over the efreet?
 1819;SAM;I say to him: Hey sweet baby. Look at me.|It's all going to be okay if you yell at your friend to let us go.
-1820;MATT;"The efreet that you control turns around and goes, ""Hey! This is not our business. We need to let them go."" The other efreet goes, ""What are you talking about? They're at our disposal!"" He looks back at the first one who goes, ""It doesn't matter. Let them go. Now."" The other one looks down at you and looks at the other one. That's cocked. And glances down at you, Scanlan, and goes, ""What have you done to my friend?"""
+1820;MATT;"The efreet that you control turns around and goes, """"Hey! This is not our business. We need to let them go."""" The other efreet goes, """"What are you talking about? They're at our disposal!"""" He looks back at the first one who goes, """"It doesn't matter. Let them go. Now."""" The other one looks down at you and looks at the other one. That's cocked. And glances down at you, Scanlan, and goes, """"What have you done to my friend?"""""
 1821;SAM;I say to him: I'm just a mere slave and-- kill him! Kill him now! Kill him right now! (laughter)
 1822;LAURA, TALIESIN;Oh, no!
 1823;MATT;I need to make a-- actually, for Dominate--
@@ -1842,7 +1842,7 @@
 1840;TRAVIS;Good deal.
 1841;MATT;Scanlan, what are you doing?
 1842;SAM;I am staying put until my friends are far away. I'm watching them, watching them, back and forth.
-1843;MATT;"Okay, you watch as the one efreet holding his friend against the wall there is like (strained grunt). The one that's being choked goes, (choking) ""What's this?"" He reaches down and pulls a blade out of the side and begins jabbing it into the arm of the guy who's holding him."
+1843;MATT;"Okay, you watch as the one efreet holding his friend against the wall there is like (strained grunt). The one that's being choked goes, (choking) """"What's this?"""" He reaches down and pulls a blade out of the side and begins jabbing it into the arm of the guy who's holding him."
 1844;ASHLEY, TALIESIN;Run. Run!
 1845;MATT;Which does six damage there, and he gets to make a saving throw because he took damage. So he's like, stabbing him in the arm repeatedly. The other guy's like (grunting), still pushing into his throat, and he takes him, lifts him up, and slams him into the other wall, causing him to drop the dagger in the other hand, and begins to push him down towards the ground. You can see his eyes, still intense, but controlled by the spell as he's pushing the other efreet into the dark stonework and you can see it cracking and breaking against the force. The other efreet now is being held against their-- (foreign language) and begins chanting something beneath his breath.
 1846;SAM;Oh, shit. They do magic shit?
@@ -1875,7 +1875,7 @@
 1873;SAM;Right in behind Grog's butt. Just smooshed on up.
 1874;MATT;And you do. Sweaty cheek. Reverse motorboat.|It's a terrible thing.
 1875;LIAM;Is it tight enough that the two strangers are smooshed in as badly as we are?
-1876;MATT;"Yeah, they're like, (strained) ""Okay-- please-- """
+1876;MATT;"Yeah, they're like, (strained) """"Okay-- please-- """""
 1877;MARISHA;Is this dark?
 1878;MATT;It's dark. There's no light in here, yeah.
 1879;MARISHA;I lift my hand and I light it up to give us a little bit of light.
@@ -1885,7 +1885,7 @@
 1883;TRAVIS;Are there any windows or anything?
 1884;MATT;No, there's just the door you guys entered.|It's a storage shed.
 1885;LIAM;This is a little more than I think I was asking for, but what is there to see in the City of Brass?
-1886;MATT;"You're asking this right now? He looks at you. ""You're asking this right now?"""
+1886;MATT;"You're asking this right now? He looks at you. """"You're asking this right now?"""""
 1887;LIAM;So we're out of sorts. We're not from here, obviously.
 1888;LAURA;Hi.
 1889;LIAM;Hi. That's my sister. You can tell because she looks just like me.
@@ -1896,27 +1896,27 @@
 1894;LIAM;You don't look like many of the larger folk-- thank you, dear-- that we've seen around here either. Are you from here? Are you strangers here?
 1895;LAURA;How are you not slaves right now?
 1896;LIAM;That.
-1897;MATT;"Let me change this to a bit of a calmer circumstance, here-- the tiefling says, ""Shh!"""
+1897;MATT;"Let me change this to a bit of a calmer circumstance, here-- the tiefling says, """"Shh!"""""
 1898;LAURA;Sorry.
-1899;MATT;"""Shh! Close the door!"" And it is like--"
+1899;MATT;"""""Shh! Close the door!"""" And it is like--"
 1900;LAURA;Can I climb up on one of the boxes to give more foot room?
-1901;MATT;"As you all inhale, the door finally closes.|Vex climbs up. A minute of quiet passes.|Eventually, as silence passes for a bit, you hear a voice, a very soft and gentle voice that you haven't heard yet, break the darkness. He goes, ""I think it's safe to speak now."" The lithe-looking individual you saw earlier with the wiry red hair and the somewhat reddish-black eyes says, ""Well, it was uncommon to see individuals wandering this city with a look of absolute victimization."""
+1901;MATT;"As you all inhale, the door finally closes.|Vex climbs up. A minute of quiet passes.|Eventually, as silence passes for a bit, you hear a voice, a very soft and gentle voice that you haven't heard yet, break the darkness. He goes, """"I think it's safe to speak now."""" The lithe-looking individual you saw earlier with the wiry red hair and the somewhat reddish-black eyes says, """"Well, it was uncommon to see individuals wandering this city with a look of absolute victimization."""""
 1902;SAM;(muffled) We don't look that bad, do we?
 1903;LAURA;I pick up Scanlan and put him up on a box.
 1904;LIAM;Those aren't pillows!
 1905;SAM;I don't think Grog wears underpants!
 1906;TRAVIS;Who does?
-1907;MATT;"""I'm Senokir. This is Uten, my business partner. We are jewelers here in the City of Brass. And if I'm not mistaken, you now owe us a favor."""
+1907;MATT;"""""I'm Senokir. This is Uten, my business partner. We are jewelers here in the City of Brass. And if I'm not mistaken, you now owe us a favor."""""
 1908;LIAM;Maybe we could do a bit of business.|Percival, you were looking for a jeweler, right?
 1909;TALIESIN;Well, it's a little far away at the moment, but we could do a bit of business because we have other business to attend to.
 1910;MARISHA;What caught your attention on us, aside from the utter look of pathetic-ness?
-1911;MATT;"""Favors are more useful when you're not in chains."""
+1911;MATT;"""""Favors are more useful when you're not in chains."""""
 1912;LAURA;Yes, this is true.
-1913;MATT;"""So. Let us wait here about ten, 15 more moments. Let any immediate chance of you running into those thugs pass. We'll have a more private conversation at our place of business, if you don't mind."""
+1913;MATT;"""""So. Let us wait here about ten, 15 more moments. Let any immediate chance of you running into those thugs pass. We'll have a more private conversation at our place of business, if you don't mind."""""
 1914;LAURA;Why do you wear those white robes? Do they signify anything?
-1915;MATT;"""They signify our freedom."""
+1915;MATT;"""""They signify our freedom."""""
 1916;MARISHA;Were you once in chains?
-1917;MATT;"""Few that come here manage to escape that fate immediately. We found our way."""
+1917;MATT;"""""Few that come here manage to escape that fate immediately. We found our way."""""
 1918;MARISHA;That's ominous. Can I do an insight check? Does that mean he murdered a lot of fricking people?
 1919;MATT;Make an insight check.
 1920;MARISHA;Let's go druid dice. Oh god. Ooh, it's an 18! What was it, insight? Right? 29.
@@ -1936,19 +1936,19 @@
 1934;MARISHA;Who is, something's off about him?
 1935;MATT;Something's different. You don't recognize his race or background.
 1936;MARISHA;Uten, how long have the two of you been in business together?
-1937;MATT;"""Shh, let us wait. We will continue this conversation at our establishment."""
+1937;MATT;"""""Shh, let us wait. We will continue this conversation at our establishment."""""
 1938;LAURA;Is this your room?
-1939;MATT;"""No."""
+1939;MATT;"""""No."""""
 1940;LAURA;Whose room is it?
-1941;MATT;"""I have no idea. Which is why we shouldn't stay long."""
+1941;MATT;"""""I have no idea. Which is why we shouldn't stay long."""""
 1942;ASHLEY;Do you know where those thugs were trying to take us? Or have an idea?
-1943;MATT;"""I have no idea, but I imagine they would have called in some friends to meet you and you would have found yourselves in a very tough position."""
+1943;MATT;"""""I have no idea, but I imagine they would have called in some friends to meet you and you would have found yourselves in a very tough position."""""
 1944;LIAM;All right, it's really starting to smell like Grog in here, so why don't we go--
-1945;MATT;"""A few more moments, please."""
+1945;MATT;"""""A few more moments, please."""""
 1946;TRAVIS;It was really hard not to fight, man. I do terrible when I don't fight.
-1947;MATT;"""Shh."" You wait in awkward silence for the next five minutes, with any sort of sound, utterance, or conversation being immediately shushed by Senokir. Eventually--"
+1947;MATT;"""""Shh."""" You wait in awkward silence for the next five minutes, with any sort of sound, utterance, or conversation being immediately shushed by Senokir. Eventually--"
 1948;ASHLEY;(fart sound)
-1949;MATT;"--Senokir perks up and the slightly pointed ears of his form seem to almost twitch. ""I think passage is safe. Very well, open the door. Follow us, please."" As you guys filter out, they continue, a quick pace, and lead you through a series of winding side streets and momentary pauses to pass as a number of other creatures and individuals walk by. Passing efreeti, passing occasionally some sort of giant, winged, red creature that stalks down the street, dragging behind it a large cart that has bars in it. You can see a number of smaller, almost, I wouldn't say fey-type creatures, but things that are definitely not of this realm, that are all bound by neck irons. You do also see a few small families wander through, laughing, that appear to be humanoid, but once again their physicality is very similar to the individual Senokir.|Eventually, you are led back to a simple exterior.|It's a back entrance, leading away from this main street. They both enter to this iron doorway.|Senokir pulls something from a pocket and glances at the rest of you. He pricks his finger and places it to the edge of this object, some sort of a disk, and it has a small point on one end that he uses to prick his finger. Once he's smeared his blood on the disk, he presses it against the door, and the iron door opens up a little bit. Places it in his pocket. ""Come inside, so we may speak, please."""
+1949;MATT;"--Senokir perks up and the slightly pointed ears of his form seem to almost twitch. """"I think passage is safe. Very well, open the door. Follow us, please."""" As you guys filter out, they continue, a quick pace, and lead you through a series of winding side streets and momentary pauses to pass as a number of other creatures and individuals walk by. Passing efreeti, passing occasionally some sort of giant, winged, red creature that stalks down the street, dragging behind it a large cart that has bars in it. You can see a number of smaller, almost, I wouldn't say fey-type creatures, but things that are definitely not of this realm, that are all bound by neck irons. You do also see a few small families wander through, laughing, that appear to be humanoid, but once again their physicality is very similar to the individual Senokir.|Eventually, you are led back to a simple exterior.|It's a back entrance, leading away from this main street. They both enter to this iron doorway.|Senokir pulls something from a pocket and glances at the rest of you. He pricks his finger and places it to the edge of this object, some sort of a disk, and it has a small point on one end that he uses to prick his finger. Once he's smeared his blood on the disk, he presses it against the door, and the iron door opens up a little bit. Places it in his pocket. """"Come inside, so we may speak, please."""""
 1950;TALIESIN, LIAM;All right.
 1951;LAURA;I want to look in his eyes as we are about to go through and see if-- how honest he looks.
 1952;MATT;Make an insight check.
@@ -1962,41 +1962,41 @@
 1960;LAURA;All right. I like your hair. And I walk in.
 1961;MATT;Okay. As you guys enter, these wall sconces begin to come to life on their own across the walls. On the inside, you can see this gorgeous workspace for all sorts of small-level metallurgy and metalcraft. Percy, you really appreciate this.|You see small furnaces and a number of metals laid out in ingots, some used in different volumes.|Many substances and things that you've never seen before. A couple of small boxes to the side of rough, uncut gems, currently at this distance--
 1962;TALIESIN;My word.
-1963;LAURA;"I walk up and smack Percy on the ass and say, ""Feel like making a home here?"" and walk past him."
+1963;LAURA;"I walk up and smack Percy on the ass and say, """"Feel like making a home here?"""" and walk past him."
 1964;TALIESIN;I'm certainly thinking of some plans.
-1965;MATT;"As the door closes behind and the two individuals walk in, they rummage around and begin finding some small stools and arrange them so they can present to you more like, treat you like a guest. He sets them down. ""Please, sit, and we shall speak."""
+1965;MATT;"As the door closes behind and the two individuals walk in, they rummage around and begin finding some small stools and arrange them so they can present to you more like, treat you like a guest. He sets them down. """"Please, sit, and we shall speak."""""
 1966;TRAVIS;Okay!
 1967;LAURA;How long does Locate Object take to cast?
 1968;SAM;Well, that's not something you would ask him. I think he's just our host here.
-1969;MATT;"""I have no idea these words you speak."" All right, Locate Object. Locate Object is one action, so it takes six seconds to cast."
+1969;MATT;"""""I have no idea these words you speak."""" All right, Locate Object. Locate Object is one action, so it takes six seconds to cast."
 1970;LAURA;Can I try to cast it as we sit down and see if it's in our vicinity?
 1971;SAM;You can cast that shit all the time?
 1972;TALIESIN;How often can you cast it?
 1973;LAURA;Well, it's a 2nd-level spell, so I can do it a bit.
 1974;MATT;So as everyone's sitting on your stools and getting ready, you close your eyes for a second, concentrate, mutter beneath your breath. You extend your understanding in this dark space around you, waiting for the warmth of any sort of call to the Dawnmartyr Plate. Eventually your mental expansion reaches the limitations of the spell, with nothing coming back.
 1975;LAURA;Tight, tight, tight.
-1976;MATT;"As you've all sat down and assembled, Senokir sits as well, hands crossed very pleasantly in front of him. Very up straight, strange head cocked a little to the side. ""So you've found yourselves here, out of place, and we've helped you once. We will discuss the terms of our repayment for our aid. But before then, I must ask why you would come here so unprepared."""
+1976;MATT;"As you've all sat down and assembled, Senokir sits as well, hands crossed very pleasantly in front of him. Very up straight, strange head cocked a little to the side. """"So you've found yourselves here, out of place, and we've helped you once. We will discuss the terms of our repayment for our aid. But before then, I must ask why you would come here so unprepared."""""
 1977;MARISHA;So unprepared? Does the name Thordak ring a bell? The Cinder King? It's a pseudonym, maybe?
-1978;MATT;"""I have heard this name."""
+1978;MATT;"""""I have heard this name."""""
 1979;SAM;Alias.
 1980;LAURA;Did he hang out around here?
-1981;MATT;"""No. He stayed mostly over the Sea of Fire."""
+1981;MATT;"""""No. He stayed mostly over the Sea of Fire."""""
 1982;LAURA;Hmm. Anywho!
 1983;SAM;What about that Plate of--? No? Maybe? I mean, I don't know, what are we here for?
-1984;MATT;"""What are you here for?"""
+1984;MATT;"""""What are you here for?"""""
 1985;MARISHA;Thordak has escaped into our realm--
-1986;MATT;"""Good. Keep him away from here."""
+1986;MATT;"""""Good. Keep him away from here."""""
 1987;MARISHA;All right, that's what we want as well.
 1988;LIAM;You have a distaste for the wyrm?
-1989;MATT;"""No, I just don't trust dragons."""
+1989;MATT;"""""No, I just don't trust dragons."""""
 1990;TALIESIN;He's currently still linked to this realm.
-1991;MATT;"""Hmm."""
+1991;MATT;"""""Hmm."""""
 1992;TALIESIN;We are trying to take care of as much of it as humanly possible.
-1993;MATT;"""Heh. Humanly."""
+1993;MATT;"""""Heh. Humanly."""""
 1994;TALIESIN;As much as humanly possible. Perhaps a little bit more. We are here for the little bit more. We seek powers to help us defeat the dragon.
-1995;MATT;"""Perhaps I can be of aid. What powers do you seek?"""
+1995;MATT;"""""Perhaps I can be of aid. What powers do you seek?"""""
 1996;LAURA;What powers can you do?
-1997;MATT;"""I asked my question first."""
+1997;MATT;"""""I asked my question first."""""
 1998;SAM;So creepy!
 1999;TALIESIN;Perhaps it is time to lay it on the line. Time is of the essence.
 2000;LIAM;Sure, go for it.
@@ -2007,45 +2007,45 @@
 2005;SAM;A card game of some sort.
 2006;TALIESIN;The Plate of the Dawnmartyr.
 2007;MARISHA;It used to belong to the Suutan Bloodline.
-2008;MATT;"""Suutan, now that I am aware of."""
+2008;MATT;"""""Suutan, now that I am aware of."""""
 2009;MARISHA;Yes?
-2010;MATT;"""Does it still belong in the possession of this Suutan?"""
+2010;MATT;"""""Does it still belong in the possession of this Suutan?"""""
 2011;LAURA;I don't think so.
 2012;SAM;Our information says it does not.
 2013;MARISHA;It was won by a fire giant.
-2014;MATT;"""A fire giant within this city?"""
+2014;MATT;"""""A fire giant within this city?"""""
 2015;TALIESIN;That is our belief.
 2016;SAM;Are there any fire giants in this city?
-2017;MATT;"""That narrows it down. There are only three that live here--"""
+2017;MATT;"""""That narrows it down. There are only three that live here--"""""
 2018;SAM;Oh, well that's great!
-2019;MATT;"""--not under subjugation."""
+2019;MATT;"""""--not under subjugation."""""
 2020;SAM;Happen to have their names?
-2021;LAURA;"Do people under subjugation own a lot?"""
-2022;MATT;"""Generally, no. Those that own them, own what they own. So maybe it's one of them. We can go ask."""
+2021;LAURA;"Do people under subjugation own a lot?"""""
+2022;MATT;"""""Generally, no. Those that own them, own what they own. So maybe it's one of them. We can go ask."""""
 2023;SAM;Are they close?
-2024;MATT;"""Relatively. Depending on which one you ask first."""
+2024;MATT;"""""Relatively. Depending on which one you ask first."""""
 2025;SAM;You could just give us their addresses or something and we could go check it out. If you had a Thomas Guide--?
 2026;LAURA;Where's Uten? What's Uten doing?
 2027;MATT;Uten is sitting back, arms crossed.
 2028;LAURA;He seems totally chill? This is the way this dude talks all the fucking time? (laughing)
 2029;MATT;Completely unfazed.
 2030;TALIESIN;Depending on how things go, we may even speak of perhaps commissioning some pieces. Your work is astounding.
-2031;MATT;"He suddenly leans forward, steps up from the stool, and walks over to you and begins to look very closely over your clothing. ""Can you afford what I make?"""
+2031;MATT;"He suddenly leans forward, steps up from the stool, and walks over to you and begins to look very closely over your clothing. """"Can you afford what I make?"""""
 2032;TALIESIN;Possibly. I would like to think so.|Depending on how the next few weeks go, there will be much to celebrate, and your work is celebratory.
 2033;LAURA;Do you require monetary compensation, or is it something more?
-2034;MATT;"""Depends. I have plenty of money, but you owe me, and if I help you find this giant and this armor you're seeking, you will owe me even more.|So. To keep this interesting, how about we go find this armor?"""
+2034;MATT;"""""Depends. I have plenty of money, but you owe me, and if I help you find this giant and this armor you're seeking, you will owe me even more.|So. To keep this interesting, how about we go find this armor?"""""
 2035;LIAM;You don't even want to hint at what you're looking for?
-2036;MATT;"""Where's the fun in that?"""
+2036;MATT;"""""Where's the fun in that?"""""
 2037;LIAM;You cheeky bastard, Matthew Mercer.
-2038;MATT;"""So. To the giant?"""
+2038;MATT;"""""So. To the giant?"""""
 2039;LAURA;Should we make ourselves not look like us? Should we maybe look like something different?
 2040;TRAVIS;Yeah, how will you keep us from being harassed in the streets?
-2041;MATT;"""Well, I mean no disrespect, but--"" He lifts his hand and snaps the fingers. You watch as Uten goes, ""Oh, right, sorry. I got you."" He goes rummaging through a case and you hear what sounds like the dragging and clanging of many pieces of small metal. Procures a series of chains and neck irons. Senokir looks up. ""There's not much else I have to offer but, for the most part, you won't be bothered."""
+2041;MATT;"""""Well, I mean no disrespect, but--"""" He lifts his hand and snaps the fingers. You watch as Uten goes, """"Oh, right, sorry. I got you."""" He goes rummaging through a case and you hear what sounds like the dragging and clanging of many pieces of small metal. Procures a series of chains and neck irons. Senokir looks up. """"There's not much else I have to offer but, for the most part, you won't be bothered."""""
 2042;ASHLEY;Oh, you love it.
 2043;TALIESIN;Let me put forward a theory for you.
 2044;TRAVIS;You son of a bitch.
 2045;TALIESIN;I hate those eyes. I can't look at them.|I hate you. Whatever deal we make with you here, for the record, none of us will be staying. We may be coming back to fulfill some service, we may be coming back to fulfill some favor, and we will if that is the deal we make.
-2046;MATT;"""If that is the deal we make."""
+2046;MATT;"""""If that is the deal we make."""""
 2047;TALIESIN;But the deal we make will not include any of us. Is that understood? Is that agreeable?
 2048;SAM;Unless it's for a one-time sexual favor of some sort.
 2049;TALIESIN;Only with him.
@@ -2053,19 +2053,19 @@
 2051;SAM;I'm up for that.
 2052;TRAVIS;I'm up, too.
 2053;TALIESIN;Oh my god, you people.
-2054;MATT;"""I think you will find our arrangements agreeable."""
+2054;MATT;"""""I think you will find our arrangements agreeable."""""
 2055;TALIESIN;And I may have some things to excite you with, as well. Stop it! I know you've been doing it all game!
 2056;ASHLEY;That was me.
 2057;MARISHA;He said in accent.
-2058;MATT;"""It seems we've found some semblance of an accord for the time. Come, place these gently upon yourselves and we'll be on our way."""
+2058;MATT;"""""It seems we've found some semblance of an accord for the time. Come, place these gently upon yourselves and we'll be on our way."""""
 2059;LAURA;Don't you have any white robes you can give us instead?
-2060;MATT;"""I'm sorry, no. Those come with station, and station requires recognition. None will recognize you here. You'll be found out immediately."""
+2060;MATT;"""""I'm sorry, no. Those come with station, and station requires recognition. None will recognize you here. You'll be found out immediately."""""
 2061;SAM;Should we chain ourselves to each other, or to you? How does this work?
 2062;LAURA;Check out those chains and see if they're magic?
 2063;MARISHA;A few of us could look like you, to keep all of us out of chains? Maybe a few exceptions?
 2064;LAURA;You can get big and then look like an efreeti?
 2065;MARISHA;I can look like one of them. Very simply.|I think we'd all feel a little bit comfortable if some of us were free.
-2066;MATT;"""Sure. If you are confident."""
+2066;MATT;"""""Sure. If you are confident."""""
 2067;MARISHA;I study him and I change to like a--
 2068;LAURA;Maybe somebody that is better at talking?
 2069;MARISHA;I don't have to talk, I just have to look like someone else. That's not that hard.
@@ -2077,9 +2077,9 @@
 2075;MATT;Just 20? The chains appear to be mundane.|They are heavy, they are thick, they are definitely functional, but they are not enchanted.
 2076;SAM;I'm going to slap some on.
 2077;LIAM;I'm going to slip on my ring of invisibility and spend the next 20 minutes attuning to it.
-2078;MATT;"He looks you over. ""Impressive. I think you will get no concern from myself when the other genasi cross your way."""
+2078;MATT;"He looks you over. """"Impressive. I think you will get no concern from myself when the other genasi cross your way."""""
 2079;MARISHA;(slowly) Do all of you talk like this? Do I also need to talk like this?
-2080;MATT;"""I don't know what you mean."""
+2080;MATT;"""""I don't know what you mean."""""
 2081;MARISHA;Never mind.
 2082;TRAVIS;I go put the chains on, as well.
 2083;TALIESIN;I put the chains on.
@@ -2098,7 +2098,7 @@
 2096;TALIESIN;Just for insanity's sake, before I slip them on, I'm going to take a little bit of gunpowder out of my pouch and sprinkle a little bit in the locks and have some on my hands.
 2097;LAURA;You're going to blow your little hands off.
 2098;TALIESIN;Oh, it's going to be awful.
-2099;MATT;"(Victor voice) ""Learn from my mistakes!"""
+2099;MATT;"(Victor voice) """"Learn from my mistakes!"""""
 2100;TALIESIN;Not enough to blow a hand off, but yes.
 2101;MATT;Okay. Vex, you manage to get them clicked on, and as soon as you feel confident, they go (clank) and hang open.
 2102;LAURA;Oh. I must have not attached them quite right.
@@ -2107,16 +2107,16 @@
 2105;TRAVIS;Please?
 2106;MATT;As all of the chains are attached, some time has passed. You've attuned to your ring. What have you un-attuned to?
 2107;LIAM;My boots have gone slack.
-2108;MATT;"So you have the ring on. You're maintaining your altered appearance. Uten takes all the chains and clinks them onto the one ring. Gives it a tug, just to check, and you all feel the tug from behind. ""Very well. It seems we are prepared.|Come, now, let us all go speak with Whaska."""
+2108;MATT;"So you have the ring on. You're maintaining your altered appearance. Uten takes all the chains and clinks them onto the one ring. Gives it a tug, just to check, and you all feel the tug from behind. """"Very well. It seems we are prepared.|Come, now, let us all go speak with Whaska."""""
 2109;LIAM;He didn't chain me, though, right? Am I chained? There's no invisible floating chain?
 2110;MATT;No, he doesn't seem like he's intent on chaining all of you. He just chained those that couldn't pass.
 2111;SAM;Whaska the giant. Whaska the giant, right?
-2112;MATT;"""Yes."""
+2112;MATT;"""""Yes."""""
 2113;LIAM;Is Vex chained?
 2114;LAURA;I am.
 2115;LIAM;I tweak her nose and give her a wet willy, and then dart six feet back.
 2116;LAURA;You fucking dick!
-2117;MATT;"(chuckles) (laughter)|""Now come! Uten, come."" And he walks out the front door, this time. As you guys are led through the two front doors, as they open, as Senokir pushes them, you see this wonderful thoroughfare in front with a giant fountain that has this molten rock, this lava fountain, that pours out into this large, open pit that descends into darkness below. You see these giant, black, obelisk-like pillars that jut out in the center, and probably about two dozen entities from all walks of life walking through and having conversations and talking, many of which having their own chained slaves at their side. This appears to be one of many central social civil places within the City of Brass. And that's where we'll end tonight's session."
+2117;MATT;"(chuckles) (laughter)|""""Now come! Uten, come."""" And he walks out the front door, this time. As you guys are led through the two front doors, as they open, as Senokir pushes them, you see this wonderful thoroughfare in front with a giant fountain that has this molten rock, this lava fountain, that pours out into this large, open pit that descends into darkness below. You see these giant, black, obelisk-like pillars that jut out in the center, and probably about two dozen entities from all walks of life walking through and having conversations and talking, many of which having their own chained slaves at their side. This appears to be one of many central social civil places within the City of Brass. And that's where we'll end tonight's session."
 2118;TRAVIS;Did the people that have the people in chains, are they wearing the white robes and stuff?
 2119;MATT;Different outfits. It appears that it isn't like, the white robes signify that a person is free. Just for these two, it's a level of station, it seems, in the way they've described it.
 2120;SAM;Had we stopped in one more minute, I would have had to take off this shirt, revealing nothing underneath.
@@ -2133,7 +2133,7 @@
 2131;LIAM;It's better when you're here!
 2132;ASHLEY;Oh, well, okay!
 2133;SAM;It's really better when you here. It's not good when you're not here. In fact, don't watch when she's not here.
-2134;ASHLEY;"I felt like, maybe to everybody watching, but I didn't feel like we were playing that long.|So you ended the game and I was like, ""No! What? We just-- oh."""
+2134;ASHLEY;"I felt like, maybe to everybody watching, but I didn't feel like we were playing that long.|So you ended the game and I was like, """"No! What? We just-- oh."""""
 2135;MATT;It's been four hours! I know. Well, guys, thank you for watching. I hope you had fun, as we do, in this insanity.
 2136;ASHLEY;I love this character so much.
 2137;TALIESIN;He's my new favorite. The week after Halloween? The week after?

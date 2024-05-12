@@ -552,31 +552,31 @@
 550;WIL;I cast Annoyed Dwarf to know that he was likely killed by the rakshasa. Why are we standing in this room?
 551;WILL;I want to know when he was killed.
 552;WIL;I'm not stopping you.
-553;MATT;"Okay, so as you sit down and you begin preparing your ritual, you once again mutter under your breath and begrudgingly pull out your symbol.|As you continue casting the spell, there's a slight shimmer of greenish-blue light that slowly pours over the corpse, seeps into the bones, and for a moment you see Kashaw go into this trance-like state. Kashaw, you see from within the corpse, the face sits up with this horrible cracking bone-like sound. The skeletal element with this partially mummified and mostly rotten face steps forward, and the vacuous sockets that once held its eyes turn towards you, and you could swear you see the bone of its grimace grin as it airily whispers towards you, ""Why do you bother me?"""
+553;MATT;"Okay, so as you sit down and you begin preparing your ritual, you once again mutter under your breath and begrudgingly pull out your symbol.|As you continue casting the spell, there's a slight shimmer of greenish-blue light that slowly pours over the corpse, seeps into the bones, and for a moment you see Kashaw go into this trance-like state. Kashaw, you see from within the corpse, the face sits up with this horrible cracking bone-like sound. The skeletal element with this partially mummified and mostly rotten face steps forward, and the vacuous sockets that once held its eyes turn towards you, and you could swear you see the bone of its grimace grin as it airily whispers towards you, """"Why do you bother me?"""""
 554;WILL;Because I have questions.
-555;MATT;"""What questions do you have?"""
+555;MATT;"""""What questions do you have?"""""
 556;WILL;What killed you?
-557;MATT;"""Something that was not supposed to be here.|Something vicious, something untrue. It wasn't what it seemed. This woman was asking for help, and no one's supposed to be down here if it's not their route. Occasionally, we come and check on these abandoned parts of the prison. A woman was here. A woman should not be down here. I went to ask what was wrong, and she took this from me."" And the bony hand reaches up and gestures to the throat, and you can see there's giant claw marks across the front of its spinal cord where its neck is that give the sensation that something tore its throat out."
+557;MATT;"""""Something that was not supposed to be here.|Something vicious, something untrue. It wasn't what it seemed. This woman was asking for help, and no one's supposed to be down here if it's not their route. Occasionally, we come and check on these abandoned parts of the prison. A woman was here. A woman should not be down here. I went to ask what was wrong, and she took this from me."""" And the bony hand reaches up and gestures to the throat, and you can see there's giant claw marks across the front of its spinal cord where its neck is that give the sensation that something tore its throat out."
 558;WILL;A woman did this to you?
-559;MATT;"""Aye."""
+559;MATT;"""""Aye."""""
 560;MARISHA;Shapeshifter.
 561;WILL;Or there's more than one. When? When were you killed?
-562;MATT;"""14 weeks have passed. I was resting."""
+562;MATT;"""""14 weeks have passed. I was resting."""""
 563;WILL;Anybody have questions? He's not going to be here long, I can tell you that. Not at 14 weeks.
 564;MARISHA;Ask him if he knows which direction he went, and if he has a hideout.
 565;WILL;Which direction she went, you mean.
 566;MARISHA;Well, he or she or whatever it was.
 567;WILL;Did you see which direction she went after she killed you?
-568;MATT;"""She walked away, laughing and eating parts of me. I have not seen her since, but others walk these halls. I've seen a dwarf pass through two or three times, and as it did and passed my cell, it laughed. Sometimes guards come to inspect, but none have found me. None have found me yet."""
+568;MATT;"""""She walked away, laughing and eating parts of me. I have not seen her since, but others walk these halls. I've seen a dwarf pass through two or three times, and as it did and passed my cell, it laughed. Sometimes guards come to inspect, but none have found me. None have found me yet."""""
 569;WILL;Are all the guards that come Bastions of the Raven Queen?
-570;MATT;"""We are the ones to protect the Amaranthine Oubliette. That is our job here. You sit in the lower forgotten halls of the Oubliette. My final resting place."""
+570;MATT;"""""We are the ones to protect the Amaranthine Oubliette. That is our job here. You sit in the lower forgotten halls of the Oubliette. My final resting place."""""
 571;WILL;Stormcloud? Any questions?
 572;ORION;I think we've learned all we can from this one.
 573;MARISHA;Which direction was the dwarf walking?
 574;WILL;You can answer her. What direction was the dwarf going?
 575;MATT;The other hand creeps up from underneath the thatch. As you guys are watching this, the corpse is doing nothing, it's just lying there, he is talking to an unmoving corpse. For your vision, the hand reaches over and points in the direction you guys came from.
 576;WILL;So it went the way we came.
-577;MATT;"""That was two weeks ago."""
+577;MATT;"""""That was two weeks ago."""""
 578;MARISHA;But he said he's been coming and going, so maybe he was just leaving?
 579;WILL;Coming the same direction we came from, though. That seems odd. And a man, a dwarf, and a woman.
 580;LIAM;Weeks ago. Not five minutes ago.
@@ -620,7 +620,7 @@
 618;LIAM;I start pushing back on Thorbir, backing everybody up, silently pushing backward and trying to steer everyone in a heap backwards and to the side of the cell we just came from.|Just trust me.
 619;MATT;Make a stealth check.
 620;LIAM;19.
-621;MATT;"19? Okay. As you're pushing everyone back, (shushing) whispering all this, you hear a voice say, ""Hello? Hold on. Hello?"" The one with the beard approaches with his hand on his weapon, the other one moving along the back."
+621;MATT;"19? Okay. As you're pushing everyone back, (shushing) whispering all this, you hear a voice say, """"Hello? Hold on. Hello?"""" The one with the beard approaches with his hand on his weapon, the other one moving along the back."
 622;LIAM;Did I get them into the cell?
 623;MATT;You pushed them far back and into the cell?
 624;LIAM;Yeah, that was what I wanted to do, just backwards to everybody.
@@ -1451,20 +1451,20 @@
 1449;MARISHA;Master of politicians and deception.
 1450;MATT;Politics and deception.
 1451;ORION;I cast Greater Invisibility.
-1452;MATT;"All righty. I will say, it's at this point that as you all assembled, you hear a voice echo through the room. It starts off as this low simmering growl. (growls) ""I ask you all this question: Why do you hunt Hotis? Why do you come seeking me dead so fervently that you would continue past such terrible losses and dangers?"" Looking around the room, you see no source of the voice that seems to be either omnipresent or loud enough that the echoing of the walls doesn't give away any location."
+1452;MATT;"All righty. I will say, it's at this point that as you all assembled, you hear a voice echo through the room. It starts off as this low simmering growl. (growls) """"I ask you all this question: Why do you hunt Hotis? Why do you come seeking me dead so fervently that you would continue past such terrible losses and dangers?"""" Looking around the room, you see no source of the voice that seems to be either omnipresent or loud enough that the echoing of the walls doesn't give away any location."
 1453;ORION;Our hand is forced. We are bound by contract. I do not personally wish to be here.
-1454;MATT;"""What if I could tell you this contract you are bound to, there are ways of getting around such magics?"""
+1454;MATT;"""""What if I could tell you this contract you are bound to, there are ways of getting around such magics?"""""
 1455;WIL;Why should we trust someone who chooses not to reveal itself?
-1456;MATT;"""Why should you trust someone that with very little reason sent you to your death beneath a prison cell to die a pit of acid?"""
+1456;MATT;"""""Why should you trust someone that with very little reason sent you to your death beneath a prison cell to die a pit of acid?"""""
 1457;WILL;We're not dead yet.
-1458;MATT;"""Yet."""
+1458;MATT;"""""Yet."""""
 1459;ORION;What is this offer that you speak of?
-1460;MATT;"""You could try and kill me, and you may very well destroy me, but I'll be back. Or we could choose to make a deal. Perhaps a separate contract. Equally binding, but nowhere near as dangerous as this one. And I would say as part of this deal, perhaps we could do some business down the road. You've already walked into my place of business and disturbed my customers and briefly nearly ended my business venture for the time being. This is a very angering thing for one who spends a very long time building these ventures.|And I have plans. I have plots. Looking at the both of you, I can see that perhaps you are not bound by the moralities that such silly folks in Vasselheim seem to cling to. Am I incorrect?"""
+1460;MATT;"""""You could try and kill me, and you may very well destroy me, but I'll be back. Or we could choose to make a deal. Perhaps a separate contract. Equally binding, but nowhere near as dangerous as this one. And I would say as part of this deal, perhaps we could do some business down the road. You've already walked into my place of business and disturbed my customers and briefly nearly ended my business venture for the time being. This is a very angering thing for one who spends a very long time building these ventures.|And I have plans. I have plots. Looking at the both of you, I can see that perhaps you are not bound by the moralities that such silly folks in Vasselheim seem to cling to. Am I incorrect?"""""
 1461;MARISHA;Why don't you come out and speak to us face to face, Hosier? Or Hosien?
-1462;MATT;"""Hotis."""
+1462;MATT;"""""Hotis."""""
 1463;MARISHA;Ah, so your real name is Hotis.
 1464;ORION;If that is your real name.
-1465;MATT;"(chuckles) ""It is the name you know. That is all that is required. But I think you know as well as I do. For my safety, I will remain unseen, just as your friend has. Now, will you let me leave? We can have this conversation in the comfort of my own room. In fact, we can throw a small party. I have the means to do so. You've already proven quite skilled at combat, and I would hate to think you would throw away an opportunity for what paltry sum they're offering you for a temporary victory."""
+1465;MATT;"(chuckles) """"It is the name you know. That is all that is required. But I think you know as well as I do. For my safety, I will remain unseen, just as your friend has. Now, will you let me leave? We can have this conversation in the comfort of my own room. In fact, we can throw a small party. I have the means to do so. You've already proven quite skilled at combat, and I would hate to think you would throw away an opportunity for what paltry sum they're offering you for a temporary victory."""""
 1466;WIL;Thorbir steps back and blocks the door.
 1467;MATT;Okay.
 1468;WILL;Does anybody trust this guy?
@@ -1480,7 +1480,7 @@
 1478;LIAM;I want him dead. I want his house burned to the ground.
 1479;MATT;As you're all taking in this still and very creepy omnipresence of this Hotis character, you, in hearing the voice, it is a very trained voice.|This is an individual that has spent the entirety of their life manipulating and toying with the emotions, minds, greed, and goals of others to get its desires itself, both self-preservation and progressive expansion of its own territory. You can tell in its voice, there is a hint of fear and a very heavy coating of words that are very well practiced and silver-tongued. But you gather that there is very little intent to follow through on its side of the bargain, and everything is designed as misdirection to send whatever it's made a deal with to its eventual doom.
 1480;WIL;It dies in this room. Do you hear me? You die in this room.
-1481;MATT;"""That is unfortunate."" I would like all of you to make a perception check right now."
+1481;MATT;"""""That is unfortunate."""" I would like all of you to make a perception check right now."
 1482;MARISHA;Oh my god.
 1483;WIL;13 total.
 1484;MARISHA;Not bad. 23.
@@ -1663,7 +1663,7 @@
 1661;LIAM;Here we go. This is science.
 1662;WIL;23.
 1663;MATT;That hits, yeah!
-1664;WIL;"All right. This is a commander's strike.|""When you take the attack action on your turn, you can forego one of your attacks and use a bonus action to direct one of your companions to strike.|When you do so, choose a friendly creature who can see you or hear you and expend a superiority die.|That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll."" So I would like to direct the tiger thing to attack the tiger thing."
+1664;WIL;"All right. This is a commander's strike.|""""When you take the attack action on your turn, you can forego one of your attacks and use a bonus action to direct one of your companions to strike.|When you do so, choose a friendly creature who can see you or hear you and expend a superiority die.|That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll."""" So I would like to direct the tiger thing to attack the tiger thing."
 1665;MARISHA;I'm there.
 1666;WIL;Can I do that?
 1667;MATT;You can, yeah.
@@ -1835,8 +1835,8 @@
 1833;MARISHA;22 for the first one.
 1834;MATT;Hits.
 1835;MARISHA;Hang on, do I get two claw attacks, or just one?
-1836;ORION;"Did you say ""clow?"""
-1837;MARISHA;"""Clow."" My ""clows."""
+1836;ORION;"Did you say """"clow?"""""
+1837;MARISHA;"""""Clow."""" My """"clows."""""
 1838;MATT;What does it say for the multi-attack of the tiger form?
 1839;MARISHA;It says-- oh, wait.
 1840;MATT;Saber-toothed tiger is the form.
@@ -1880,7 +1880,7 @@
 1878;WIL;And my last attack. 23?
 1879;MATT;23 hits. As it pulls back from knocking away your blade, you use the inertia to spin it around and come down on top with your axe.
 1880;WIL;Hey, I have a dumb question, and I'm sorry.|This is at your discretion, but I can add a d10 to my attack roll after I've made the attack roll.
-1881;MATT;"You add it before I tell you if it hit or missed. So you can roll and be like, ""I don't know if that will hit or not. Let me add my dice to it."""
+1881;MATT;"You add it before I tell you if it hit or missed. So you can roll and be like, """"I don't know if that will hit or not. Let me add my dice to it."""""
 1882;WIL;I get it. So I'm going to hit again. 11.
 1883;MATT;11. All righty. Knocked away, and then come down with a third hit, cracking in the center of the breastplate. The breastplate actually separates slightly. You can see a little of the arcane energy holding it together underneath.|Starting to knock some damage into it. You can see it's taken a little wear and tear. It's still pretty hefty, but you're starting to dig into the shield guardian. Does that end your turn?
 1884;WIL;Can I use second wind? It says I can take it as a bonus action, but I don't know how bonus actions work.
@@ -2003,7 +2003,7 @@
 2001;WIL;Oh, but I am calling out, and yelling at, and taunting at the guy. And it's just this.|(mouthing words)
 2002;ORION;Oh, because of the Silence. I'll dissipate the spell so I can hear him. Were you trying to say something, Thorbir?
 2003;WIL;(shouting) And I will be naked and riding through the desert-- (laughter)
-2004;MATT;"The rakshasa finishes scanning the room for a second, and he says, ""Well, this has been a lot of fun. I appreciate this little scuffle. However, I have other business to attend to. Looking at the rest of you, at least I know where to hit you all the hardest. I know you have a father you seek. I know you have family in Draconia. I know you have a sister that is not too far from here. And you. I know you have one you hold dear to your heart. I can now see your minds, see their faces, and I will see them soon. However, I must say adieu."" And he begins to cast--"
+2004;MATT;"The rakshasa finishes scanning the room for a second, and he says, """"Well, this has been a lot of fun. I appreciate this little scuffle. However, I have other business to attend to. Looking at the rest of you, at least I know where to hit you all the hardest. I know you have a father you seek. I know you have family in Draconia. I know you have a sister that is not too far from here. And you. I know you have one you hold dear to your heart. I can now see your minds, see their faces, and I will see them soon. However, I must say adieu."""" And he begins to cast--"
 2005;ORION;4th-level Counterspell!
 2006;MARISHA;Tiberius!
 2007;MATT;You already used one 4th-level Counterspell from your ring earlier.
@@ -2065,7 +2065,7 @@
 2063;LIAM;I've got the dagger in my hand, right? I see him flying away. I'm crouched down. I flip it over so the blade's in my hand. I don't go fast. I just take my time, pull back, throw it harder than I usually do, through its neck, out the front.
 2064;MATT;The dagger hits it in the back of the neck and the spine. It doesn't quite cut through the spinal column. You see it comes out the front of the throat. (choking noise) The spell falters.|(thud) It falls to the ground, taking a serious impact fall and is now, (grunts) dragging itself towards the exit of the room as you start walking up to collect your blade. (coughing, gasping) It brings up its hand to start trying to cast a spell. (wet choking sound) It coughs this big pool of blood onto the ground.
 2065;LIAM;I grab it by the ear and lift its head back.|You talk about my sister again.
-2066;MATT;"(death rattle) With a spray of crimson across the ground and this horrible sucking sound, you pull back the head as the life force of the rakshasa comes spraying across the stone floor. As you release it and leave it to the ground with the last bit of life left in its body leaves its form, you hear this chuckle. ""I'll find you."""
+2066;MATT;"(death rattle) With a spray of crimson across the ground and this horrible sucking sound, you pull back the head as the life force of the rakshasa comes spraying across the stone floor. As you release it and leave it to the ground with the last bit of life left in its body leaves its form, you hear this chuckle. """"I'll find you."""""
 2067;LIAM;And I boot it into the acid.
 2068;WILL;No, we need the eyes!
 2069;MATT;(laughs) The body tumbles into the acid.|(sizzling sound) You guys run over really quickly and pull it out.
@@ -2153,55 +2153,55 @@
 2151;MATT;It takes you a long time to retrace your steps and find your way through the entrapment, especially since as you remove the iron pillars, the boulder then begins to roll past, so you carve your way through. You make your way precariously back to the Velvet Cabaret, back into the room where the rakshasa once lived. Do you wish to walk into the center of the Velvet Cabaret, covered in various fluids?
 2152;WIL;Fuck yes, we do.
 2153;WILL;Yeah, I think absolutely.
-2154;MATT;"All right. (boof) The door slams open and you all step into the center of the Velvet Cabaret. As you do, two of the guards turn and see you exit. ""Hey! Hey, wait! What are you doing?"" And they go for their blades to the side."
+2154;MATT;"All right. (boof) The door slams open and you all step into the center of the Velvet Cabaret. As you do, two of the guards turn and see you exit. """"Hey! Hey, wait! What are you doing?"""" And they go for their blades to the side."
 2155;WILL;Seriously?
 2156;ORION;I turn around and go like, you really don't want to do that, friend. Trust me, please.
 2157;MATT;Make an intimidation check.
 2158;ORION;Oh, what is that? 14.
-2159;MATT;"14? He rolled a three. He looks to the other guy. ""As long as you're leaving."""
+2159;MATT;"14? He rolled a three. He looks to the other guy. """"As long as you're leaving."""""
 2160;ORION;(garbled) Draconian again.|(laughter)
 2161;WIL;Thorbir just keeps walking.
 2162;MATT;He sheathes the sword, and they give a wide berth. You can hear the music playing, and everyone's laughing. As you enter the room, the music comes to a stop.
 2163;MARISHA;Right before we leave, I turn and have a piece of pelt from the rakshasa, and I throw it at the guard's feet, and I say, here. That's what's left of your boss.
-2164;MATT;"He steps back for a second. Some of the other patrons are watching this. Some look scared; some look intrigued by this whole sudden arrival of strange warriors covered in various ichor.|Watching as you step out, a swarm of them look at the feet, and one of them goes, ""Oh! They killed some sort of tiger!"" That's not an accent.|(laughter)|Another who's watching says, ""They bought that down at the market."" The guards take it and lift it up with the blade and look strangely, and you see, coming out of the far corner, the bashful owner of the establishment that you had previously knocked unconscious, looks out. Not wanting to engage, just watching you as you leave with a look of fear on his face. You step out onto the thoroughfare, close the door behind you, back into the Quad Roads district, making your way towards the Slayer's Take guildhall."
+2164;MATT;"He steps back for a second. Some of the other patrons are watching this. Some look scared; some look intrigued by this whole sudden arrival of strange warriors covered in various ichor.|Watching as you step out, a swarm of them look at the feet, and one of them goes, """"Oh! They killed some sort of tiger!"""" That's not an accent.|(laughter)|Another who's watching says, """"They bought that down at the market."""" The guards take it and lift it up with the blade and look strangely, and you see, coming out of the far corner, the bashful owner of the establishment that you had previously knocked unconscious, looks out. Not wanting to engage, just watching you as you leave with a look of fear on his face. You step out onto the thoroughfare, close the door behind you, back into the Quad Roads district, making your way towards the Slayer's Take guildhall."
 2165;LIAM;On the way out, I grab two glasses of ale, and I hand one to this guy and just walk and don't say shit.
 2166;MATT;No one argues.
 2167;WIL;Thorbir is genuinely touched by this gesture.
-2168;MATT;"As you sip, you make your way through the main thoroughfare back to the center of the Quad Roads to the Slayer's Take guildhall. You step inside, and there across the way, in mid-conversation with his wife, is Mertin, talking to the Huntmaster, Vanessa. As you enter, they both turn with a look of excited surprise.|""I assume that this means the contract went well, right?"""
+2168;MATT;"As you sip, you make your way through the main thoroughfare back to the center of the Quad Roads to the Slayer's Take guildhall. You step inside, and there across the way, in mid-conversation with his wife, is Mertin, talking to the Huntmaster, Vanessa. As you enter, they both turn with a look of excited surprise.|""""I assume that this means the contract went well, right?"""""
 2169;WIL;It's done.
 2170;MARISHA;I take a canvas bag and I plop it on the table, full of the rakshasa bits.
-2171;MATT;"(excited chuckles) He shows it to the Huntmaster. She glances down with a smile. ""Very good. I am glad that we gave you such a trusted member as your overseer. You did well, Thorbir.|Thank you for your effort in keeping these fledglings alive."""
+2171;MATT;"(excited chuckles) He shows it to the Huntmaster. She glances down with a smile. """"Very good. I am glad that we gave you such a trusted member as your overseer. You did well, Thorbir.|Thank you for your effort in keeping these fledglings alive."""""
 2172;ORION;One more insult, madam, and you will find your whole establishment on fire.
 2173;MARISHA;Tiberius.
 2174;ORION;I'm not in the mood.
-2175;MATT;"""It's not meant as an insult. I'm sorry, perhaps you do not understand that we speak with terms of endearment."""
+2175;MATT;"""""It's not meant as an insult. I'm sorry, perhaps you do not understand that we speak with terms of endearment."""""
 2176;ORION;Oh. Well, in that case, I take it as a compliment.
-2177;MATT;"""Very well. So, looking at the contract. Is everything hopefully in order?"" She takes it from you, looks into the contents of the bag. ""Very well. You shall be paid out in full and scattered amongst your party as you see fit."""
+2177;MATT;"""""Very well. So, looking at the contract. Is everything hopefully in order?"""" She takes it from you, looks into the contents of the bag. """"Very well. You shall be paid out in full and scattered amongst your party as you see fit."""""
 2178;MARISHA;And our counterparts? The rest of our party, have they returned? Have they checked in yet?
-2179;MATT;"""Not yet. They are still out at the moment.|They've been gone for about as long as you have been. You've returned faster than they have. Let us hope that they are safe. But I have faith. They seemed very intent on completing this without issue, so I would not be too worried. I will notify you upon their return, though."""
+2179;MATT;"""""Not yet. They are still out at the moment.|They've been gone for about as long as you have been. You've returned faster than they have. Let us hope that they are safe. But I have faith. They seemed very intent on completing this without issue, so I would not be too worried. I will notify you upon their return, though."""""
 2180;MARISHA;Please do.
-2181;MATT;"""Where are you staying?"""
+2181;MATT;"""""Where are you staying?"""""
 2182;MARISHA;Where are we staying?
 2183;WILL;I thought as members of the Take, you got to stay here?
-2184;MATT;"""You could, if you like. We have room, and technically, as of this contract, you are all officially members of the Take. You may stay here, if you wish."""
+2184;MATT;"""""You could, if you like. We have room, and technically, as of this contract, you are all officially members of the Take. You may stay here, if you wish."""""
 2185;ORION;I need a bed. And I motion towards the thing. I'm sleepy.
 2186;MARISHA;We'll wait here.
-2187;MATT;"""Very well. We shall hold off the ceremony for when the rest of your team arrives."""
+2187;MATT;"""""Very well. We shall hold off the ceremony for when the rest of your team arrives."""""
 2188;WIL;If the rest of this team is half as good as these members, the Take has grown much stronger this day. They're worthy.
-2189;MATT;"She crosses her arms and her usual jovial, passive attitude grows a little more stern. She gives a nod of genuine respect towards Thorbir.|And for the first time she looks about the rest of you with a slightly intense look of really understanding the essence of strength between and behind each of you. ""I believe you're correct. I think there will be great things ahead for us.|Welcome to the Slayer's Take."" She reaches down, brings up a small wooden chest. Sets it on the edge and opens it. On the inside, you can see it is rather abundant in gold and platinum, of which the total comes to-- (counts quietly) 5,100 gold pieces for this contract.|That is 1,020 gold each."
+2189;MATT;"She crosses her arms and her usual jovial, passive attitude grows a little more stern. She gives a nod of genuine respect towards Thorbir.|And for the first time she looks about the rest of you with a slightly intense look of really understanding the essence of strength between and behind each of you. """"I believe you're correct. I think there will be great things ahead for us.|Welcome to the Slayer's Take."""" She reaches down, brings up a small wooden chest. Sets it on the edge and opens it. On the inside, you can see it is rather abundant in gold and platinum, of which the total comes to-- (counts quietly) 5,100 gold pieces for this contract.|That is 1,020 gold each."
 2190;MARISHA;1,020 gold?
 2191;MATT;Correct.
 2192;WILL;You can split up my take amongst them. I take it my obligation has been fulfilled?
-2193;MATT;"""It has."""
+2193;MATT;"""""It has."""""
 2194;WILL;You know I have no desire to stay.
-2195;MATT;"""If you insist. But you know that whenever you come back to our little humble abode, you always have a place to stay and work at your disposal, Brother Kash."""
+2195;MATT;"""""If you insist. But you know that whenever you come back to our little humble abode, you always have a place to stay and work at your disposal, Brother Kash."""""
 2196;WILL;Thank you. He turns and looks at the rest of his party. Well. It's certainly been interesting.
 2197;ORION;It has been a pleasure and an honor, Kashaw. You as well, Thorbir. You are brave warriors and would do well in the Draconian Knights.
 2198;WILL;Thank you, Stormwind.
 2199;ORION;He said my name right!
 2200;WILL;And you. You might be the most annoying person I've ever met in my life. With that, he grabs her around the waist, pulls her in, and plants one right on her.|(laughter)|Turns, winks, and walks out of the room.
 2201;WIL;Thorbir sighs heavily and is annoyed.
-2202;MATT;"""Very well. Welcome to the Slayer's Take."" And with that, we'll close this evening's session.|(laughter)"
+2202;MATT;"""""Very well. Welcome to the Slayer's Take."""" And with that, we'll close this evening's session.|(laughter)"
 2203;LIAM;What a button on the night! (laughter)
 2204;MATT;Well done, guys. There were a few seriously clutch moments in those encounters there. You were one roll away from losing the contract. Congrats on that. Guys, well done. Please, round of applause for our fantastic guests these past couple of weeks.|(cheering)|Happy to have you in the player's seat.|You've been an absolute pleasure, man.
 2205;WIL;Thanks very much. Like I said last week, it's weird. This is out of my comfort zone, to be in this place. But yeah, this was really fun.

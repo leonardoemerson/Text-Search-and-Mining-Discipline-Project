@@ -40,7 +40,7 @@
 38;MATT;That's pretty slick, actually.
 39;MARISHA;That's awesome.
 40;MATT;Does anybody else-- you said you wanted to mention something?
-41;LIAM;"Yeah, Sam Riegel and I are both in Fallout: Far Harbor, which is the first big DLC story dump.|""Fah Hahbah."" Fallout is my favorite way to escape reality second to this, so I hope you come join me. I play a human guy, but there's also a synth.|Look for the synth."
+41;LIAM;"Yeah, Sam Riegel and I are both in Fallout: Far Harbor, which is the first big DLC story dump.|""""Fah Hahbah."""" Fallout is my favorite way to escape reality second to this, so I hope you come join me. I play a human guy, but there's also a synth.|Look for the synth."
 42;SAM;I think I play a synth. And there you go.
 43;LIAM;There you go. That's it.
 44;SAM;Good plug.
@@ -246,48 +246,48 @@
 244;LAURA;Can I be talking to Zanror?
 245;MARISHA;I'll join you in that. That was my next plan.
 246;MATT;The two of you eventually find Zanror.|Zanror and Warra are in the process of piling weapons and armor with the rest of the Herd into the center of the town where the battle outside of the Margrave's house happened. Most of the warriors there are in the process of steeling themselves, some of them are gathering their materials, some are in the process of doing some minor ritualistic scarring in preparation for the battle. There is very little conversation happening. It seems like there is this quiet understanding that this, for many, might be their last day. They're making peace with the coming glory of battle. You'd expect this sense of tense fear, this very Battle of Helm's Deep-type acceptance of doom, but this is a different personality amongst the Herd here. There is almost a brimming excitement with the idea of possible glory or at least a glorious end. And it very much befits the story that you've heard of Grog's past history, and very easy to see where he once came from.
-247;LAURA;"I bring Zanror a big tankard of ale and sit down in front of him.|MATT ""Oh, good to see you."""
+247;LAURA;"I bring Zanror a big tankard of ale and sit down in front of him.|MATT """"Oh, good to see you."""""
 248;MARISHA;I stand behind Vex'ahlia.
-249;MATT;"""This for me?"""
+249;MATT;"""""This for me?"""""
 250;LAURA;Yeah.
 251;MATT;Looks to Worra.
 252;MARISHA;Don't worry, we wouldn't try to poison you the night before a dragon-fight.
-253;MATT;"(laughs) ""That would be rather stupid, wouldn't it?"""
+253;MATT;"(laughs) """"That would be rather stupid, wouldn't it?"""""
 254;MARISHA;It would.
-255;MATT;"And he just downs it all in one big chug.|""Thanks."""
+255;MATT;"And he just downs it all in one big chug.|""""Thanks."""""
 256;LAURA;Zanror? Did I hear you correctly before, that you have been the one speaking with the beast in the past?
-257;MATT;"""I have, aye."""
+257;MATT;"""""I have, aye."""""
 258;LAURA;So when it comes and gathers its treasure, it stops and talks, or does it just come and take it and leave?
-259;MATT;"""It has at times. More at the beginning. If it had questions and seemed curious. That wore off after the first few times. Now it just seems to come and take and find its way out."""
+259;MATT;"""""It has at times. More at the beginning. If it had questions and seemed curious. That wore off after the first few times. Now it just seems to come and take and find its way out."""""
 260;LAURA;So if the treasure looked different this time, it might stop and talk about it?
-261;MATT;"He stops for a second. ""Maybe."""
+261;MATT;"He stops for a second. """"Maybe."""""
 262;LAURA;I'm curious because I know you said you are lacking in gold and treasure. What will entice the beast?
-263;MATT;"""Hm. Beyond that, I don't really know.|That's what is forcing our hand right now."""
+263;MATT;"""""Hm. Beyond that, I don't really know.|That's what is forcing our hand right now."""""
 264;LAURA;What if we had a way of providing some gold? And maybe you provide an offering of a different kind? What if you say that your father Kevdak had been plotting against the dragon and you found out about it. Would you be able to offer his body and the body of his allies as tribute to the dragon?
-265;MATT;"""Huh."""
+265;MATT;"""""Huh."""""
 266;LAURA;Dragons are vain.
-267;MATT;"And you do know specifically white dragons, or sorry, black dragons, they're very cruel by nature. They actually enjoy messing with creatures they see below them, especially intended prey, torturing for extended periods of time before killing. They aren't comparatively as vain as other dragons per se, but all chromatics fall in some way shape or form on that same scale of self-love to the point of being a near-disease to many of them. Zanror thinks to himself for a second and goes, ""We can certainly try. I mean, I've got no more use for it, though it's going to be hard to convince it without a head. I'm pretty sure Grog took that with him."""
+267;MATT;"And you do know specifically white dragons, or sorry, black dragons, they're very cruel by nature. They actually enjoy messing with creatures they see below them, especially intended prey, torturing for extended periods of time before killing. They aren't comparatively as vain as other dragons per se, but all chromatics fall in some way shape or form on that same scale of self-love to the point of being a near-disease to many of them. Zanror thinks to himself for a second and goes, """"We can certainly try. I mean, I've got no more use for it, though it's going to be hard to convince it without a head. I'm pretty sure Grog took that with him."""""
 268;LAURA;Well, we may be able to get that back. How are you planning on hiding your fellow warriors from the dragon so as not to attract its attention? Because we may have some ideas.
-269;MATT;"""We'll have to share ideas. Ours was to go ahead and plod up Gatshadow. Usually it's about noon when it comes down for the offering. We leave it what little we have left, possibly lose two men in the process of delivering it, and then when it returned to its place we'd be there waiting to ambush it once it returned, use that time when it was gone to go ahead and hole up inside its home."""
+269;MATT;"""""We'll have to share ideas. Ours was to go ahead and plod up Gatshadow. Usually it's about noon when it comes down for the offering. We leave it what little we have left, possibly lose two men in the process of delivering it, and then when it returned to its place we'd be there waiting to ambush it once it returned, use that time when it was gone to go ahead and hole up inside its home."""""
 270;LAURA;Okay.
-271;MATT;"""That was our intent."""
+271;MATT;"""""That was our intent."""""
 272;MARISHA;We might be able to do one better.
 273;LAURA;A dragon's lair is not--
 274;MARISHA;Especially a black dragon's lair.
 275;LAURA;We wouldn't do much damage to it there, in fact, it's probably laid several traps against us already.
-276;MATT;"""Well, there's not much we can really do when we're all fighting with our fucking axes and swords, can we? In the lair at least it's stuck on the ground."""
+276;MATT;"""""Well, there's not much we can really do when we're all fighting with our fucking axes and swords, can we? In the lair at least it's stuck on the ground."""""
 277;LAURA;What if we could trap it onto the ground here?
-278;MATT;"""How do you intend to do that?"""
+278;MATT;"""""How do you intend to do that?"""""
 279;LAURA;We have a wonderful tinkerer. Quite talented. And he's creating something to trap the dragon.
-280;MATT;"""Really."""
+280;MATT;"""""Really."""""
 281;LAURA;Plus we can provide several chains. Once it's on the ground, maybe your very strong goliaths could try to snare it, grappling-hook it, throw some chains up and over?
 282;MARISHA;This pile of weapons you have here, I see a decent amount of javelins. A rudimentary harpoon, in the hands of some of your strongest, could help wrangle him down.
-283;MATT;"He stops for a second and goes, ""I just want to be clear we don't underestimate the sheer size, strength, and ferocity of this beast. With all 20 men, we might be able to hold it down, I don't know how long. I hope that contraption your friend is making is strong enough to aid us that last little bit, because I get the feeling that if our might is put to just keeping it on the ground-- well, that's a lot less of our strengths that we could be tending to. A lot less blades we could put into its hide."""
+283;MATT;"He stops for a second and goes, """"I just want to be clear we don't underestimate the sheer size, strength, and ferocity of this beast. With all 20 men, we might be able to hold it down, I don't know how long. I hope that contraption your friend is making is strong enough to aid us that last little bit, because I get the feeling that if our might is put to just keeping it on the ground-- well, that's a lot less of our strengths that we could be tending to. A lot less blades we could put into its hide."""""
 284;LAURA;Well, hopefully it would only be needed for a small amount of time before our magic users have their way with it.
 285;MARISHA;About that time I light up my hands.
-286;MATT;"""That's impressive. You know what else is impressive? Watching four of my friends melt in a matter of seconds."""
+286;MATT;"""""That's impressive. You know what else is impressive? Watching four of my friends melt in a matter of seconds."""""
 287;MARISHA;That is very impressive. You're not wrong.
-288;MATT;"""I just want to instill with you an understanding not to be brash, not to go ahead and run into this unless you're absolutely certain.|Now. I've got chains, you've got chains. We've got strong men. If we put ourselves intent on just holding this beast down, I have the feeling, even with our weight behind it, it's going to be a difficult attempt. Do we have any other way of anchoring it down, something else we can put the chains to?"""
+288;MATT;"""""I just want to instill with you an understanding not to be brash, not to go ahead and run into this unless you're absolutely certain.|Now. I've got chains, you've got chains. We've got strong men. If we put ourselves intent on just holding this beast down, I have the feeling, even with our weight behind it, it's going to be a difficult attempt. Do we have any other way of anchoring it down, something else we can put the chains to?"""""
 289;MARISHA;About that time I walk over to the-- is there a stone wall in here?
 290;MATT;I mean, there are pieces of stone building in the vicinity.
 291;MARISHA;I put my hand against the stone and I cast Transmute Rock and I push my hand into the stone as it turns to mud.
@@ -297,14 +297,14 @@
 295;MARISHA;See? Magic.|(laughter)|Put my hand underneath the spear. Put my hand over the spear.
 296;LAURA;Ah? Ah? No strings!
 297;MARISHA;Where is it, where is it?
-298;MATT;"Yeah, mud to rock, yeah. Lasts for-- it's instantaneous. So when he looks at that, he goes, ""So. What you're saying is if we can find a few places in which the rock is close to the surface, you could lock these chains in?"""
+298;MATT;"Yeah, mud to rock, yeah. Lasts for-- it's instantaneous. So when he looks at that, he goes, """"So. What you're saying is if we can find a few places in which the rock is close to the surface, you could lock these chains in?"""""
 299;MARISHA;I think I could lock the whole dragon in.
 300;LAURA;Once it's on the ground, if we can pull it down enough, she may be able to lock its legs into the stone.
 301;MARISHA;Beyond that, if that fails-- And then I cast, for right now I'll just do Wall of Stone, I'm just burning through all my spells as a demonstration. And I bring up two pillows. Two pillows?
 302;ASHLEY;And then we all lay down and go to sleep!
 303;SAM;Pillow fight! (laughter)
 304;LIAM;Billy Mays here for the Ashari Tribe!
-305;MATT;"""Goose down. Unexpected tactic."""
+305;MATT;"""""Goose down. Unexpected tactic."""""
 306;LAURA;I like how we're walking through all of these ideas and none of it's going to work when we get there.
 307;MARISHA;I blast up two pillars, right next to Kevdak.
 308;MATT;Not next to Kevdak. You mean Zanror?
@@ -314,45 +314,45 @@
 312;MARISHA;And trap him in.
 313;MATT;Okay, you (rumbles). Warra's pushed to the side as the stone shoots up.
 314;MARISHA;(whispers) Sorry, Warra, sorry. So-- I know! Did not mean to lay a hand.
-315;MATT;"""All right, your point is made. We've got two others who can do similar magic as you, maybe not the same level, but--"""
+315;MATT;"""""All right, your point is made. We've got two others who can do similar magic as you, maybe not the same level, but--"""""
 316;MARISHA;Fantastic.
-317;MATT;"""Want us to put them at your aid?"""
+317;MATT;"""""Want us to put them at your aid?"""""
 318;MARISHA;That would be wonderful. Beyond that, in prep, I can dig a trench, hidden underground around our trap, so that whenever we're ready, your army can bust out of the ground.
 319;LAURA;Surprise.
 320;MARISHA;Without being seen.
-321;MATT;"""Without being seen, what, are we going to bury my men?"""
+321;MATT;"""""Without being seen, what, are we going to bury my men?"""""
 322;LAURA;Very lightly.
 323;MARISHA;Pretty much. To be fair, I actually did it on a trap to kill like eight of your men on the way in and it worked phenomenally. So you should trust me.
 324;LAURA;It was pretty great.
 325;MARISHA;It worked well.
-326;MATT;"""I think we'll take our chances above ground, please."""
+326;MATT;"""""I think we'll take our chances above ground, please."""""
 327;LAURA;The only thing I'm worried about, Zanror, is that if this ugly beast flies in and sees, oh, how many of your men do you have?
-328;MATT;"""Currently we're sitting at 25 total, including myself."""
+328;MATT;"""""Currently we're sitting at 25 total, including myself."""""
 329;LAURA;25 men standing around. Don't you think it's going to be a little curious as to why all of the sudden-- all of a sudden? There's a large number of people around, that's never been there before?
-330;MATT;"""You're asking me this, our plan was to go inside while it was out. But if you want us there, let's figure out a way to hide, then. I don't think my men are going to like to be underground."""
+330;MATT;"""""You're asking me this, our plan was to go inside while it was out. But if you want us there, let's figure out a way to hide, then. I don't think my men are going to like to be underground."""""
 331;MARISHA;It'll be very spacious. It'll be a nice big tunnel, it's not going to feel like you're buried alive.
-332;MATT;"""And what, they just leap out one by one through an opening?"""
+332;MATT;"""""And what, they just leap out one by one through an opening?"""""
 333;LAURA;It'll be super shallow. Just enough that they can come on up and out.
 334;MARISHA;It'll be awesome, it will look like they're coming out of the grave. They'll look like badasses!
-335;MATT;"""I don't think that's going to really get a dragon shaking in its claws, y'know?"" (sighs)"
+335;MATT;"""""I don't think that's going to really get a dragon shaking in its claws, y'know?"""" (sighs)"
 336;LAURA;Not a lot is going to get a dragon shaking in its claws.
-337;MATT;"""Let me talk to my men. We'll see what we can do, we can muster as far as these chains go."""
+337;MATT;"""""Let me talk to my men. We'll see what we can do, we can muster as far as these chains go."""""
 338;LAURA;A surprise attack is going to be one of our best shots at grounding this thing.
-339;MATT;"""So, am I to tell my men we're going to bury them in the ground?"""
+339;MATT;"""""So, am I to tell my men we're going to bury them in the ground?"""""
 340;MARISHA;Not bury them, that sounds so dramatic when you say it like that, I mean I'm going to make a tunnel, there'll be stairs, they'll be able to walk freely, they'll have air holes, it'll be just like when you moved through the sewers to not be seen.
-341;MATT;"""I'll talk to them. I certainly hope your magic stone-shaping is as strong as it is. At the very first moment that dragon looks like it's going to go ahead and break free, we're weapons out. You do understand that."""
+341;MATT;"""""I'll talk to them. I certainly hope your magic stone-shaping is as strong as it is. At the very first moment that dragon looks like it's going to go ahead and break free, we're weapons out. You do understand that."""""
 342;MARISHA;We would appreciate that, actually.
-343;MATT;"""Okay."""
+343;MATT;"""""Okay."""""
 344;LAURA;We want it to land, then we strike. We just want it to hit the fucking ground.
-345;MATT;"""Okay. And what's our bait? You say you have some gold to give?"""
+345;MATT;"""""Okay. And what's our bait? You say you have some gold to give?"""""
 346;LAURA;Some gold to give.
-347;MATT;"""Try for Kevdak's corpse-- I hope that's enough. I'll see what else we've got left in our coffers."" He turns around and him and Warra walk away, a couple of the men join them and they--"
+347;MATT;"""""Try for Kevdak's corpse-- I hope that's enough. I'll see what else we've got left in our coffers."""" He turns around and him and Warra walk away, a couple of the men join them and they--"
 348;MARISHA;Oh, I actually-- I go over to Warra real quick before she walks away? Just to her side, and say, you look well. Have the Seers told you if it's going to be a boy or a girl yet?
-349;MATT;"""Not yet. But if we survive this, I have a feeling I'll know. The strength and glory of this fight will confirm."""
+349;MATT;"""""Not yet. But if we survive this, I have a feeling I'll know. The strength and glory of this fight will confirm."""""
 350;MARISHA;If you survive this fight, I'm pretty sure you'll bear the strongest child anyone has ever known.
 351;LAURA;The stallion that mounts the world, for sure.
 352;LIAM;There it is, there it is. It's in all our heads.
-353;MATT;"Nothing ever goes wrong when that title comes up.|(laughter)|What could possibly go wrong? She looks over her shoulder at Zanror as he's walking away and goes, ""Could be."" And she just turns and starts walking with him."
+353;MATT;"Nothing ever goes wrong when that title comes up.|(laughter)|What could possibly go wrong? She looks over her shoulder at Zanror as he's walking away and goes, """"Could be."""" And she just turns and starts walking with him."
 354;LAURA;So we really need to dig a trench.
 355;MARISHA;Yeah. I'm going to start digging a trench.
 356;LAURA;Around the area that the treasure is going to be.
@@ -375,9 +375,9 @@
 373;TRAVIS;Can I go up to some of the guards outside and say, oi. Where do you keep your prisoners, hostages, meat shields?
 374;MATT;I mean, there are no real guards of Westruun anymore, most of the guards that--
 375;TRAVIS;I meant like the goliath, the Herd guards.
-376;MATT;"Yeah, the Herd guards. They're a little sparse right now, there aren't any towards the outside of town, most of them are gathering towards the center as the rest of the folks are leaving the town, finding their way out south of Westruun to be away from the battle. But you do find in the Margrave center, similar area to where they were talking to Zanror, there are gathering warriors that are getting their weapons ready, some of them armoring up to just see how easily they can get it on, some of them might even sleep in their armaments, it's not a huge thing. But as you approach and ask this question, one of them turns to you and goes, ""Well, there's-- the Iron Stocks is where we generally keep our prisoners.|The ones who were before and the few we did keep, well, those we chained up or executed, but there were a few that were thrown in there."""
+376;MATT;"Yeah, the Herd guards. They're a little sparse right now, there aren't any towards the outside of town, most of them are gathering towards the center as the rest of the folks are leaving the town, finding their way out south of Westruun to be away from the battle. But you do find in the Margrave center, similar area to where they were talking to Zanror, there are gathering warriors that are getting their weapons ready, some of them armoring up to just see how easily they can get it on, some of them might even sleep in their armaments, it's not a huge thing. But as you approach and ask this question, one of them turns to you and goes, """"Well, there's-- the Iron Stocks is where we generally keep our prisoners.|The ones who were before and the few we did keep, well, those we chained up or executed, but there were a few that were thrown in there."""""
 377;TRAVIS;Are there any still in there? Or are they all clear?
-378;MATT;"""Oh, there's plenty of prisoners still in there, we didn't touch the prison, mostly."""
+378;MATT;"""""Oh, there's plenty of prisoners still in there, we didn't touch the prison, mostly."""""
 379;TRAVIS;Hm. All right, thank you. (whispers) What was Reginald's daughter's name?
 380;LAURA;I don't know if I wrote it down.
 381;SAM;I wrote it down.
@@ -397,33 +397,33 @@
 395;TRAVIS;Any squiggles that look familiar?
 396;MATT;Um, no. No, none that-- I mean, some look familiar, some are more rounded--
 397;TRAVIS;Oh, this poor bastard right here, yep, I remember him, good chap. Hello? Is anyone in here?
-398;MATT;"There's a slight pause. Then you hear a voice echo from the right side of the room, down a hall just through the stone, you can barely make it out because the distance it's at, because you're hearing the echo protrude from quite a distance, but a voice just says, ""Hey! Hey! In here! Need food please!"""
+398;MATT;"There's a slight pause. Then you hear a voice echo from the right side of the room, down a hall just through the stone, you can barely make it out because the distance it's at, because you're hearing the echo protrude from quite a distance, but a voice just says, """"Hey! Hey! In here! Need food please!"""""
 399;TRAVIS;Oh, shit. So I go in that direction. Open the door and try and make my way that way.
-400;MATT;"You charge down the hallway and there are a number of cells that are immediately here. Some of them are open and abandoned entirely, there are a few that you look off to the side, looks like a few individuals just passed away inside the cell.|You come to a set of stairs that leads down into the next subterranean region and you hear the voice again, much closer, be like, ""Hey! Hey! I hear your footsteps!"" And you see a hand reaching out from behind some of the bars."
+400;MATT;"You charge down the hallway and there are a number of cells that are immediately here. Some of them are open and abandoned entirely, there are a few that you look off to the side, looks like a few individuals just passed away inside the cell.|You come to a set of stairs that leads down into the next subterranean region and you hear the voice again, much closer, be like, """"Hey! Hey! I hear your footsteps!"""" And you see a hand reaching out from behind some of the bars."
 401;TRAVIS;Put your hand back inside.
 402;MATT;The hand retracts as you look over.
 403;TRAVIS;That's a good lad. What's your name? Before I approach. Still far enough away.
-404;MATT;"""Ah. Orn. Orn Finch at your service. Been in here far too long and very thirsty. I will be happily at your service, fair muscled man, should you see fit to relinquish me from these binds."" And you look at him, he looks like a lowly beggar, longish tattered hair, wearing just general tattered and soiled clothing, no shoes, feet look blistered and black."
+404;MATT;"""""Ah. Orn. Orn Finch at your service. Been in here far too long and very thirsty. I will be happily at your service, fair muscled man, should you see fit to relinquish me from these binds."""" And you look at him, he looks like a lowly beggar, longish tattered hair, wearing just general tattered and soiled clothing, no shoes, feet look blistered and black."
 405;TRAVIS;Ugh. I'm going to call you Orn Blackfoot.
-406;MATT;"""Blackfoot it is, Orn Blackfoot at your service, if you could just--"""
+406;MATT;"""""Blackfoot it is, Orn Blackfoot at your service, if you could just--"""""
 407;TRAVIS;My name is Lord Grog.
-408;MATT;"""Lord. It is my pleasure."" And he reaches through and grasps your hand, his fingers are bony and thin, and he takes it and shakes it with what little strength he has."
+408;MATT;"""""Lord. It is my pleasure."""" And he reaches through and grasps your hand, his fingers are bony and thin, and he takes it and shakes it with what little strength he has."
 409;TRAVIS;Man, you are looking a little rispy-- Pour out a little ale into a goblet, and I give him a goblet of ale.
 410;MATT;He snatches it from you and slurps into it, extremely thirsty.
 411;TRAVIS;Ah-ah, not too fast, not too fast, don't want to get the bubbles. And I reach into the Bag of Holding and I have a dry food ration. I have three left. Now I have two. And I give him some dried food ration.
 412;MATT;He takes it and eagerly starts jamming it into his mouth. As he's eating, he's not even talking at you, this is just sheer hunger, the need to survive has taken over and he's just cramming it in there, choking a couple of times, keeping himself okay.
 413;TRAVIS;Pace yourself, lad. Tell me, why are you in here, Orn Blackfoot?
-414;MATT;"""Ah, well, this is-- everyone just started yelling and they abandoned us all here. It's been terrible hearing the moans and screams going silent. I thought they abandoned us all."""
+414;MATT;"""""Ah, well, this is-- everyone just started yelling and they abandoned us all here. It's been terrible hearing the moans and screams going silent. I thought they abandoned us all."""""
 415;TRAVIS;No, they did, to be clear. They totally abandoned you. You are really the only person I know of that's in here. All the other mates around you, they're either sleeping or, you know.
-416;MATT;"""I appreciate the food and drink, you've certainly done--"" At which point a voice comes from about two cells over behind you that goes-- ""Did I hear food and drink?"""
+416;MATT;"""""I appreciate the food and drink, you've certainly done--"""" At which point a voice comes from about two cells over behind you that goes-- """"Did I hear food and drink?"""""
 417;TRAVIS;Fuck.
-418;MATT;"""Food-- food and drink, please. Please."""
+418;MATT;"""""Food-- food and drink, please. Please."""""
 419;TRAVIS;Orn, did you kill all those dried food rations just now, did you just--
-420;MATT;"You see him very discreetly pocket some in his robe. ""Oh, everything you gave me is gone, I'm sorry, friend."""
+420;MATT;"You see him very discreetly pocket some in his robe. """"Oh, everything you gave me is gone, I'm sorry, friend."""""
 421;TRAVIS;Man, what an appetite. Do you mind regurgitating a little like a momma bird into my hand?
-422;MATT;"""What?"""
+422;MATT;"""""What?"""""
 423;TRAVIS;Never mind. Orn, don't, heh, don't move.|And I walk over to see where the other voice is coming from.
-424;MATT;"Okay. As you turn around the way, there is the next set of bars, you see behind there a man in his forties, also extremely thin and gaunt, reddish long thin beard, long unkempt brownish red hair that is just crimped up around the base of it, like it's just gone almost into dreadlock territory from how long he's been in there and mistreated. You can see dried blood at the corner of his mouth. He looks up at you. ""Sir, if you would be s-- Grog?"" And the moment of recognition hits you, this is Abjurist Noja, whom you previously-- (yelling)"
+424;MATT;"Okay. As you turn around the way, there is the next set of bars, you see behind there a man in his forties, also extremely thin and gaunt, reddish long thin beard, long unkempt brownish red hair that is just crimped up around the base of it, like it's just gone almost into dreadlock territory from how long he's been in there and mistreated. You can see dried blood at the corner of his mouth. He looks up at you. """"Sir, if you would be s-- Grog?"""" And the moment of recognition hits you, this is Abjurist Noja, whom you previously-- (yelling)"
 425;TRAVIS;Abjurist is a very powerful-- he has knowledge of the arcane and stuff, right, he was--
 426;LAURA;He was the guy who saved us! He saved us when the white dragon came to Westruun.
 427;LIAM;I was frozen in ice. That guy!
@@ -431,27 +431,27 @@
 429;MATT;He looks pretty wrecked right now.
 430;LAURA;Oh shit, give him food, Grog!
 431;TRAVIS;Abjurist Nosebleed, hold on real quick, look. And I take the other, the second to last dry food ration, I give him that, and I give him a thing of ale, I'm like, I'm sorry, it's really dry.
-432;MATT;"""Thank you, friend, thank you very much."""
+432;MATT;"""""Thank you, friend, thank you very much."""""
 433;TRAVIS;Oh, yeah, you're very welcome! Hold on. Is there anybody else in this hallway before I give away my last bit of food?
-434;MATT;"You hear two voices simultaneously down the end of the hallway come in, one of which is a very weak female voice, the other is a very loud kind of-- ""Hey, bring me food this way, please!"" The other one is like, ""Please, I ask of you, I'm starving."" And you see these two hands come out of the two cells in the distance."
+434;MATT;"You hear two voices simultaneously down the end of the hallway come in, one of which is a very weak female voice, the other is a very loud kind of-- """"Hey, bring me food this way, please!"""" The other one is like, """"Please, I ask of you, I'm starving."""" And you see these two hands come out of the two cells in the distance."
 435;TRAVIS;Right, I'm going to pick a number between one and ten. Ready? Go.
-436;MATT;"There's an awkward pause. ""Three?"" ""Seven! Definitely seven!"""
+436;MATT;"There's an awkward pause. """"Three?"""" """"Seven! Definitely seven!"""""
 437;TRAVIS;I lean over to Abjurist Noja, I say, I actually don't know any numbers, so. Y'know what, we're going to deliberate and we'll be with you in just a moment. (whispers) Abjurist, how old y--, why are you in here, who put you in here?
-438;MATT;"""I've only been in here for about a week.|Got in an altercation in my store when these brutes started walking in. Threw me in here, didn't even let me take my spellbook."""
+438;MATT;"""""I've only been in here for about a week.|Got in an altercation in my store when these brutes started walking in. Threw me in here, didn't even let me take my spellbook."""""
 439;TRAVIS;Oh, that is a crime. I love b-- I can't even say it. Hold on, stay right there, I'll get you out-- And I walk back to Orn Blackfoot, I go, look, hey, so I gave you food, can you do anything, like, special?
-440;MATT;"""What?"""
+440;MATT;"""""What?"""""
 441;TRAVIS;Like, can you make your hands turn to flame, can you disappear, are you really good with a bow and arrow?
-442;MATT;"""No! No."" And he reaches out and grabbing at your clothes though and starts pulling you--"
+442;MATT;"""""No! No."""" And he reaches out and grabbing at your clothes though and starts pulling you--"
 443;TRAVIS;Hey! Orn, chill!
-444;MATT;"""But I have friends in many places, though.|I can, I can get you things. I can make connections--"""
+444;MATT;"""""But I have friends in many places, though.|I can, I can get you things. I can make connections--"""""
 445;TRAVIS;Yeah, but most of the people in here are dead, right, like they're probably not--
-446;MATT;"""Not even here, Emon! I can get you anything you need from Emon. I can get you from Stillben.|And Lansway, just name it and get me out of here and I can--"""
+446;MATT;"""""Not even here, Emon! I can get you anything you need from Emon. I can get you from Stillben.|And Lansway, just name it and get me out of here and I can--"""""
 447;TRAVIS;How long has it been since you've been to Emon?
-448;MATT;"""Few months?"""
+448;MATT;"""""Few months?"""""
 449;TRAVIS;You got any loved ones there?
-450;MATT;"""Why?"""
+450;MATT;"""""Why?"""""
 451;TRAVIS;I don't know, just asking, like, do you want me to take a note from you to them or something, you know.
-452;MATT;"""No, if you can release me, I'd be more than happy to take it myself if you don't mind."""
+452;MATT;"""""No, if you can release me, I'd be more than happy to take it myself if you don't mind."""""
 453;TRAVIS;Yeah, no, I'm still deliberating, sorry.|Enjoy the food that you snuck in your jacket pocket. And I go back towards the front desk area.|And I try and find any-- is there a lever on the wall to release the cells or can I look for keys?
 454;MATT;You-- make an investigation check.
 455;TRAVIS;Fuck me.
@@ -473,11 +473,11 @@
 471;TRAVIS;Low perception.
 472;MATT;But you do find on him what appears to be a ring of keys. Not directly on his body, but underneath the corpse, like he was-- you gather best you can, someone probably grabbed it, got their way out, used that moment to stab him and escape.
 473;TRAVIS;Nice! I take the keys and I jauntily run by Orn Blackfoot and I go to Abjurist-- Hey, do you know who those other two voices are at the end of the hallway? Like, did you have anyone with you when you got put in here?
-474;MATT;"""No, no one with me. Although-- been plenty of angry discussion from that dwarven fellow down the way."""
+474;MATT;"""""No, no one with me. Although-- been plenty of angry discussion from that dwarven fellow down the way."""""
 475;TRAVIS;Yeah, he's got a really rough accent.
-476;MATT;"""I can hear you!"""
+476;MATT;"""""I can hear you!"""""
 477;TRAVIS;Shit. My voice carries. Are you all right here for one minute? I have to go perform an interview real fast.
-478;MATT;"""I'm all right."" And he just finishes eating the little bit of the ration that you gave him, like dried meats and bread."
+478;MATT;"""""I'm all right."""" And he just finishes eating the little bit of the ration that you gave him, like dried meats and bread."
 479;TRAVIS;All right, sit tight. All right, you two, put both your hands outside the cell where I can see them.
 480;MATT;They both put their hands out. The dwarven man you can see puts his hand out, the skin is very wrinkled and you can see the varicose veins on it, the arm hair that you see on the dwarven arm is white, like bright white. The female hand comes out is thin, but the skin looks a little softer and younger.
 481;TRAVIS;Female elven, or is this female--
@@ -485,28 +485,28 @@
 483;TRAVIS;Who said three?
 484;MATT;At this point, the dwarf voice goes, (incoherent semi-cursing).
 485;TRAVIS;I know, look, it's always lucky number three, right? That's what they say. Who says that?
-486;MATT;"""Racist little-- peh!"" And the arms just withdraw, and the woman, ""That's me, that's me."""
+486;MATT;"""""Racist little-- peh!"""" And the arms just withdraw, and the woman, """"That's me, that's me."""""
 487;TRAVIS;Oh good. Hi. You look nice.
 488;MATT;Look down, you see a young woman, maybe in her late teens, early twenties, long brown hair, tangled, covering one half of her face. You can see the edges of her lips are cracked from just dryness and lack of moisture. She's wearing, both of them actually are wearing just these long, simple cloth drape-over robes that are just, y'know, for any prisoners in here that need to not be wearing their normal clothing.
 489;TRAVIS;I've got three other goblets left, can I both give them a goblet and some ale, just to wet their lips and get a drink in?
-490;MATT;"They eagerly take it and begin scarfing it down, the dwarf's like, ""Oh! That's nothing!"" You can look at the dwarf now, he's elderly, crotchety, half-blind, one clouded eye, but for being a man who's been stuck in prison and slowly dying, he's got this wry grin on him at all times."
+490;MATT;"They eagerly take it and begin scarfing it down, the dwarf's like, """"Oh! That's nothing!"""" You can look at the dwarf now, he's elderly, crotchety, half-blind, one clouded eye, but for being a man who's been stuck in prison and slowly dying, he's got this wry grin on him at all times."
 491;TRAVIS;You're turning away good ale. Looks like you've seen many a moon.
-492;MATT;"""You're telling me that. But no, seriously, that's like half full. Come on, don't be stingy!"""
+492;MATT;"""""You're telling me that. But no, seriously, that's like half full. Come on, don't be stingy!"""""
 493;TRAVIS;I like your gall. And I pour more ale in.
-494;MATT;"""That's the ticket!"" It's like spilling on the sides and getting stuck in his bright, bushy white beard, and each bit that dribbles down, he goes-- catches it and then pushes it back in, not wasting a single drop."
+494;MATT;"""""That's the ticket!"""" It's like spilling on the sides and getting stuck in his bright, bushy white beard, and each bit that dribbles down, he goes-- catches it and then pushes it back in, not wasting a single drop."
 495;TRAVIS;Beautiful. If you don't mind, ladies first, love, what is your name? Why are you in here?
-496;MATT;"""It's Amelia. I was taken because they were-- the beasts were dealing with an uprising from some of us farm folk and, well, they took me as leverage in the argument. Stopped their-- stopped their arguing."""
+496;MATT;"""""It's Amelia. I was taken because they were-- the beasts were dealing with an uprising from some of us farm folk and, well, they took me as leverage in the argument. Stopped their-- stopped their arguing."""""
 497;TRAVIS;You're-- you're farm folk?
-498;MATT;"""Yeah."""
+498;MATT;"""""Yeah."""""
 499;TRAVIS;Do you have any family?
-500;MATT;"""I do."""
+500;MATT;"""""I do."""""
 501;TRAVIS;What are their names?
-502;MATT;"""There's my father Reginald."""
+502;MATT;"""""There's my father Reginald."""""
 503;LAURA;Oh no!
 504;TRAVIS;Sorry, I had a bit of split pea soup that's just disagreeing with me, it's all right. Yep.
-505;MATT;"""Are they okay, have you seen them? Have you seen any of the people out there?"""
+505;MATT;"""""Are they okay, have you seen them? Have you seen any of the people out there?"""""
 506;TRAVIS;No, I-- we should get you out of here, there's really bad stuff going on outside, we're trying to get everyone out of the town.
-507;MATT;"And you hear a voice down the way say, ""Everyone out of the town? That sounds like a great plan."" And the dwarf behind you is like, ""Well then, get us out! I'm sick of this cell!"""
+507;MATT;"And you hear a voice down the way say, """"Everyone out of the town? That sounds like a great plan."""" And the dwarf behind you is like, """"Well then, get us out! I'm sick of this cell!"""""
 508;TRAVIS;Yeah, just a minute, hold on. And so like.|Hold on. Can I try the keys on Amelia's cell?
 509;MATT;Mm-hmm. You go through the keyring, which probably has a good 40 or so different keys on it.
 510;TRAVIS;Shit.
@@ -514,54 +514,54 @@
 512;LIAM;Six, six, six.
 513;MATT;(laughs) And what would be the late teens, and for what to you seems like forever, one key does (squeaking) in the lock and it opens. She, who's been like sitting down the whole time, stands up weakly and grabs the bars and pulls herself up and waits for you to let her through if she does, just being patient.
 514;TRAVIS;Amelia, if you would, please stay with me.|Funny, I believe I heard of a man named Reginald.|Very brave. Not sure where he is, but we're going to get you out of the city, just stay put for a moment.
-515;MATT;"""Okay."""
+515;MATT;"""""Okay."""""
 516;TRAVIS;All right, you, you salty bastard, what's your name?
-517;MATT;"""Old Davin. What's your name?"""
+517;MATT;"""""Old Davin. What's your name?"""""
 518;TRAVIS;Lord Grog. Emphasis on the Lord.
-519;MATT;"""Lord Grog."""
+519;MATT;"""""Lord Grog."""""
 520;TRAVIS;Yeah.
-521;MATT;"""Lord of?"""
+521;MATT;"""""Lord of?"""""
 522;TRAVIS;The Vales of Strongjaw.
-523;MATT;"""I'll take it, that's fine. Get me out, please?"""
+523;MATT;"""""I'll take it, that's fine. Get me out, please?"""""
 524;TRAVIS;Right. Oh, keys. Can I take the keyring and can I pry the metal keyring-- is it like one solid piece or is it the kind that I could maybe bend it open?
 525;MATT;I mean, it is one solid piece that has been looped twice, but it has been-- the iron itself has been bent around itself to make it nice and tight, form-fit on one end. Go ahead and make a strength check.
 526;TRAVIS;26.
 527;MATT;Ping. (laughs) Like, you were preparing yourself for a full pull, and with but a minor twitch of your muscles it just bends open.
 528;TRAVIS;Can I take half the keys and give them to Amelia and say, love, would you go and let out the kind gentleman with the reddish beard and the little blood on his mouth named Abjurist, would you try these keys and see if his cell will open? Not yet for Mr. Blackfoot across the way.
-529;MATT;"""Right. I will, I will."" She rushes off and starts fumbling through the keys, and you hear in the distance her making her way through the keys as--"
+529;MATT;"""""Right. I will, I will."""" She rushes off and starts fumbling through the keys, and you hear in the distance her making her way through the keys as--"
 530;TRAVIS;I take the other half and start trying to get Da-- what was his name?
 531;MATT;Old Davin.
 532;TRAVIS;Old, I like old.
 533;LAURA;Have we met Old Davin?
 534;MATT;You have not met Old Davin, no.
 535;TRAVIS;Okay. Davin, what did you get put in here for?
-536;MATT;"""Right if I know! Got real drunk and woke up in here, everyone started screaming and running away, and I'm like ahh, run away you pansies, and they did, ran away, they never came back. Some packed fire, but not a problem now."" And yes, the one snowblind eye doesn't move at all, the other one glances around, that one's completely stuck in a forward position."
+536;MATT;"""""Right if I know! Got real drunk and woke up in here, everyone started screaming and running away, and I'm like ahh, run away you pansies, and they did, ran away, they never came back. Some packed fire, but not a problem now."""" And yes, the one snowblind eye doesn't move at all, the other one glances around, that one's completely stuck in a forward position."
 537;TRAVIS;Is that magic?
-538;MATT;"""I mean, certainly gets the ladies."""
+538;MATT;"""""I mean, certainly gets the ladies."""""
 539;TRAVIS;Yeah, it does.
-540;MATT;"""But no, it's a reminder to not, well, to not mess with your people."""
+540;MATT;"""""But no, it's a reminder to not, well, to not mess with your people."""""
 541;TRAVIS;Oh. Well, I'm sorry to hear that. But they do make you look very young.
-542;MATT;"""Much worse, say I."""
+542;MATT;"""""Much worse, say I."""""
 543;TRAVIS;Now if we let you out of here, right, which we're actually in the process of doing, what is your weapon of choice?
-544;MATT;"""Oh, oh."" And he thinks to himself for a moment. ""I would have to say my weapon of choice would be Bloodvine ale. Aye."""
+544;MATT;"""""Oh, oh."""" And he thinks to himself for a moment. """"I would have to say my weapon of choice would be Bloodvine ale. Aye."""""
 545;TRAVIS;Bloodvine ale?
-546;MATT;"""Aye, if we're picking poison, that's my favorite."""
+546;MATT;"""""Aye, if we're picking poison, that's my favorite."""""
 547;TRAVIS;Yeah, no, my-- He's a dwarf, right?
 548;MATT;Yeah.
 549;TRAVIS;Yeah. Obviously we are brothers of the beard. Like, to fight with, right?
-550;MATT;"""Oh, that kills, eh?"""
+550;MATT;"""""Oh, that kills, eh?"""""
 551;TRAVIS;Yeah, stab, poke, enchant, whatever.
-552;MATT;"""Once upon a time I was quite a duelist, so if you got something pointy and prickling I can spear 'em with the best of them."""
+552;MATT;"""""Once upon a time I was quite a duelist, so if you got something pointy and prickling I can spear 'em with the best of them."""""
 553;TRAVIS;I do have a Greatsword of Frenzy, but it's a two-handed weapon.
-554;MATT;"""Ah, that's not my preference."""
+554;MATT;"""""Ah, that's not my preference."""""
 555;TRAVIS;I do also have one regular, just a regular longsword. About the best I have.
-556;MATT;"""Yeah, that'll do, certainly, I'll take a longsword."""
+556;MATT;"""""Yeah, that'll do, certainly, I'll take a longsword."""""
 557;TRAVIS;All right, so. Have I got the door open yet?
-558;MATT;"Not yet. But at this time there's an awkward pause and now you're like, don't have any more conversation. But you still have to finish the-- about a minute later, he's sitting there going, ""Come on, come on, come on."" Eventually-- tink!-- it opens up. ""Yes!"" And he pushes it open as you pull it open."
+558;MATT;"Not yet. But at this time there's an awkward pause and now you're like, don't have any more conversation. But you still have to finish the-- about a minute later, he's sitting there going, """"Come on, come on, come on."""" Eventually-- tink!-- it opens up. """"Yes!"""" And he pushes it open as you pull it open."
 559;TRAVIS;Before I give you this sword--
-560;MATT;"""Aye?"""
+560;MATT;"""""Aye?"""""
 561;TRAVIS;--are you up for the fight of your life?
-562;MATT;"""Yes?"""
+562;MATT;"""""Yes?"""""
 563;TRAVIS;Can I insight check him?
 564;MATT;Yes, you may.
 565;TRAVIS;This is going to go really well. Eight! Nine!
@@ -572,15 +572,15 @@
 570;TRAVIS;Right.
 571;MATT;But nothing sets you off as untrustworthy.
 572;TRAVIS;Look, your expression says a lot. What if I put an excellent meal in your belly, sharpened that sword some more, would you like to fight for some glory come the morrow?
-573;MATT;"""Sure. Why not?"""
+573;MATT;"""""Sure. Why not?"""""
 574;TRAVIS;That's what I thought. If you would go join Amelia, I have to get my good friend Abjurist Noja out of his cell and then we're going to go have a meeting, because there's going to be a big feast tonight, it's going to be delicious.
-575;MATT;"""Oh, great, I'll be there for that, aye.|Where's it happening?"""
+575;MATT;"""""Oh, great, I'll be there for that, aye.|Where's it happening?"""""
 576;TRAVIS;You know, it's very secret, yep. Secret location, TBD.
-577;MATT;"""Right, right. I'll wait for you."" And he walks out, taking the keys from you as he runs off toward Amelia."
+577;MATT;"""""Right, right. I'll wait for you."""" And he walks out, taking the keys from you as he runs off toward Amelia."
 578;TRAVIS;Now, has she gotten Abjurist out?
 579;MATT;At this point, yeah, Noja has stepped out of the cell and is putting an arm on her, you see he's actually having a hard time standing and she's helping support him, even though she's having a hard time standing.|(Skype noise)|There goes Taliesin.
 580;TRAVIS;Man, I know a lot of people that are going to be really, really happy to see you.
-581;MATT;"""Ah. Really? Well, I'm very happy to see these people, anybody really, that're not the inside of this blasted prison."" (coughs) (Skype rings)"
+581;MATT;"""""Ah. Really? Well, I'm very happy to see these people, anybody really, that're not the inside of this blasted prison."""" (coughs) (Skype rings)"
 582;LIAM;Oh, get him, get him!
 583;LAURA;Quick, answer it!
 584;LIAM;Stupid tinkerer.
@@ -590,35 +590,35 @@
 588;LAURA;Hi Percy.
 589;TALIESIN;Hi.
 590;TRAVIS;Could I ask you a question? So I have this new axe, right, it's really nice. I got it off the leader of goliaths, real prick. It's really strong and I've known about it for years, there's nothing, like, funny about-- Actually, if I give this to you, would you just tell me if you, like, hear anything?
-591;MATT;"""Ah, they took my spellbook when they threw me in here."""
+591;MATT;"""""Ah, they took my spellbook when they threw me in here."""""
 592;TRAVIS;Oh.
-593;MATT;"""If we could find that, maybe I can help you."""
+593;MATT;"""""If we could find that, maybe I can help you."""""
 594;TRAVIS;That makes sense.
-595;MATT;"""Otherwise, I'm out of tricks, friend, sorry."""
-596;TRAVIS;"All right. I turn around to Orn Blackfoot and I'm like, ""All right, mate. Last chance. Why should I let you out?"""
-597;MATT;"""Because I can be a good friend and help you out. I can get you money and women and travel anywhere you wish."""
+595;MATT;"""""Otherwise, I'm out of tricks, friend, sorry."""""
+596;TRAVIS;"All right. I turn around to Orn Blackfoot and I'm like, """"All right, mate. Last chance. Why should I let you out?"""""
+597;MATT;"""""Because I can be a good friend and help you out. I can get you money and women and travel anywhere you wish."""""
 598;TRAVIS;I've done all three of those things more than most men do in three lifetimes.
-599;MATT;"""And you can have a fourth! Please, just let me out of here."""
+599;MATT;"""""And you can have a fourth! Please, just let me out of here."""""
 600;TRAVIS;I'm thinking of a number between one and three.
 601;SAM;He's not.
-602;MATT;"""Two."""
+602;MATT;"""""Two."""""
 603;TRAVIS;Shit.|(laughter)|That's like only one of a couple that I know. All right. You get to come out.
-604;MATT;"""Ah, wonderful. Thank you, thank you, thank you. And I'm a man of my word, don't you worry."""
+604;MATT;"""""Ah, wonderful. Thank you, thank you, thank you. And I'm a man of my word, don't you worry."""""
 605;TRAVIS;Can I insight check if he's a man of his word?
 606;MATT;Go for it.
 607;TRAVIS;Roll better. Shit fuck balls ass. Three.
 608;MATT;Three. Seems legit.|(laughter)
 609;TRAVIS;You have a face that is truly trustworthy.|And I start looking for the key to his cell.
-610;MATT;"Okay. At this point, you've run through the ring enough, you can go ahead and take it from Old Davin. Over time you eventually get him free, and as soon as you do, he stretches, cracks his back a bit. ""All right. Thank you kindly. So. Let's be off."" And he charges up next to Noja and then breezes past them and you guys all exit the outside of the Iron Stocks."
+610;MATT;"Okay. At this point, you've run through the ring enough, you can go ahead and take it from Old Davin. Over time you eventually get him free, and as soon as you do, he stretches, cracks his back a bit. """"All right. Thank you kindly. So. Let's be off."""" And he charges up next to Noja and then breezes past them and you guys all exit the outside of the Iron Stocks."
 611;LAURA;Look for Noja's book, look for Noja's book.
 612;TRAVIS;Oh, yeah, well. Noja, Noja, is there a location where your spellbook was last? (belches)
-613;MATT;"""They took it from me when they arrested me.|I don't know where they would have put it."""
+613;MATT;"""""They took it from me when they arrested me.|I don't know where they would have put it."""""
 614;TRAVIS;Yeah, well, goliaths are awfully fond of books. Let's go find out, shall we? And we go back towards where I guess everybody last was.
-615;MATT;"Okay. On the way there, Noja's like, ""I do have one of my older spellbooks, wouldn't have all of my materials, but that would be back at my shop if we ever have a chance to stop by."""
+615;MATT;"Okay. On the way there, Noja's like, """"I do have one of my older spellbooks, wouldn't have all of my materials, but that would be back at my shop if we ever have a chance to stop by."""""
 616;TRAVIS;Well, we could go there now if you'd like.
-617;MATT;"""Certainly."""
+617;MATT;"""""Certainly."""""
 618;TRAVIS;How far is it from here? I forget, it's been a few years.
-619;MATT;"""Oh, it's about-- just due east of where the temples are, about 25, 30 minutes up that way."""
+619;MATT;"""""Oh, it's about-- just due east of where the temples are, about 25, 30 minutes up that way."""""
 620;TRAVIS;Hold that thought. I grab my earring and I say, can anybody hear me?
 621;SAM;Can we?
 622;MATT;At this point, yeah, the Stocks aren't too far. Whoever's--
@@ -667,10 +667,10 @@
 665;MATT;He walks up and the door's open and looks inside and just sighs heavily, as the interior of this place has been picked clean.
 666;MARISHA;Ah, son of a fucking-- looters!
 667;SAM;Noja, were there any hidden compartments or secret safes where you kept the good stuff?
-668;MATT;"""Well. Follow me."" And he heads towards the back of the shop, heads into a room in the side which contains his bed and his personal setup.|That door's kicked in, there was a lock on it, the lock's still hanging as part of the door contraption as the actual door was just kicked inward and the wood splintered and left open. He steps inside, feels above the doorway. There's a panel of wood that he pulls aside and brings out.|There is a singular book, where he pulls it out and sighs, blows dust off it. ""Ah, this is a bit rudimentary for what I require, but it's something, it's better than nothing."" Puts it aside, manages to find some pieces of his clothing that have been tossed onto the floor as a heap or, you know, raiding the room and gets out of his prison robes and puts them over that to just go ahead and not be as tattered as he looked. He does pull what looks like a small jug from it and sets that aside, and he looks around his room, (sighs) ""I guess let's see if there's anything in the shop that still remains."" Steps around the way. Oof.|All right. Yeah, most everything of worth appears to have been taken or broken."
+668;MATT;"""""Well. Follow me."""" And he heads towards the back of the shop, heads into a room in the side which contains his bed and his personal setup.|That door's kicked in, there was a lock on it, the lock's still hanging as part of the door contraption as the actual door was just kicked inward and the wood splintered and left open. He steps inside, feels above the doorway. There's a panel of wood that he pulls aside and brings out.|There is a singular book, where he pulls it out and sighs, blows dust off it. """"Ah, this is a bit rudimentary for what I require, but it's something, it's better than nothing."""" Puts it aside, manages to find some pieces of his clothing that have been tossed onto the floor as a heap or, you know, raiding the room and gets out of his prison robes and puts them over that to just go ahead and not be as tattered as he looked. He does pull what looks like a small jug from it and sets that aside, and he looks around his room, (sighs) """"I guess let's see if there's anything in the shop that still remains."""" Steps around the way. Oof.|All right. Yeah, most everything of worth appears to have been taken or broken."
 669;LAURA;Search around, help him search!
 670;TRAVIS;Yeah, is there anything we can help you find that you're looking for?
-671;MATT;"""Anything intact, really."""
+671;MATT;"""""Anything intact, really."""""
 672;TRAVIS;Yeah, can we help him look for any vials, or--
 673;MATT;Make an investigation check.
 674;TRAVIS;Better. 17.
@@ -679,45 +679,45 @@
 677;TRAVIS;What?
 678;MARISHA;Yellow with black swirls, and then a clear potion that--
 679;SAM;Oh, he'll just tell us, I assume. Sir, we're about to embark on a deadly adventure to try to clear this town so that you can once again live here safely. Might we trouble you to borrow these potions if they can be in some way helpful to us?
-680;MATT;"""You've done me great service by getting me out of that hellhole. You are welcome to take these with you for now. I guess I have to start from scratch..."""
+680;MATT;"""""You've done me great service by getting me out of that hellhole. You are welcome to take these with you for now. I guess I have to start from scratch..."""""
 681;SAM;Do you know what they are?
-682;MATT;"""Oh, yes, I'm sorry, I'm sorry."" And he takes the vials and looks at them. ""Ah, this is a Potion of Diminution. It shrinks you to a smaller size."""
+682;MATT;"""""Oh, yes, I'm sorry, I'm sorry."""" And he takes the vials and looks at them. """"Ah, this is a Potion of Diminution. It shrinks you to a smaller size."""""
 683;SAM;Oh, I could be small! Oh, wait.
-684;MATT;"""It only lasts for a few hours, depending, the magic isn't perfect, but it does make you smaller. This other one, this vial contains a liquid that will make you quite speedier. It will increase your metabolism for a short time, the world around you seems to slow, it's quite effective."""
+684;MATT;"""""It only lasts for a few hours, depending, the magic isn't perfect, but it does make you smaller. This other one, this vial contains a liquid that will make you quite speedier. It will increase your metabolism for a short time, the world around you seems to slow, it's quite effective."""""
 685;SAM;Thank you so, so much.
 686;TRAVIS;Yeah actually, have you ever seen this shrinking potion work, like, how small does something get?
-687;MATT;"""Pretty small. Like, if on your size--"" And he makes a shape of about that big."
+687;MATT;"""""Pretty small. Like, if on your size--"""" And he makes a shape of about that big."
 688;SAM;So teeny-tiny.
-689;MATT;"""For you, yes. For you, you'd be about his size."""
+689;MATT;"""""For you, yes. For you, you'd be about his size."""""
 690;TRAVIS;That would be the best thing ever. Now that you've found-- I'm sorry, go ahead.
 691;SAM;No no no. This is most helpful. Do you know anywhere also around here where we might pick up some chains, hooks, spears, javelins?
-692;MATT;"""Ah, those are not my forte, my apologies."""
+692;MATT;"""""Ah, those are not my forte, my apologies."""""
 693;SAM;All right.
 694;MARISHA;Should've took those from the prison.
-695;MATT;"""I mean, check a general goods store, perhaps?"""
+695;MATT;"""""I mean, check a general goods store, perhaps?"""""
 696;SAM;Oh no, this is so helpful, thank you, let me go get those.
 697;MATT;So here are your potions.
 698;TRAVIS;That book that you got, it's not your favorite, right, the one that was hidden above the door?
-699;MATT;"""No, no, but it'll do, at least. Do you wish me to inspect that weapon for you?"""
+699;MATT;"""""No, no, but it'll do, at least. Do you wish me to inspect that weapon for you?"""""
 700;TRAVIS;Yeah, would you mind? I've never done that before, but the last one I had talked to me.
-701;MATT;"""That's... unsettling. That's very unsettling."""
+701;MATT;"""""That's... unsettling. That's very unsettling."""""
 702;TRAVIS;Yeah, among other things.
-703;MATT;"The dwarf and the woman are still waiting at the door, they've picked through things and they're finding bits of broken glass and over time they can't find anything else. He takes the hour to rest and regains, after some quick preparation, the use of at least his Identify spell. Takes the axe, holds it for a moment, chants some incantation that you don't understand. There's a brief glow on the weapon, and around the outskirts of his fingers, a brief glow around his temples.|As it fades, he goes, ""Hm. Well, if what you worry about is the presence of some sort of sentience, I can assure you, you need not worry. This is merely a tool, and a powerful one at that."" And he begins to tell you what it does, which is exactly what you already know after attunement."
+703;MATT;"The dwarf and the woman are still waiting at the door, they've picked through things and they're finding bits of broken glass and over time they can't find anything else. He takes the hour to rest and regains, after some quick preparation, the use of at least his Identify spell. Takes the axe, holds it for a moment, chants some incantation that you don't understand. There's a brief glow on the weapon, and around the outskirts of his fingers, a brief glow around his temples.|As it fades, he goes, """"Hm. Well, if what you worry about is the presence of some sort of sentience, I can assure you, you need not worry. This is merely a tool, and a powerful one at that."""" And he begins to tell you what it does, which is exactly what you already know after attunement."
 704;TRAVIS;No long card coming? (laughs)
 705;MATT;No.
 706;TRAVIS;Son of a bitch. Thank you, Abjurist, you are as wise as you are. Old.
 707;MARISHA;Old? (laughs)
-708;MATT;"""I'm only 48, but thank you."""
+708;MATT;"""""I'm only 48, but thank you."""""
 709;TRAVIS;That's lost on me. Do you need anything else?
 710;SAM;Oh, oi, oi, I was just-- I'm enthralled by these potions, they're fantastic, and I'm enthralled and so happy that we met you again and all that. I totally remembered who you were.|(laughter)
-711;MATT;"""It's good to see that you're all doing fine, considering the circumstances. Stay safe.|I'll pick up what pieces I can."""
+711;MATT;"""""It's good to see that you're all doing fine, considering the circumstances. Stay safe.|I'll pick up what pieces I can."""""
 712;SAM;Should you get-- should we tell him to get out of the city or fight with us?
 713;TRAVIS;Well, I was going to ask, you do know what is beset upon this city, right? The horrible calamity that's coming?
-714;MATT;"""I saw the dragon tear through, yes."""
+714;MATT;"""""I saw the dragon tear through, yes."""""
 715;SAM;We aim to finish the dragon, maybe even tomorrow, and make Westruun free once again. Would you have any interest in aiding us in this fight, or are you past the point of putting up a brave battle?
-716;MATT;"And you see him standing there, even just standing here this time, his knees are wobbling a bit, and he goes, ""I'm afraid I wouldn't be of much aid at this moment without my proper spellbook. I have a few child's treats at my disposal."" And he sifts through a few pages and he seems to-- the book looks like it's pretty old, like probably his training manual when he first began to study as a practitioner of the magical arts. ""I don't know how much use I'd be, unfortunately."""
+716;MATT;"And you see him standing there, even just standing here this time, his knees are wobbling a bit, and he goes, """"I'm afraid I wouldn't be of much aid at this moment without my proper spellbook. I have a few child's treats at my disposal."""" And he sifts through a few pages and he seems to-- the book looks like it's pretty old, like probably his training manual when he first began to study as a practitioner of the magical arts. """"I don't know how much use I'd be, unfortunately."""""
 717;TRAVIS;The day's still young. What say we give, like, a solid effort to finding your bigger books, and then if you can't find it and you can lend no aid to us, we'll make sure you find yourself safely on your way?
-718;MATT;"""All right. All right, fair enough. Well come, let us look. Perhaps we should give another once-over of the rather seemingly destroyed interior of that prison."""
+718;MATT;"""""All right. All right, fair enough. Well come, let us look. Perhaps we should give another once-over of the rather seemingly destroyed interior of that prison."""""
 719;TRAVIS;Yeah.
 720;MATT;Looks like Amelia and Old Davin have nothing else better to do, they begin to aid you for a bit, although Amelia is eager, and mentions the possibility of going and checking in on the farmsteads on the outside of town.
 721;MARISHA;Yeah. About that.
@@ -736,25 +736,25 @@
 734;TRAVIS;19.
 735;MATT;Between the two of you, working into and past dusk, you manage to acquire quite a number of chains. It's funny, a prison seems to have a lot at their disposal. They have a queue of chains that are used of various lengths, some of them may have to be put together to make the length of which you're looking for, but between ramshackle manacles to just lengths of chain that are used to opening gates and used to seal elements of the subterranean portion of this prison, you manage to acquire quite a bit. You do, towards the end of the evening, manage to find partially destroyed remnants of Noja's spellbook. He seems a little disappointed as soon as he sees the state it's in, a lot of the pages have been burnt and torn out of these--
 736;TRAVIS;I am sorry.
-737;MATT;"""Ah, it's all right, there are some here that are of use to me. And if I can be of any assistance tomorrow in this fray, hopefully at a distance-- How big is this dragon, you said?"""
+737;MATT;"""""Ah, it's all right, there are some here that are of use to me. And if I can be of any assistance tomorrow in this fray, hopefully at a distance-- How big is this dragon, you said?"""""
 738;TRAVIS;Oh, it's like seven feet.
-739;MATT;"""Oh, well then I can definitely be of help there, not a worry, all right. I'll prepare myself best I can."""
+739;MATT;"""""Oh, well then I can definitely be of help there, not a worry, all right. I'll prepare myself best I can."""""
 740;TRAVIS;Yeah. We'll make sure, we'll keep you on the outsides with those that are not, you know, can't take a good walloping.
 741;SAM;Do you have any healing potions or anything, or I mean, I'm sorry, healing spells?
-742;MATT;"""That's not my specialty, I fear, and the potions I had are now soaking in the floorboards of my humble shop."""
+742;MATT;"""""That's not my specialty, I fear, and the potions I had are now soaking in the floorboards of my humble shop."""""
 743;TRAVIS;Not that I would understand, but could you tell us what your specialty is?
-744;MATT;"""Abjuration, of course. That's the school of magic of which my--"" (laughs)"
+744;MATT;"""""Abjuration, of course. That's the school of magic of which my--"""" (laughs)"
 745;SAM;I'm familiar with that.
 746;TRAVIS;Abjur--yeah. Mm-hmm. No idea what that means.
 747;LIAM;Like Claymation.
 748;TRAVIS;Oh, like puppets. I'm a big fan of puppets.
 749;SAM;All right, well, we'll get some rest, try to put the pieces of your place back together.
-750;MATT;"""I will. Come to me when the time is ready to face this fiend, this foul creature, and I'm happy to help."""
+750;MATT;"""""I will. Come to me when the time is ready to face this fiend, this foul creature, and I'm happy to help."""""
 751;SAM;Good night.
 752;TRAVIS;Oh yeah, we should probably make him a part of the feast.
 753;SAM;Oh. All right.
 754;TRAVIS;We'll come get you later tonight.
-755;MATT;"""All right."""
+755;MATT;"""""All right."""""
 756;LIAM;I'm going to track down the women after talking to them over the earring.
 757;MATT;Okay.
 758;LIAM;Straight from Percival, once I catch sight of them, can I talk to you for a minute?
@@ -1033,7 +1033,7 @@
 1031;MATT;So you set it up and away, laying the sides down, precariously putting the pins in, holding it in an open position. You begin to take dirt, dust, and gathering up the area, trying to hide it to the best of your ability. Who is in charge of camouflaging this piece?
 1032;MARISHA;Go ranger, go ranger, go!
 1033;MATT;Make a survival check.
-1034;TRAVIS;"""Which dice will I use? There's no way to choose."""
+1034;TRAVIS;"""""Which dice will I use? There's no way to choose."""""
 1035;SAM;Can I aid her in this bit of camouflage?
 1036;LAURA;You want to sing me some inspiration?
 1037;SAM;Can I inspire her?
@@ -1159,7 +1159,7 @@
 1157;LAURA;What is it?
 1158;LIAM;Circlet. Would you be able to control Fassbender?
 1159;LAURA;Instead of shooting arrows?
-1160;LIAM;"No, Keyleth said you just say ""zap,"" and he just does it until you tell him to stop."
+1160;LIAM;"No, Keyleth said you just say """"zap,"""" and he just does it until you tell him to stop."
 1161;MARISHA;Yeah, it takes your concentration, so it takes--
 1162;MATT;Well, it takes an action to--
 1163;MARISHA;I'm trying to speak in character, all right?
@@ -1295,7 +1295,7 @@
 1293;LAURA;Get up and out. Yeah, regardless.
 1294;SAM;Will they know that that's a big clank?
 1295;LAURA;I'm sure it'll be pretty loud. There might also be an explosion.
-1296;MATT;"All right. With that, Zanror, after having this discussion at the Margrave's makeshift war room in the front foyer, agrees. ""Not to worry.|I'll make sure the men have known. We'll sharpen the hooks sharp enough to dig into dragonhide, hopefully. We'll hold taut, and the moment that creature breaks free, weapons are to fall on it.|Very well."" He puts on the rest of his armor.|Everyone's feasted for the morning. We've lost Taliesin."
+1296;MATT;"All right. With that, Zanror, after having this discussion at the Margrave's makeshift war room in the front foyer, agrees. """"Not to worry.|I'll make sure the men have known. We'll sharpen the hooks sharp enough to dig into dragonhide, hopefully. We'll hold taut, and the moment that creature breaks free, weapons are to fall on it.|Very well."""" He puts on the rest of his armor.|Everyone's feasted for the morning. We've lost Taliesin."
 1297;SAM;Don't worry. His work is done. He made his trap good.
 1298;MATT;It's like he's on the internet in Hawaii or somewhere.
 1299;SAM;Let's do this.
@@ -1560,7 +1560,7 @@
 1558;SAM;Shh, don't distract him, he's adding.
 1559;MATT;I got this, don't worry.
 1560;LIAM;Don't piss him off.
-1561;MATT;"All right. We'll say about eight of them manage to actually get it into the hide. The rest either bounce off or can't find purchase into its hide and it just scrapes down, but the rest of them are trying to hold it down. ""We got him! We got him!"" And they're holding back. The archers all take aim. Misses, misses, misses, misses, hits."
+1561;MATT;"All right. We'll say about eight of them manage to actually get it into the hide. The rest either bounce off or can't find purchase into its hide and it just scrapes down, but the rest of them are trying to hold it down. """"We got him! We got him!"""" And they're holding back. The archers all take aim. Misses, misses, misses, misses, hits."
 1562;LIAM;Question. Did we give the chain attached to Fassbender to one of the goliaths?
 1563;SAM;No, it's buried in the stone.
 1564;LIAM;To the stone, but one has to go on the dragon.
@@ -1804,7 +1804,7 @@
 1802;LIAM;60 seconds.
 1803;MATT;You also both currently have no air. At the top of this round, Umbrasyl goes (disgruntled noises).
 1804;LIAM;Suck it, bitch!
-1805;MATT;"""I will eat all of you!"""
+1805;MATT;"""""I will eat all of you!"""""
 1806;LIAM;I'm a two-foot-tall rogue, you motherfucker.
 1807;LAURA;I'm up?
 1808;MATT;You're up first, top of the round.
@@ -2462,7 +2462,7 @@
 2460;MATT;Okay. Ends Vex's turn.
 2461;SAM;You don't know if it's Vex's. It could be anybody's!
 2462;LIAM;Shut the fuck up, gnome!
-2463;MATT;"At this point, Zanror looks over to Worra and says, ""We have to go. Save our child."" And Worra looks and sees all the dead around her.|""Only if you come with me."" Looks back and says, ""No. I don't run from this. I'm going to kill this with my cousin."" She turns and goes into a full dash this way, escaping. This guy's going to go ahead and begin to climb up. And gets partway up.|Not all the way. Take a step back and make four arrow shots at it. That's a hit, a miss, a miss, and a miss. Takes an additional ten points of damage from the arrow. That guy over there is going to move around and he's going to grab one of the dropped chains on the ground and throw it up to see if it can wrap around Umbrasyl. Seven does not hit. It just arcs below and falls to the ground. That's going to end the Herd's turn. Grog, you're up."
+2463;MATT;"At this point, Zanror looks over to Worra and says, """"We have to go. Save our child."""" And Worra looks and sees all the dead around her.|""""Only if you come with me."""" Looks back and says, """"No. I don't run from this. I'm going to kill this with my cousin."""" She turns and goes into a full dash this way, escaping. This guy's going to go ahead and begin to climb up. And gets partway up.|Not all the way. Take a step back and make four arrow shots at it. That's a hit, a miss, a miss, and a miss. Takes an additional ten points of damage from the arrow. That guy over there is going to move around and he's going to grab one of the dropped chains on the ground and throw it up to see if it can wrap around Umbrasyl. Seven does not hit. It just arcs below and falls to the ground. That's going to end the Herd's turn. Grog, you're up."
 2464;TRAVIS;Still hasted. Can I stand up?
 2465;MATT;Okay, so 50 feet.
 2466;TRAVIS;And with the Titanstone Knuckles, can I smash them together and cast Enlarge on myself? (cheering)|How tall am I?
