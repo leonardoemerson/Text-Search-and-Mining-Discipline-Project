@@ -3,6 +3,8 @@ import string
 import re
 import nltk
 from nltk.corpus import stopwords
+import os
+from tqdm import tqdm
 
 nltk.download("stopwords")
 nltk.download("punkt")
@@ -10,16 +12,12 @@ nltk.download("wordnet")
 
 transcript_corpus_list = []
 lines_to_check = []
-for i in range(1, 116):
-    if i != 46:
+
+# Get every file in transcripts
+for file in os.listdir("./transcripts"):
+    if file.endswith(".csv"):
         transcript_corpus_list.append(
-            pd.read_csv(
-                f"https://raw.githubusercontent.com/leonardoemerson/Text-Search-and-Mining-Discipline-Project/main/transcripts/cr1-1-transcript-corpus.csv",
-                sep=";",
-                engine="python",
-                on_bad_lines=lines_to_check.append,
-                index_col=0,
-            )
+            pd.read_csv(f"./transcripts/{file}", sep=";", index_col=0, engine="python")
         )
 
 
@@ -56,9 +54,9 @@ def clean_text(text):
     return clean_text
 
 
-for i in range(len(transcript_corpus_list)):
+for i in tqdm(range(len(transcript_corpus_list))):
     for j in range(len(transcript_corpus_list[i])):
-        if transcript_corpus_list[i]["Transcription_Text"][j] is not None:
-            transcript_corpus_list[i]["Transcription_Text"][j] = clean_text(
-                transcript_corpus_list[i]["Transcription_Text"][j]
+        if transcript_corpus_list[i].loc[j, "Transcription_Text"] is not None:
+            transcript_corpus_list[i].loc[j, "Transcription_Text"] = clean_text(
+                transcript_corpus_list[i].loc[j, "Transcription_Text"]
             )
