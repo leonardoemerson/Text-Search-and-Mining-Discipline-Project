@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 from tqdm import tqdm
+from nltk import tokenize
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
@@ -43,15 +44,25 @@ for episode_name in tqdm(episodes_url):
             dic_transcriptions["Player_Name"].append(player_name)
             current_line += 1
         elif tag.name == "dd":
-            transcript = tag.get_text().strip().replace(" →", "").replace('"', '""')
+            transcript = tag.get_text().strip().replace(" →", "").replace('"', "")
             if len(dic_transcriptions["Transcription_Text"]) < current_line:
                 dic_transcriptions["Transcription_Text"].append(transcript)
             else:
                 last_index = current_line - 1
-                dic_transcriptions["Transcription_Text"][last_index] += "|" + transcript
+                dic_transcriptions["Transcription_Text"][last_index] += " " + transcript
+
+    # tokenizing the text and make a row for each sentence with the player name
+    dic_transcriptions_tokenized = {"Player_Name": [], "Transcription_Text": []}
+    for player, transcript in zip(
+        dic_transcriptions["Player_Name"], dic_transcriptions["Transcription_Text"]
+    ):
+        sentences = tokenize.sent_tokenize(transcript)
+        for sentence in sentences:
+            dic_transcriptions_tokenized["Player_Name"].append(player)
+            dic_transcriptions_tokenized["Transcription_Text"].append(sentence.strip())
 
     # converting dictionary to dataframe
-    df_episode = pd.DataFrame(dic_transcriptions)
+    df_episode = pd.DataFrame(dic_transcriptions_tokenized)
 
     # generating csv from dataframe
     df_episode.to_csv(
