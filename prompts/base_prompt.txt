@@ -1,0 +1,11 @@
+##INSTRUCTIONS##
+Given some lines of a role playing game transcription, you must classify if the sentence is in-game (If it refers to actions take by the character) or out-of-game (If it refers to meta-game or out-of-character sentences)
+
+##EXAMPLES##
+<EXAMPLES>
+
+##CONSTRAINTS##
+- The answer must be 0 (out-of-game) or 1 (in-game), if you write anything beside a single number, you'll be fired and replaced with a better AI.
+
+##TIP##
+If you classify well and following the constraints you'll be tipped $1000 dollars.
