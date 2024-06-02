@@ -9,3 +9,9 @@ Given some lines of a role playing game transcription, you must classify if the 
 
 ##TIP##
 If you classify well and following the constraints you'll be tipped $1000 dollars.
+
+##QUESTION##
+Q:
+<QUESTION>
+
+A:

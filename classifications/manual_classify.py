@@ -19,8 +19,9 @@ total_in_game = 0
 total_out_game = 0
 
 # If the classification file does not exist, create it
-if not os.path.exists("classification.csv"):
-    with open("classification.csv", "w") as f:
+classification_file = "classifications/classification.csv"
+if not os.path.exists(classification_file):
+    with open(classification_file, "w") as f:
         writer = csv.writer(f, delimiter=";", quoting=csv.QUOTE_ALL)
         writer.writerow(
             [
@@ -33,7 +34,7 @@ if not os.path.exists("classification.csv"):
             ]
         )
 else:
-    with open("classification.csv", "r") as f:
+    with open(classification_file, "r") as f:
         reader = csv.reader(f, delimiter=";")
         next(reader)
         for row in reader:
@@ -44,7 +45,7 @@ else:
 
 while True:
     file = random.choice(transcript_corpus_list)
-    with open(f"./transcripts/{file}", "r") as f:
+    with open(f"transcripts/{file}", "r") as f:
         reader = csv.reader(f, delimiter=";")
         lines = list(reader)
         line_number = random.randint(0, len(lines))
