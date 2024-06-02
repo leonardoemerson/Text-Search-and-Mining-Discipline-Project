@@ -46,6 +46,7 @@ class ChatGPT:
                 (By.CSS_SELECTOR, '[data-testid="send-button"]')
             )
         )
+        time.sleep(0.1)
 
         responseDiv = WebDriverWait(self.driver, 10).until(
             EC.visibility_of_element_located(
@@ -55,8 +56,12 @@ class ChatGPT:
                 )
             )
         )
+        time.sleep(0.1)
 
-        responseText = responseDiv.find_element(By.CSS_SELECTOR, ".markdown")
+        responseText = WebDriverWait(self.driver, 10).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, ".markdown"))
+        )
+
         return responseText.text
 
     def get_text_area(self):
