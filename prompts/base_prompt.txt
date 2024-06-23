@@ -1,16 +1,11 @@
 ##INSTRUCTIONS##
-Given some lines of a role playing game transcription, you must classify if the sentence is in-game (If it refers to actions take by the character) or out-of-game (If it refers to meta-game or out-of-character sentences)
-
-##EXAMPLES##
-<EXAMPLES>
+Given some lines of a role playing game transcription, you must classify if the sentence is in-game (If it refers to actions take by the character or NPCs) or out-of-game (If it refers to meta-game or out-of-character sentences)
 
 ##CONSTRAINTS##
-- The answer must be 0 (out-of-game) or 1 (in-game), if you write anything beside a single number, you'll be fired and replaced with a better AI.
+- The answer MUST be only one digit and nothing else: 0 if out-of-game or 1 if in-game.
+- If the agent isn't sure about the classification, it must guess what it thinks is the most likely classification, outputing ONLY the digit.
+- You must classify ONLY the last sentence, but you may use the previous sentences to help you.
+- If the sentence looks like from one of the previous classifications, you MUST only output the digit.
 
 ##TIP##
-If you classify well and following the constraints you'll be tipped $1000 dollars.
-
-##QUESTION##
-Q:
-<QUESTION>
-A:
+If you classify well and following the constraints you'll be tipped $10000 dollars.
